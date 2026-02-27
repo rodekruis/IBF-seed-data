@@ -8,3 +8,5 @@ This repo uses [git-lfs](https://git-lfs.com/). As a contributor to this repo, f
 - Install git-lfs (https://git-lfs.com/)
 - Initialize using `git lfs install`
 - Potentially: add filetypes to handle via git-lfs, through `git lfs track "*.psd"`
+
+To pull lfs files locally, you may need an additional `git lfs pull`
