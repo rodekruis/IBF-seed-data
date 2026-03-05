@@ -1,3 +1,7 @@
+"""
+Helper functions relating to image processing
+"""
+
 import rasterio
 from rasterio.io import MemoryFile
 from rasterio.warp import calculate_default_transform, reproject, Resampling
@@ -7,6 +11,10 @@ import numpy as np
 from PIL import Image
 import io
 
+"""
+Colorize a grayscale image between two colors.
+log_scale: whether or not to convert to a logarithmic scale.
+"""
 def colorizeImageArray(imgArray: bytes, color1 : tuple, color2: tuple, log_scale : bool):
     img = Image.open(io.BytesIO(imgArray))
     imgBW = np.array(img, dtype=np.float32)
@@ -41,6 +49,10 @@ def colorizeImageArray(imgArray: bytes, color1 : tuple, color2: tuple, log_scale
 
     return img_array_rgba
 
+"""
+Convert a GeoTIFF to EPSG:3857, and return it as an array that is formatted to easily be written to a grayscale PNG.
+Metadata is also returned.
+"""
 def geotiffToArray(tif_data: bytes):
     
     # Open the GeoTIFF from binary data

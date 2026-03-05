@@ -1,3 +1,7 @@
+"""
+Helper functions for downloading
+"""
+
 import requests
 import json
 from pathlib import Path

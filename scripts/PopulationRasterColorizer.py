@@ -1,3 +1,7 @@
+"""
+This script colorizes grayscale PNGs that were produced by the GeoTIFF -> PNG flow in PopulationRasterFetcher.py
+"""
+
 from shared.DataHelpers import target_countries_ISO_A3
 from shared.ImageHelpers import colorizeImageArray
 from pathlib import Path

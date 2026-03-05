@@ -1,7 +1,11 @@
-from pathlib import Path
+"""
+This script fetches the various country data and feature data from the IFRC GO API
+"""
 
+from pathlib import Path
 from shared.DownloadHelpers import downloadJsonSource
 
+# Dict of output filenames and data query sources
 sources = {
     "hospital_locs": "https://goadmin.ifrc.org/api/v2/health-local-units/?limit=99999",
     "country_overview": "https://goadmin.ifrc.org/api/v2/country/?limit=99999",

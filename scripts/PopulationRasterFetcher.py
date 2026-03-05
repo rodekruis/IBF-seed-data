@@ -1,3 +1,9 @@
+"""
+This script fetches the population raster data from an external source.
+The frontend uses PNG in EPSG:3857, so this script also converts the files for that step as well.
+The geo metadata is saved as JSON.
+"""
+
 from shared.DataHelpers import target_countries_ISO_A3
 from shared.DownloadHelpers import downloadBinaryObject
 from shared.ImageHelpers import geotiffToArray
