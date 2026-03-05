@@ -1,19 +1,17 @@
-from scripts.shared.DataHelpers import target_countries_ISO_A3
-from scripts.shared.DownloadHelpers import downloadBinaryObject
+from shared.DataHelpers import target_countries_ISO_A3
+from shared.DownloadHelpers import downloadBinaryObject
+from shared.ImageHelpers import geotiffToArray
 from pathlib import Path
 import json
 from PIL import Image
 
-from scripts.shared.ImageHelpers import geotiffToArray
 
-baseUrl = "ftp://ftp.worldpop.org//GIS/Population_Density/Global_2000_2020_1km_UNadj/2020"
+baseUrl = "ftp://ftp.worldpop.org//GIS/Population_Density/Global_2000_2020_1km_UNadj/2020/"
 
 # Output dirs
-baseOutputDir = "../../raster-data/population"
+baseOutputDir = "../raster-data/population"
 greyscaleOutputDir = Path(__file__).parent / f"{baseOutputDir}/greyscale/"
 greyscaleOutputDir.mkdir(parents=True, exist_ok=True)
-rgbOutputDir = Path(__file__).parent / f"{baseOutputDir}/rgb/"
-rgbOutputDir.mkdir(parents=True, exist_ok=True)
 
 def getUrl(country_ISO_A3):
     return f"{baseUrl}{country_ISO_A3.upper()}/{country_ISO_A3.lower()}_pd_2020_1km_UNadj.tif"
@@ -23,14 +21,15 @@ if __name__ == "__main__":
     urls = {f"{country}_population" : getUrl(country) for country in target_countries_ISO_A3}
     for name, url in urls.items():
         # Download the raw file
-        # binObject = downloadBinaryObject(url)
+        binObject = downloadBinaryObject(url)
 
         # open a bin file to use for debug
-        binObject = (Path(__file__).parent / f"{name.lower()}_pd_2020_1km_UNadj.tif").read_bytes()
+        #binFile = Path(__file__).parent / f"{name.lower()}_pd_2020_1km_UNadj.tif"
+        #print (f"Reading file from {binFile}")
+        #binObject = binFile.read_bytes()
+        
         # Convert and save it to PNG
         if binObject:
-            output_path = greyscaleOutputDir / f"{name}.tif"
-            output_path.parent.mkdir(parents=True, exist_ok=True)
             metaData, imgData = geotiffToArray(binObject)
             
             # Write metadata as JSON
@@ -38,8 +37,10 @@ if __name__ == "__main__":
             with open(json_path, 'w') as f:
                 json.dump(metaData, f, indent=2)
             
-            # Write image as PNG
+            # Write image as BW PNG
             bw_path = greyscaleOutputDir / f"{name}.png"
             bw_img = Image.fromarray(imgData, mode='L')
             bw_img.save(bw_path, optimize=True)
+        else:
+            print(f"Error: Failed to download data for {name} from {url}")
 

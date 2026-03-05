@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from scripts.shared.DownloadHelpers import downloadJsonSource
+from shared.DownloadHelpers import downloadJsonSource
 
 sources = {
     "hospital_locs": "https://goadmin.ifrc.org/api/v2/health-local-units/?limit=99999",
@@ -11,7 +11,7 @@ sources = {
 }
 
 # Create Data directory if it doesn't exist
-data_dir = Path(__file__).parent / "../../country-overview"
+data_dir = Path(__file__).parent / "../country-overview"
 data_dir.mkdir(exist_ok=True)
 
 if __name__ == "__main__":

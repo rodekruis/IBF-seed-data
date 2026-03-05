@@ -1,14 +1,20 @@
 import requests
 import json
 from pathlib import Path
+from urllib.request import urlopen
+from urllib.error import URLError
 
 def downloadBinaryObject(url : str):
     print(f"Downloading from {url}...")
     try:
-        response = requests.get(url, timeout=60)
-        response.raise_for_status()
-        return response.content
-    except requests.exceptions.RequestException as e:
+        if url.startswith('ftp://'):
+            with urlopen(url, timeout=60) as response:
+                return response.read()
+        else:
+            response = requests.get(url, timeout=60)
+            response.raise_for_status()
+            return response.content
+    except (requests.exceptions.RequestException, URLError) as e:
         status_code = getattr(e.response, 'status_code', 'N/A') if hasattr(e, 'response') else 'N/A'
         print(f"Error: Failed to download from '{url}'. Status: {status_code}, error: {e}")
     return None
