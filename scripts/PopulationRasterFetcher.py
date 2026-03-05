@@ -22,11 +22,6 @@ if __name__ == "__main__":
     for name, url in urls.items():
         # Download the raw file
         binObject = downloadBinaryObject(url)
-
-        # open a bin file to use for debug
-        #binFile = Path(__file__).parent / f"{name.lower()}_pd_2020_1km_UNadj.tif"
-        #print (f"Reading file from {binFile}")
-        #binObject = binFile.read_bytes()
         
         # Convert and save it to PNG
         if binObject:
