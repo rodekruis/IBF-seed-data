@@ -1,39 +1,45 @@
-
 import rasterio
 from rasterio.io import MemoryFile
 from rasterio.warp import calculate_default_transform, reproject, Resampling
 from rasterio.transform import array_bounds
 from rasterio.crs import CRS
 import numpy as np
+from PIL import Image
+import io
 
-def colorizePng(tif_data: bytes, color1 : tuple, color2: tuple, log_scale : bool):
-    with MemoryFile(tif_data) as memfile:
-        with memfile.open() as src:
-            # copy data
-            imgBW = src.read(1)
+def colorizeImageArray(imgArray: bytes, color1 : tuple, color2: tuple, log_scale : bool):
+    img = Image.open(io.BytesIO(imgArray))
+    imgBW = np.array(img, dtype=np.float32)
 
-            # log scale the data
-            if log_scale:
-                imgBW = np.log1p(imgBW)
-                # Since values under 1 will be negative now, set these to 0
-                imgBW[imgBW < 0] = 0  # log(1 + x) to handle zero values
+    # optional: convert the data to logarithmic scale
+    if log_scale:
+        imgBW = np.log1p(imgBW)
+        # Since values under 1 will be negative now, set these to 0
+        imgBW[imgBW < 0] = 0  # log(1 + x) to handle zero values
 
-            # Normalize to 0-1 range for color interpolation
-            img_max = np.nanmax(imgBW)
-            if img_max != 0:
-                normalized = imgBW / img_max 
-            
-            # Create RGBA array - lerp between color1 and color2
-            height, width = imgBW.shape
-            img_array_rgba = np.zeros((height, width, 4), dtype=np.uint8)
-            img_array_rgba[:, :, 0] = (color1[0] * (1 - normalized) + color2[0] * normalized).astype(np.uint8)
-            img_array_rgba[:, :, 1] = (color1[1] * (1 - normalized) + color2[1] * normalized).astype(np.uint8)
-            img_array_rgba[:, :, 2] = (color1[2] * (1 - normalized) + color2[2] * normalized).astype(np.uint8)
-            
-            # Set alpha to 0 for pixels with values less than 1, else lerp between the two colors
-            img_array_rgba[:, :, 3] = np.where(imgBW < 1, 0, (color1[3] * (1 - normalized) + color2[3] * normalized).astype(np.uint8))
+    # Normalize to 0-1 range for color interpolation
+    img_max = np.nanmax(imgBW)
+    if img_max != 0:
+        normalized = imgBW / img_max 
+    
+    # Create RGBA array - lerp between color1 and color2
+    height, width = imgBW.shape
+    img_array_rgba = np.zeros((height, width, 4), dtype=np.uint8)
+    
+    # Set alpha to 0 for pixels with values less than 1, else lerp between the two colors
+    for i in range(height):
+        for j in range(width):
+            if imgBW[i, j] == 0:
+                img_array_rgba[i, j] = [0, 0, 0, 0]
+            else:
+                # lerp between color1 and 2 based on the normalized value from the greyscale array
+                n  = normalized[i, j]
+                img_array_rgba[i, j, 0] = int(color1[0] * (1 - n) + color2[0] * n)
+                img_array_rgba[i, j, 1] = int(color1[1] * (1 - n) + color2[1] * n)
+                img_array_rgba[i, j, 2] = int(color1[2] * (1 - n) + color2[2] * n)
+                img_array_rgba[i, j, 3] = int(color1[3] * (1 - n) + color2[3] * n)
 
-            return img_array_rgba
+    return img_array_rgba
 
 def geotiffToArray(tif_data: bytes):
     

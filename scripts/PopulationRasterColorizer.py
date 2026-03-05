@@ -1,7 +1,5 @@
 from shared.DataHelpers import target_countries_ISO_A3
-from shared.DownloadHelpers import downloadBinaryObject
-from shared.ImageHelpers import geotiffToArray
-from shared.ImageHelpers import colorizePng
+from shared.ImageHelpers import colorizeImageArray
 from pathlib import Path
 import json
 from PIL import Image
@@ -30,7 +28,7 @@ if __name__ == "__main__":
         binObject = bwImageFile.read_bytes()
 
         # convert to color
-        colorImageData = colorizePng(binObject, [0,0,255,100], [255,100,0,255], log_scale=True)
+        colorImageData = colorizeImageArray(binObject, [0,200,0,0], [100,100,255,255], log_scale=True)
         
         # Write image as color PNG
         color_path = rgbaOutputDir / f"{country}{rasterEnding}"
