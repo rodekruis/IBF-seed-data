@@ -5,12 +5,3 @@ This repository contains all seed and mock data for the [IBF backend and pipelin
 ## File size limit
 
 Individual file sizes should be kept below 100mb. Above that [git-lfs](https://git-lfs.com/) would be needed, which has proved to come with problems for our setup.
-
-## Python scripts
-
-Several python scripts were added to upload or transform data.
-See the scripts in `/scripts/` and the summaries in them for the purpose.
-
-### Python dependencies
-
-requests, pillow, rasterio
