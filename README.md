@@ -10,11 +10,3 @@ This repo uses [git-lfs](https://git-lfs.com/). As a contributor to this repo, f
 - Potentially: add filetypes to handle via git-lfs, through `git lfs track "*.psd"`
 
 To pull lfs files locally, you may need an additional `git lfs pull`
-
-## Python scripts
-
-Several python scripts were added to upload or transform data.
-See the scripts in `/scripts/` and the summaries in them for the purpose.
-
-### Python dependencies
-requests, pillow, rasterio
