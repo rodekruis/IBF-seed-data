@@ -2,11 +2,15 @@
 
 This repository contains all seed and mock data for the [IBF backend and pipelines](https://github.com/rodekruis/IBF).
 
-## Large files
+## File size limit
 
-This repo uses [git-lfs](https://git-lfs.com/). As a contributor to this repo, for first time use:\
-- Install git-lfs (https://git-lfs.com/)
-- Initialize using `git lfs install`
-- Potentially: add filetypes to handle via git-lfs, through `git lfs track "*.psd"`
+Individual file sizes should be kept below 100mb. Above that [git-lfs](https://git-lfs.com/) would be needed, which has proved to come with problems for our setup.
 
-To pull lfs files locally, you may need an additional `git lfs pull`
+## Python scripts
+
+Several python scripts were added to upload or transform data.
+See the scripts in `/scripts/` and the summaries in them for the purpose.
+
+### Python dependencies
+
+requests, pillow, rasterio
