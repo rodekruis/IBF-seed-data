@@ -3,7 +3,7 @@ This script fetches the various country data and feature data from the IFRC GO A
 """
 
 from pathlib import Path
-from shared.DownloadHelpers import downloadJsonSource
+from shared.download_helpers import download_json_source
 
 # Dict of output filenames and data query sources
 sources = {
@@ -20,4 +20,4 @@ data_dir.mkdir(exist_ok=True)
 
 if __name__ == "__main__":
     for name, url in sources.items():
-        downloadJsonSource(name, url, data_dir)
+        download_json_source(name, url, data_dir)
