@@ -24,11 +24,16 @@ Not all countries have admin level 3 though (i.e. Zimbabwe). We will need to mov
 
 See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more information on how this data is fetched.
 
-### country-data
+### country-data/go-data
 
-This includes various country-related data, such as hospital locations and admin area extents. Currently this data is all fetched from the GO backend api, such as https://goadmin.ifrc.org/api/v2/country/?limit=9999.
+This includes various country-related data, such as hospital locations and admin area extents, that is fetched from the GO backend api, such as https://goadmin.ifrc.org/api/v2/country/?limit=9999.
 
 See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more information on how this data is fetched.
+
+### country-data/glofas-loc
+
+Location data for glofas stations per country in csv.
+It's not clear where this data came from or how out of date it is. I heard we got in an email from someone. We'll need to figure out how to update this as well as add more countries.
 
 ### pipelines
 
