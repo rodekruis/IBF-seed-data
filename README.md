@@ -12,7 +12,7 @@ Descriptions and notes for the stored data in the repo
 
 ### admin-areas
 
-Admin areas (lvl 1 to 3) imported from IBF. The source(s) are varied and they may be out of date. There are also only a few countries in the data.
+Admin areas (lvl 1 to 3) imported from [IBF v1 repo](https://github.com/rodekruis/IBF-system/tree/master/services/API-service/src/scripts/git-lfs). The source(s) are varied and they may be out of date. Not all countries are in the data.
 
 Because of this, we'll need to move to admin-areas-gadm eventually.
 
@@ -22,14 +22,19 @@ Admin areas (lvl 0 to 3) fetched from https://gadm.org/data.html
 
 Not all countries have admin level 3 though (i.e. Zimbabwe). We will need to move to using this data eventually, but we'll need different sources for admin 3 for some of the countries.
 
+See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more information on how this data is fetched.
+
 ### country-data
 
-This includes various country-related data, such as hospital locations and admin area extents.
+This includes various country-related data, such as hospital locations and admin area extents. Currently this data is all fetched from the GO backend api, such as https://goadmin.ifrc.org/api/v2/country/?limit=9999.
+
+See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more information on how this data is fetched.
 
 ### pipelines
 
-Data ingested by the pipelines for test runs.
+Data ingested by the pipelines for test runs. The pipeline code is in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
 
 ### raster-data
 
 Raster map data, such as population or disaster data.
+Population data is fetched by scripts in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
