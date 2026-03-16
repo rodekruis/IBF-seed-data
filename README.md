@@ -43,3 +43,5 @@ Data ingested by the pipelines for test runs. The pipeline code is in [the IBF r
 
 Raster map data, such as population or disaster data.
 Population data is fetched by scripts in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
+
+Disaster data comes from mock runs of the pipeline. It was initially populated with mock data from IBFv1. [See here](https://github.com/rodekruis/IBF-system/blob/master/services/API-service/geoserver-volume/raster-files/README.md) for that initial source.
