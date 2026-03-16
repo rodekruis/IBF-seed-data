@@ -12,15 +12,15 @@ Descriptions and notes for the stored data in the repo
 
 ### admin-areas
 
-Admin areas (lvl 1 to 3) imported from [IBF v1 repo](https://github.com/rodekruis/IBF-system/tree/master/services/API-service/src/scripts/git-lfs). The source(s) are varied and they may be out of date. Not all countries are in the data.
+Admin areas (lvl 1 to 4) imported from [IBF v1 repo](https://github.com/rodekruis/IBF-system/tree/master/services/API-service/src/scripts/git-lfs). The source(s) are varied and they may be out of date. Not all countries are in the data. These are - until officially migrating - the sources, as used by both the pipeline and the back-end.
 
 Because of this, we'll need to move to admin-areas-gadm eventually.
 
 ### admin-areas-gadm
 
-Admin areas (lvl 0 to 3) fetched from https://gadm.org/data.html 
+Admin areas (lvl 0 to 3) fetched from https://gadm.org/data.html. Not all countries have admin level 3 and 4 though (i.e. Zimbabwe). 
 
-Not all countries have admin level 3 though (i.e. Zimbabwe). We will need to move to using this data eventually, but we'll need different sources for admin 3 for some of the countries.
+For now, this data is in here for testing/prototyping purposes only. We will need to move to using this data eventually, but we'll need different sources for admin 3 and 4 for some of the countries.
 
 See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more information on how this data is fetched.
 
@@ -33,15 +33,15 @@ See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more inf
 ### country-data/glofas-loc
 
 Location data for glofas stations per country in csv.
-It's not clear where this data came from or how out of date it is. I heard we got in an email from someone. We'll need to figure out how to update this as well as add more countries.
-
-### pipelines
-
-Data ingested by the pipelines for test runs. The pipeline code is in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
+It's not clear where this data came from or how out of date it is. We'll need to figure out how to update this as well as add more countries.
 
 ### raster-data
 
-Raster map data, such as population or disaster data.
+Raster map data, such as population data.
 Population data is fetched by scripts in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
 
 Disaster data comes from mock runs of the pipeline. It was initially populated with mock data from IBFv1. [See here](https://github.com/rodekruis/IBF-system/blob/master/services/API-service/geoserver-volume/raster-files/README.md) for that initial source.
+
+### pipelines
+
+Data ingested by the pipelines. Includes both actual source data (such as station to admin-area mappings) as well as mock data, needed for test runs. The pipeline code is in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
