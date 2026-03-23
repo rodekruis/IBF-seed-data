@@ -14,7 +14,8 @@
         "ADM2_EN": "Nyarugenge",
         "ADM2_PCODE": "RW11",
         "ADM1_PCODE": "RW1",
-        "ADM1_EN": "Kigali City"
+        "ADM1_EN": "Kigali City",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -92,7 +93,8 @@
         "ADM2_EN": "Gasabo",
         "ADM2_PCODE": "RW12",
         "ADM1_PCODE": "RW1",
-        "ADM1_EN": "Kigali City"
+        "ADM1_EN": "Kigali City",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -186,7 +188,8 @@
         "ADM2_EN": "Kicukiro",
         "ADM2_PCODE": "RW13",
         "ADM1_PCODE": "RW1",
-        "ADM1_EN": "Kigali City"
+        "ADM1_EN": "Kigali City",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -256,7 +259,8 @@
         "ADM2_EN": "Nyanza",
         "ADM2_PCODE": "RW21",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -386,7 +390,8 @@
         "ADM2_EN": "Gisagara",
         "ADM2_PCODE": "RW22",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -476,7 +481,8 @@
         "ADM2_EN": "Nyaruguru",
         "ADM2_PCODE": "RW23",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -610,7 +616,8 @@
         "ADM2_EN": "Huye",
         "ADM2_PCODE": "RW24",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -716,7 +723,8 @@
         "ADM2_EN": "Nyamagabe",
         "ADM2_PCODE": "RW25",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -866,7 +874,8 @@
         "ADM2_EN": "Ruhango",
         "ADM2_PCODE": "RW26",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -980,7 +989,8 @@
         "ADM2_EN": "Muhanga",
         "ADM2_PCODE": "RW27",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1098,7 +1108,8 @@
         "ADM2_EN": "Kamonyi",
         "ADM2_PCODE": "RW28",
         "ADM1_PCODE": "RW2",
-        "ADM1_EN": "Southern Province"
+        "ADM1_EN": "Southern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1216,7 +1227,8 @@
         "ADM2_EN": "Karongi",
         "ADM2_PCODE": "RW31",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1362,7 +1374,8 @@
         "ADM2_EN": "Rutsiro",
         "ADM2_PCODE": "RW32",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1496,7 +1509,8 @@
         "ADM2_EN": "Rubavu",
         "ADM2_PCODE": "RW33",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1606,7 +1620,8 @@
         "ADM2_EN": "Nyabihu",
         "ADM2_PCODE": "RW34",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1704,7 +1719,8 @@
         "ADM2_EN": "Ngororero",
         "ADM2_PCODE": "RW35",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1826,7 +1842,8 @@
         "ADM2_EN": "Rusizi",
         "ADM2_PCODE": "RW36",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2012,7 +2029,8 @@
         "ADM2_EN": "Nyamasheke",
         "ADM2_PCODE": "RW37",
         "ADM1_PCODE": "RW3",
-        "ADM1_EN": "Western Province"
+        "ADM1_EN": "Western Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2138,7 +2156,8 @@
         "ADM2_EN": "Rulindo",
         "ADM2_PCODE": "RW41",
         "ADM1_PCODE": "RW4",
-        "ADM1_EN": "Northern Province"
+        "ADM1_EN": "Northern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2264,7 +2283,8 @@
         "ADM2_EN": "Gakenke",
         "ADM2_PCODE": "RW42",
         "ADM1_PCODE": "RW4",
-        "ADM1_EN": "Northern Province"
+        "ADM1_EN": "Northern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2366,7 +2386,8 @@
         "ADM2_EN": "Musanze",
         "ADM2_PCODE": "RW43",
         "ADM1_PCODE": "RW4",
-        "ADM1_EN": "Northern Province"
+        "ADM1_EN": "Northern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2444,7 +2465,8 @@
         "ADM2_EN": "Burera",
         "ADM2_PCODE": "RW44",
         "ADM1_PCODE": "RW4",
-        "ADM1_EN": "Northern Province"
+        "ADM1_EN": "Northern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2578,7 +2600,8 @@
         "ADM2_EN": "Gicumbi",
         "ADM2_PCODE": "RW45",
         "ADM1_PCODE": "RW4",
-        "ADM1_EN": "Northern Province"
+        "ADM1_EN": "Northern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2728,7 +2751,8 @@
         "ADM2_EN": "Rwamagana",
         "ADM2_PCODE": "RW51",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2826,7 +2850,8 @@
         "ADM2_EN": "Nyagatare",
         "ADM2_PCODE": "RW52",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2988,7 +3013,8 @@
         "ADM2_EN": "Gatsibo",
         "ADM2_PCODE": "RW53",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3126,7 +3152,8 @@
         "ADM2_EN": "Kayonza",
         "ADM2_PCODE": "RW54",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3268,7 +3295,8 @@
         "ADM2_EN": "Kirehe",
         "ADM2_PCODE": "RW55",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3410,7 +3438,8 @@
         "ADM2_EN": "Ngoma",
         "ADM2_PCODE": "RW56",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3548,7 +3577,8 @@
         "ADM2_EN": "Bugesera",
         "ADM2_PCODE": "RW57",
         "ADM1_PCODE": "RW5",
-        "ADM1_EN": "Eastern Province"
+        "ADM1_EN": "Eastern Province",
+        "ADM0_PCODE": "RW"
       },
       "geometry": {
         "type": "Polygon",

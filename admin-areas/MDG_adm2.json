@@ -14,7 +14,8 @@
         "ADM2_EN": "1er Arrondissement",
         "ADM2_PCODE": "MG11101001A",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -56,7 +57,8 @@
         "ADM2_EN": "2e Arrondissement",
         "ADM2_PCODE": "MG11101002A",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -102,7 +104,8 @@
         "ADM2_EN": "3e Arrondissement",
         "ADM2_PCODE": "MG11101003A",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -140,7 +143,8 @@
         "ADM2_EN": "4e Arrondissement",
         "ADM2_PCODE": "MG11101004A",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -178,7 +182,8 @@
         "ADM2_EN": "5e Arrondissement",
         "ADM2_PCODE": "MG11101005A",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -224,7 +229,8 @@
         "ADM2_EN": "6e Arrondissement",
         "ADM2_PCODE": "MG11101006A",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -266,7 +272,8 @@
         "ADM2_EN": "Antananarivo Avaradrano",
         "ADM2_PCODE": "MG11102",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -428,7 +435,8 @@
         "ADM2_EN": "Ambohidratrimo",
         "ADM2_PCODE": "MG11103",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -614,7 +622,8 @@
         "ADM2_EN": "Ankazobe",
         "ADM2_PCODE": "MG11104",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -972,7 +981,8 @@
         "ADM2_EN": "Manjakandriana",
         "ADM2_PCODE": "MG11106",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1166,7 +1176,8 @@
         "ADM2_EN": "Anjozorobe",
         "ADM2_PCODE": "MG11107",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1480,7 +1491,8 @@
         "ADM2_EN": "Andramasina",
         "ADM2_PCODE": "MG11115",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1646,7 +1658,8 @@
         "ADM2_EN": "Antananarivo Atsimondrano",
         "ADM2_PCODE": "MG11117",
         "ADM1_PCODE": "MG11",
-        "ADM1_EN": "Analamanga"
+        "ADM1_EN": "Analamanga",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1748,7 +1761,8 @@
         "ADM2_EN": "Antsirabe I",
         "ADM2_PCODE": "MG12108",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1814,7 +1828,8 @@
         "ADM2_EN": "Betafo",
         "ADM2_PCODE": "MG12109",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2176,7 +2191,8 @@
         "ADM2_EN": "Ambatolampy",
         "ADM2_PCODE": "MG12110",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2438,7 +2454,8 @@
         "ADM2_EN": "Antanifotsy",
         "ADM2_PCODE": "MG12114",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2692,7 +2709,8 @@
         "ADM2_EN": "Faratsiho",
         "ADM2_PCODE": "MG12116",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2886,7 +2904,8 @@
         "ADM2_EN": "Antsirabe II",
         "ADM2_PCODE": "MG12118",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3154,7 +3173,8 @@
         "ADM2_EN": "Mandoto",
         "ADM2_PCODE": "MG12120",
         "ADM1_PCODE": "MG12",
-        "ADM1_EN": "Vakinankaratra"
+        "ADM1_EN": "Vakinankaratra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3496,7 +3516,8 @@
         "ADM2_EN": "Arivonimamo",
         "ADM2_PCODE": "MG13105",
         "ADM1_PCODE": "MG13",
-        "ADM1_EN": "Itasy"
+        "ADM1_EN": "Itasy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3738,7 +3759,8 @@
         "ADM2_EN": "Miarinarivo",
         "ADM2_PCODE": "MG13112",
         "ADM1_PCODE": "MG13",
-        "ADM1_EN": "Itasy"
+        "ADM1_EN": "Itasy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3972,7 +3994,8 @@
         "ADM2_EN": "Soavinandriana",
         "ADM2_PCODE": "MG13113",
         "ADM1_PCODE": "MG13",
-        "ADM1_EN": "Itasy"
+        "ADM1_EN": "Itasy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -4198,7 +4221,8 @@
         "ADM2_EN": "Tsiroanomandidy",
         "ADM2_PCODE": "MG14111",
         "ADM1_PCODE": "MG14",
-        "ADM1_EN": "Bongolava"
+        "ADM1_EN": "Bongolava",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -4740,7 +4764,8 @@
         "ADM2_EN": "Fenoarivobe",
         "ADM2_PCODE": "MG14119",
         "ADM1_PCODE": "MG14",
-        "ADM1_EN": "Bongolava"
+        "ADM1_EN": "Bongolava",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5062,7 +5087,8 @@
         "ADM2_EN": "Fianarantsoa I",
         "ADM2_PCODE": "MG21201",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5132,7 +5158,8 @@
         "ADM2_EN": "Ambalavao",
         "ADM2_PCODE": "MG21205",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5418,7 +5445,8 @@
         "ADM2_EN": "Ambohimahasoa",
         "ADM2_PCODE": "MG21208",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5688,7 +5716,8 @@
         "ADM2_EN": "Ikalamavony",
         "ADM2_PCODE": "MG21219",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6114,7 +6143,8 @@
         "ADM2_EN": "Lalangina",
         "ADM2_PCODE": "MG21220",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6304,7 +6334,8 @@
         "ADM2_EN": "Vohibato",
         "ADM2_PCODE": "MG21224",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6470,7 +6501,8 @@
         "ADM2_EN": "Isandra",
         "ADM2_PCODE": "MG21225",
         "ADM1_PCODE": "MG21",
-        "ADM1_EN": "Haute Matsiatra"
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6680,7 +6712,8 @@
         "ADM2_EN": "Ambatofinandrahana",
         "ADM2_PCODE": "MG22202",
         "ADM1_PCODE": "MG22",
-        "ADM1_EN": "Amoron I Mania"
+        "ADM1_EN": "Amoron I Mania",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7206,7 +7239,8 @@
         "ADM2_EN": "Ambositra",
         "ADM2_PCODE": "MG22203",
         "ADM1_PCODE": "MG22",
-        "ADM1_EN": "Amoron I Mania"
+        "ADM1_EN": "Amoron I Mania",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7560,7 +7594,8 @@
         "ADM2_EN": "Fandriana",
         "ADM2_PCODE": "MG22204",
         "ADM1_PCODE": "MG22",
-        "ADM1_EN": "Amoron I Mania"
+        "ADM1_EN": "Amoron I Mania",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7754,7 +7789,8 @@
         "ADM2_EN": "Manandriana",
         "ADM2_PCODE": "MG22223",
         "ADM1_PCODE": "MG22",
-        "ADM1_EN": "Amoron I Mania"
+        "ADM1_EN": "Amoron I Mania",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7964,7 +8000,8 @@
         "ADM2_EN": "Ifanadiana",
         "ADM2_PCODE": "MG23206",
         "ADM1_PCODE": "MG23",
-        "ADM1_EN": "Vatovavy Fitovinany"
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8330,7 +8367,8 @@
         "ADM2_EN": "Nosy-Varika",
         "ADM2_PCODE": "MG23207",
         "ADM1_PCODE": "MG23",
-        "ADM1_EN": "Vatovavy Fitovinany"
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8620,7 +8658,8 @@
         "ADM2_EN": "Mananjary",
         "ADM2_PCODE": "MG23209",
         "ADM1_PCODE": "MG23",
-        "ADM1_EN": "Vatovavy Fitovinany"
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8858,7 +8897,8 @@
         "ADM2_EN": "Manakara Atsimo",
         "ADM2_PCODE": "MG23210",
         "ADM1_PCODE": "MG23",
-        "ADM1_EN": "Vatovavy Fitovinany"
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9052,7 +9092,8 @@
         "ADM2_EN": "Ikongo",
         "ADM2_PCODE": "MG23211",
         "ADM1_PCODE": "MG23",
-        "ADM1_EN": "Vatovavy Fitovinany"
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9318,7 +9359,8 @@
         "ADM2_EN": "Vohipeno",
         "ADM2_PCODE": "MG23212",
         "ADM1_PCODE": "MG23",
-        "ADM1_EN": "Vatovavy Fitovinany"
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9492,7 +9534,8 @@
         "ADM2_EN": "Ihosy",
         "ADM2_PCODE": "MG24216",
         "ADM1_PCODE": "MG24",
-        "ADM1_EN": "Ihorombe"
+        "ADM1_EN": "Ihorombe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10170,7 +10213,8 @@
         "ADM2_EN": "Ivohibe",
         "ADM2_PCODE": "MG24218",
         "ADM1_PCODE": "MG24",
-        "ADM1_EN": "Ihorombe"
+        "ADM1_EN": "Ihorombe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10544,7 +10588,8 @@
         "ADM2_EN": "Iakora",
         "ADM2_PCODE": "MG24221",
         "ADM1_PCODE": "MG24",
-        "ADM1_EN": "Ihorombe"
+        "ADM1_EN": "Ihorombe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10866,7 +10911,8 @@
         "ADM2_EN": "Farafangana",
         "ADM2_PCODE": "MG25213",
         "ADM1_PCODE": "MG25",
-        "ADM1_EN": "Atsimo Atsinanana"
+        "ADM1_EN": "Atsimo Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11036,7 +11082,8 @@
         "ADM2_EN": "Vangaindrano",
         "ADM2_PCODE": "MG25214",
         "ADM1_PCODE": "MG25",
-        "ADM1_EN": "Atsimo Atsinanana"
+        "ADM1_EN": "Atsimo Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11266,7 +11313,8 @@
         "ADM2_EN": "Midongy-Atsimo",
         "ADM2_PCODE": "MG25215",
         "ADM1_PCODE": "MG25",
-        "ADM1_EN": "Atsimo Atsinanana"
+        "ADM1_EN": "Atsimo Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11572,7 +11620,8 @@
         "ADM2_EN": "Vondrozo",
         "ADM2_PCODE": "MG25217",
         "ADM1_PCODE": "MG25",
-        "ADM1_EN": "Atsimo Atsinanana"
+        "ADM1_EN": "Atsimo Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11934,7 +11983,8 @@
         "ADM2_EN": "Befotaka",
         "ADM2_PCODE": "MG25222",
         "ADM1_PCODE": "MG25",
-        "ADM1_EN": "Atsimo Atsinanana"
+        "ADM1_EN": "Atsimo Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12236,7 +12286,8 @@
         "ADM2_EN": "Toamasina I",
         "ADM2_PCODE": "MG31301",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12286,7 +12337,8 @@
         "ADM2_EN": "Brickaville",
         "ADM2_PCODE": "MG31306",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12552,7 +12604,8 @@
         "ADM2_EN": "Vatomandry",
         "ADM2_PCODE": "MG31307",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12858,7 +12911,8 @@
         "ADM2_EN": "Mahanoro",
         "ADM2_PCODE": "MG31308",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13036,7 +13090,8 @@
         "ADM2_EN": "Marolambo",
         "ADM2_PCODE": "MG31309",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13278,7 +13333,8 @@
         "ADM2_EN": "Toamasina II",
         "ADM2_PCODE": "MG31310",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13676,7 +13732,8 @@
         "ADM2_EN": "Antanambao Manampontsy",
         "ADM2_PCODE": "MG31311",
         "ADM1_PCODE": "MG31",
-        "ADM1_EN": "Atsinanana"
+        "ADM1_EN": "Atsinanana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13850,7 +13907,8 @@
         "ADM2_EN": "Sainte Marie",
         "ADM2_PCODE": "MG32302",
         "ADM1_PCODE": "MG32",
-        "ADM1_EN": "Analanjirofo"
+        "ADM1_EN": "Analanjirofo",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14180,7 +14238,8 @@
         "ADM2_EN": "Maroantsetra",
         "ADM2_PCODE": "MG32303",
         "ADM1_PCODE": "MG32",
-        "ADM1_EN": "Analanjirofo"
+        "ADM1_EN": "Analanjirofo",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14922,7 +14981,8 @@
         "ADM2_EN": "Mananara-Avaratra",
         "ADM2_PCODE": "MG32304",
         "ADM1_PCODE": "MG32",
-        "ADM1_EN": "Analanjirofo"
+        "ADM1_EN": "Analanjirofo",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15456,7 +15516,8 @@
         "ADM2_EN": "Fenerive Est",
         "ADM2_PCODE": "MG32305",
         "ADM1_PCODE": "MG32",
-        "ADM1_EN": "Analanjirofo"
+        "ADM1_EN": "Analanjirofo",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15766,7 +15827,8 @@
         "ADM2_EN": "Vavatenina",
         "ADM2_PCODE": "MG32315",
         "ADM1_PCODE": "MG32",
-        "ADM1_EN": "Analanjirofo"
+        "ADM1_EN": "Analanjirofo",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16056,7 +16118,8 @@
         "ADM2_EN": "Soanierana Ivongo",
         "ADM2_PCODE": "MG32318",
         "ADM1_PCODE": "MG32",
-        "ADM1_EN": "Analanjirofo"
+        "ADM1_EN": "Analanjirofo",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16426,7 +16489,8 @@
         "ADM2_EN": "Amparafaravola",
         "ADM2_PCODE": "MG33312",
         "ADM1_PCODE": "MG33",
-        "ADM1_EN": "Alaotra Mangoro"
+        "ADM1_EN": "Alaotra Mangoro",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16776,7 +16840,8 @@
         "ADM2_EN": "Ambatondrazaka",
         "ADM2_PCODE": "MG33313",
         "ADM1_PCODE": "MG33",
-        "ADM1_EN": "Alaotra Mangoro"
+        "ADM1_EN": "Alaotra Mangoro",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -17174,7 +17239,8 @@
         "ADM2_EN": "Moramanga",
         "ADM2_PCODE": "MG33314",
         "ADM1_PCODE": "MG33",
-        "ADM1_EN": "Alaotra Mangoro"
+        "ADM1_EN": "Alaotra Mangoro",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -17484,7 +17550,8 @@
         "ADM2_EN": "Andilamena",
         "ADM2_PCODE": "MG33316",
         "ADM1_PCODE": "MG33",
-        "ADM1_EN": "Alaotra Mangoro"
+        "ADM1_EN": "Alaotra Mangoro",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -17842,7 +17909,8 @@
         "ADM2_EN": "Anosibe-An'ala",
         "ADM2_PCODE": "MG33317",
         "ADM1_PCODE": "MG33",
-        "ADM1_EN": "Alaotra Mangoro"
+        "ADM1_EN": "Alaotra Mangoro",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -18040,7 +18108,8 @@
         "ADM2_EN": "Mahajanga I",
         "ADM2_PCODE": "MG41401",
         "ADM1_PCODE": "MG41",
-        "ADM1_EN": "Boeny"
+        "ADM1_EN": "Boeny",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -18090,7 +18159,8 @@
         "ADM2_EN": "Soalala",
         "ADM2_PCODE": "MG41403",
         "ADM1_PCODE": "MG41",
-        "ADM1_EN": "Boeny"
+        "ADM1_EN": "Boeny",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18472,7 +18542,8 @@
         "ADM2_EN": "Ambato Boeni",
         "ADM2_PCODE": "MG41405",
         "ADM1_PCODE": "MG41",
-        "ADM1_EN": "Boeny"
+        "ADM1_EN": "Boeny",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -18982,7 +19053,8 @@
         "ADM2_EN": "Marovoay",
         "ADM2_PCODE": "MG41406",
         "ADM1_PCODE": "MG41",
-        "ADM1_EN": "Boeny"
+        "ADM1_EN": "Boeny",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19472,7 +19544,8 @@
         "ADM2_EN": "Mitsinjo",
         "ADM2_PCODE": "MG41407",
         "ADM1_PCODE": "MG41",
-        "ADM1_EN": "Boeny"
+        "ADM1_EN": "Boeny",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19890,7 +19963,8 @@
         "ADM2_EN": "Mahajanga II",
         "ADM2_PCODE": "MG41415",
         "ADM1_PCODE": "MG41",
-        "ADM1_EN": "Boeny"
+        "ADM1_EN": "Boeny",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20736,7 +20810,8 @@
         "ADM2_EN": "Port-Berge (Boriziny-Vaovao)",
         "ADM2_PCODE": "MG42409",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21058,7 +21133,8 @@
         "ADM2_EN": "Mandritsara",
         "ADM2_PCODE": "MG42410",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21480,7 +21556,8 @@
         "ADM2_EN": "Analalava",
         "ADM2_PCODE": "MG42411",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23058,7 +23135,8 @@
         "ADM2_EN": "Befandriana Nord",
         "ADM2_PCODE": "MG42412",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23512,7 +23590,8 @@
         "ADM2_EN": "Antsohihy",
         "ADM2_PCODE": "MG42413",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23806,7 +23885,8 @@
         "ADM2_EN": "Bealanana",
         "ADM2_PCODE": "MG42414",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24112,7 +24192,8 @@
         "ADM2_EN": "Mampikony",
         "ADM2_PCODE": "MG42423",
         "ADM1_PCODE": "MG42",
-        "ADM1_EN": "Sofia"
+        "ADM1_EN": "Sofia",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24398,7 +24479,8 @@
         "ADM2_EN": "Maevatanana",
         "ADM2_PCODE": "MG43404",
         "ADM1_PCODE": "MG43",
-        "ADM1_EN": "Betsiboka"
+        "ADM1_EN": "Betsiboka",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24856,7 +24938,8 @@
         "ADM2_EN": "Tsaratanana",
         "ADM2_PCODE": "MG43408",
         "ADM1_PCODE": "MG43",
-        "ADM1_EN": "Betsiboka"
+        "ADM1_EN": "Betsiboka",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25426,7 +25509,8 @@
         "ADM2_EN": "Kandreho",
         "ADM2_PCODE": "MG43416",
         "ADM1_PCODE": "MG43",
-        "ADM1_EN": "Betsiboka"
+        "ADM1_EN": "Betsiboka",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25708,7 +25792,8 @@
         "ADM2_EN": "Besalampy",
         "ADM2_PCODE": "MG44402",
         "ADM1_PCODE": "MG44",
-        "ADM1_EN": "Melaky"
+        "ADM1_EN": "Melaky",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26162,7 +26247,8 @@
         "ADM2_EN": "Ambatomainty",
         "ADM2_PCODE": "MG44417",
         "ADM1_PCODE": "MG44",
-        "ADM1_EN": "Melaky"
+        "ADM1_EN": "Melaky",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26488,7 +26574,8 @@
         "ADM2_EN": "Antsalova",
         "ADM2_PCODE": "MG44420",
         "ADM1_PCODE": "MG44",
-        "ADM1_EN": "Melaky"
+        "ADM1_EN": "Melaky",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26774,7 +26861,8 @@
         "ADM2_EN": "Maintirano",
         "ADM2_PCODE": "MG44421",
         "ADM1_PCODE": "MG44",
-        "ADM1_EN": "Melaky"
+        "ADM1_EN": "Melaky",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27424,7 +27512,8 @@
         "ADM2_EN": "Morafenobe",
         "ADM2_PCODE": "MG44422",
         "ADM1_PCODE": "MG44",
-        "ADM1_EN": "Melaky"
+        "ADM1_EN": "Melaky",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27854,7 +27943,8 @@
         "ADM2_EN": "Toliary-I",
         "ADM2_PCODE": "MG51501",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27932,7 +28022,8 @@
         "ADM2_EN": "Beroroha",
         "ADM2_PCODE": "MG51503",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -28318,7 +28409,8 @@
         "ADM2_EN": "Morombe",
         "ADM2_PCODE": "MG51504",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30116,7 +30208,8 @@
         "ADM2_EN": "Ankazoabo",
         "ADM2_PCODE": "MG51505",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -30486,7 +30579,8 @@
         "ADM2_EN": "Betioky Atsimo",
         "ADM2_PCODE": "MG51506",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -30904,7 +30998,8 @@
         "ADM2_EN": "Ampanihy Ouest",
         "ADM2_PCODE": "MG51507",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31298,7 +31393,8 @@
         "ADM2_EN": "Sakaraha",
         "ADM2_PCODE": "MG51512",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -31676,7 +31772,8 @@
         "ADM2_EN": "Toliary-II",
         "ADM2_PCODE": "MG51520",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32222,7 +32319,8 @@
         "ADM2_EN": "Benenitra",
         "ADM2_PCODE": "MG51521",
         "ADM1_PCODE": "MG51",
-        "ADM1_EN": "Atsimo Andrefana"
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -32496,7 +32594,8 @@
         "ADM2_EN": "Beloha",
         "ADM2_PCODE": "MG52513",
         "ADM1_PCODE": "MG52",
-        "ADM1_EN": "Androy"
+        "ADM1_EN": "Androy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -32746,7 +32845,8 @@
         "ADM2_EN": "Tsihombe",
         "ADM2_PCODE": "MG52514",
         "ADM1_PCODE": "MG52",
-        "ADM1_EN": "Androy"
+        "ADM1_EN": "Androy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -32916,7 +33016,8 @@
         "ADM2_EN": "Ambovombe-Androy",
         "ADM2_PCODE": "MG52516",
         "ADM1_PCODE": "MG52",
-        "ADM1_EN": "Androy"
+        "ADM1_EN": "Androy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -33306,7 +33407,8 @@
         "ADM2_EN": "Bekily",
         "ADM2_PCODE": "MG52518",
         "ADM1_PCODE": "MG52",
-        "ADM1_EN": "Androy"
+        "ADM1_EN": "Androy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -33616,7 +33718,8 @@
         "ADM2_EN": "Taolagnaro",
         "ADM2_PCODE": "MG53515",
         "ADM1_PCODE": "MG53",
-        "ADM1_EN": "Anosy"
+        "ADM1_EN": "Anosy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35422,7 +35525,8 @@
         "ADM2_EN": "Betroka",
         "ADM2_PCODE": "MG53517",
         "ADM1_PCODE": "MG53",
-        "ADM1_EN": "Anosy"
+        "ADM1_EN": "Anosy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35888,7 +35992,8 @@
         "ADM2_EN": "Amboasary-Atsimo",
         "ADM2_PCODE": "MG53519",
         "ADM1_PCODE": "MG53",
-        "ADM1_EN": "Anosy"
+        "ADM1_EN": "Anosy",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -36306,7 +36411,8 @@
         "ADM2_EN": "Manja",
         "ADM2_PCODE": "MG54502",
         "ADM1_PCODE": "MG54",
-        "ADM1_EN": "Menabe"
+        "ADM1_EN": "Menabe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36628,7 +36734,8 @@
         "ADM2_EN": "Morondava",
         "ADM2_PCODE": "MG54508",
         "ADM1_PCODE": "MG54",
-        "ADM1_EN": "Menabe"
+        "ADM1_EN": "Menabe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37246,7 +37353,8 @@
         "ADM2_EN": "Mahabo",
         "ADM2_PCODE": "MG54509",
         "ADM1_PCODE": "MG54",
-        "ADM1_EN": "Menabe"
+        "ADM1_EN": "Menabe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -37680,7 +37788,8 @@
         "ADM2_EN": "Belo Sur Tsiribihina",
         "ADM2_PCODE": "MG54510",
         "ADM1_PCODE": "MG54",
-        "ADM1_EN": "Menabe"
+        "ADM1_EN": "Menabe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38218,7 +38327,8 @@
         "ADM2_EN": "Miandrivazo",
         "ADM2_PCODE": "MG54511",
         "ADM1_PCODE": "MG54",
-        "ADM1_EN": "Menabe"
+        "ADM1_EN": "Menabe",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -38784,7 +38894,8 @@
         "ADM2_EN": "Antsiranana II",
         "ADM2_PCODE": "MG71713",
         "ADM1_PCODE": "MG71",
-        "ADM1_EN": "Diana"
+        "ADM1_EN": "Diana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43146,7 +43257,8 @@
         "ADM2_EN": "Antsiranana I",
         "ADM2_PCODE": "MG71715",
         "ADM1_PCODE": "MG71",
-        "ADM1_EN": "Diana"
+        "ADM1_EN": "Diana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43300,7 +43412,8 @@
         "ADM2_EN": "Ambilobe",
         "ADM2_PCODE": "MG71717",
         "ADM1_PCODE": "MG71",
-        "ADM1_EN": "Diana"
+        "ADM1_EN": "Diana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44214,7 +44327,8 @@
         "ADM2_EN": "Nosy-Be",
         "ADM2_PCODE": "MG71718",
         "ADM1_PCODE": "MG71",
-        "ADM1_EN": "Diana"
+        "ADM1_EN": "Diana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45284,7 +45398,8 @@
         "ADM2_EN": "Ambanja",
         "ADM2_PCODE": "MG71719",
         "ADM1_PCODE": "MG71",
-        "ADM1_EN": "Diana"
+        "ADM1_EN": "Diana",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47498,7 +47613,8 @@
         "ADM2_EN": "Antalaha",
         "ADM2_PCODE": "MG72710",
         "ADM1_PCODE": "MG72",
-        "ADM1_EN": "Sava"
+        "ADM1_EN": "Sava",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48708,7 +48824,8 @@
         "ADM2_EN": "Sambava",
         "ADM2_PCODE": "MG72711",
         "ADM1_PCODE": "MG72",
-        "ADM1_EN": "Sava"
+        "ADM1_EN": "Sava",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -49018,7 +49135,8 @@
         "ADM2_EN": "Andapa",
         "ADM2_PCODE": "MG72712",
         "ADM1_PCODE": "MG72",
-        "ADM1_EN": "Sava"
+        "ADM1_EN": "Sava",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "Polygon",
@@ -49268,7 +49386,8 @@
         "ADM2_EN": "Vohemar",
         "ADM2_PCODE": "MG72716",
         "ADM1_PCODE": "MG72",
-        "ADM1_EN": "Sava"
+        "ADM1_EN": "Sava",
+        "ADM0_PCODE": "MG"
       },
       "geometry": {
         "type": "MultiPolygon",

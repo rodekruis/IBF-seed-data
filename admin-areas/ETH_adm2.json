@@ -569,7 +569,8 @@
         "ADM2_PCODE": "ET0508",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -1236,7 +1237,8 @@
         "ADM2_PCODE": "ET1202",
         "ADM1_PCODE": "ET12",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Gambela"
+        "ADM1_EN": "Gambela",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -1395,7 +1397,8 @@
         "ADM2_PCODE": "ET0712",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -1622,7 +1625,8 @@
         "ADM2_PCODE": "ET0721",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -2377,7 +2381,8 @@
         "ADM2_PCODE": "ET0408",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -2744,7 +2749,8 @@
         "ADM2_PCODE": "ET0603",
         "ADM1_PCODE": "ET06",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Benishangul Gumz"
+        "ADM1_EN": "Benishangul Gumz",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -3451,7 +3457,8 @@
         "ADM2_PCODE": "ET0309",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -3998,7 +4005,8 @@
         "ADM2_PCODE": "ET0201",
         "ADM1_PCODE": "ET02",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Afar"
+        "ADM1_EN": "Afar",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -4829,7 +4837,8 @@
         "ADM2_PCODE": "ET0411",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -4940,7 +4949,8 @@
         "ADM2_PCODE": "ET0716",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -5343,7 +5353,8 @@
         "ADM2_PCODE": "ET0711",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -5946,7 +5957,8 @@
         "ADM2_PCODE": "ET0412",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -6401,7 +6413,8 @@
         "ADM2_PCODE": "ET0416",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -6608,7 +6621,8 @@
         "ADM2_PCODE": "ET0722",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -7119,7 +7133,8 @@
         "ADM2_PCODE": "ET0102",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -8214,7 +8229,8 @@
         "ADM2_PCODE": "ET0311",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -8533,7 +8549,8 @@
         "ADM2_PCODE": "ET0511",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -8844,7 +8861,8 @@
         "ADM2_PCODE": "ET0717",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -8999,7 +9017,8 @@
         "ADM2_PCODE": "ET0723",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -9174,7 +9193,8 @@
         "ADM2_PCODE": "ET1502",
         "ADM1_PCODE": "ET15",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Dire Dawa"
+        "ADM1_EN": "Dire Dawa",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -9237,7 +9257,8 @@
         "ADM2_PCODE": "ET1501",
         "ADM1_PCODE": "ET15",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Dire Dawa"
+        "ADM1_EN": "Dire Dawa",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -9436,7 +9457,8 @@
         "ADM2_PCODE": "ET0507",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -10107,7 +10129,8 @@
         "ADM2_PCODE": "ET0421",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -10714,7 +10737,8 @@
         "ADM2_PCODE": "ET0306",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -11551,7 +11575,8 @@
         "ADM2_PCODE": "ET0410",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -12410,7 +12435,8 @@
         "ADM2_PCODE": "ET0407",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -13161,7 +13187,8 @@
         "ADM2_PCODE": "ET0402",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -13648,7 +13675,8 @@
         "ADM2_PCODE": "ET0103",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -13895,7 +13923,8 @@
         "ADM2_PCODE": "ET0504",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -14442,7 +14471,8 @@
         "ADM2_PCODE": "ET0502",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -14801,7 +14831,8 @@
         "ADM2_PCODE": "ET0204",
         "ADM1_PCODE": "ET02",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Afar"
+        "ADM1_EN": "Afar",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -15330,7 +15361,8 @@
         "ADM2_PCODE": "ET0420",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -15965,7 +15997,8 @@
         "ADM2_PCODE": "ET0203",
         "ADM1_PCODE": "ET02",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Afar"
+        "ADM1_EN": "Afar",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -16340,7 +16373,8 @@
         "ADM2_PCODE": "ET0710",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -16567,7 +16601,8 @@
         "ADM2_PCODE": "ET0705",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -16926,7 +16961,8 @@
         "ADM2_PCODE": "ET0715",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -17645,7 +17681,8 @@
         "ADM2_PCODE": "ET0414",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -18168,7 +18205,8 @@
         "ADM2_PCODE": "ET0701",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -18661,7 +18699,8 @@
         "ADM2_PCODE": "ET0702",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -18884,7 +18923,8 @@
         "ADM2_PCODE": "ET0714",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -18991,7 +19031,8 @@
         "ADM2_PCODE": "ET1301",
         "ADM1_PCODE": "ET13",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Harari"
+        "ADM1_EN": "Harari",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -19458,7 +19499,8 @@
         "ADM2_PCODE": "ET0205",
         "ADM1_PCODE": "ET02",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Afar"
+        "ADM1_EN": "Afar",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -19929,7 +19971,8 @@
         "ADM2_PCODE": "ET0419",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -20432,7 +20475,8 @@
         "ADM2_PCODE": "ET0403",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -20659,7 +20703,8 @@
         "ADM2_PCODE": "ET1204",
         "ADM1_PCODE": "ET12",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Gambela"
+        "ADM1_EN": "Gambela",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -20994,7 +21039,8 @@
         "ADM2_PCODE": "ET0503",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -21685,7 +21731,8 @@
         "ADM2_PCODE": "ET0404",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -22360,7 +22407,8 @@
         "ADM2_PCODE": "ET0709",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -22803,7 +22851,8 @@
         "ADM2_PCODE": "ET0418",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -23750,7 +23799,8 @@
         "ADM2_PCODE": "ET0604",
         "ADM1_PCODE": "ET06",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Benishangul Gumz"
+        "ADM1_EN": "Benishangul Gumz",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -24073,7 +24123,8 @@
         "ADM2_PCODE": "ET0703",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -24672,7 +24723,8 @@
         "ADM2_PCODE": "ET0202",
         "ADM1_PCODE": "ET02",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Afar"
+        "ADM1_EN": "Afar",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -24903,7 +24955,8 @@
         "ADM2_PCODE": "ET0713",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -25178,7 +25231,8 @@
         "ADM2_PCODE": "ET0719",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -25461,7 +25515,8 @@
         "ADM2_PCODE": "ET0505",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -26248,7 +26303,8 @@
         "ADM2_PCODE": "ET0509",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -26471,7 +26527,8 @@
         "ADM2_PCODE": "ET1203",
         "ADM1_PCODE": "ET12",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Gambela"
+        "ADM1_EN": "Gambela",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -26642,7 +26699,8 @@
         "ADM2_PCODE": "ET0605",
         "ADM1_PCODE": "ET06",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Benishangul Gumz"
+        "ADM1_EN": "Benishangul Gumz",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -26793,7 +26851,8 @@
         "ADM2_PCODE": "ET0107",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -27568,7 +27627,8 @@
         "ADM2_PCODE": "ET0602",
         "ADM1_PCODE": "ET06",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Benishangul Gumz"
+        "ADM1_EN": "Benishangul Gumz",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -28091,7 +28151,8 @@
         "ADM2_PCODE": "ET0718",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -28366,7 +28427,8 @@
         "ADM2_PCODE": "ET0510",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -28957,7 +29019,8 @@
         "ADM2_PCODE": "ET0301",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -29920,7 +29983,8 @@
         "ADM2_PCODE": "ET0305",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -30655,7 +30719,8 @@
         "ADM2_PCODE": "ET0406",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -31330,7 +31395,8 @@
         "ADM2_PCODE": "ET0303",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -31969,7 +32035,8 @@
         "ADM2_PCODE": "ET0101",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -32248,7 +32315,8 @@
         "ADM2_PCODE": "ET1201",
         "ADM1_PCODE": "ET12",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Gambela"
+        "ADM1_EN": "Gambela",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -32719,7 +32787,8 @@
         "ADM2_PCODE": "ET0310",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -32842,7 +32911,8 @@
         "ADM2_PCODE": "ET1401",
         "ADM1_PCODE": "ET14",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Addis Ababa"
+        "ADM1_EN": "Addis Ababa",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -33297,7 +33367,8 @@
         "ADM2_PCODE": "ET0506",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Southern",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -33632,7 +33703,8 @@
         "ADM2_PCODE": "ET0708",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -34067,7 +34139,8 @@
         "ADM2_PCODE": "ET1600",
         "ADM1_PCODE": "ET16",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Sidama"
+        "ADM1_EN": "Sidama",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -34390,7 +34463,8 @@
         "ADM2_PCODE": "ET0720",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -34945,7 +35019,8 @@
         "ADM2_PCODE": "ET0501",
         "ADM1_PCODE": "ET05",
         "Crop_Sea": "Northern ",
-        "ADM1_EN": "Somali"
+        "ADM1_EN": "Somali",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -35520,7 +35595,8 @@
         "ADM2_PCODE": "ET0106",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -36151,7 +36227,8 @@
         "ADM2_PCODE": "ET0302",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -36714,7 +36791,8 @@
         "ADM2_PCODE": "ET0707",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -37525,7 +37603,8 @@
         "ADM2_PCODE": "ET0304",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -37972,7 +38051,8 @@
         "ADM2_PCODE": "ET0413",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -38367,7 +38447,8 @@
         "ADM2_PCODE": "ET0104",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -38874,7 +38955,8 @@
         "ADM2_PCODE": "ET0308",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -39585,7 +39667,8 @@
         "ADM2_PCODE": "ET0417",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -40456,7 +40539,8 @@
         "ADM2_PCODE": "ET0307",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -41011,7 +41095,8 @@
         "ADM2_PCODE": "ET0312",
         "ADM1_PCODE": "ET03",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Amhara"
+        "ADM1_EN": "Amhara",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -41758,7 +41843,8 @@
         "ADM2_PCODE": "ET0415",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -42377,7 +42463,8 @@
         "ADM2_PCODE": "ET0409",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "belg",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -43080,7 +43167,8 @@
         "ADM2_PCODE": "ET0405",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -43711,7 +43799,8 @@
         "ADM2_PCODE": "ET0401",
         "ADM1_PCODE": "ET04",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Oromia"
+        "ADM1_EN": "Oromia",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -44178,7 +44267,8 @@
         "ADM2_PCODE": "ET0105",
         "ADM1_PCODE": "ET01",
         "Crop_Sea": "Meher",
-        "ADM1_EN": "Tigray"
+        "ADM1_EN": "Tigray",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -44501,7 +44591,8 @@
         "ADM2_PCODE": "ET0706",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     },
     {
@@ -44628,7 +44719,8 @@
         "ADM2_PCODE": "ET0724",
         "ADM1_PCODE": "ET07",
         "Crop_Sea": "belg",
-        "ADM1_EN": "SNNP"
+        "ADM1_EN": "SNNP",
+        "ADM0_PCODE": "ET"
       }
     }
   ]

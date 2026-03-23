@@ -15,6 +15,7 @@
         "ADM3_PCODE": "GM010101",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0101",
         "ADM2_EN": "Banjul Central"
       },
@@ -55,6 +56,7 @@
         "ADM3_PCODE": "GM010102",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0101",
         "ADM2_EN": "Banjul Central"
       },
@@ -95,6 +97,7 @@
         "ADM3_PCODE": "GM010103",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0101",
         "ADM2_EN": "Banjul Central"
       },
@@ -135,6 +138,7 @@
         "ADM3_PCODE": "GM010201",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0102",
         "ADM2_EN": "Banjul North"
       },
@@ -175,6 +179,7 @@
         "ADM3_PCODE": "GM010202",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0102",
         "ADM2_EN": "Banjul North"
       },
@@ -215,6 +220,7 @@
         "ADM3_PCODE": "GM010203",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0102",
         "ADM2_EN": "Banjul North"
       },
@@ -255,6 +261,7 @@
         "ADM3_PCODE": "GM010301",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0103",
         "ADM2_EN": "Banjul South"
       },
@@ -299,6 +306,7 @@
         "ADM3_PCODE": "GM010302",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0103",
         "ADM2_EN": "Banjul South"
       },
@@ -339,6 +347,7 @@
         "ADM3_PCODE": "GM010303",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0103",
         "ADM2_EN": "Banjul South"
       },
@@ -379,6 +388,7 @@
         "ADM3_PCODE": "GM020101",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0201",
         "ADM2_EN": "Basse"
       },
@@ -435,6 +445,7 @@
         "ADM3_PCODE": "GM020102",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0201",
         "ADM2_EN": "Basse"
       },
@@ -483,6 +494,7 @@
         "ADM3_PCODE": "GM020201",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0202",
         "ADM2_EN": "Kantora"
       },
@@ -539,6 +551,7 @@
         "ADM3_PCODE": "GM020202",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0202",
         "ADM2_EN": "Kantora"
       },
@@ -595,6 +608,7 @@
         "ADM3_PCODE": "GM020301",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0203",
         "ADM2_EN": "Sandu"
       },
@@ -659,6 +673,7 @@
         "ADM3_PCODE": "GM020302",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0203",
         "ADM2_EN": "Sandu"
       },
@@ -715,6 +730,7 @@
         "ADM3_PCODE": "GM020401",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0204",
         "ADM2_EN": "Jimara"
       },
@@ -759,6 +775,7 @@
         "ADM3_PCODE": "GM020402",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0204",
         "ADM2_EN": "Jimara"
       },
@@ -831,6 +848,7 @@
         "ADM3_PCODE": "GM020502",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0205",
         "ADM2_EN": "Tumana"
       },
@@ -903,6 +921,7 @@
         "ADM3_PCODE": "GM020504",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0205",
         "ADM2_EN": "Tumana"
       },
@@ -979,6 +998,7 @@
         "ADM3_PCODE": "GM020601",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0206",
         "ADM2_EN": "Wuli West"
       },
@@ -1055,6 +1075,7 @@
         "ADM3_PCODE": "GM020602",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0206",
         "ADM2_EN": "Wuli West"
       },
@@ -1107,6 +1128,7 @@
         "ADM3_PCODE": "GM020701",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0207",
         "ADM2_EN": "Wuli East"
       },
@@ -1183,6 +1205,7 @@
         "ADM3_PCODE": "GM020703",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0207",
         "ADM2_EN": "Wuli East"
       },
@@ -1259,6 +1282,7 @@
         "ADM3_PCODE": "GM030101",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0301",
         "ADM2_EN": "Foni Bintang Karenai"
       },
@@ -1331,6 +1355,7 @@
         "ADM3_PCODE": "GM030102",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0301",
         "ADM2_EN": "Foni Bintang Karenai"
       },
@@ -1411,6 +1436,7 @@
         "ADM3_PCODE": "GM030201",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0302",
         "ADM2_EN": "Foni Bondali"
       },
@@ -1475,6 +1501,7 @@
         "ADM3_PCODE": "GM030202",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0302",
         "ADM2_EN": "Foni Bondali"
       },
@@ -1531,6 +1558,7 @@
         "ADM3_PCODE": "GM030301",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0303",
         "ADM2_EN": "Foni Brefet"
       },
@@ -1591,6 +1619,7 @@
         "ADM3_PCODE": "GM030302",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0303",
         "ADM2_EN": "Foni Brefet"
       },
@@ -1639,6 +1668,7 @@
         "ADM3_PCODE": "GM030401",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0304",
         "ADM2_EN": "Foni Jarrol"
       },
@@ -1687,6 +1717,7 @@
         "ADM3_PCODE": "GM030402",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0304",
         "ADM2_EN": "Foni Jarrol"
       },
@@ -1743,6 +1774,7 @@
         "ADM3_PCODE": "GM030501",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0305",
         "ADM2_EN": "Foni Kansala"
       },
@@ -1835,6 +1867,7 @@
         "ADM3_PCODE": "GM030502",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0305",
         "ADM2_EN": "Foni Kansala"
       },
@@ -1903,6 +1936,7 @@
         "ADM3_PCODE": "GM030601",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0306",
         "ADM2_EN": "Kombo Central"
       },
@@ -1955,6 +1989,7 @@
         "ADM3_PCODE": "GM030602",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0306",
         "ADM2_EN": "Kombo Central"
       },
@@ -2011,6 +2046,7 @@
         "ADM3_PCODE": "GM030603",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0306",
         "ADM2_EN": "Kombo Central"
       },
@@ -2051,6 +2087,7 @@
         "ADM3_PCODE": "GM030604",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0306",
         "ADM2_EN": "Kombo Central"
       },
@@ -2091,6 +2128,7 @@
         "ADM3_PCODE": "GM030701",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0307",
         "ADM2_EN": "Kombo East"
       },
@@ -2151,6 +2189,7 @@
         "ADM3_PCODE": "GM030702",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0307",
         "ADM2_EN": "Kombo East"
       },
@@ -2219,6 +2258,7 @@
         "ADM3_PCODE": "GM030703",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0307",
         "ADM2_EN": "Kombo East"
       },
@@ -2259,6 +2299,7 @@
         "ADM3_PCODE": "GM030801",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0308",
         "ADM2_EN": "Kombo North/St Marie"
       },
@@ -2299,6 +2340,7 @@
         "ADM3_PCODE": "GM030802",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0308",
         "ADM2_EN": "Kombo North/St Marie"
       },
@@ -2471,6 +2513,7 @@
         "ADM3_PCODE": "GM030803",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0308",
         "ADM2_EN": "Kombo North/St Marie"
       },
@@ -2527,6 +2570,7 @@
         "ADM3_PCODE": "GM030804",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0308",
         "ADM2_EN": "Kombo North/St Marie"
       },
@@ -2579,6 +2623,7 @@
         "ADM3_PCODE": "GM030901",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0309",
         "ADM2_EN": "Kombo South"
       },
@@ -2639,6 +2684,7 @@
         "ADM3_PCODE": "GM030902",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0309",
         "ADM2_EN": "Kombo South"
       },
@@ -2727,6 +2773,7 @@
         "ADM3_PCODE": "GM030903",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0309",
         "ADM2_EN": "Kombo South"
       },
@@ -2787,6 +2834,7 @@
         "ADM3_PCODE": "GM040101",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0401",
         "ADM2_EN": "Lower Fuladu West"
       },
@@ -2839,6 +2887,7 @@
         "ADM3_PCODE": "GM040102",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0401",
         "ADM2_EN": "Lower Fuladu West"
       },
@@ -2899,6 +2948,7 @@
         "ADM3_PCODE": "GM040103",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0401",
         "ADM2_EN": "Lower Fuladu West"
       },
@@ -2947,6 +2997,7 @@
         "ADM3_PCODE": "GM040201",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0402",
         "ADM2_EN": "Janjanbureh"
       },
@@ -2987,6 +3038,7 @@
         "ADM3_PCODE": "GM040301",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0403",
         "ADM2_EN": "Niamina Dankunku"
       },
@@ -3047,6 +3099,7 @@
         "ADM3_PCODE": "GM040401",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0404",
         "ADM2_EN": "Niamina East"
       },
@@ -3087,6 +3140,7 @@
         "ADM3_PCODE": "GM040402",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0404",
         "ADM2_EN": "Niamina East"
       },
@@ -3155,6 +3209,7 @@
         "ADM3_PCODE": "GM040501",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0405",
         "ADM2_EN": "Niamina West"
       },
@@ -3235,6 +3290,7 @@
         "ADM3_PCODE": "GM040601",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0406",
         "ADM2_EN": "Upper Fuladu West"
       },
@@ -3287,6 +3343,7 @@
         "ADM3_PCODE": "GM040602",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0406",
         "ADM2_EN": "Upper Fuladu West"
       },
@@ -3355,6 +3412,7 @@
         "ADM3_PCODE": "GM040603",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0406",
         "ADM2_EN": "Upper Fuladu West"
       },
@@ -3415,6 +3473,7 @@
         "ADM3_PCODE": "GM040604",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0406",
         "ADM2_EN": "Upper Fuladu West"
       },
@@ -3483,6 +3542,7 @@
         "ADM3_PCODE": "GM050101",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0501",
         "ADM2_EN": "Bakau"
       },
@@ -3523,6 +3583,7 @@
         "ADM3_PCODE": "GM050102",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0501",
         "ADM2_EN": "Bakau"
       },
@@ -3563,6 +3624,7 @@
         "ADM3_PCODE": "GM050201",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0502",
         "ADM2_EN": "Jeshwang"
       },
@@ -3603,6 +3665,7 @@
         "ADM3_PCODE": "GM050202",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0502",
         "ADM2_EN": "Jeshwang"
       },
@@ -3643,6 +3706,7 @@
         "ADM3_PCODE": "GM050203",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0502",
         "ADM2_EN": "Jeshwang"
       },
@@ -3683,6 +3747,7 @@
         "ADM3_PCODE": "GM050301",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0503",
         "ADM2_EN": "Mangrove"
       },
@@ -3727,6 +3792,7 @@
         "ADM3_PCODE": "GM050401",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0504",
         "ADM2_EN": "Sere Kunda Central"
       },
@@ -3767,6 +3833,7 @@
         "ADM3_PCODE": "GM050402",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0504",
         "ADM2_EN": "Sere Kunda Central"
       },
@@ -3807,6 +3874,7 @@
         "ADM3_PCODE": "GM050403",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0504",
         "ADM2_EN": "Sere Kunda Central"
       },
@@ -3847,6 +3915,7 @@
         "ADM3_PCODE": "GM050501",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0505",
         "ADM2_EN": "Sere Kunda East"
       },
@@ -3887,6 +3956,7 @@
         "ADM3_PCODE": "GM050502",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0505",
         "ADM2_EN": "Sere Kunda East"
       },
@@ -3927,6 +3997,7 @@
         "ADM3_PCODE": "GM050503",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0505",
         "ADM2_EN": "Sere Kunda East"
       },
@@ -3967,6 +4038,7 @@
         "ADM3_PCODE": "GM050504",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0505",
         "ADM2_EN": "Sere Kunda East"
       },
@@ -4007,6 +4079,7 @@
         "ADM3_PCODE": "GM050601",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0506",
         "ADM2_EN": "Sere Kunda West"
       },
@@ -4047,6 +4120,7 @@
         "ADM3_PCODE": "GM050602",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0506",
         "ADM2_EN": "Sere Kunda West"
       },
@@ -4087,6 +4161,7 @@
         "ADM3_PCODE": "GM050603",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0506",
         "ADM2_EN": "Sere Kunda West"
       },
@@ -4127,6 +4202,7 @@
         "ADM3_PCODE": "GM050604",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0506",
         "ADM2_EN": "Sere Kunda West"
       },
@@ -4167,6 +4243,7 @@
         "ADM3_PCODE": "GM050605",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0506",
         "ADM2_EN": "Sere Kunda West"
       },
@@ -4207,6 +4284,7 @@
         "ADM3_PCODE": "GM060101",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0601",
         "ADM2_EN": "Central Baddibu"
       },
@@ -4251,6 +4329,7 @@
         "ADM3_PCODE": "GM060102",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0601",
         "ADM2_EN": "Central Baddibu"
       },
@@ -4315,6 +4394,7 @@
         "ADM3_PCODE": "GM060201",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0602",
         "ADM2_EN": "Jokadu"
       },
@@ -4395,6 +4475,7 @@
         "ADM3_PCODE": "GM060202",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0602",
         "ADM2_EN": "Jokadu"
       },
@@ -4471,6 +4552,7 @@
         "ADM3_PCODE": "GM060203",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0602",
         "ADM2_EN": "Jokadu"
       },
@@ -4559,6 +4641,7 @@
         "ADM3_PCODE": "GM060301",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0603",
         "ADM2_EN": "Lower Baddibu"
       },
@@ -4615,6 +4698,7 @@
         "ADM3_PCODE": "GM060401",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0604",
         "ADM2_EN": "Lower Niumi"
       },
@@ -4675,6 +4759,7 @@
         "ADM3_PCODE": "GM060402",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0604",
         "ADM2_EN": "Lower Niumi"
       },
@@ -4743,6 +4828,7 @@
         "ADM3_PCODE": "GM060501",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0605",
         "ADM2_EN": "Illiassa"
       },
@@ -4783,6 +4869,7 @@
         "ADM3_PCODE": "GM060502",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0605",
         "ADM2_EN": "Illiassa"
       },
@@ -4831,6 +4918,7 @@
         "ADM3_PCODE": "GM060503",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0605",
         "ADM2_EN": "Illiassa"
       },
@@ -4891,6 +4979,7 @@
         "ADM3_PCODE": "GM060504",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0605",
         "ADM2_EN": "Illiassa"
       },
@@ -4951,6 +5040,7 @@
         "ADM3_PCODE": "GM060601",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0606",
         "ADM2_EN": "Upper Niumi"
       },
@@ -5011,6 +5101,7 @@
         "ADM3_PCODE": "GM060602",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0606",
         "ADM2_EN": "Upper Niumi"
       },
@@ -5083,6 +5174,7 @@
         "ADM3_PCODE": "GM060701",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0607",
         "ADM2_EN": "Sabach - Sanjal"
       },
@@ -5127,6 +5219,7 @@
         "ADM3_PCODE": "GM060702",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0607",
         "ADM2_EN": "Sabach - Sanjal"
       },
@@ -5191,6 +5284,7 @@
         "ADM3_PCODE": "GM070101",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0701",
         "ADM2_EN": "Lower Saloum"
       },
@@ -5251,6 +5345,7 @@
         "ADM3_PCODE": "GM070102",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0701",
         "ADM2_EN": "Lower Saloum"
       },
@@ -5307,6 +5402,7 @@
         "ADM3_PCODE": "GM070201",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0702",
         "ADM2_EN": "Niani"
       },
@@ -5367,6 +5463,7 @@
         "ADM3_PCODE": "GM070202",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0702",
         "ADM2_EN": "Niani"
       },
@@ -5455,6 +5552,7 @@
         "ADM3_PCODE": "GM070301",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0703",
         "ADM2_EN": "Nianija"
       },
@@ -5519,6 +5617,7 @@
         "ADM3_PCODE": "GM070401",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0704",
         "ADM2_EN": "Sami"
       },
@@ -5595,6 +5694,7 @@
         "ADM3_PCODE": "GM070402",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0704",
         "ADM2_EN": "Sami"
       },
@@ -5655,6 +5755,7 @@
         "ADM3_PCODE": "GM070403",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0704",
         "ADM2_EN": "Sami"
       },
@@ -5715,6 +5816,7 @@
         "ADM3_PCODE": "GM070501",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0705",
         "ADM2_EN": "Upper Saloum"
       },
@@ -5767,6 +5869,7 @@
         "ADM3_PCODE": "GM070502",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0705",
         "ADM2_EN": "Upper Saloum"
       },
@@ -5839,6 +5942,7 @@
         "ADM3_PCODE": "GM080101",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0801",
         "ADM2_EN": "Jarra Central"
       },
@@ -5887,6 +5991,7 @@
         "ADM3_PCODE": "GM080102",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0801",
         "ADM2_EN": "Jarra Central"
       },
@@ -5927,6 +6032,7 @@
         "ADM3_PCODE": "GM080201",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0802",
         "ADM2_EN": "Jarra East"
       },
@@ -5979,6 +6085,7 @@
         "ADM3_PCODE": "GM080202",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0802",
         "ADM2_EN": "Jarra East"
       },
@@ -6043,6 +6150,7 @@
         "ADM3_PCODE": "GM080301",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0803",
         "ADM2_EN": "Jarra West"
       },
@@ -6091,6 +6199,7 @@
         "ADM3_PCODE": "GM080302",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0803",
         "ADM2_EN": "Jarra West"
       },
@@ -6143,6 +6252,7 @@
         "ADM3_PCODE": "GM080401",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0804",
         "ADM2_EN": "Kiang Central"
       },
@@ -6183,6 +6293,7 @@
         "ADM3_PCODE": "GM080402",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0804",
         "ADM2_EN": "Kiang Central"
       },
@@ -6227,6 +6338,7 @@
         "ADM3_PCODE": "GM080501",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0805",
         "ADM2_EN": "Kiang East"
       },
@@ -6271,6 +6383,7 @@
         "ADM3_PCODE": "GM080502",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0805",
         "ADM2_EN": "Kiang East"
       },
@@ -6323,6 +6436,7 @@
         "ADM3_PCODE": "GM080601",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0806",
         "ADM2_EN": "Kiang West"
       },
@@ -6403,6 +6517,7 @@
         "ADM3_PCODE": "GM080602",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
+        "ADM0_PCODE": "GM",
         "ADM2_PCODE": "GM0806",
         "ADM2_EN": "Kiang West"
       },

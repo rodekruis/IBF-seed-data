@@ -14,7 +14,8 @@
         "ADM2_EN": "Boffa",
         "ADM2_PCODE": "GN001001",
         "ADM1_PCODE": "GN001",
-        "ADM1_EN": "Boke"
+        "ADM1_EN": "Boke",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1524,7 +1525,8 @@
         "ADM2_EN": "Boke",
         "ADM2_PCODE": "GN001002",
         "ADM1_PCODE": "GN001",
-        "ADM1_EN": "Boke"
+        "ADM1_EN": "Boke",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4190,7 +4192,8 @@
         "ADM2_EN": "Gaoual",
         "ADM2_PCODE": "GN001003",
         "ADM1_PCODE": "GN001",
-        "ADM1_EN": "Boke"
+        "ADM1_EN": "Boke",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -4728,7 +4731,8 @@
         "ADM2_EN": "Koundara",
         "ADM2_PCODE": "GN001004",
         "ADM1_PCODE": "GN001",
-        "ADM1_EN": "Boke"
+        "ADM1_EN": "Boke",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -5062,7 +5066,8 @@
         "ADM2_EN": "Fria",
         "ADM2_PCODE": "GN001005",
         "ADM1_PCODE": "GN001",
-        "ADM1_EN": "Boke"
+        "ADM1_EN": "Boke",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -5212,7 +5217,8 @@
         "ADM2_EN": "Conakry",
         "ADM2_PCODE": "GN002001",
         "ADM1_PCODE": "GN002",
-        "ADM1_EN": "Conakry"
+        "ADM1_EN": "Conakry",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5598,7 +5604,8 @@
         "ADM2_EN": "Dabola",
         "ADM2_PCODE": "GN003001",
         "ADM1_PCODE": "GN003",
-        "ADM1_EN": "Faranah"
+        "ADM1_EN": "Faranah",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -5836,7 +5843,8 @@
         "ADM2_EN": "Dinguiraye",
         "ADM2_PCODE": "GN003002",
         "ADM1_PCODE": "GN003",
-        "ADM1_EN": "Faranah"
+        "ADM1_EN": "Faranah",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -6366,7 +6374,8 @@
         "ADM2_EN": "Faranah",
         "ADM2_PCODE": "GN003003",
         "ADM1_PCODE": "GN003",
-        "ADM1_EN": "Faranah"
+        "ADM1_EN": "Faranah",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -6832,7 +6841,8 @@
         "ADM2_EN": "Kissidougou",
         "ADM2_PCODE": "GN003004",
         "ADM1_PCODE": "GN003",
-        "ADM1_EN": "Faranah"
+        "ADM1_EN": "Faranah",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -7138,7 +7148,8 @@
         "ADM2_EN": "Kankan",
         "ADM2_PCODE": "GN004001",
         "ADM1_PCODE": "GN004",
-        "ADM1_EN": "Kankan"
+        "ADM1_EN": "Kankan",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -7656,7 +7667,8 @@
         "ADM2_EN": "Kerouane",
         "ADM2_PCODE": "GN004002",
         "ADM1_PCODE": "GN004",
-        "ADM1_EN": "Kankan"
+        "ADM1_EN": "Kankan",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -7906,7 +7918,8 @@
         "ADM2_EN": "Kouroussa",
         "ADM2_PCODE": "GN004003",
         "ADM1_PCODE": "GN004",
-        "ADM1_EN": "Kankan"
+        "ADM1_EN": "Kankan",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -8456,7 +8469,8 @@
         "ADM2_EN": "Mandiana",
         "ADM2_PCODE": "GN004004",
         "ADM1_PCODE": "GN004",
-        "ADM1_EN": "Kankan"
+        "ADM1_EN": "Kankan",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -8874,7 +8888,8 @@
         "ADM2_EN": "Siguiri",
         "ADM2_PCODE": "GN004005",
         "ADM1_PCODE": "GN004",
-        "ADM1_EN": "Kankan"
+        "ADM1_EN": "Kankan",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -9284,7 +9299,8 @@
         "ADM2_EN": "Coyah",
         "ADM2_PCODE": "GN005001",
         "ADM1_PCODE": "GN005",
-        "ADM1_EN": "Kindia"
+        "ADM1_EN": "Kindia",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -9410,7 +9426,8 @@
         "ADM2_EN": "Dubreka",
         "ADM2_PCODE": "GN005002",
         "ADM1_PCODE": "GN005",
-        "ADM1_EN": "Kindia"
+        "ADM1_EN": "Kindia",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10140,7 +10157,8 @@
         "ADM2_EN": "Forecariah",
         "ADM2_PCODE": "GN005003",
         "ADM1_PCODE": "GN005",
-        "ADM1_EN": "Kindia"
+        "ADM1_EN": "Kindia",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10430,7 +10448,8 @@
         "ADM2_EN": "Kindia",
         "ADM2_PCODE": "GN005004",
         "ADM1_PCODE": "GN005",
-        "ADM1_EN": "Kindia"
+        "ADM1_EN": "Kindia",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -10684,7 +10703,8 @@
         "ADM2_EN": "Telimele",
         "ADM2_PCODE": "GN005005",
         "ADM1_PCODE": "GN005",
-        "ADM1_EN": "Kindia"
+        "ADM1_EN": "Kindia",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11010,7 +11030,8 @@
         "ADM2_EN": "Koubia",
         "ADM2_PCODE": "GN006001",
         "ADM1_PCODE": "GN006",
-        "ADM1_EN": "Labe"
+        "ADM1_EN": "Labe",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11160,7 +11181,8 @@
         "ADM2_EN": "Labe",
         "ADM2_PCODE": "GN006002",
         "ADM1_PCODE": "GN006",
-        "ADM1_EN": "Labe"
+        "ADM1_EN": "Labe",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11290,7 +11312,8 @@
         "ADM2_EN": "Lelouma",
         "ADM2_PCODE": "GN006003",
         "ADM1_PCODE": "GN006",
-        "ADM1_EN": "Labe"
+        "ADM1_EN": "Labe",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11488,7 +11511,8 @@
         "ADM2_EN": "Mali",
         "ADM2_PCODE": "GN006004",
         "ADM1_PCODE": "GN006",
-        "ADM1_EN": "Labe"
+        "ADM1_EN": "Labe",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11734,7 +11758,8 @@
         "ADM2_EN": "Tougue",
         "ADM2_PCODE": "GN006005",
         "ADM1_PCODE": "GN006",
-        "ADM1_EN": "Labe"
+        "ADM1_EN": "Labe",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11944,7 +11969,8 @@
         "ADM2_EN": "Dalaba",
         "ADM2_PCODE": "GN007001",
         "ADM1_PCODE": "GN007",
-        "ADM1_EN": "Mamou"
+        "ADM1_EN": "Mamou",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -12170,7 +12196,8 @@
         "ADM2_EN": "Mamou",
         "ADM2_PCODE": "GN007002",
         "ADM1_PCODE": "GN007",
-        "ADM1_EN": "Mamou"
+        "ADM1_EN": "Mamou",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -12440,7 +12467,8 @@
         "ADM2_EN": "Pita",
         "ADM2_PCODE": "GN007003",
         "ADM1_PCODE": "GN007",
-        "ADM1_EN": "Mamou"
+        "ADM1_EN": "Mamou",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -12654,7 +12682,8 @@
         "ADM2_EN": "Beyla",
         "ADM2_PCODE": "GN008001",
         "ADM1_PCODE": "GN008",
-        "ADM1_EN": "Nzerekore"
+        "ADM1_EN": "Nzerekore",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -13076,7 +13105,8 @@
         "ADM2_EN": "Gueckedou",
         "ADM2_PCODE": "GN008002",
         "ADM1_PCODE": "GN008",
-        "ADM1_EN": "Nzerekore"
+        "ADM1_EN": "Nzerekore",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13394,7 +13424,8 @@
         "ADM2_EN": "Lola",
         "ADM2_PCODE": "GN008003",
         "ADM1_PCODE": "GN008",
-        "ADM1_EN": "Nzerekore"
+        "ADM1_EN": "Nzerekore",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -13648,7 +13679,8 @@
         "ADM2_EN": "Macenta",
         "ADM2_PCODE": "GN008004",
         "ADM1_PCODE": "GN008",
-        "ADM1_EN": "Nzerekore"
+        "ADM1_EN": "Nzerekore",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -13974,7 +14006,8 @@
         "ADM2_EN": "Nzerekore",
         "ADM2_PCODE": "GN008005",
         "ADM1_PCODE": "GN008",
-        "ADM1_EN": "Nzerekore"
+        "ADM1_EN": "Nzerekore",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "Polygon",
@@ -14192,7 +14225,8 @@
         "ADM2_EN": "Yomou",
         "ADM2_PCODE": "GN008006",
         "ADM1_PCODE": "GN008",
-        "ADM1_EN": "Nzerekore"
+        "ADM1_EN": "Nzerekore",
+        "ADM0_PCODE": "GN"
       },
       "geometry": {
         "type": "MultiPolygon",

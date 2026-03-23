@@ -14,7 +14,8 @@
         "ADM2_EN": "Djérem",
         "ADM2_PCODE": "CM001001",
         "ADM1_PCODE": "CM001",
-        "ADM1_EN": "Adamaoua"
+        "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -356,7 +357,8 @@
         "ADM2_EN": "Faro-et-Déo",
         "ADM2_PCODE": "CM001002",
         "ADM1_PCODE": "CM001",
-        "ADM1_EN": "Adamaoua"
+        "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -754,7 +756,8 @@
         "ADM2_EN": "Mayo-Banyo",
         "ADM2_PCODE": "CM001003",
         "ADM1_PCODE": "CM001",
-        "ADM1_EN": "Adamaoua"
+        "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -1172,7 +1175,8 @@
         "ADM2_EN": "Mbéré",
         "ADM2_PCODE": "CM001004",
         "ADM1_PCODE": "CM001",
-        "ADM1_EN": "Adamaoua"
+        "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -1626,7 +1630,8 @@
         "ADM2_EN": "Vina",
         "ADM2_PCODE": "CM001005",
         "ADM1_PCODE": "CM001",
-        "ADM1_EN": "Adamaoua"
+        "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -2168,7 +2173,8 @@
         "ADM2_EN": "Haute-Sanaga",
         "ADM2_PCODE": "CM002001",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -2530,7 +2536,8 @@
         "ADM2_EN": "Lekié",
         "ADM2_PCODE": "CM002002",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -2768,7 +2775,8 @@
         "ADM2_EN": "Mbam-et-Inoubou",
         "ADM2_PCODE": "CM002003",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -3138,7 +3146,8 @@
         "ADM2_EN": "Mbam-et-Kim",
         "ADM2_PCODE": "CM002004",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -3676,7 +3685,8 @@
         "ADM2_EN": "Mefou-et-Afamba",
         "ADM2_PCODE": "CM002005",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -3918,7 +3928,8 @@
         "ADM2_EN": "Mefou-et-Akono",
         "ADM2_PCODE": "CM002006",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -4088,7 +4099,8 @@
         "ADM2_EN": "Mfoundi",
         "ADM2_PCODE": "CM002007",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -4166,7 +4178,8 @@
         "ADM2_EN": "Nyong-et-Kellé",
         "ADM2_PCODE": "CM002008",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -4484,7 +4497,8 @@
         "ADM2_EN": "Nyong-et-Mfoumou",
         "ADM2_PCODE": "CM002009",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -4790,7 +4804,8 @@
         "ADM2_EN": "Nyong-et-So'o",
         "ADM2_PCODE": "CM002010",
         "ADM1_PCODE": "CM002",
-        "ADM1_EN": "Centre"
+        "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -5100,7 +5115,8 @@
         "ADM2_EN": "Boumba-et-Ngoko",
         "ADM2_PCODE": "CM003001",
         "ADM1_PCODE": "CM003",
-        "ADM1_EN": "Est"
+        "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5626,7 +5642,8 @@
         "ADM2_EN": "Haut-Nyong",
         "ADM2_PCODE": "CM003002",
         "ADM1_PCODE": "CM003",
-        "ADM1_EN": "Est"
+        "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -6112,7 +6129,8 @@
         "ADM2_EN": "Kadey",
         "ADM2_PCODE": "CM003003",
         "ADM1_PCODE": "CM003",
-        "ADM1_EN": "Est"
+        "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6438,7 +6456,8 @@
         "ADM2_EN": "Lom-et-Djérem",
         "ADM2_PCODE": "CM003004",
         "ADM1_PCODE": "CM003",
-        "ADM1_EN": "Est"
+        "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -6812,7 +6831,8 @@
         "ADM2_EN": "Diamaré",
         "ADM2_PCODE": "CM004001",
         "ADM1_PCODE": "CM004",
-        "ADM1_EN": "Extrême-Nord"
+        "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -7006,7 +7026,8 @@
         "ADM2_EN": "Logone-et-Chari",
         "ADM2_PCODE": "CM004002",
         "ADM1_PCODE": "CM004",
-        "ADM1_EN": "Extrême-Nord"
+        "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -7476,7 +7497,8 @@
         "ADM2_EN": "Mayo-Danay",
         "ADM2_PCODE": "CM004003",
         "ADM1_PCODE": "CM004",
-        "ADM1_EN": "Extrême-Nord"
+        "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -7638,7 +7660,8 @@
         "ADM2_EN": "Mayo-Kani",
         "ADM2_PCODE": "CM004004",
         "ADM1_PCODE": "CM004",
-        "ADM1_EN": "Extrême-Nord"
+        "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -7772,7 +7795,8 @@
         "ADM2_EN": "Mayo-Sava",
         "ADM2_PCODE": "CM004005",
         "ADM1_PCODE": "CM004",
-        "ADM1_EN": "Extrême-Nord"
+        "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -7902,7 +7926,8 @@
         "ADM2_EN": "Mayo-Tsanaga",
         "ADM2_PCODE": "CM004006",
         "ADM1_PCODE": "CM004",
-        "ADM1_EN": "Extrême-Nord"
+        "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -8180,7 +8205,8 @@
         "ADM2_EN": "Moungo",
         "ADM2_PCODE": "CM005001",
         "ADM1_PCODE": "CM005",
-        "ADM1_EN": "Littoral"
+        "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -8522,7 +8548,8 @@
         "ADM2_EN": "Nkam",
         "ADM2_PCODE": "CM005002",
         "ADM1_PCODE": "CM005",
-        "ADM1_EN": "Littoral"
+        "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -8828,7 +8855,8 @@
         "ADM2_EN": "Sanaga-Maritime",
         "ADM2_PCODE": "CM005003",
         "ADM1_PCODE": "CM005",
-        "ADM1_EN": "Littoral"
+        "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -9266,7 +9294,8 @@
         "ADM2_EN": "Wouri",
         "ADM2_PCODE": "CM005004",
         "ADM1_PCODE": "CM005",
-        "ADM1_EN": "Littoral"
+        "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9616,7 +9645,8 @@
         "ADM2_EN": "Bénoué",
         "ADM2_PCODE": "CM006001",
         "ADM1_PCODE": "CM006",
-        "ADM1_EN": "Nord"
+        "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -10002,7 +10032,8 @@
         "ADM2_EN": "Faro",
         "ADM2_PCODE": "CM006002",
         "ADM1_PCODE": "CM006",
-        "ADM1_EN": "Nord"
+        "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -10412,7 +10443,8 @@
         "ADM2_EN": "Mayo-Louti",
         "ADM2_PCODE": "CM006003",
         "ADM1_PCODE": "CM006",
-        "ADM1_EN": "Nord"
+        "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -10638,7 +10670,8 @@
         "ADM2_EN": "Mayo-Rey",
         "ADM2_PCODE": "CM006004",
         "ADM1_PCODE": "CM006",
-        "ADM1_EN": "Nord"
+        "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -11176,7 +11209,8 @@
         "ADM2_EN": "Boyo",
         "ADM2_PCODE": "CM007001",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -11350,7 +11384,8 @@
         "ADM2_EN": "Bui",
         "ADM2_PCODE": "CM007002",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -11528,7 +11563,8 @@
         "ADM2_EN": "Donga-Mantung",
         "ADM2_PCODE": "CM007003",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -11786,7 +11822,8 @@
         "ADM2_EN": "Menchum",
         "ADM2_PCODE": "CM007004",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -11980,7 +12017,8 @@
         "ADM2_EN": "Mezam",
         "ADM2_PCODE": "CM007005",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -12166,7 +12204,8 @@
         "ADM2_EN": "Momo",
         "ADM2_PCODE": "CM007006",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -12360,7 +12399,8 @@
         "ADM2_EN": "Ngo-Ketunjia",
         "ADM2_PCODE": "CM007007",
         "ADM1_PCODE": "CM007",
-        "ADM1_EN": "Nord-Ouest"
+        "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -12522,7 +12562,8 @@
         "ADM2_EN": "Bamboutos",
         "ADM2_PCODE": "CM008001",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -12684,7 +12725,8 @@
         "ADM2_EN": "Haut-Nkam",
         "ADM2_PCODE": "CM008002",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -12806,7 +12848,8 @@
         "ADM2_EN": "Hauts-Plateaux",
         "ADM2_PCODE": "CM008003",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -12908,7 +12951,8 @@
         "ADM2_EN": "Koung-Khi",
         "ADM2_PCODE": "CM008004",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -13014,7 +13058,8 @@
         "ADM2_EN": "Menoua",
         "ADM2_PCODE": "CM008005",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -13156,7 +13201,8 @@
         "ADM2_EN": "Mifi",
         "ADM2_PCODE": "CM008006",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -13254,7 +13300,8 @@
         "ADM2_EN": "Ndé",
         "ADM2_PCODE": "CM008007",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -13452,7 +13499,8 @@
         "ADM2_EN": "Noun",
         "ADM2_PCODE": "CM008008",
         "ADM1_PCODE": "CM008",
-        "ADM1_EN": "Ouest"
+        "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -13850,7 +13898,8 @@
         "ADM2_EN": "Dja-et-Lobo",
         "ADM2_PCODE": "CM009001",
         "ADM1_PCODE": "CM009",
-        "ADM1_EN": "Sud"
+        "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -14364,7 +14413,8 @@
         "ADM2_EN": "Mvila",
         "ADM2_PCODE": "CM009002",
         "ADM1_PCODE": "CM009",
-        "ADM1_EN": "Sud"
+        "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -14586,7 +14636,8 @@
         "ADM2_EN": "Océan",
         "ADM2_PCODE": "CM009003",
         "ADM1_PCODE": "CM009",
-        "ADM1_EN": "Sud"
+        "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -14888,7 +14939,8 @@
         "ADM2_EN": "Vallée-du-Ntem",
         "ADM2_PCODE": "CM009004",
         "ADM1_PCODE": "CM009",
-        "ADM1_EN": "Sud"
+        "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -15018,7 +15070,8 @@
         "ADM2_EN": "Fako",
         "ADM2_PCODE": "CM010001",
         "ADM1_PCODE": "CM010",
-        "ADM1_EN": "Sud-Ouest"
+        "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15524,7 +15577,8 @@
         "ADM2_EN": "Kupe-Manenguba",
         "ADM2_PCODE": "CM010002",
         "ADM1_PCODE": "CM010",
-        "ADM1_EN": "Sud-Ouest"
+        "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -15778,7 +15832,8 @@
         "ADM2_EN": "Lebialem",
         "ADM2_PCODE": "CM010003",
         "ADM1_PCODE": "CM010",
-        "ADM1_EN": "Sud-Ouest"
+        "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -15900,7 +15955,8 @@
         "ADM2_EN": "Manyu",
         "ADM2_PCODE": "CM010004",
         "ADM1_PCODE": "CM010",
-        "ADM1_EN": "Sud-Ouest"
+        "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -16254,7 +16310,8 @@
         "ADM2_EN": "Meme",
         "ADM2_PCODE": "CM010005",
         "ADM1_PCODE": "CM010",
-        "ADM1_EN": "Sud-Ouest"
+        "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "Polygon",
@@ -16488,7 +16545,8 @@
         "ADM2_EN": "Ndian",
         "ADM2_PCODE": "CM010006",
         "ADM1_PCODE": "CM010",
-        "ADM1_EN": "Sud-Ouest"
+        "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM"
       },
       "geometry": {
         "type": "MultiPolygon",

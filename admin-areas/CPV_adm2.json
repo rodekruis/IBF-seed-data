@@ -14,7 +14,8 @@
         "ADM2_EN": "Santa Isabel",
         "ADM2_PCODE": "CV0101",
         "ADM1_PCODE": "CV01",
-        "ADM1_EN": "Boa Vista"
+        "ADM1_EN": "Boa Vista",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172,7 +173,8 @@
         "ADM2_EN": "Sao Joao Baptista",
         "ADM2_PCODE": "CV0102",
         "ADM1_PCODE": "CV01",
-        "ADM1_EN": "Boa Vista"
+        "ADM1_EN": "Boa Vista",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -458,7 +460,8 @@
         "ADM2_EN": "Nossa Senhora do Monte",
         "ADM2_PCODE": "CV0201",
         "ADM1_PCODE": "CV02",
-        "ADM1_EN": "Brava"
+        "ADM1_EN": "Brava",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -576,7 +579,8 @@
         "ADM2_EN": "Sao Joao Baptista",
         "ADM2_PCODE": "CV0202",
         "ADM1_PCODE": "CV02",
-        "ADM1_EN": "Brava"
+        "ADM1_EN": "Brava",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2122,7 +2126,8 @@
         "ADM2_EN": "Nossa Senhora da Luz",
         "ADM2_PCODE": "CV0301",
         "ADM1_PCODE": "CV03",
-        "ADM1_EN": "Maio"
+        "ADM1_EN": "Maio",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2272,7 +2277,8 @@
         "ADM2_EN": "Nossa Senhora da Ajuda",
         "ADM2_PCODE": "CV0401",
         "ADM1_PCODE": "CV04",
-        "ADM1_EN": "Mosteiros"
+        "ADM1_EN": "Mosteiros",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -2318,7 +2324,8 @@
         "ADM2_EN": "Santo Antonio das Pombas",
         "ADM2_PCODE": "CV0501",
         "ADM1_PCODE": "CV05",
-        "ADM1_EN": "Paul"
+        "ADM1_EN": "Paul",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2460,7 +2467,8 @@
         "ADM2_EN": "Santo Andre",
         "ADM2_PCODE": "CV0601",
         "ADM1_PCODE": "CV06",
-        "ADM1_EN": "Porto Novo"
+        "ADM1_EN": "Porto Novo",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -2510,7 +2518,8 @@
         "ADM2_EN": "Sao Joao Baptista",
         "ADM2_PCODE": "CV0602",
         "ADM1_PCODE": "CV06",
-        "ADM1_EN": "Porto Novo"
+        "ADM1_EN": "Porto Novo",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -2584,7 +2593,8 @@
         "ADM2_EN": "Nossa Senhora da Graca",
         "ADM2_PCODE": "CV0701",
         "ADM1_PCODE": "CV07",
-        "ADM1_EN": "Praia"
+        "ADM1_EN": "Praia",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2666,7 +2676,8 @@
         "ADM2_EN": "Nossa Senhora da Lapa",
         "ADM2_PCODE": "CV0801",
         "ADM1_PCODE": "CV08",
-        "ADM1_EN": "Ribeira Brava"
+        "ADM1_EN": "Ribeira Brava",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2736,7 +2747,8 @@
         "ADM2_EN": "Nossa Senhora do Rosario",
         "ADM2_PCODE": "CV0802",
         "ADM1_PCODE": "CV08",
-        "ADM1_EN": "Ribeira Brava"
+        "ADM1_EN": "Ribeira Brava",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -2834,7 +2846,8 @@
         "ADM2_EN": "Nossa Senhora do Livramento",
         "ADM2_PCODE": "CV0901",
         "ADM1_PCODE": "CV09",
-        "ADM1_EN": "Ribeira Grande"
+        "ADM1_EN": "Ribeira Grande",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2920,7 +2933,8 @@
         "ADM2_EN": "Nossa Senhora do Rosario",
         "ADM2_PCODE": "CV0902",
         "ADM1_PCODE": "CV09",
-        "ADM1_EN": "Ribeira Grande"
+        "ADM1_EN": "Ribeira Grande",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -2958,7 +2972,8 @@
         "ADM2_EN": "Santo Crucifixo",
         "ADM2_PCODE": "CV0903",
         "ADM1_PCODE": "CV09",
-        "ADM1_EN": "Ribeira Grande"
+        "ADM1_EN": "Ribeira Grande",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -3004,7 +3019,8 @@
         "ADM2_EN": "Sao Pedro Apostolo",
         "ADM2_PCODE": "CV0904",
         "ADM1_PCODE": "CV09",
-        "ADM1_EN": "Ribeira Grande"
+        "ADM1_EN": "Ribeira Grande",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -3046,7 +3062,8 @@
         "ADM2_EN": "Santissimo Nome de Jesus",
         "ADM2_PCODE": "CV1001",
         "ADM1_PCODE": "CV10",
-        "ADM1_EN": "Ribeira Grande de Santiago"
+        "ADM1_EN": "Ribeira Grande de Santiago",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -3088,7 +3105,8 @@
         "ADM2_EN": "Sao Joao Baptista",
         "ADM2_PCODE": "CV1002",
         "ADM1_PCODE": "CV10",
-        "ADM1_EN": "Ribeira Grande de Santiago"
+        "ADM1_EN": "Ribeira Grande de Santiago",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3154,7 +3172,8 @@
         "ADM2_EN": "Nossa Senhora das Dores",
         "ADM2_PCODE": "CV1101",
         "ADM1_PCODE": "CV11",
-        "ADM1_EN": "Sal"
+        "ADM1_EN": "Sal",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3308,7 +3327,8 @@
         "ADM2_EN": "Santa Catarina",
         "ADM2_PCODE": "CV1201",
         "ADM1_PCODE": "CV12",
-        "ADM1_EN": "Santa Catarina"
+        "ADM1_EN": "Santa Catarina",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3506,7 +3526,8 @@
         "ADM2_EN": "Santa Catarina do Fogo",
         "ADM2_PCODE": "CV1301",
         "ADM1_PCODE": "CV13",
-        "ADM1_EN": "Santa Catarina do Fogo"
+        "ADM1_EN": "Santa Catarina do Fogo",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3776,7 +3797,8 @@
         "ADM2_EN": "Santiago Maior",
         "ADM2_PCODE": "CV1401",
         "ADM1_PCODE": "CV14",
-        "ADM1_EN": "Santa Cruz"
+        "ADM1_EN": "Santa Cruz",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -3858,7 +3880,8 @@
         "ADM2_EN": "Nossa Senhora da Luz",
         "ADM2_PCODE": "CV1501",
         "ADM1_PCODE": "CV15",
-        "ADM1_EN": "Sao Domingos"
+        "ADM1_EN": "Sao Domingos",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -3908,7 +3931,8 @@
         "ADM2_EN": "Sao Nicolau Tolentino",
         "ADM2_PCODE": "CV1502",
         "ADM1_PCODE": "CV15",
-        "ADM1_EN": "Sao Domingos"
+        "ADM1_EN": "Sao Domingos",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -3954,7 +3978,8 @@
         "ADM2_EN": "Nossa Senhora da Conceicao",
         "ADM2_PCODE": "CV1601",
         "ADM1_PCODE": "CV16",
-        "ADM1_EN": "Sao Filipe"
+        "ADM1_EN": "Sao Filipe",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4192,7 +4217,8 @@
         "ADM2_EN": "Sao Lourenco",
         "ADM2_PCODE": "CV1602",
         "ADM1_PCODE": "CV16",
-        "ADM1_EN": "Sao Filipe"
+        "ADM1_EN": "Sao Filipe",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5254,7 +5280,8 @@
         "ADM2_EN": "Sao Lourenco dos Orgaos",
         "ADM2_PCODE": "CV1701",
         "ADM1_PCODE": "CV17",
-        "ADM1_EN": "Sao Lourenco dos Orgaos"
+        "ADM1_EN": "Sao Lourenco dos Orgaos",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -5304,7 +5331,8 @@
         "ADM2_EN": "Sao Miguel Arcanjo",
         "ADM2_PCODE": "CV1801",
         "ADM1_PCODE": "CV18",
-        "ADM1_EN": "Sao Miguel"
+        "ADM1_EN": "Sao Miguel",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5378,7 +5406,8 @@
         "ADM2_EN": "Sao Salvador do Mundo",
         "ADM2_PCODE": "CV1901",
         "ADM1_PCODE": "CV19",
-        "ADM1_EN": "Sao Salvador do Mundo"
+        "ADM1_EN": "Sao Salvador do Mundo",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -5420,7 +5449,8 @@
         "ADM2_EN": "Nossa Senhora da Luz",
         "ADM2_PCODE": "CV2001",
         "ADM1_PCODE": "CV20",
-        "ADM1_EN": "Sao Vicente"
+        "ADM1_EN": "Sao Vicente",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5618,7 +5648,8 @@
         "ADM2_EN": "Santo Amaro Abade",
         "ADM2_PCODE": "CV2101",
         "ADM1_PCODE": "CV21",
-        "ADM1_EN": "Tarrafal"
+        "ADM1_EN": "Tarrafal",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",
@@ -5684,7 +5715,8 @@
         "ADM2_EN": "Sao Francisco de Assis",
         "ADM2_PCODE": "CV2201",
         "ADM1_PCODE": "CV22",
-        "ADM1_EN": "Tarrafal de Sao Nicolau"
+        "ADM1_EN": "Tarrafal de Sao Nicolau",
+        "ADM0_PCODE": "CV"
       },
       "geometry": {
         "type": "Polygon",

@@ -14,7 +14,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG0100",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -136,7 +137,8 @@
         "ADM2_EN": "Al Tibbin",
         "ADM2_PCODE": "EG0101",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -182,7 +184,8 @@
         "ADM2_EN": "Hilwan",
         "ADM2_PCODE": "EG0102",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -220,7 +223,8 @@
         "ADM2_EN": "15 Mayu",
         "ADM2_PCODE": "EG0103",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -274,7 +278,8 @@
         "ADM2_EN": "Maadi",
         "ADM2_PCODE": "EG0104",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -320,7 +325,8 @@
         "ADM2_EN": "Tura",
         "ADM2_PCODE": "EG0105",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -362,7 +368,8 @@
         "ADM2_EN": "Misr Al-Qadima",
         "ADM2_PCODE": "EG0106",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -400,7 +407,8 @@
         "ADM2_EN": "Sayyida Zainab",
         "ADM2_PCODE": "EG0107",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -438,7 +446,8 @@
         "ADM2_EN": "Al Khalifa",
         "ADM2_PCODE": "EG0108",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -480,7 +489,8 @@
         "ADM2_EN": "Abdin",
         "ADM2_PCODE": "EG0109",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -518,7 +528,8 @@
         "ADM2_EN": "Muski",
         "ADM2_PCODE": "EG0110",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -556,7 +567,8 @@
         "ADM2_EN": "Qasr Al-Nile",
         "ADM2_PCODE": "EG0111",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -594,7 +606,8 @@
         "ADM2_EN": "Bulaq",
         "ADM2_PCODE": "EG0112",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -632,7 +645,8 @@
         "ADM2_EN": "Al Azbakiyya",
         "ADM2_PCODE": "EG0113",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -670,7 +684,8 @@
         "ADM2_EN": "Al Darb al-Ahmar",
         "ADM2_PCODE": "EG0114",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -708,7 +723,8 @@
         "ADM2_EN": "Gamaliyya",
         "ADM2_PCODE": "EG0115",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -746,7 +762,8 @@
         "ADM2_EN": "Bab Al-Shariyya",
         "ADM2_PCODE": "EG0116",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -784,7 +801,8 @@
         "ADM2_EN": "Al Zahir",
         "ADM2_PCODE": "EG0117",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -822,7 +840,8 @@
         "ADM2_EN": "Al Sharabiyya",
         "ADM2_PCODE": "EG0118",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -860,7 +879,8 @@
         "ADM2_EN": "Shubra",
         "ADM2_PCODE": "EG0119",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -898,7 +918,8 @@
         "ADM2_EN": "Rud Al-Farag",
         "ADM2_PCODE": "EG0120",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -936,7 +957,8 @@
         "ADM2_EN": "Al Sahil",
         "ADM2_PCODE": "EG0121",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -974,7 +996,8 @@
         "ADM2_EN": "Al Wayli",
         "ADM2_PCODE": "EG0122",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1012,7 +1035,8 @@
         "ADM2_EN": "Hadaiq Al-Qubba",
         "ADM2_PCODE": "EG0123",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1050,7 +1074,8 @@
         "ADM2_EN": "Al Zaytun",
         "ADM2_PCODE": "EG0124",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1088,7 +1113,8 @@
         "ADM2_EN": "Al Matariyya",
         "ADM2_PCODE": "EG0125",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1126,7 +1152,8 @@
         "ADM2_EN": "Nasr City",
         "ADM2_PCODE": "EG0126",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1164,7 +1191,8 @@
         "ADM2_EN": "Madinat Nasr-2",
         "ADM2_PCODE": "EG0127",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1202,7 +1230,8 @@
         "ADM2_EN": "Misr al-Gadida",
         "ADM2_PCODE": "EG0128",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1240,7 +1269,8 @@
         "ADM2_EN": "Nuzha",
         "ADM2_PCODE": "EG0129",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1282,7 +1312,8 @@
         "ADM2_EN": "Ain Shams",
         "ADM2_PCODE": "EG0130",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1320,7 +1351,8 @@
         "ADM2_EN": "Zawiyya Al-Hamra",
         "ADM2_PCODE": "EG0131",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1358,7 +1390,8 @@
         "ADM2_EN": "Al Salam",
         "ADM2_PCODE": "EG0132",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1404,7 +1437,8 @@
         "ADM2_EN": "Zamalik",
         "ADM2_PCODE": "EG0133",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1442,7 +1476,8 @@
         "ADM2_EN": "Minshat Nasir",
         "ADM2_PCODE": "EG0134",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1488,7 +1523,8 @@
         "ADM2_EN": "Basatin",
         "ADM2_PCODE": "EG0135",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1538,7 +1574,8 @@
         "ADM2_EN": "Marg",
         "ADM2_PCODE": "EG0136",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1588,7 +1625,8 @@
         "ADM2_EN": "New Cairo-1",
         "ADM2_PCODE": "EG0137",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1666,7 +1704,8 @@
         "ADM2_EN": "New Cairo-2",
         "ADM2_PCODE": "EG0138",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1736,7 +1775,8 @@
         "ADM2_EN": "New Cairo-3",
         "ADM2_PCODE": "EG0139",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1802,7 +1842,8 @@
         "ADM2_EN": "Shroq",
         "ADM2_PCODE": "EG0140",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1844,7 +1885,8 @@
         "ADM2_EN": "Badr",
         "ADM2_PCODE": "EG0141",
         "ADM1_PCODE": "EG01",
-        "ADM1_EN": "Cairo"
+        "ADM1_EN": "Cairo",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1886,7 +1928,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG0200",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -1948,7 +1991,8 @@
         "ADM2_EN": "Muntazah",
         "ADM2_PCODE": "EG0201",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2146,7 +2190,8 @@
         "ADM2_EN": "Al Raml",
         "ADM2_PCODE": "EG0202",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2196,7 +2241,8 @@
         "ADM2_EN": "Sidi Gabir",
         "ADM2_PCODE": "EG0203",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2234,7 +2280,8 @@
         "ADM2_EN": "Bab Sharqi",
         "ADM2_PCODE": "EG0204",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2272,7 +2319,8 @@
         "ADM2_EN": "Muharam Bik",
         "ADM2_PCODE": "EG0205",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2314,7 +2362,8 @@
         "ADM2_EN": "Al Attarin",
         "ADM2_PCODE": "EG0206",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2352,7 +2401,8 @@
         "ADM2_EN": "Al Manshiyya",
         "ADM2_PCODE": "EG0207",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2390,7 +2440,8 @@
         "ADM2_EN": "Karmuz",
         "ADM2_PCODE": "EG0208",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2428,7 +2479,8 @@
         "ADM2_EN": "A L Labban",
         "ADM2_PCODE": "EG0209",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2466,7 +2518,8 @@
         "ADM2_EN": "Al Gumruk",
         "ADM2_PCODE": "EG0210",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2512,7 +2565,8 @@
         "ADM2_EN": "Mina Al-Basal",
         "ADM2_PCODE": "EG0211",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2550,7 +2604,8 @@
         "ADM2_EN": "Al Dikhila",
         "ADM2_PCODE": "EG0212",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2632,7 +2687,8 @@
         "ADM2_EN": "Al Amreia",
         "ADM2_PCODE": "EG0213",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2766,7 +2822,8 @@
         "ADM2_EN": "Burg al-Arab",
         "ADM2_PCODE": "EG0214",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2840,7 +2897,8 @@
         "ADM2_EN": "Port Alexandria Police Department",
         "ADM2_PCODE": "EG0215",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2894,7 +2952,8 @@
         "ADM2_EN": "Burg Al-Arab City",
         "ADM2_PCODE": "EG0216",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -2952,7 +3011,8 @@
         "ADM2_EN": "Kesm than Al Raml",
         "ADM2_PCODE": "EG0217",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3002,7 +3062,8 @@
         "ADM2_EN": "North Coast",
         "ADM2_PCODE": "EG0218",
         "ADM1_PCODE": "EG02",
-        "ADM1_EN": "Alexandria"
+        "ADM1_EN": "Alexandria",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3040,7 +3101,8 @@
         "ADM2_EN": "Al-Sharq",
         "ADM2_PCODE": "EG0301",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3102,7 +3164,8 @@
         "ADM2_EN": "Al-Arab",
         "ADM2_PCODE": "EG0302",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3140,7 +3203,8 @@
         "ADM2_EN": "Al-Munakh",
         "ADM2_PCODE": "EG0303",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3178,7 +3242,8 @@
         "ADM2_EN": "Port Fuad",
         "ADM2_PCODE": "EG0304",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3340,7 +3405,8 @@
         "ADM2_EN": "Al-Dawahy ",
         "ADM2_PCODE": "EG0305",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -3378,7 +3444,8 @@
         "ADM2_EN": "Al-Ganoub",
         "ADM2_PCODE": "EG0306",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4252,7 +4319,8 @@
         "ADM2_EN": "Al-Zohour",
         "ADM2_PCODE": "EG0307",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -4290,7 +4358,8 @@
         "ADM2_EN": "Port Fuad 2",
         "ADM2_PCODE": "EG0308",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4372,7 +4441,8 @@
         "ADM2_EN": "Mubark-Sharq Tafrea",
         "ADM2_PCODE": "EG0309",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4482,7 +4552,8 @@
         "ADM2_EN": "Al-Manasra",
         "ADM2_PCODE": "EG0310",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -4556,7 +4627,8 @@
         "ADM2_EN": "Al-Ganoub 2",
         "ADM2_PCODE": "EG0311",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5010,7 +5082,8 @@
         "ADM2_EN": "Police Department Port Said Port",
         "ADM2_PCODE": "EG0312",
         "ADM1_PCODE": "EG03",
-        "ADM1_EN": "Port Said"
+        "ADM1_EN": "Port Said",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5212,7 +5285,8 @@
         "ADM2_EN": "Suez ",
         "ADM2_PCODE": "EG0401",
         "ADM1_PCODE": "EG04",
-        "ADM1_EN": "Suez"
+        "ADM1_EN": "Suez",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5298,7 +5372,8 @@
         "ADM2_EN": "Al-Arbiin",
         "ADM2_PCODE": "EG0402",
         "ADM1_PCODE": "EG04",
-        "ADM1_EN": "Suez"
+        "ADM1_EN": "Suez",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5372,7 +5447,8 @@
         "ADM2_EN": "Ataqa",
         "ADM2_PCODE": "EG0403",
         "ADM1_PCODE": "EG04",
-        "ADM1_EN": "Suez"
+        "ADM1_EN": "Suez",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5498,7 +5574,8 @@
         "ADM2_EN": "Faysal",
         "ADM2_PCODE": "EG0404",
         "ADM1_PCODE": "EG04",
-        "ADM1_EN": "Suez"
+        "ADM1_EN": "Suez",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -5596,7 +5673,8 @@
         "ADM2_EN": "Al-Ganayin",
         "ADM2_PCODE": "EG0405",
         "ADM1_PCODE": "EG04",
-        "ADM1_EN": "Suez"
+        "ADM1_EN": "Suez",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5918,7 +5996,8 @@
         "ADM2_EN": "Port Suez Police Department",
         "ADM2_PCODE": "EG0406",
         "ADM1_PCODE": "EG04",
-        "ADM1_EN": "Suez"
+        "ADM1_EN": "Suez",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6116,7 +6195,8 @@
         "ADM2_EN": "Dumyat 1",
         "ADM2_PCODE": "EG1101",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6154,7 +6234,8 @@
         "ADM2_EN": "Dumyat",
         "ADM2_PCODE": "EG1102",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6364,7 +6445,8 @@
         "ADM2_EN": "Fariskur",
         "ADM2_PCODE": "EG1103",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6438,7 +6520,8 @@
         "ADM2_EN": "Kafr Sad",
         "ADM2_PCODE": "EG1104",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6528,7 +6611,8 @@
         "ADM2_EN": "Dumyat Al-Gadida",
         "ADM2_PCODE": "EG1105",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6578,7 +6662,8 @@
         "ADM2_EN": "Ras al-Bar",
         "ADM2_PCODE": "EG1106",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6616,7 +6701,8 @@
         "ADM2_EN": "Zarqa",
         "ADM2_PCODE": "EG1107",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6674,7 +6760,8 @@
         "ADM2_EN": "Police Department Port of Damietta",
         "ADM2_PCODE": "EG1108",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6728,7 +6815,8 @@
         "ADM2_EN": "Dumyat 2",
         "ADM2_PCODE": "EG1109",
         "ADM1_PCODE": "EG11",
-        "ADM1_EN": "Damietta"
+        "ADM1_EN": "Damietta",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6766,7 +6854,8 @@
         "ADM2_EN": "El Mansora 1",
         "ADM2_PCODE": "EG1201",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6812,7 +6901,8 @@
         "ADM2_EN": "E Mansora 2",
         "ADM2_PCODE": "EG1202",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -6862,7 +6952,8 @@
         "ADM2_EN": "El Mansora",
         "ADM2_PCODE": "EG1203",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7012,7 +7103,8 @@
         "ADM2_EN": "Aga",
         "ADM2_PCODE": "EG1204",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7118,7 +7210,8 @@
         "ADM2_EN": "Sinbillawin",
         "ADM2_PCODE": "EG1205",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7248,7 +7341,8 @@
         "ADM2_EN": "Matariyya",
         "ADM2_PCODE": "EG1206",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7294,7 +7388,8 @@
         "ADM2_EN": "Manzala",
         "ADM2_PCODE": "EG1207",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7380,7 +7475,8 @@
         "ADM2_EN": "Bilqas",
         "ADM2_PCODE": "EG1208",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7474,7 +7570,8 @@
         "ADM2_EN": "Dikirnis",
         "ADM2_PCODE": "EG1209",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7620,7 +7717,8 @@
         "ADM2_EN": "Shirbin",
         "ADM2_PCODE": "EG1210",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7726,7 +7824,8 @@
         "ADM2_EN": "Talkha",
         "ADM2_PCODE": "EG1211",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7804,7 +7903,8 @@
         "ADM2_EN": "Mit Ghamr",
         "ADM2_PCODE": "EG1212",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7846,7 +7946,8 @@
         "ADM2_EN": "Mit Ghamr",
         "ADM2_PCODE": "EG1213",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -7956,7 +8057,8 @@
         "ADM2_EN": "Minya Al-Nasr",
         "ADM2_PCODE": "EG1214",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8042,7 +8144,8 @@
         "ADM2_EN": "Gamaliyya",
         "ADM2_PCODE": "EG1215",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8092,7 +8195,8 @@
         "ADM2_EN": "Tamy Al-Amdid",
         "ADM2_PCODE": "EG1216",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8166,7 +8270,8 @@
         "ADM2_EN": "MIt Salsil",
         "ADM2_PCODE": "EG1217",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8256,7 +8361,8 @@
         "ADM2_EN": "Bany Abeed",
         "ADM2_PCODE": "EG1218",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8354,7 +8460,8 @@
         "ADM2_EN": "Mahalet Demna",
         "ADM2_PCODE": "EG1219",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8424,7 +8531,8 @@
         "ADM2_EN": "Gamsa",
         "ADM2_PCODE": "EG1220",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8462,7 +8570,8 @@
         "ADM2_EN": "Nebro",
         "ADM2_PCODE": "EG1221",
         "ADM1_PCODE": "EG12",
-        "ADM1_EN": "Dakahlia"
+        "ADM1_EN": "Dakahlia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8540,7 +8649,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG1300",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8644,7 +8754,8 @@
         "ADM2_EN": "Zaqaziq 1",
         "ADM2_PCODE": "EG1301",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8682,7 +8793,8 @@
         "ADM2_EN": "Zaqaziq 2",
         "ADM2_PCODE": "EG1302",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8720,7 +8832,8 @@
         "ADM2_EN": "Zaqaziq",
         "ADM2_PCODE": "EG1303",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -8918,7 +9031,8 @@
         "ADM2_EN": "Abu Hammad",
         "ADM2_PCODE": "EG1304",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9020,7 +9134,8 @@
         "ADM2_EN": "Abu Kabir",
         "ADM2_PCODE": "EG1305",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9126,7 +9241,8 @@
         "ADM2_EN": "Al-Husayniya",
         "ADM2_PCODE": "EG1306",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9244,7 +9360,8 @@
         "ADM2_EN": "Al-Salhiyya",
         "ADM2_PCODE": "EG1307",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9350,7 +9467,8 @@
         "ADM2_EN": "Bilbis",
         "ADM2_PCODE": "EG1308",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9476,7 +9594,8 @@
         "ADM2_EN": "10 Ramadan 1",
         "ADM2_PCODE": "EG1309",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9514,7 +9633,8 @@
         "ADM2_EN": "Dyarb Nigm",
         "ADM2_PCODE": "EG1310",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9584,7 +9704,8 @@
         "ADM2_EN": "Faqus",
         "ADM2_PCODE": "EG1311",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9622,7 +9743,8 @@
         "ADM2_EN": "Faqus",
         "ADM2_PCODE": "EG1312",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9786,7 +9908,8 @@
         "ADM2_EN": "Kafr Saqr",
         "ADM2_PCODE": "EG1313",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -9908,7 +10031,8 @@
         "ADM2_EN": "Minya al-Qamh",
         "ADM2_PCODE": "EG1314",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10026,7 +10150,8 @@
         "ADM2_EN": "Hihya",
         "ADM2_PCODE": "EG1315",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10108,7 +10233,8 @@
         "ADM2_EN": "Mashtul Al-Suq",
         "ADM2_PCODE": "EG1316",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10186,7 +10312,8 @@
         "ADM2_EN": "El-Ibrahimiya",
         "ADM2_PCODE": "EG1317",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10244,7 +10371,8 @@
         "ADM2_EN": "Al-Qanayat",
         "ADM2_PCODE": "EG1318",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10286,7 +10414,8 @@
         "ADM2_EN": "Awlad Saqr",
         "ADM2_PCODE": "EG1319",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10368,7 +10497,8 @@
         "ADM2_EN": "Qurin",
         "ADM2_PCODE": "EG1320",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10406,7 +10536,8 @@
         "ADM2_EN": "10 Ramadan 2",
         "ADM2_PCODE": "EG1321",
         "ADM1_PCODE": "EG13",
-        "ADM1_EN": "Sharkia"
+        "ADM1_EN": "Sharkia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10448,7 +10579,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG1400",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10522,7 +10654,8 @@
         "ADM2_EN": "Banha",
         "ADM2_PCODE": "EG1401",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10560,7 +10693,8 @@
         "ADM2_EN": "Banha",
         "ADM2_PCODE": "EG1402",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10676,7 +10810,8 @@
         "ADM2_EN": "Al Khanka",
         "ADM2_PCODE": "EG1403",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10754,7 +10889,8 @@
         "ADM2_EN": "Qanatir Al-Khayriyya",
         "ADM2_PCODE": "EG1404",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10824,7 +10960,8 @@
         "ADM2_EN": "Shibin al-Qanatir",
         "ADM2_PCODE": "EG1405",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10910,7 +11047,8 @@
         "ADM2_EN": "Shubra Al-Khayma 1",
         "ADM2_PCODE": "EG1406",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10948,7 +11086,8 @@
         "ADM2_EN": "Shubra Al-Khayma 2",
         "ADM2_PCODE": "EG1407",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -10986,7 +11125,8 @@
         "ADM2_EN": "Tukh",
         "ADM2_PCODE": "EG1408",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11088,7 +11228,8 @@
         "ADM2_EN": "Qalyub",
         "ADM2_PCODE": "EG1409",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11126,7 +11267,8 @@
         "ADM2_EN": "Qalyub",
         "ADM2_PCODE": "EG1410",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11204,7 +11346,8 @@
         "ADM2_EN": "Kafr Shukr",
         "ADM2_PCODE": "EG1411",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11278,7 +11421,8 @@
         "ADM2_EN": "Khsos",
         "ADM2_PCODE": "EG1412",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11316,7 +11460,8 @@
         "ADM2_EN": "Abour",
         "ADM2_PCODE": "EG1413",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11358,7 +11503,8 @@
         "ADM2_EN": "Qaha",
         "ADM2_PCODE": "EG1414",
         "ADM1_PCODE": "EG14",
-        "ADM1_EN": "Kalyoubia"
+        "ADM1_EN": "Kalyoubia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11404,7 +11550,8 @@
         "ADM2_EN": "Kafr Al-Shaykh",
         "ADM2_PCODE": "EG1501",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11454,7 +11601,8 @@
         "ADM2_EN": "Kafr Al-Shaykh",
         "ADM2_PCODE": "EG1502",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11622,7 +11770,8 @@
         "ADM2_EN": "Burullus",
         "ADM2_PCODE": "EG1503",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11688,7 +11837,8 @@
         "ADM2_EN": "Biyalu",
         "ADM2_PCODE": "EG1504",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11790,7 +11940,8 @@
         "ADM2_EN": "Disuq",
         "ADM2_PCODE": "EG1505",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11832,7 +11983,8 @@
         "ADM2_EN": "Disuq",
         "ADM2_PCODE": "EG1506",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -11946,7 +12098,8 @@
         "ADM2_EN": "Sidi Salim",
         "ADM2_PCODE": "EG1507",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12060,7 +12213,8 @@
         "ADM2_EN": "Fuwwa",
         "ADM2_PCODE": "EG1508",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12142,7 +12296,8 @@
         "ADM2_EN": "Qillin",
         "ADM2_PCODE": "EG1509",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12212,7 +12367,8 @@
         "ADM2_EN": "Mitubas",
         "ADM2_PCODE": "EG1510",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12310,7 +12466,8 @@
         "ADM2_EN": "Al Hamul",
         "ADM2_PCODE": "EG1511",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12420,7 +12577,8 @@
         "ADM2_EN": "Riyad",
         "ADM2_PCODE": "EG1512",
         "ADM1_PCODE": "EG15",
-        "ADM1_EN": "Kafr El-Shikh"
+        "ADM1_EN": "Kafr El-Shikh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12518,7 +12676,8 @@
         "ADM2_EN": "Tanta 1",
         "ADM2_PCODE": "EG1601",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12564,7 +12723,8 @@
         "ADM2_EN": "Tanta 2",
         "ADM2_PCODE": "EG1602",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12602,7 +12762,8 @@
         "ADM2_EN": "Tanta",
         "ADM2_PCODE": "EG1603",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12738,7 +12899,8 @@
         "ADM2_EN": "Santa",
         "ADM2_PCODE": "EG1604",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12828,7 +12990,8 @@
         "ADM2_EN": "El Mahalla El Kobra 1",
         "ADM2_PCODE": "EG1605",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12870,7 +13033,8 @@
         "ADM2_EN": "El Mahalla El Kobra 2",
         "ADM2_PCODE": "EG1606",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -12916,7 +13080,8 @@
         "ADM2_EN": "El Mahalla El Kobra",
         "ADM2_PCODE": "EG1607",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13052,7 +13217,8 @@
         "ADM2_EN": "Basyun",
         "ADM2_PCODE": "EG1608",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13154,7 +13320,8 @@
         "ADM2_EN": "Zifta",
         "ADM2_PCODE": "EG1609",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13252,7 +13419,8 @@
         "ADM2_EN": "Samannud",
         "ADM2_PCODE": "EG1610",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13330,7 +13498,8 @@
         "ADM2_EN": "Qutur",
         "ADM2_PCODE": "EG1611",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13420,7 +13589,8 @@
         "ADM2_EN": "Kafr Al-Zayyat",
         "ADM2_PCODE": "EG1612",
         "ADM1_PCODE": "EG16",
-        "ADM1_EN": "Gharbia"
+        "ADM1_EN": "Gharbia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13558,7 +13728,8 @@
         "ADM2_EN": "Shibin al-Kum",
         "ADM2_PCODE": "EG1701",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13604,7 +13775,8 @@
         "ADM2_EN": "Shibin al-Kum",
         "ADM2_PCODE": "EG1702",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13728,7 +13900,8 @@
         "ADM2_EN": "Ashmun",
         "ADM2_PCODE": "EG1703",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13838,7 +14011,8 @@
         "ADM2_EN": "Al-Bagur",
         "ADM2_PCODE": "EG1704",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13932,7 +14106,8 @@
         "ADM2_EN": "Al-Shuhada",
         "ADM2_PCODE": "EG1705",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14014,7 +14189,8 @@
         "ADM2_EN": "Birkat Al-Sab",
         "ADM2_PCODE": "EG1706",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14100,7 +14276,8 @@
         "ADM2_EN": "Tala",
         "ADM2_PCODE": "EG1707",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14202,7 +14379,8 @@
         "ADM2_EN": "Quwisna",
         "ADM2_PCODE": "EG1708",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14312,7 +14490,8 @@
         "ADM2_EN": "Minuf",
         "ADM2_PCODE": "EG1709",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14406,7 +14585,8 @@
         "ADM2_EN": "Sirs Al-Layyana City",
         "ADM2_PCODE": "EG1710",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14448,7 +14628,8 @@
         "ADM2_EN": "Sadat City",
         "ADM2_PCODE": "EG1711",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14542,7 +14723,8 @@
         "ADM2_EN": "Minuf City",
         "ADM2_PCODE": "EG1712",
         "ADM1_PCODE": "EG17",
-        "ADM1_EN": "Menoufia"
+        "ADM1_EN": "Menoufia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14584,7 +14766,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG1800",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14782,7 +14965,8 @@
         "ADM2_EN": "Damanhur",
         "ADM2_PCODE": "EG1801",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14820,7 +15004,8 @@
         "ADM2_EN": "Damanhur",
         "ADM2_PCODE": "EG1802",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -14976,7 +15161,8 @@
         "ADM2_EN": "Abu-l-Matamir",
         "ADM2_PCODE": "EG1803",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15082,7 +15268,8 @@
         "ADM2_EN": "Abu Hummus",
         "ADM2_PCODE": "EG1804",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15192,7 +15379,8 @@
         "ADM2_EN": "Al-Dilingat",
         "ADM2_PCODE": "EG1805",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15302,7 +15490,8 @@
         "ADM2_EN": "Al-Mahmudiyya",
         "ADM2_PCODE": "EG1806",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15428,7 +15617,8 @@
         "ADM2_EN": "Itay Al-Barud",
         "ADM2_PCODE": "EG1807",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15570,7 +15760,8 @@
         "ADM2_EN": "Hush Isa",
         "ADM2_PCODE": "EG1808",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15640,7 +15831,8 @@
         "ADM2_EN": "Rashid",
         "ADM2_PCODE": "EG1809",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15718,7 +15910,8 @@
         "ADM2_EN": "Shubra Khît",
         "ADM2_PCODE": "EG1810",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15824,7 +16017,8 @@
         "ADM2_EN": "Kafr Al-Dawwar",
         "ADM2_PCODE": "EG1811",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -15890,7 +16084,8 @@
         "ADM2_EN": "Kafr Al-Dawwar",
         "ADM2_PCODE": "EG1812",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16026,7 +16221,8 @@
         "ADM2_EN": "Kum Hamada",
         "ADM2_PCODE": "EG1813",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16192,7 +16388,8 @@
         "ADM2_EN": "Wadi Al-NatrUn",
         "ADM2_PCODE": "EG1814",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16354,7 +16551,8 @@
         "ADM2_EN": "Al-Rahmaniyya",
         "ADM2_PCODE": "EG1815",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16456,7 +16654,8 @@
         "ADM2_EN": "Idku",
         "ADM2_PCODE": "EG1816",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16526,7 +16725,8 @@
         "ADM2_EN": "Nubariyya West",
         "ADM2_PCODE": "EG1817",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16584,7 +16784,8 @@
         "ADM2_EN": "Badr",
         "ADM2_PCODE": "EG1818",
         "ADM1_PCODE": "EG18",
-        "ADM1_EN": "Behera"
+        "ADM1_EN": "Behera",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16698,7 +16899,8 @@
         "ADM2_EN": "Ismailiyya 1",
         "ADM2_PCODE": "EG1901",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16884,7 +17086,8 @@
         "ADM2_EN": "Ismailiyya 2",
         "ADM2_PCODE": "EG1902",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16942,7 +17145,8 @@
         "ADM2_EN": "Ismailiyya 3",
         "ADM2_PCODE": "EG1903",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -16980,7 +17184,8 @@
         "ADM2_EN": "Ismailiyya",
         "ADM2_PCODE": "EG1904",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17446,7 +17651,8 @@
         "ADM2_EN": "Tal al-Kabir, al-",
         "ADM2_PCODE": "EG1905",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -17512,7 +17718,8 @@
         "ADM2_EN": "Qantara Gharb, al-",
         "ADM2_PCODE": "EG1906",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17694,7 +17901,8 @@
         "ADM2_EN": "Fayid",
         "ADM2_PCODE": "EG1907",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18004,7 +18212,8 @@
         "ADM2_EN": "Qantara Sharq, al-",
         "ADM2_PCODE": "EG1908",
         "ADM1_PCODE": "EG19",
-        "ADM1_EN": "Ismailia"
+        "ADM1_EN": "Ismailia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18418,7 +18627,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2100",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19028,7 +19238,8 @@
         "ADM2_EN": "Imbaba",
         "ADM2_PCODE": "EG2101",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19070,7 +19281,8 @@
         "ADM2_EN": "Al-Aguza",
         "ADM2_PCODE": "EG2102",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19112,7 +19324,8 @@
         "ADM2_EN": "DuqqI",
         "ADM2_PCODE": "EG2103",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19150,7 +19363,8 @@
         "ADM2_EN": "Giza",
         "ADM2_PCODE": "EG2104",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19196,7 +19410,8 @@
         "ADM2_EN": "Bulaq Al-DakrUr",
         "ADM2_PCODE": "EG2105",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19238,7 +19453,8 @@
         "ADM2_EN": "Al-Ahram",
         "ADM2_PCODE": "EG2106",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19284,7 +19500,8 @@
         "ADM2_EN": "6 October-1",
         "ADM2_PCODE": "EG2107",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19326,7 +19543,8 @@
         "ADM2_EN": "Hwamdeia",
         "ADM2_PCODE": "EG2108",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19368,7 +19586,8 @@
         "ADM2_EN": "Giza",
         "ADM2_PCODE": "EG2109",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19414,7 +19633,8 @@
         "ADM2_EN": "Badrashain",
         "ADM2_PCODE": "EG2110",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19480,7 +19700,8 @@
         "ADM2_EN": "Saf",
         "ADM2_PCODE": "EG2111",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19566,7 +19787,8 @@
         "ADM2_EN": "Ayat",
         "ADM2_PCODE": "EG2112",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19652,7 +19874,8 @@
         "ADM2_EN": "Imbaba",
         "ADM2_PCODE": "EG2113",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -19738,7 +19961,8 @@
         "ADM2_EN": "Bahariya Oasis",
         "ADM2_PCODE": "EG2114",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20092,7 +20316,8 @@
         "ADM2_EN": "Atfeh",
         "ADM2_PCODE": "EG2115",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20174,7 +20399,8 @@
         "ADM2_EN": "Auseem",
         "ADM2_PCODE": "EG2116",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20248,7 +20474,8 @@
         "ADM2_EN": "Waraq",
         "ADM2_PCODE": "EG2117",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20314,7 +20541,8 @@
         "ADM2_EN": "Umraniyya",
         "ADM2_PCODE": "EG2118",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20356,7 +20584,8 @@
         "ADM2_EN": "Shaykh Zayed",
         "ADM2_PCODE": "EG2119",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20398,7 +20627,8 @@
         "ADM2_EN": "Kardasa",
         "ADM2_PCODE": "EG2120",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20464,7 +20694,8 @@
         "ADM2_EN": "6 October-2",
         "ADM2_PCODE": "EG2121",
         "ADM1_PCODE": "EG21",
-        "ADM1_EN": "Giza"
+        "ADM1_EN": "Giza",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20506,7 +20737,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2200",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20776,7 +21008,8 @@
         "ADM2_EN": "Bani Swayf",
         "ADM2_PCODE": "EG2201",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20822,7 +21055,8 @@
         "ADM2_EN": "Bani Swayf",
         "ADM2_PCODE": "EG2202",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -20950,7 +21184,8 @@
         "ADM2_EN": "Bani Swayf City",
         "ADM2_PCODE": "EG2203",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21008,7 +21243,8 @@
         "ADM2_EN": "Al Fashn",
         "ADM2_PCODE": "EG2204",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21098,7 +21334,8 @@
         "ADM2_EN": "Al Wasta",
         "ADM2_PCODE": "EG2205",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21164,7 +21401,8 @@
         "ADM2_EN": "Ahnasya",
         "ADM2_PCODE": "EG2206",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21234,7 +21472,8 @@
         "ADM2_EN": "Biba",
         "ADM2_PCODE": "EG2207",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21352,7 +21591,8 @@
         "ADM2_EN": "Sumusta",
         "ADM2_PCODE": "EG2208",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21442,7 +21682,8 @@
         "ADM2_EN": "Nasir",
         "ADM2_PCODE": "EG2209",
         "ADM1_PCODE": "EG22",
-        "ADM1_EN": "Beni Suef"
+        "ADM1_EN": "Beni Suef",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21540,7 +21781,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2300",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21812,7 +22054,8 @@
         "ADM2_EN": "Fayyum",
         "ADM2_PCODE": "EG2301",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -21870,7 +22113,8 @@
         "ADM2_EN": "Fayyum",
         "ADM2_PCODE": "EG2302",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22050,7 +22294,8 @@
         "ADM2_EN": "Abshaway",
         "ADM2_PCODE": "EG2303",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22144,7 +22389,8 @@
         "ADM2_EN": "Atsa",
         "ADM2_PCODE": "EG2304",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22274,7 +22520,8 @@
         "ADM2_EN": "Sinuras",
         "ADM2_PCODE": "EG2305",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22380,7 +22627,8 @@
         "ADM2_EN": "Tamya",
         "ADM2_PCODE": "EG2306",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22466,7 +22714,8 @@
         "ADM2_EN": "Yousef El sadeq",
         "ADM2_PCODE": "EG2307",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22560,7 +22809,8 @@
         "ADM2_EN": "Fayyum City",
         "ADM2_PCODE": "EG2308",
         "ADM1_PCODE": "EG23",
-        "ADM1_EN": "Fayoum"
+        "ADM1_EN": "Fayoum",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -22598,7 +22848,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2400",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22970,7 +23221,8 @@
         "ADM2_EN": "Kesm Al-minya",
         "ADM2_PCODE": "EG2401",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23008,7 +23260,8 @@
         "ADM2_EN": "Markz Al Minya",
         "ADM2_PCODE": "EG2402",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23132,7 +23385,8 @@
         "ADM2_EN": "New Minya",
         "ADM2_PCODE": "EG2403",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23174,7 +23428,8 @@
         "ADM2_EN": "Markz Abu Qurqas",
         "ADM2_PCODE": "EG2404",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23248,7 +23503,8 @@
         "ADM2_EN": "Markz Al Idwa",
         "ADM2_PCODE": "EG2405",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23338,7 +23594,8 @@
         "ADM2_EN": "Markz Bani Mazar",
         "ADM2_PCODE": "EG2406",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23444,7 +23701,8 @@
         "ADM2_EN": "Markz Dir Mawas",
         "ADM2_PCODE": "EG2407",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23534,7 +23792,8 @@
         "ADM2_EN": "Markz Samalut",
         "ADM2_PCODE": "EG2408",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23652,7 +23911,8 @@
         "ADM2_EN": "Markz Matay",
         "ADM2_PCODE": "EG2409",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23754,7 +24014,8 @@
         "ADM2_EN": "Markz Maghagha",
         "ADM2_PCODE": "EG2410",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23860,7 +24121,8 @@
         "ADM2_EN": "Kesm Mallawi",
         "ADM2_PCODE": "EG2411",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -23898,7 +24160,8 @@
         "ADM2_EN": "Markz Mallawi",
         "ADM2_PCODE": "EG2412",
         "ADM1_PCODE": "EG24",
-        "ADM1_EN": "Menia"
+        "ADM1_EN": "Menia",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24008,7 +24271,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2500",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24300,7 +24564,8 @@
         "ADM2_EN": "Kesm Awal Assuit",
         "ADM2_PCODE": "EG2501",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24338,7 +24603,8 @@
         "ADM2_EN": "Kesm Than Assuit",
         "ADM2_PCODE": "EG2502",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24376,7 +24642,8 @@
         "ADM2_EN": "Assuit",
         "ADM2_PCODE": "EG2503",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24478,7 +24745,8 @@
         "ADM2_EN": "Abnub",
         "ADM2_PCODE": "EG2504",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24556,7 +24824,8 @@
         "ADM2_EN": "Abu Tig",
         "ADM2_PCODE": "EG2505",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24614,7 +24883,8 @@
         "ADM2_EN": "Al- Badari",
         "ADM2_PCODE": "EG2506",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24676,7 +24946,8 @@
         "ADM2_EN": "Sahil Silim",
         "ADM2_PCODE": "EG2507",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24726,7 +24997,8 @@
         "ADM2_EN": "Al-Ghanayem",
         "ADM2_PCODE": "EG2508",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24784,7 +25056,8 @@
         "ADM2_EN": "Al-Qusia",
         "ADM2_PCODE": "EG2509",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24878,7 +25151,8 @@
         "ADM2_EN": "Dayrut",
         "ADM2_PCODE": "EG2510",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -24964,7 +25238,8 @@
         "ADM2_EN": "Sidfa",
         "ADM2_PCODE": "EG2511",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25022,7 +25297,8 @@
         "ADM2_EN": "Manfalut",
         "ADM2_PCODE": "EG2512",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25124,7 +25400,8 @@
         "ADM2_EN": "Alfath",
         "ADM2_PCODE": "EG2513",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25194,7 +25471,8 @@
         "ADM2_EN": "Assuit City",
         "ADM2_PCODE": "EG2514",
         "ADM1_PCODE": "EG25",
-        "ADM1_EN": "Assiut"
+        "ADM1_EN": "Assiut",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25236,7 +25514,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2600",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25534,7 +25813,8 @@
         "ADM2_EN": "Suhag",
         "ADM2_PCODE": "EG2601",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25572,7 +25852,8 @@
         "ADM2_EN": "Suhag-2",
         "ADM2_PCODE": "EG2602",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25610,7 +25891,8 @@
         "ADM2_EN": "Suhag",
         "ADM2_PCODE": "EG2603",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25700,7 +25982,8 @@
         "ADM2_EN": "Akhmim",
         "ADM2_PCODE": "EG2604",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25804,7 +26087,8 @@
         "ADM2_EN": "Al-Balyana",
         "ADM2_PCODE": "EG2605",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25866,7 +26150,8 @@
         "ADM2_EN": "Al-Maragha ",
         "ADM2_PCODE": "EG2606",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -25936,7 +26221,8 @@
         "ADM2_EN": "Al-Minshat",
         "ADM2_PCODE": "EG2607",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26010,7 +26296,8 @@
         "ADM2_EN": "Dar al-Salam ",
         "ADM2_PCODE": "EG2608",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26092,7 +26379,8 @@
         "ADM2_EN": "Girga",
         "ADM2_PCODE": "EG2609",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26134,7 +26422,8 @@
         "ADM2_EN": "Girga",
         "ADM2_PCODE": "EG2610",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26220,7 +26509,8 @@
         "ADM2_EN": "Guhayna Al-Gharbiyya",
         "ADM2_PCODE": "EG2611",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26286,7 +26576,8 @@
         "ADM2_EN": "Saqulta",
         "ADM2_PCODE": "EG2612",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26348,7 +26639,8 @@
         "ADM2_EN": "Tama",
         "ADM2_PCODE": "EG2613",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26406,7 +26698,8 @@
         "ADM2_EN": "Tahta",
         "ADM2_PCODE": "EG2614",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26484,7 +26777,8 @@
         "ADM2_EN": "Kesm Tahta",
         "ADM2_PCODE": "EG2615",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26522,7 +26816,8 @@
         "ADM2_EN": "Kawther",
         "ADM2_PCODE": "EG2616",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26560,7 +26855,8 @@
         "ADM2_EN": "Al Usayrat",
         "ADM2_PCODE": "EG2617",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26622,7 +26918,8 @@
         "ADM2_EN": "Akhmim City",
         "ADM2_PCODE": "EG2618",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26660,7 +26957,8 @@
         "ADM2_EN": "Suhag City",
         "ADM2_PCODE": "EG2619",
         "ADM1_PCODE": "EG26",
-        "ADM1_EN": "Suhag"
+        "ADM1_EN": "Suhag",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -26698,7 +26996,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2700",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27118,7 +27417,8 @@
         "ADM2_EN": "Qina",
         "ADM2_PCODE": "EG2701",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27164,7 +27464,8 @@
         "ADM2_EN": "Qina",
         "ADM2_PCODE": "EG2702",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27254,7 +27555,8 @@
         "ADM2_EN": "Abu Tisht",
         "ADM2_PCODE": "EG2703",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27328,7 +27630,8 @@
         "ADM2_EN": "Armant",
         "ADM2_PCODE": "EG2704",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27382,7 +27685,8 @@
         "ADM2_EN": "Isna",
         "ADM2_PCODE": "EG2705",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27472,7 +27776,8 @@
         "ADM2_EN": "Dishna",
         "ADM2_PCODE": "EG2706",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27558,7 +27863,8 @@
         "ADM2_EN": "Qus",
         "ADM2_PCODE": "EG2707",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27612,7 +27918,8 @@
         "ADM2_EN": "Nag Hammadi",
         "ADM2_PCODE": "EG2708",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27682,7 +27989,8 @@
         "ADM2_EN": "Naqada",
         "ADM2_PCODE": "EG2709",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27736,7 +28044,8 @@
         "ADM2_EN": "Farshut",
         "ADM2_PCODE": "EG2710",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27802,7 +28111,8 @@
         "ADM2_EN": "Qift",
         "ADM2_PCODE": "EG2711",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27848,7 +28158,8 @@
         "ADM2_EN": "Al Waqf",
         "ADM2_PCODE": "EG2712",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27898,7 +28209,8 @@
         "ADM2_EN": "Qina City",
         "ADM2_PCODE": "EG2713",
         "ADM1_PCODE": "EG27",
-        "ADM1_EN": "Qena"
+        "ADM1_EN": "Qena",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -27936,7 +28248,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2800",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -28548,7 +28861,8 @@
         "ADM2_EN": "Aswan",
         "ADM2_PCODE": "EG2801",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -28602,7 +28916,8 @@
         "ADM2_EN": "Aswan",
         "ADM2_PCODE": "EG2802",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28780,7 +29095,8 @@
         "ADM2_EN": "Adfu",
         "ADM2_PCODE": "EG2803",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29006,7 +29322,8 @@
         "ADM2_EN": "Kum Umbu",
         "ADM2_PCODE": "EG2804",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -29116,7 +29433,8 @@
         "ADM2_EN": "Nasr",
         "ADM2_PCODE": "EG2805",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29258,7 +29576,8 @@
         "ADM2_EN": "Daraw",
         "ADM2_PCODE": "EG2806",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29332,7 +29651,8 @@
         "ADM2_EN": "Abu Simbel",
         "ADM2_PCODE": "EG2807",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29426,7 +29746,8 @@
         "ADM2_EN": "Aswan City",
         "ADM2_PCODE": "EG2808",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -29468,7 +29789,8 @@
         "ADM2_EN": "Tushaka",
         "ADM2_PCODE": "EG2809",
         "ADM1_PCODE": "EG28",
-        "ADM1_EN": "Aswan"
+        "ADM1_EN": "Aswan",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -29522,7 +29844,8 @@
         "ADM2_EN": "Zemam Out",
         "ADM2_PCODE": "EG2900",
         "ADM1_PCODE": "EG29",
-        "ADM1_EN": "Luxor"
+        "ADM1_EN": "Luxor",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -29600,7 +29923,8 @@
         "ADM2_EN": "Luxor",
         "ADM2_PCODE": "EG2901",
         "ADM1_PCODE": "EG29",
-        "ADM1_EN": "Luxor"
+        "ADM1_EN": "Luxor",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -29658,7 +29982,8 @@
         "ADM2_EN": "Luxor",
         "ADM2_PCODE": "EG2902",
         "ADM1_PCODE": "EG29",
-        "ADM1_EN": "Luxor"
+        "ADM1_EN": "Luxor",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29772,7 +30097,8 @@
         "ADM2_EN": "Tiba police station",
         "ADM2_PCODE": "EG2903",
         "ADM1_PCODE": "EG29",
-        "ADM1_EN": "Luxor"
+        "ADM1_EN": "Luxor",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -29826,7 +30152,8 @@
         "ADM2_EN": "Hurghada 1",
         "ADM2_PCODE": "EG3101",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30256,7 +30583,8 @@
         "ADM2_EN": "Qusir",
         "ADM2_PCODE": "EG3102",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30626,7 +30954,8 @@
         "ADM2_EN": "Safaga",
         "ADM2_PCODE": "EG3103",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31156,7 +31485,8 @@
         "ADM2_EN": "Marsa Alam",
         "ADM2_PCODE": "EG3104",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31614,7 +31944,8 @@
         "ADM2_EN": "Ras Gharib",
         "ADM2_PCODE": "EG3105",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -31792,7 +32123,8 @@
         "ADM2_EN": "Shallatin",
         "ADM2_PCODE": "EG3106",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32230,7 +32562,8 @@
         "ADM2_EN": "Hurghada 2",
         "ADM2_PCODE": "EG3108",
         "ADM1_PCODE": "EG31",
-        "ADM1_EN": "Red Sea"
+        "ADM1_EN": "Red Sea",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33304,7 +33637,8 @@
         "ADM2_EN": "Al-Kharga Oasis",
         "ADM2_PCODE": "EG3201",
         "ADM1_PCODE": "EG32",
-        "ADM1_EN": "New Valley"
+        "ADM1_EN": "New Valley",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -33418,7 +33752,8 @@
         "ADM2_EN": "A-Dakhla Oasis",
         "ADM2_PCODE": "EG3202",
         "ADM1_PCODE": "EG32",
-        "ADM1_EN": "New Valley"
+        "ADM1_EN": "New Valley",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -33504,7 +33839,8 @@
         "ADM2_EN": "Al Farafra Oasis",
         "ADM2_PCODE": "EG3203",
         "ADM1_PCODE": "EG32",
-        "ADM1_EN": "New Valley"
+        "ADM1_EN": "New Valley",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -33570,7 +33906,8 @@
         "ADM2_EN": "Paris Paris",
         "ADM2_PCODE": "EG3204",
         "ADM1_PCODE": "EG32",
-        "ADM1_EN": "New Valley"
+        "ADM1_EN": "New Valley",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -33608,7 +33945,8 @@
         "ADM2_EN": "Marsa Matruh",
         "ADM2_PCODE": "EG3301",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34182,7 +34520,8 @@
         "ADM2_EN": "Al-Hammam",
         "ADM2_PCODE": "EG3302",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -34268,7 +34607,8 @@
         "ADM2_EN": "Salloum",
         "ADM2_PCODE": "EG3303",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34438,7 +34778,8 @@
         "ADM2_EN": "Daba",
         "ADM2_PCODE": "EG3304",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34580,7 +34921,8 @@
         "ADM2_EN": "Sidi Barani",
         "ADM2_PCODE": "EG3305",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -34654,7 +34996,8 @@
         "ADM2_EN": "Siwa",
         "ADM2_PCODE": "EG3306",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -34732,7 +35075,8 @@
         "ADM2_EN": "Alamn",
         "ADM2_PCODE": "EG3307",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -34802,7 +35146,8 @@
         "ADM2_EN": "North Coast",
         "ADM2_PCODE": "EG3308",
         "ADM1_PCODE": "EG33",
-        "ADM1_EN": "Matrouh"
+        "ADM1_EN": "Matrouh",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34884,7 +35229,8 @@
         "ADM2_EN": "El Arish 1",
         "ADM2_PCODE": "EG3401",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -34930,7 +35276,8 @@
         "ADM2_EN": "El Arish 2",
         "ADM2_PCODE": "EG3402",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -34968,7 +35315,8 @@
         "ADM2_EN": "El Arish 3",
         "ADM2_PCODE": "EG3403",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35014,7 +35362,8 @@
         "ADM2_EN": "El Arish 4",
         "ADM2_PCODE": "EG3404",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35072,7 +35421,8 @@
         "ADM2_EN": "Bir Al-Abd",
         "ADM2_PCODE": "EG3405",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35518,7 +35868,8 @@
         "ADM2_EN": "Al-Hasna",
         "ADM2_PCODE": "EG3406",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35608,7 +35959,8 @@
         "ADM2_EN": "Nakhl",
         "ADM2_PCODE": "EG3407",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35718,7 +36070,8 @@
         "ADM2_EN": "Shaykh Zuwayd",
         "ADM2_PCODE": "EG3408",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35776,7 +36129,8 @@
         "ADM2_EN": "Rafah",
         "ADM2_PCODE": "EG3409",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35818,7 +36172,8 @@
         "ADM2_EN": "Rummana",
         "ADM2_PCODE": "EG3410",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35912,7 +36267,8 @@
         "ADM2_EN": "Qasima",
         "ADM2_PCODE": "EG3411",
         "ADM1_PCODE": "EG34",
-        "ADM1_EN": "North Sinai"
+        "ADM1_EN": "North Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -35982,7 +36338,8 @@
         "ADM2_EN": "Al-Tur",
         "ADM2_PCODE": "EG3501",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36160,7 +36517,8 @@
         "ADM2_EN": "Ras Sidr",
         "ADM2_PCODE": "EG3502",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -36282,7 +36640,8 @@
         "ADM2_EN": "Abu Radis",
         "ADM2_PCODE": "EG3503",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -36392,7 +36751,8 @@
         "ADM2_EN": "Sant Katrin",
         "ADM2_PCODE": "EG3504",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -36494,7 +36854,8 @@
         "ADM2_EN": "Sharm el-Sheikh",
         "ADM2_PCODE": "EG3505",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36700,7 +37061,8 @@
         "ADM2_EN": "Dahab",
         "ADM2_PCODE": "EG3506",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "Polygon",
@@ -36762,7 +37124,8 @@
         "ADM2_EN": "Nuweiba",
         "ADM2_PCODE": "EG3507",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36892,7 +37255,8 @@
         "ADM2_EN": "Taba",
         "ADM2_PCODE": "EG3508",
         "ADM1_PCODE": "EG35",
-        "ADM1_EN": "South Sinai"
+        "ADM1_EN": "South Sinai",
+        "ADM0_PCODE": "EG"
       },
       "geometry": {
         "type": "MultiPolygon",

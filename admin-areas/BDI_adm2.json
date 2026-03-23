@@ -14,7 +14,8 @@
         "ADM2_EN": "Bubanza",
         "ADM2_PCODE": "BDI001001",
         "ADM1_PCODE": "BDI001",
-        "ADM1_EN": "Bubanza"
+        "ADM1_EN": "Bubanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -104,7 +105,8 @@
         "ADM2_EN": "Gihanga",
         "ADM2_PCODE": "BDI001002",
         "ADM1_PCODE": "BDI001",
-        "ADM1_EN": "Bubanza"
+        "ADM1_EN": "Bubanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -166,7 +168,8 @@
         "ADM2_EN": "Mpanda",
         "ADM2_PCODE": "BDI001003",
         "ADM1_PCODE": "BDI001",
-        "ADM1_EN": "Bubanza"
+        "ADM1_EN": "Bubanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -228,7 +231,8 @@
         "ADM2_EN": "Musigati",
         "ADM2_PCODE": "BDI001004",
         "ADM1_PCODE": "BDI001",
-        "ADM1_EN": "Bubanza"
+        "ADM1_EN": "Bubanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -318,7 +322,8 @@
         "ADM2_EN": "Rugazi",
         "ADM2_PCODE": "BDI001005",
         "ADM1_PCODE": "BDI001",
-        "ADM1_EN": "Bubanza"
+        "ADM1_EN": "Bubanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -384,7 +389,8 @@
         "ADM2_EN": "Isale",
         "ADM2_PCODE": "BDI002002",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -442,7 +448,8 @@
         "ADM2_EN": "Kabezi",
         "ADM2_PCODE": "BDI002003",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -492,7 +499,8 @@
         "ADM2_EN": "Kanyosha1",
         "ADM2_PCODE": "BDI002004",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -562,7 +570,8 @@
         "ADM2_EN": "Mubimbi",
         "ADM2_PCODE": "BDI002005",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -612,7 +621,8 @@
         "ADM2_EN": "Mugongomanga",
         "ADM2_PCODE": "BDI002006",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -698,7 +708,8 @@
         "ADM2_EN": "Mukike",
         "ADM2_PCODE": "BDI002008",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -760,7 +771,8 @@
         "ADM2_EN": "Mutambu",
         "ADM2_PCODE": "BDI002009",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -834,7 +846,8 @@
         "ADM2_EN": "Mutimbuzi",
         "ADM2_PCODE": "BDI002010",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -916,7 +929,8 @@
         "ADM2_EN": "Nyabiraba",
         "ADM2_PCODE": "BDI002012",
         "ADM1_PCODE": "BDI002",
-        "ADM1_EN": "Bujumbura Rural"
+        "ADM1_EN": "Bujumbura Rural",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -998,7 +1012,8 @@
         "ADM2_EN": "Bururi",
         "ADM2_PCODE": "BDI003002",
         "ADM1_PCODE": "BDI003",
-        "ADM1_EN": "Bururi"
+        "ADM1_EN": "Bururi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1088,7 +1103,8 @@
         "ADM2_EN": "Matana",
         "ADM2_PCODE": "BDI003004",
         "ADM1_PCODE": "BDI003",
-        "ADM1_EN": "Bururi"
+        "ADM1_EN": "Bururi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1154,7 +1170,8 @@
         "ADM2_EN": "Mugamba",
         "ADM2_PCODE": "BDI003005",
         "ADM1_PCODE": "BDI003",
-        "ADM1_EN": "Bururi"
+        "ADM1_EN": "Bururi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1236,7 +1253,8 @@
         "ADM2_EN": "Rutovu",
         "ADM2_PCODE": "BDI003007",
         "ADM1_PCODE": "BDI003",
-        "ADM1_EN": "Bururi"
+        "ADM1_EN": "Bururi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1322,7 +1340,8 @@
         "ADM2_EN": "Songa",
         "ADM2_PCODE": "BDI003008",
         "ADM1_PCODE": "BDI003",
-        "ADM1_EN": "Bururi"
+        "ADM1_EN": "Bururi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1396,7 +1415,8 @@
         "ADM2_EN": "Vyanda",
         "ADM2_PCODE": "BDI003009",
         "ADM1_PCODE": "BDI003",
-        "ADM1_EN": "Bururi"
+        "ADM1_EN": "Bururi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1458,7 +1478,8 @@
         "ADM2_EN": "Cankuzo",
         "ADM2_PCODE": "BDI004001",
         "ADM1_PCODE": "BDI004",
-        "ADM1_EN": "Cankuzo"
+        "ADM1_EN": "Cankuzo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1584,7 +1605,8 @@
         "ADM2_EN": "Cendajuru",
         "ADM2_PCODE": "BDI004002",
         "ADM1_PCODE": "BDI004",
-        "ADM1_EN": "Cankuzo"
+        "ADM1_EN": "Cankuzo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1658,7 +1680,8 @@
         "ADM2_EN": "Gisagara",
         "ADM2_PCODE": "BDI004003",
         "ADM1_PCODE": "BDI004",
-        "ADM1_EN": "Cankuzo"
+        "ADM1_EN": "Cankuzo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1764,7 +1787,8 @@
         "ADM2_EN": "Kigamba",
         "ADM2_PCODE": "BDI004004",
         "ADM1_PCODE": "BDI004",
-        "ADM1_EN": "Cankuzo"
+        "ADM1_EN": "Cankuzo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1858,7 +1882,8 @@
         "ADM2_EN": "Mishiha",
         "ADM2_PCODE": "BDI004005",
         "ADM1_PCODE": "BDI004",
-        "ADM1_EN": "Cankuzo"
+        "ADM1_EN": "Cankuzo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -1928,7 +1953,8 @@
         "ADM2_EN": "Buganda",
         "ADM2_PCODE": "BDI005001",
         "ADM1_PCODE": "BDI005",
-        "ADM1_EN": "Cibitoke"
+        "ADM1_EN": "Cibitoke",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2022,7 +2048,8 @@
         "ADM2_EN": "Bukinanyana",
         "ADM2_PCODE": "BDI005002",
         "ADM1_PCODE": "BDI005",
-        "ADM1_EN": "Cibitoke"
+        "ADM1_EN": "Cibitoke",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2112,7 +2139,8 @@
         "ADM2_EN": "Mabayi",
         "ADM2_PCODE": "BDI005003",
         "ADM1_PCODE": "BDI005",
-        "ADM1_EN": "Cibitoke"
+        "ADM1_EN": "Cibitoke",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2206,7 +2234,8 @@
         "ADM2_EN": "Mugina",
         "ADM2_PCODE": "BDI005004",
         "ADM1_PCODE": "BDI005",
-        "ADM1_EN": "Cibitoke"
+        "ADM1_EN": "Cibitoke",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2292,7 +2321,8 @@
         "ADM2_EN": "Murwi",
         "ADM2_PCODE": "BDI005005",
         "ADM1_PCODE": "BDI005",
-        "ADM1_EN": "Cibitoke"
+        "ADM1_EN": "Cibitoke",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2382,7 +2412,8 @@
         "ADM2_EN": "Rugombo",
         "ADM2_PCODE": "BDI005006",
         "ADM1_PCODE": "BDI005",
-        "ADM1_EN": "Cibitoke"
+        "ADM1_EN": "Cibitoke",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2468,7 +2499,8 @@
         "ADM2_EN": "Bugendana",
         "ADM2_PCODE": "BDI006001",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2526,7 +2558,8 @@
         "ADM2_EN": "Bukirasazi",
         "ADM2_PCODE": "BDI006002",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2584,7 +2617,8 @@
         "ADM2_EN": "Buraza",
         "ADM2_PCODE": "BDI006003",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2654,7 +2688,8 @@
         "ADM2_EN": "Giheta",
         "ADM2_PCODE": "BDI006004",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2724,7 +2759,8 @@
         "ADM2_EN": "Gishubi",
         "ADM2_PCODE": "BDI006005",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2790,7 +2826,8 @@
         "ADM2_EN": "Gitega",
         "ADM2_PCODE": "BDI006006",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2868,7 +2905,8 @@
         "ADM2_EN": "Itaba",
         "ADM2_PCODE": "BDI006007",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -2942,7 +2980,8 @@
         "ADM2_EN": "Makebuko",
         "ADM2_PCODE": "BDI006008",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3004,7 +3043,8 @@
         "ADM2_EN": "Mutaho",
         "ADM2_PCODE": "BDI006009",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3074,7 +3114,8 @@
         "ADM2_EN": "Ryansoro",
         "ADM2_PCODE": "BDI006010",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3152,7 +3193,8 @@
         "ADM2_EN": "Nyanrusange",
         "ADM2_PCODE": "BDI006011",
         "ADM1_PCODE": "BDI006",
-        "ADM1_EN": "Gitega"
+        "ADM1_EN": "Gitega",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3218,7 +3260,8 @@
         "ADM2_EN": "Bugenyuzi",
         "ADM2_PCODE": "BDI007001",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3288,7 +3331,8 @@
         "ADM2_EN": "Buhiga",
         "ADM2_PCODE": "BDI007002",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3362,7 +3406,8 @@
         "ADM2_EN": "Gihogazi",
         "ADM2_PCODE": "BDI007003",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3432,7 +3477,8 @@
         "ADM2_EN": "Gitaramuka",
         "ADM2_PCODE": "BDI007004",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3490,7 +3536,8 @@
         "ADM2_EN": "Mutumba",
         "ADM2_PCODE": "BDI007005",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3564,7 +3611,8 @@
         "ADM2_EN": "Nyabikere",
         "ADM2_PCODE": "BDI007006",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3634,7 +3682,8 @@
         "ADM2_EN": "Shombo",
         "ADM2_PCODE": "BDI007007",
         "ADM1_PCODE": "BDI007",
-        "ADM1_EN": "Karuzi"
+        "ADM1_EN": "Karuzi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3708,7 +3757,8 @@
         "ADM2_EN": "Butaganzwa",
         "ADM2_PCODE": "BDI008001",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3766,7 +3816,8 @@
         "ADM2_EN": "Gahombo",
         "ADM2_PCODE": "BDI008002",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3820,7 +3871,8 @@
         "ADM2_EN": "Gatara",
         "ADM2_PCODE": "BDI008003",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3890,7 +3942,8 @@
         "ADM2_EN": "Kabarore",
         "ADM2_PCODE": "BDI008004",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -3960,7 +4013,8 @@
         "ADM2_EN": "Kayanza",
         "ADM2_PCODE": "BDI008005",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4018,7 +4072,8 @@
         "ADM2_EN": "Matongo",
         "ADM2_PCODE": "BDI008006",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4084,7 +4139,8 @@
         "ADM2_EN": "Muhanga",
         "ADM2_PCODE": "BDI008007",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4142,7 +4198,8 @@
         "ADM2_EN": "Muruta",
         "ADM2_PCODE": "BDI008008",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4184,7 +4241,8 @@
         "ADM2_EN": "Rango",
         "ADM2_PCODE": "BDI008009",
         "ADM1_PCODE": "BDI008",
-        "ADM1_EN": "Kayanza"
+        "ADM1_EN": "Kayanza",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4254,7 +4312,8 @@
         "ADM2_EN": "Bugabira",
         "ADM2_PCODE": "BDI009001",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4308,7 +4367,8 @@
         "ADM2_EN": "Busoni",
         "ADM2_PCODE": "BDI009002",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4382,7 +4442,8 @@
         "ADM2_EN": "Bwambarangwe",
         "ADM2_PCODE": "BDI009003",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4440,7 +4501,8 @@
         "ADM2_EN": "Gitobe",
         "ADM2_PCODE": "BDI009004",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4494,7 +4556,8 @@
         "ADM2_EN": "Kirundo",
         "ADM2_PCODE": "BDI009005",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4576,7 +4639,8 @@
         "ADM2_EN": "Ntega",
         "ADM2_PCODE": "BDI009006",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4638,7 +4702,8 @@
         "ADM2_EN": "Vumbi",
         "ADM2_PCODE": "BDI009007",
         "ADM1_PCODE": "BDI009",
-        "ADM1_EN": "Kirundo"
+        "ADM1_EN": "Kirundo",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4732,7 +4797,8 @@
         "ADM2_EN": "Kayogoro",
         "ADM2_PCODE": "BDI010001",
         "ADM1_PCODE": "BDI010",
-        "ADM1_EN": "Makamba"
+        "ADM1_EN": "Makamba",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4834,7 +4900,8 @@
         "ADM2_EN": "Kibago",
         "ADM2_PCODE": "BDI010002",
         "ADM1_PCODE": "BDI010",
-        "ADM1_EN": "Makamba"
+        "ADM1_EN": "Makamba",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4924,7 +4991,8 @@
         "ADM2_EN": "Mabanda",
         "ADM2_PCODE": "BDI010003",
         "ADM1_PCODE": "BDI010",
-        "ADM1_EN": "Makamba"
+        "ADM1_EN": "Makamba",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5014,7 +5082,8 @@
         "ADM2_EN": "Makamba",
         "ADM2_PCODE": "BDI010004",
         "ADM1_PCODE": "BDI010",
-        "ADM1_EN": "Makamba"
+        "ADM1_EN": "Makamba",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5116,7 +5185,8 @@
         "ADM2_EN": "Nyanza-Lac",
         "ADM2_PCODE": "BDI010005",
         "ADM1_PCODE": "BDI010",
-        "ADM1_EN": "Makamba"
+        "ADM1_EN": "Makamba",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5206,7 +5276,8 @@
         "ADM2_EN": "Vugizo",
         "ADM2_PCODE": "BDI010006",
         "ADM1_PCODE": "BDI010",
-        "ADM1_EN": "Makamba"
+        "ADM1_EN": "Makamba",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5272,7 +5343,8 @@
         "ADM2_EN": "Bukeye",
         "ADM2_PCODE": "BDI011001",
         "ADM1_PCODE": "BDI011",
-        "ADM1_EN": "Muramvya"
+        "ADM1_EN": "Muramvya",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5358,7 +5430,8 @@
         "ADM2_EN": "Kiganda",
         "ADM2_PCODE": "BDI011002",
         "ADM1_PCODE": "BDI011",
-        "ADM1_EN": "Muramvya"
+        "ADM1_EN": "Muramvya",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5416,7 +5489,8 @@
         "ADM2_EN": "Mbuye",
         "ADM2_PCODE": "BDI011003",
         "ADM1_PCODE": "BDI011",
-        "ADM1_EN": "Muramvya"
+        "ADM1_EN": "Muramvya",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5466,7 +5540,8 @@
         "ADM2_EN": "Muramvya",
         "ADM2_PCODE": "BDI011004",
         "ADM1_PCODE": "BDI011",
-        "ADM1_EN": "Muramvya"
+        "ADM1_EN": "Muramvya",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5540,7 +5615,8 @@
         "ADM2_EN": "Rutegama",
         "ADM2_PCODE": "BDI011005",
         "ADM1_PCODE": "BDI011",
-        "ADM1_EN": "Muramvya"
+        "ADM1_EN": "Muramvya",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5586,7 +5662,8 @@
         "ADM2_EN": "Buhinyuza",
         "ADM2_PCODE": "BDI012001",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5676,7 +5753,8 @@
         "ADM2_EN": "Butihinda",
         "ADM2_PCODE": "BDI012002",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5746,7 +5824,8 @@
         "ADM2_EN": "Gashoho",
         "ADM2_PCODE": "BDI012003",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5812,7 +5891,8 @@
         "ADM2_EN": "Gasorwe",
         "ADM2_PCODE": "BDI012004",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5898,7 +5978,8 @@
         "ADM2_EN": "Giteranyi",
         "ADM2_PCODE": "BDI012005",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -5984,7 +6065,8 @@
         "ADM2_EN": "Muyinga",
         "ADM2_PCODE": "BDI012006",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6098,7 +6180,8 @@
         "ADM2_EN": "Mwakiro",
         "ADM2_PCODE": "BDI012007",
         "ADM1_PCODE": "BDI012",
-        "ADM1_EN": "Muyinga"
+        "ADM1_EN": "Muyinga",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6176,7 +6259,8 @@
         "ADM2_EN": "Bisoro",
         "ADM2_PCODE": "BDI013001",
         "ADM1_PCODE": "BDI013",
-        "ADM1_EN": "Mwaro"
+        "ADM1_EN": "Mwaro",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6246,7 +6330,8 @@
         "ADM2_EN": "Gisozi",
         "ADM2_PCODE": "BDI013002",
         "ADM1_PCODE": "BDI013",
-        "ADM1_EN": "Mwaro"
+        "ADM1_EN": "Mwaro",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6324,7 +6409,8 @@
         "ADM2_EN": "Kayokwe",
         "ADM2_PCODE": "BDI013003",
         "ADM1_PCODE": "BDI013",
-        "ADM1_EN": "Mwaro"
+        "ADM1_EN": "Mwaro",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6406,7 +6492,8 @@
         "ADM2_EN": "Ndava",
         "ADM2_PCODE": "BDI013004",
         "ADM1_PCODE": "BDI013",
-        "ADM1_EN": "Mwaro"
+        "ADM1_EN": "Mwaro",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6496,7 +6583,8 @@
         "ADM2_EN": "Nyabihanga",
         "ADM2_PCODE": "BDI013005",
         "ADM1_PCODE": "BDI013",
-        "ADM1_EN": "Mwaro"
+        "ADM1_EN": "Mwaro",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6566,7 +6654,8 @@
         "ADM2_EN": "Rusaka",
         "ADM2_PCODE": "BDI013006",
         "ADM1_PCODE": "BDI013",
-        "ADM1_EN": "Mwaro"
+        "ADM1_EN": "Mwaro",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6648,7 +6737,8 @@
         "ADM2_EN": "Busiga",
         "ADM2_PCODE": "BDI014001",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6714,7 +6804,8 @@
         "ADM2_EN": "Gashikanwa",
         "ADM2_PCODE": "BDI014002",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6768,7 +6859,8 @@
         "ADM2_EN": "Kiremba",
         "ADM2_PCODE": "BDI014003",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6842,7 +6934,8 @@
         "ADM2_EN": "Marangara",
         "ADM2_PCODE": "BDI014004",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6908,7 +7001,8 @@
         "ADM2_EN": "Mwumba",
         "ADM2_PCODE": "BDI014005",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6962,7 +7056,8 @@
         "ADM2_EN": "Ngozi",
         "ADM2_PCODE": "BDI014006",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7020,7 +7115,8 @@
         "ADM2_EN": "Nyamurenza",
         "ADM2_PCODE": "BDI014007",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7074,7 +7170,8 @@
         "ADM2_EN": "Ruhororo",
         "ADM2_PCODE": "BDI014008",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7144,7 +7241,8 @@
         "ADM2_EN": "Tangara",
         "ADM2_PCODE": "BDI014009",
         "ADM1_PCODE": "BDI014",
-        "ADM1_EN": "Ngozi"
+        "ADM1_EN": "Ngozi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7222,7 +7320,8 @@
         "ADM2_EN": "Bukemba",
         "ADM2_PCODE": "BDI015001",
         "ADM1_PCODE": "BDI015",
-        "ADM1_EN": "Rutana"
+        "ADM1_EN": "Rutana",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7296,7 +7395,8 @@
         "ADM2_EN": "Giharo",
         "ADM2_PCODE": "BDI015002",
         "ADM1_PCODE": "BDI015",
-        "ADM1_EN": "Rutana"
+        "ADM1_EN": "Rutana",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7402,7 +7502,8 @@
         "ADM2_EN": "Gitanga",
         "ADM2_PCODE": "BDI015003",
         "ADM1_PCODE": "BDI015",
-        "ADM1_EN": "Rutana"
+        "ADM1_EN": "Rutana",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7496,7 +7597,8 @@
         "ADM2_EN": "Mpinga-Kayove",
         "ADM2_PCODE": "BDI015004",
         "ADM1_PCODE": "BDI015",
-        "ADM1_EN": "Rutana"
+        "ADM1_EN": "Rutana",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7570,7 +7672,8 @@
         "ADM2_EN": "Musongati",
         "ADM2_PCODE": "BDI015005",
         "ADM1_PCODE": "BDI015",
-        "ADM1_EN": "Rutana"
+        "ADM1_EN": "Rutana",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7648,7 +7751,8 @@
         "ADM2_EN": "Rutana",
         "ADM2_PCODE": "BDI015006",
         "ADM1_PCODE": "BDI015",
-        "ADM1_EN": "Rutana"
+        "ADM1_EN": "Rutana",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7734,7 +7838,8 @@
         "ADM2_EN": "Butaganzwa1",
         "ADM2_PCODE": "BDI016001",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7816,7 +7921,8 @@
         "ADM2_EN": "Butezi",
         "ADM2_PCODE": "BDI016002",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -7898,7 +8004,8 @@
         "ADM2_EN": "Bweru",
         "ADM2_PCODE": "BDI016003",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8004,7 +8111,8 @@
         "ADM2_EN": "Gisuru",
         "ADM2_PCODE": "BDI016004",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8106,7 +8214,8 @@
         "ADM2_EN": "Kinyinya",
         "ADM2_PCODE": "BDI016005",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8192,7 +8301,8 @@
         "ADM2_EN": "Nyabitsinda",
         "ADM2_PCODE": "BDI016006",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8278,7 +8388,8 @@
         "ADM2_EN": "Ruyigi",
         "ADM2_PCODE": "BDI016007",
         "ADM1_PCODE": "BDI016",
-        "ADM1_EN": "Ruyigi"
+        "ADM1_EN": "Ruyigi",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8352,7 +8463,8 @@
         "ADM2_EN": "Muha",
         "ADM2_PCODE": "BDI017014",
         "ADM1_PCODE": "BDI017",
-        "ADM1_EN": "Bujumbura Mairie"
+        "ADM1_EN": "Bujumbura Mairie",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8410,7 +8522,8 @@
         "ADM2_EN": "Mukaza",
         "ADM2_PCODE": "BDI017015",
         "ADM1_PCODE": "BDI017",
-        "ADM1_EN": "Bujumbura Mairie"
+        "ADM1_EN": "Bujumbura Mairie",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8452,7 +8565,8 @@
         "ADM2_EN": "Ntahangwa",
         "ADM2_PCODE": "BDI017016",
         "ADM1_PCODE": "BDI017",
-        "ADM1_EN": "Bujumbura Mairie"
+        "ADM1_EN": "Bujumbura Mairie",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8518,7 +8632,8 @@
         "ADM2_EN": "Muhuta",
         "ADM2_PCODE": "BDI018001",
         "ADM1_PCODE": "BDI018",
-        "ADM1_EN": "Rumonge"
+        "ADM1_EN": "Rumonge",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8600,7 +8715,8 @@
         "ADM2_EN": "Bugarama",
         "ADM2_PCODE": "BDI018002",
         "ADM1_PCODE": "BDI018",
-        "ADM1_EN": "Rumonge"
+        "ADM1_EN": "Rumonge",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8674,7 +8790,8 @@
         "ADM2_EN": "Burambi",
         "ADM2_PCODE": "BDI018003",
         "ADM1_PCODE": "BDI018",
-        "ADM1_EN": "Rumonge"
+        "ADM1_EN": "Rumonge",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8748,7 +8865,8 @@
         "ADM2_EN": "Buyengero",
         "ADM2_PCODE": "BDI018004",
         "ADM1_PCODE": "BDI018",
-        "ADM1_EN": "Rumonge"
+        "ADM1_EN": "Rumonge",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",
@@ -8810,7 +8928,8 @@
         "ADM2_EN": "Rumonge",
         "ADM2_PCODE": "BDI018005",
         "ADM1_PCODE": "BDI018",
-        "ADM1_EN": "Rumonge"
+        "ADM1_EN": "Rumonge",
+        "ADM0_PCODE": "BD"
       },
       "geometry": {
         "type": "Polygon",

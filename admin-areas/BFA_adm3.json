@@ -15,6 +15,7 @@
         "ADM3_PCODE": "BF130001",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -87,6 +88,7 @@
         "ADM3_PCODE": "BF130002",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -163,6 +165,7 @@
         "ADM3_PCODE": "BF130003",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -295,6 +298,7 @@
         "ADM3_PCODE": "BF130004",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -387,6 +391,7 @@
         "ADM3_PCODE": "BF130005",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -487,6 +492,7 @@
         "ADM3_PCODE": "BF130006",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -595,6 +601,7 @@
         "ADM3_PCODE": "BF130007",
         "ADM1_PCODE": "BF13",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF1300",
         "ADM2_EN": "Kadiogo"
       },
@@ -715,6 +722,7 @@
         "ADM3_PCODE": "BF460101",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -811,6 +819,7 @@
         "ADM3_PCODE": "BF460102",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -875,6 +884,7 @@
         "ADM3_PCODE": "BF460103",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1015,6 +1025,7 @@
         "ADM3_PCODE": "BF460104",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1135,6 +1146,7 @@
         "ADM3_PCODE": "BF460105",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1247,6 +1259,7 @@
         "ADM3_PCODE": "BF460106",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1347,6 +1360,7 @@
         "ADM3_PCODE": "BF460107",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1435,6 +1449,7 @@
         "ADM3_PCODE": "BF460108",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1495,6 +1510,7 @@
         "ADM3_PCODE": "BF460109",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1567,6 +1583,7 @@
         "ADM3_PCODE": "BF460110",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4601",
         "ADM2_EN": "Balé"
       },
@@ -1635,6 +1652,7 @@
         "ADM3_PCODE": "BF460201",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4602",
         "ADM2_EN": "Banwa"
       },
@@ -1723,6 +1741,7 @@
         "ADM3_PCODE": "BF460202",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4602",
         "ADM2_EN": "Banwa"
       },
@@ -1855,6 +1874,7 @@
         "ADM3_PCODE": "BF460203",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4602",
         "ADM2_EN": "Banwa"
       },
@@ -1943,6 +1963,7 @@
         "ADM3_PCODE": "BF460204",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4602",
         "ADM2_EN": "Banwa"
       },
@@ -2067,6 +2088,7 @@
         "ADM3_PCODE": "BF460205",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4602",
         "ADM2_EN": "Banwa"
       },
@@ -2255,6 +2277,7 @@
         "ADM3_PCODE": "BF460206",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4602",
         "ADM2_EN": "Banwa"
       },
@@ -2395,6 +2418,7 @@
         "ADM3_PCODE": "BF460301",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -2551,6 +2575,7 @@
         "ADM3_PCODE": "BF460302",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -2639,6 +2664,7 @@
         "ADM3_PCODE": "BF460303",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -2789,6 +2815,7 @@
         "ADM3_PCODE": "BF460304",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -2893,6 +2920,7 @@
         "ADM3_PCODE": "BF460305",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -3035,6 +3063,7 @@
         "ADM3_PCODE": "BF460306",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -3155,6 +3184,7 @@
         "ADM3_PCODE": "BF460307",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -3259,6 +3289,7 @@
         "ADM3_PCODE": "BF460308",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -3307,6 +3338,7 @@
         "ADM3_PCODE": "BF460309",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -3499,6 +3531,7 @@
         "ADM3_PCODE": "BF460311",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4603",
         "ADM2_EN": "Kossi"
       },
@@ -3587,6 +3620,7 @@
         "ADM3_PCODE": "BF460401",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -3727,6 +3761,7 @@
         "ADM3_PCODE": "BF460402",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -3883,6 +3918,7 @@
         "ADM3_PCODE": "BF460403",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -3991,6 +4027,7 @@
         "ADM3_PCODE": "BF460404",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -4083,6 +4120,7 @@
         "ADM3_PCODE": "BF460405",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -4203,6 +4241,7 @@
         "ADM3_PCODE": "BF460406",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -4355,6 +4394,7 @@
         "ADM3_PCODE": "BF460407",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4604",
         "ADM2_EN": "Mouhoun"
       },
@@ -4491,6 +4531,7 @@
         "ADM3_PCODE": "BF460501",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4605",
         "ADM2_EN": "Nayala"
       },
@@ -4635,6 +4676,7 @@
         "ADM3_PCODE": "BF460502",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4605",
         "ADM2_EN": "Nayala"
       },
@@ -4703,6 +4745,7 @@
         "ADM3_PCODE": "BF460503",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4605",
         "ADM2_EN": "Nayala"
       },
@@ -4787,6 +4830,7 @@
         "ADM3_PCODE": "BF460504",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4605",
         "ADM2_EN": "Nayala"
       },
@@ -4855,6 +4899,7 @@
         "ADM3_PCODE": "BF460505",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4605",
         "ADM2_EN": "Nayala"
       },
@@ -4947,6 +4992,7 @@
         "ADM3_PCODE": "BF460506",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4605",
         "ADM2_EN": "Nayala"
       },
@@ -5051,6 +5097,7 @@
         "ADM3_PCODE": "BF460601",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5115,6 +5162,7 @@
         "ADM3_PCODE": "BF460602",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5195,6 +5243,7 @@
         "ADM3_PCODE": "BF460603",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5283,6 +5332,7 @@
         "ADM3_PCODE": "BF460604",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5387,6 +5437,7 @@
         "ADM3_PCODE": "BF460605",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5467,6 +5518,7 @@
         "ADM3_PCODE": "BF460606",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5531,6 +5583,7 @@
         "ADM3_PCODE": "BF460607",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5647,6 +5700,7 @@
         "ADM3_PCODE": "BF460608",
         "ADM1_PCODE": "BF46",
         "ADM1_EN": "Boucle du Mouhoun",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4606",
         "ADM2_EN": "Sourou"
       },
@@ -5755,6 +5809,7 @@
         "ADM3_PCODE": "BF470101",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -5859,6 +5914,7 @@
         "ADM3_PCODE": "BF470102",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -5931,6 +5987,7 @@
         "ADM3_PCODE": "BF470103",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -6207,6 +6264,7 @@
         "ADM3_PCODE": "BF470104",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -6287,6 +6345,7 @@
         "ADM3_PCODE": "BF470105",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -6599,6 +6658,7 @@
         "ADM3_PCODE": "BF470106",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -6917,6 +6977,7 @@
         "ADM3_PCODE": "BF470107",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -7261,6 +7322,7 @@
         "ADM3_PCODE": "BF470108",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -7413,6 +7475,7 @@
         "ADM3_PCODE": "BF470109",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4701",
         "ADM2_EN": "Comoé"
       },
@@ -7597,6 +7660,7 @@
         "ADM3_PCODE": "BF470201",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -7741,6 +7805,7 @@
         "ADM3_PCODE": "BF470202",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -7805,6 +7870,7 @@
         "ADM3_PCODE": "BF470203",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -7885,6 +7951,7 @@
         "ADM3_PCODE": "BF470204",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -8005,6 +8072,7 @@
         "ADM3_PCODE": "BF470205",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -8117,6 +8185,7 @@
         "ADM3_PCODE": "BF470206",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -8217,6 +8286,7 @@
         "ADM3_PCODE": "BF470207",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -8297,6 +8367,7 @@
         "ADM3_PCODE": "BF470208",
         "ADM1_PCODE": "BF47",
         "ADM1_EN": "Cascades",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4702",
         "ADM2_EN": "Léraba"
       },
@@ -8357,6 +8428,7 @@
         "ADM3_PCODE": "BF480101",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -8437,6 +8509,7 @@
         "ADM3_PCODE": "BF480102",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -8557,6 +8630,7 @@
         "ADM3_PCODE": "BF480103",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -8613,6 +8687,7 @@
         "ADM3_PCODE": "BF480104",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -8709,6 +8784,7 @@
         "ADM3_PCODE": "BF480105",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -8905,6 +8981,7 @@
         "ADM3_PCODE": "BF480106",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -8989,6 +9066,7 @@
         "ADM3_PCODE": "BF480107",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9137,6 +9215,7 @@
         "ADM3_PCODE": "BF480108",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9213,6 +9292,7 @@
         "ADM3_PCODE": "BF480109",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9301,6 +9381,7 @@
         "ADM3_PCODE": "BF480110",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9465,6 +9546,7 @@
         "ADM3_PCODE": "BF480111",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9613,6 +9695,7 @@
         "ADM3_PCODE": "BF480112",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9733,6 +9816,7 @@
         "ADM3_PCODE": "BF480113",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4801",
         "ADM2_EN": "Boulgou"
       },
@@ -9829,6 +9913,7 @@
         "ADM3_PCODE": "BF480201",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -9949,6 +10034,7 @@
         "ADM3_PCODE": "BF480202",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10021,6 +10107,7 @@
         "ADM3_PCODE": "BF480203",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10137,6 +10224,7 @@
         "ADM3_PCODE": "BF480204",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10257,6 +10345,7 @@
         "ADM3_PCODE": "BF480205",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10349,6 +10438,7 @@
         "ADM3_PCODE": "BF480206",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10473,6 +10563,7 @@
         "ADM3_PCODE": "BF480207",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10565,6 +10656,7 @@
         "ADM3_PCODE": "BF480208",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4802",
         "ADM2_EN": "Koulpélogo"
       },
@@ -10665,6 +10757,7 @@
         "ADM3_PCODE": "BF480301",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -10817,6 +10910,7 @@
         "ADM3_PCODE": "BF480302",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -10901,6 +10995,7 @@
         "ADM3_PCODE": "BF480303",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -10993,6 +11088,7 @@
         "ADM3_PCODE": "BF480304",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -11105,6 +11201,7 @@
         "ADM3_PCODE": "BF480305",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -11253,6 +11350,7 @@
         "ADM3_PCODE": "BF480306",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -11443,6 +11541,7 @@
         "ADM3_PCODE": "BF480307",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -11555,6 +11654,7 @@
         "ADM3_PCODE": "BF480308",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -11655,6 +11755,7 @@
         "ADM3_PCODE": "BF480309",
         "ADM1_PCODE": "BF48",
         "ADM1_EN": "Centre-Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4803",
         "ADM2_EN": "Kourittenga"
       },
@@ -11755,6 +11856,7 @@
         "ADM3_PCODE": "BF490101",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -11877,6 +11979,7 @@
         "ADM3_PCODE": "BF490102",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -11953,6 +12056,7 @@
         "ADM3_PCODE": "BF490103",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12077,6 +12181,7 @@
         "ADM3_PCODE": "BF490104",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12137,6 +12242,7 @@
         "ADM3_PCODE": "BF490105",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12217,6 +12323,7 @@
         "ADM3_PCODE": "BF490106",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12273,6 +12380,7 @@
         "ADM3_PCODE": "BF490107",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12369,6 +12477,7 @@
         "ADM3_PCODE": "BF490108",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12453,6 +12562,7 @@
         "ADM3_PCODE": "BF490109",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4901",
         "ADM2_EN": "Bam"
       },
@@ -12569,6 +12679,7 @@
         "ADM3_PCODE": "BF490201",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -12653,6 +12764,7 @@
         "ADM3_PCODE": "BF490202",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -12777,6 +12889,7 @@
         "ADM3_PCODE": "BF490203",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -12921,6 +13034,7 @@
         "ADM3_PCODE": "BF490204",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -13005,6 +13119,7 @@
         "ADM3_PCODE": "BF490205",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -13081,6 +13196,7 @@
         "ADM3_PCODE": "BF490206",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -13261,6 +13377,7 @@
         "ADM3_PCODE": "BF490207",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -13385,6 +13502,7 @@
         "ADM3_PCODE": "BF490208",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4902",
         "ADM2_EN": "Namentenga"
       },
@@ -13481,6 +13599,7 @@
         "ADM3_PCODE": "BF490301",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -13709,6 +13828,7 @@
         "ADM3_PCODE": "BF490302",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -13861,6 +13981,7 @@
         "ADM3_PCODE": "BF490303",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -13945,6 +14066,7 @@
         "ADM3_PCODE": "BF490304",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14085,6 +14207,7 @@
         "ADM3_PCODE": "BF490305",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14213,6 +14336,7 @@
         "ADM3_PCODE": "BF490306",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14333,6 +14457,7 @@
         "ADM3_PCODE": "BF490307",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14429,6 +14554,7 @@
         "ADM3_PCODE": "BF490308",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14561,6 +14687,7 @@
         "ADM3_PCODE": "BF490309",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14677,6 +14804,7 @@
         "ADM3_PCODE": "BF490310",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14845,6 +14973,7 @@
         "ADM3_PCODE": "BF490311",
         "ADM1_PCODE": "BF49",
         "ADM1_EN": "Centre-Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF4903",
         "ADM2_EN": "Sanmatenga"
       },
@@ -14989,6 +15118,7 @@
         "ADM3_PCODE": "BF500101",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15091,6 +15221,7 @@
         "ADM3_PCODE": "BF500102",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15163,6 +15294,7 @@
         "ADM3_PCODE": "BF500103",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15231,6 +15363,7 @@
         "ADM3_PCODE": "BF500104",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15331,6 +15464,7 @@
         "ADM3_PCODE": "BF500105",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15423,6 +15557,7 @@
         "ADM3_PCODE": "BF500106",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15547,6 +15682,7 @@
         "ADM3_PCODE": "BF500107",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15623,6 +15759,7 @@
         "ADM3_PCODE": "BF500108",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15691,6 +15828,7 @@
         "ADM3_PCODE": "BF500109",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15787,6 +15925,7 @@
         "ADM3_PCODE": "BF500110",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15855,6 +15994,7 @@
         "ADM3_PCODE": "BF500111",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -15999,6 +16139,7 @@
         "ADM3_PCODE": "BF500112",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -16055,6 +16196,7 @@
         "ADM3_PCODE": "BF500113",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -16119,6 +16261,7 @@
         "ADM3_PCODE": "BF500114",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -16217,6 +16360,7 @@
         "ADM3_PCODE": "BF500115",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5001",
         "ADM2_EN": "Boulkiemdé"
       },
@@ -16297,6 +16441,7 @@
         "ADM3_PCODE": "BF500201",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16365,6 +16510,7 @@
         "ADM3_PCODE": "BF500202",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16461,6 +16607,7 @@
         "ADM3_PCODE": "BF500203",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16549,6 +16696,7 @@
         "ADM3_PCODE": "BF500204",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16661,6 +16809,7 @@
         "ADM3_PCODE": "BF500205",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16741,6 +16890,7 @@
         "ADM3_PCODE": "BF500206",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16901,6 +17051,7 @@
         "ADM3_PCODE": "BF500207",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -16965,6 +17116,7 @@
         "ADM3_PCODE": "BF500208",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -17105,6 +17257,7 @@
         "ADM3_PCODE": "BF500209",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -17221,6 +17374,7 @@
         "ADM3_PCODE": "BF500210",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5002",
         "ADM2_EN": "Sanguié"
       },
@@ -17345,6 +17499,7 @@
         "ADM3_PCODE": "BF500301",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -17521,6 +17676,7 @@
         "ADM3_PCODE": "BF500302",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -17661,6 +17817,7 @@
         "ADM3_PCODE": "BF500303",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -17753,6 +17910,7 @@
         "ADM3_PCODE": "BF500304",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -17817,6 +17975,7 @@
         "ADM3_PCODE": "BF500305",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -17965,6 +18124,7 @@
         "ADM3_PCODE": "BF500306",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -18125,6 +18285,7 @@
         "ADM3_PCODE": "BF500307",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5003",
         "ADM2_EN": "Sissili"
       },
@@ -18233,6 +18394,7 @@
         "ADM3_PCODE": "BF500401",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5004",
         "ADM2_EN": "Ziro"
       },
@@ -18321,6 +18483,7 @@
         "ADM3_PCODE": "BF500402",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5004",
         "ADM2_EN": "Ziro"
       },
@@ -18425,6 +18588,7 @@
         "ADM3_PCODE": "BF500403",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5004",
         "ADM2_EN": "Ziro"
       },
@@ -18541,6 +18705,7 @@
         "ADM3_PCODE": "BF500404",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5004",
         "ADM2_EN": "Ziro"
       },
@@ -18617,6 +18782,7 @@
         "ADM3_PCODE": "BF500405",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5004",
         "ADM2_EN": "Ziro"
       },
@@ -18709,6 +18875,7 @@
         "ADM3_PCODE": "BF500406",
         "ADM1_PCODE": "BF50",
         "ADM1_EN": "Centre-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5004",
         "ADM2_EN": "Ziro"
       },
@@ -18893,6 +19060,7 @@
         "ADM3_PCODE": "BF510101",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19029,6 +19197,7 @@
         "ADM3_PCODE": "BF510102",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19125,6 +19294,7 @@
         "ADM3_PCODE": "BF510103",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19185,6 +19355,7 @@
         "ADM3_PCODE": "BF510104",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19293,6 +19464,7 @@
         "ADM3_PCODE": "BF510105",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19393,6 +19565,7 @@
         "ADM3_PCODE": "BF510106",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19513,6 +19686,7 @@
         "ADM3_PCODE": "BF510107",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5101",
         "ADM2_EN": "Bazèga"
       },
@@ -19609,6 +19783,7 @@
         "ADM3_PCODE": "BF510201",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5102",
         "ADM2_EN": "Nahouri"
       },
@@ -19749,6 +19924,7 @@
         "ADM3_PCODE": "BF510202",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5102",
         "ADM2_EN": "Nahouri"
       },
@@ -19889,6 +20065,7 @@
         "ADM3_PCODE": "BF510203",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5102",
         "ADM2_EN": "Nahouri"
       },
@@ -19969,6 +20146,7 @@
         "ADM3_PCODE": "BF510204",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5102",
         "ADM2_EN": "Nahouri"
       },
@@ -20033,6 +20211,7 @@
         "ADM3_PCODE": "BF510205",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5102",
         "ADM2_EN": "Nahouri"
       },
@@ -20169,6 +20348,7 @@
         "ADM3_PCODE": "BF510301",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20293,6 +20473,7 @@
         "ADM3_PCODE": "BF510302",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20405,6 +20586,7 @@
         "ADM3_PCODE": "BF510303",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20533,6 +20715,7 @@
         "ADM3_PCODE": "BF510304",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20661,6 +20844,7 @@
         "ADM3_PCODE": "BF510305",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20733,6 +20917,7 @@
         "ADM3_PCODE": "BF510306",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20809,6 +20994,7 @@
         "ADM3_PCODE": "BF510307",
         "ADM1_PCODE": "BF51",
         "ADM1_EN": "Centre-Sud",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5103",
         "ADM2_EN": "Zoundwéogo"
       },
@@ -20901,6 +21087,7 @@
         "ADM3_PCODE": "BF520101",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -21189,6 +21376,7 @@
         "ADM3_PCODE": "BF520102",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -21357,6 +21545,7 @@
         "ADM3_PCODE": "BF520103",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -21513,6 +21702,7 @@
         "ADM3_PCODE": "BF520104",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -21689,6 +21879,7 @@
         "ADM3_PCODE": "BF520105",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -21849,6 +22040,7 @@
         "ADM3_PCODE": "BF520106",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -22017,6 +22209,7 @@
         "ADM3_PCODE": "BF520107",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5201",
         "ADM2_EN": "Gnagna"
       },
@@ -22101,6 +22294,7 @@
         "ADM3_PCODE": "BF520201",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5202",
         "ADM2_EN": "Gourma"
       },
@@ -22247,6 +22441,7 @@
         "ADM3_PCODE": "BF520202",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5202",
         "ADM2_EN": "Gourma"
       },
@@ -22367,6 +22562,7 @@
         "ADM3_PCODE": "BF520203",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5202",
         "ADM2_EN": "Gourma"
       },
@@ -22579,6 +22775,7 @@
         "ADM3_PCODE": "BF520204",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5202",
         "ADM2_EN": "Gourma"
       },
@@ -22911,6 +23108,7 @@
         "ADM3_PCODE": "BF520205",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5202",
         "ADM2_EN": "Gourma"
       },
@@ -23019,6 +23217,7 @@
         "ADM3_PCODE": "BF520206",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5202",
         "ADM2_EN": "Gourma"
       },
@@ -23151,6 +23350,7 @@
         "ADM3_PCODE": "BF520301",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5203",
         "ADM2_EN": "Komandjari"
       },
@@ -23291,6 +23491,7 @@
         "ADM3_PCODE": "BF520302",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5203",
         "ADM2_EN": "Komandjari"
       },
@@ -23427,6 +23628,7 @@
         "ADM3_PCODE": "BF520303",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5203",
         "ADM2_EN": "Komandjari"
       },
@@ -23655,6 +23857,7 @@
         "ADM3_PCODE": "BF520401",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5204",
         "ADM2_EN": "Kompienga"
       },
@@ -23751,6 +23954,7 @@
         "ADM3_PCODE": "BF520402",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5204",
         "ADM2_EN": "Kompienga"
       },
@@ -23919,6 +24123,7 @@
         "ADM3_PCODE": "BF520403",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5204",
         "ADM2_EN": "Kompienga"
       },
@@ -24147,6 +24352,7 @@
         "ADM3_PCODE": "BF520501",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -24315,6 +24521,7 @@
         "ADM3_PCODE": "BF520502",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -24523,6 +24730,7 @@
         "ADM3_PCODE": "BF520503",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -24691,6 +24899,7 @@
         "ADM3_PCODE": "BF520504",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -24871,6 +25080,7 @@
         "ADM3_PCODE": "BF520505",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -24931,6 +25141,7 @@
         "ADM3_PCODE": "BF520506",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -25067,6 +25278,7 @@
         "ADM3_PCODE": "BF520507",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -25219,6 +25431,7 @@
         "ADM3_PCODE": "BF520508",
         "ADM1_PCODE": "BF52",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5205",
         "ADM2_EN": "Tapoa"
       },
@@ -25335,6 +25548,7 @@
         "ADM3_PCODE": "BF530101",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -25475,6 +25689,7 @@
         "ADM3_PCODE": "BF530102",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -25667,6 +25882,7 @@
         "ADM3_PCODE": "BF530103",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -25739,6 +25955,7 @@
         "ADM3_PCODE": "BF530104",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -25819,6 +26036,7 @@
         "ADM3_PCODE": "BF530105",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -25899,6 +26117,7 @@
         "ADM3_PCODE": "BF530106",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26019,6 +26238,7 @@
         "ADM3_PCODE": "BF530107",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26219,6 +26439,7 @@
         "ADM3_PCODE": "BF530108",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26319,6 +26540,7 @@
         "ADM3_PCODE": "BF530109",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26403,6 +26625,7 @@
         "ADM3_PCODE": "BF530110",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26547,6 +26770,7 @@
         "ADM3_PCODE": "BF530111",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26699,6 +26923,7 @@
         "ADM3_PCODE": "BF530112",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26823,6 +27048,7 @@
         "ADM3_PCODE": "BF530113",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5301",
         "ADM2_EN": "Houet"
       },
@@ -26895,6 +27121,7 @@
         "ADM3_PCODE": "BF530201",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -26975,6 +27202,7 @@
         "ADM3_PCODE": "BF530202",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27071,6 +27299,7 @@
         "ADM3_PCODE": "BF530203",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27191,6 +27420,7 @@
         "ADM3_PCODE": "BF530204",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27299,6 +27529,7 @@
         "ADM3_PCODE": "BF530205",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27447,6 +27678,7 @@
         "ADM3_PCODE": "BF530206",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27535,6 +27767,7 @@
         "ADM3_PCODE": "BF530207",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27631,6 +27864,7 @@
         "ADM3_PCODE": "BF530208",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27767,6 +28001,7 @@
         "ADM3_PCODE": "BF530209",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27895,6 +28130,7 @@
         "ADM3_PCODE": "BF530210",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -27967,6 +28203,7 @@
         "ADM3_PCODE": "BF530211",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -28071,6 +28308,7 @@
         "ADM3_PCODE": "BF530212",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -28231,6 +28469,7 @@
         "ADM3_PCODE": "BF530213",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5302",
         "ADM2_EN": "Kénédougou"
       },
@@ -28347,6 +28586,7 @@
         "ADM3_PCODE": "BF530301",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -28443,6 +28683,7 @@
         "ADM3_PCODE": "BF530302",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -28511,6 +28752,7 @@
         "ADM3_PCODE": "BF530303",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -28591,6 +28833,7 @@
         "ADM3_PCODE": "BF530304",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -28703,6 +28946,7 @@
         "ADM3_PCODE": "BF530305",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -28807,6 +29051,7 @@
         "ADM3_PCODE": "BF530306",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -28935,6 +29180,7 @@
         "ADM3_PCODE": "BF530307",
         "ADM1_PCODE": "BF53",
         "ADM1_EN": "Hauts-Bassins",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5303",
         "ADM2_EN": "Tuy"
       },
@@ -29059,6 +29305,7 @@
         "ADM3_PCODE": "BF540101",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5401",
         "ADM2_EN": "Loroum"
       },
@@ -29195,6 +29442,7 @@
         "ADM3_PCODE": "BF540102",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5401",
         "ADM2_EN": "Loroum"
       },
@@ -29275,6 +29523,7 @@
         "ADM3_PCODE": "BF540103",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5401",
         "ADM2_EN": "Loroum"
       },
@@ -29355,6 +29604,7 @@
         "ADM3_PCODE": "BF540104",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5401",
         "ADM2_EN": "Loroum"
       },
@@ -29511,6 +29761,7 @@
         "ADM3_PCODE": "BF540201",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -29623,6 +29874,7 @@
         "ADM3_PCODE": "BF540202",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -29691,6 +29943,7 @@
         "ADM3_PCODE": "BF540204",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -29803,6 +30056,7 @@
         "ADM3_PCODE": "BF540205",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -29867,6 +30121,7 @@
         "ADM3_PCODE": "BF540206",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -29955,6 +30210,7 @@
         "ADM3_PCODE": "BF540207",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -30003,6 +30259,7 @@
         "ADM3_PCODE": "BF540208",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -30071,6 +30328,7 @@
         "ADM3_PCODE": "BF540209",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -30155,6 +30413,7 @@
         "ADM3_PCODE": "BF540210",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5402",
         "ADM2_EN": "Passoré"
       },
@@ -30239,6 +30498,7 @@
         "ADM3_PCODE": "BF540301",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30331,6 +30591,7 @@
         "ADM3_PCODE": "BF540302",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30415,6 +30676,7 @@
         "ADM3_PCODE": "BF540303",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30551,6 +30813,7 @@
         "ADM3_PCODE": "BF540304",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30615,6 +30878,7 @@
         "ADM3_PCODE": "BF540305",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30735,6 +30999,7 @@
         "ADM3_PCODE": "BF540306",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30815,6 +31080,7 @@
         "ADM3_PCODE": "BF540307",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -30919,6 +31185,7 @@
         "ADM3_PCODE": "BF540308",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -31023,6 +31290,7 @@
         "ADM3_PCODE": "BF540309",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -31103,6 +31371,7 @@
         "ADM3_PCODE": "BF540310",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -31195,6 +31464,7 @@
         "ADM3_PCODE": "BF540311",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -31341,6 +31611,7 @@
         "ADM3_PCODE": "BF540312",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -31493,6 +31764,7 @@
         "ADM3_PCODE": "BF540313",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5403",
         "ADM2_EN": "Yatenga"
       },
@@ -31597,6 +31869,7 @@
         "ADM3_PCODE": "BF540401",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5404",
         "ADM2_EN": "Zondoma"
       },
@@ -31673,6 +31946,7 @@
         "ADM3_PCODE": "BF540402",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5404",
         "ADM2_EN": "Zondoma"
       },
@@ -31753,6 +32027,7 @@
         "ADM3_PCODE": "BF540403",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5404",
         "ADM2_EN": "Zondoma"
       },
@@ -31961,6 +32236,7 @@
         "ADM3_PCODE": "BF540404",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5404",
         "ADM2_EN": "Zondoma"
       },
@@ -32097,6 +32373,7 @@
         "ADM3_PCODE": "BF540405",
         "ADM1_PCODE": "BF54",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5404",
         "ADM2_EN": "Zondoma"
       },
@@ -32185,6 +32462,7 @@
         "ADM3_PCODE": "BF550101",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -32325,6 +32603,7 @@
         "ADM3_PCODE": "BF550102",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -32401,6 +32680,7 @@
         "ADM3_PCODE": "BF550103",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -32505,6 +32785,7 @@
         "ADM3_PCODE": "BF550104",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -32621,6 +32902,7 @@
         "ADM3_PCODE": "BF550105",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -32747,6 +33029,7 @@
         "ADM3_PCODE": "BF550106",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -32887,6 +33170,7 @@
         "ADM3_PCODE": "BF550107",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -33051,6 +33335,7 @@
         "ADM3_PCODE": "BF550108",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5501",
         "ADM2_EN": "Ganzourgou"
       },
@@ -33115,6 +33400,7 @@
         "ADM3_PCODE": "BF550201",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5502",
         "ADM2_EN": "Kourwéogo"
       },
@@ -33231,6 +33517,7 @@
         "ADM3_PCODE": "BF550202",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5502",
         "ADM2_EN": "Kourwéogo"
       },
@@ -33283,6 +33570,7 @@
         "ADM3_PCODE": "BF550203",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5502",
         "ADM2_EN": "Kourwéogo"
       },
@@ -33419,6 +33707,7 @@
         "ADM3_PCODE": "BF550204",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5502",
         "ADM2_EN": "Kourwéogo"
       },
@@ -33515,6 +33804,7 @@
         "ADM3_PCODE": "BF550205",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5502",
         "ADM2_EN": "Kourwéogo"
       },
@@ -33603,6 +33893,7 @@
         "ADM3_PCODE": "BF550301",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -33691,6 +33982,7 @@
         "ADM3_PCODE": "BF550302",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -33835,6 +34127,7 @@
         "ADM3_PCODE": "BF550303",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -33919,6 +34212,7 @@
         "ADM3_PCODE": "BF550304",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -34019,6 +34313,7 @@
         "ADM3_PCODE": "BF550305",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -34111,6 +34406,7 @@
         "ADM3_PCODE": "BF550306",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -34327,6 +34623,7 @@
         "ADM3_PCODE": "BF550307",
         "ADM1_PCODE": "BF55",
         "ADM1_EN": "Plateau-Central",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5503",
         "ADM2_EN": "Oubritenga"
       },
@@ -34451,6 +34748,7 @@
         "ADM3_PCODE": "BF560101",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5601",
         "ADM2_EN": "Oudalan"
       },
@@ -34615,6 +34913,7 @@
         "ADM3_PCODE": "BF560102",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5601",
         "ADM2_EN": "Oudalan"
       },
@@ -34859,6 +35158,7 @@
         "ADM3_PCODE": "BF560103",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5601",
         "ADM2_EN": "Oudalan"
       },
@@ -34991,6 +35291,7 @@
         "ADM3_PCODE": "BF560104",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5601",
         "ADM2_EN": "Oudalan"
       },
@@ -35071,6 +35372,7 @@
         "ADM3_PCODE": "BF560105",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5601",
         "ADM2_EN": "Oudalan"
       },
@@ -35179,6 +35481,7 @@
         "ADM3_PCODE": "BF560201",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5602",
         "ADM2_EN": "Séno"
       },
@@ -35399,6 +35702,7 @@
         "ADM3_PCODE": "BF560202",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5602",
         "ADM2_EN": "Séno"
       },
@@ -35607,6 +35911,7 @@
         "ADM3_PCODE": "BF560203",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5602",
         "ADM2_EN": "Séno"
       },
@@ -35695,6 +36000,7 @@
         "ADM3_PCODE": "BF560204",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5602",
         "ADM2_EN": "Séno"
       },
@@ -35807,6 +36113,7 @@
         "ADM3_PCODE": "BF560205",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5602",
         "ADM2_EN": "Séno"
       },
@@ -35919,6 +36226,7 @@
         "ADM3_PCODE": "BF560206",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5602",
         "ADM2_EN": "Séno"
       },
@@ -36047,6 +36355,7 @@
         "ADM3_PCODE": "BF560301",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36263,6 +36572,7 @@
         "ADM3_PCODE": "BF560302",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36367,6 +36677,7 @@
         "ADM3_PCODE": "BF560303",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36431,6 +36742,7 @@
         "ADM3_PCODE": "BF560304",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36611,6 +36923,7 @@
         "ADM3_PCODE": "BF560305",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36727,6 +37040,7 @@
         "ADM3_PCODE": "BF560306",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36875,6 +37189,7 @@
         "ADM3_PCODE": "BF560307",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -36983,6 +37298,7 @@
         "ADM3_PCODE": "BF560308",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -37067,6 +37383,7 @@
         "ADM3_PCODE": "BF560309",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5603",
         "ADM2_EN": "Soum"
       },
@@ -37255,6 +37572,7 @@
         "ADM3_PCODE": "BF560401",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5604",
         "ADM2_EN": "Yagha"
       },
@@ -37391,6 +37709,7 @@
         "ADM3_PCODE": "BF560402",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5604",
         "ADM2_EN": "Yagha"
       },
@@ -37607,6 +37926,7 @@
         "ADM3_PCODE": "BF560403",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5604",
         "ADM2_EN": "Yagha"
       },
@@ -37795,6 +38115,7 @@
         "ADM3_PCODE": "BF560404",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5604",
         "ADM2_EN": "Yagha"
       },
@@ -37895,6 +38216,7 @@
         "ADM3_PCODE": "BF560405",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5604",
         "ADM2_EN": "Yagha"
       },
@@ -38011,6 +38333,7 @@
         "ADM3_PCODE": "BF560406",
         "ADM1_PCODE": "BF56",
         "ADM1_EN": "Sahel",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5604",
         "ADM2_EN": "Yagha"
       },
@@ -38163,6 +38486,7 @@
         "ADM3_PCODE": "BF570101",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5701",
         "ADM2_EN": "Bougouriba"
       },
@@ -38331,6 +38655,7 @@
         "ADM3_PCODE": "BF570102",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5701",
         "ADM2_EN": "Bougouriba"
       },
@@ -38491,6 +38816,7 @@
         "ADM3_PCODE": "BF570103",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5701",
         "ADM2_EN": "Bougouriba"
       },
@@ -38567,6 +38893,7 @@
         "ADM3_PCODE": "BF570104",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5701",
         "ADM2_EN": "Bougouriba"
       },
@@ -38683,6 +39010,7 @@
         "ADM3_PCODE": "BF570105",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5701",
         "ADM2_EN": "Bougouriba"
       },
@@ -38787,6 +39115,7 @@
         "ADM3_PCODE": "BF570201",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -38899,6 +39228,7 @@
         "ADM3_PCODE": "BF570202",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -38979,6 +39309,7 @@
         "ADM3_PCODE": "BF570203",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -39127,6 +39458,7 @@
         "ADM3_PCODE": "BF570204",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -39203,6 +39535,7 @@
         "ADM3_PCODE": "BF570205",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -39263,6 +39596,7 @@
         "ADM3_PCODE": "BF570206",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -39355,6 +39689,7 @@
         "ADM3_PCODE": "BF570207",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -39419,6 +39754,7 @@
         "ADM3_PCODE": "BF570208",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5702",
         "ADM2_EN": "Ioba"
       },
@@ -39551,6 +39887,7 @@
         "ADM3_PCODE": "BF570301",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5703",
         "ADM2_EN": "Noumbiel"
       },
@@ -39695,6 +40032,7 @@
         "ADM3_PCODE": "BF570302",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5703",
         "ADM2_EN": "Noumbiel"
       },
@@ -39799,6 +40137,7 @@
         "ADM3_PCODE": "BF570303",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5703",
         "ADM2_EN": "Noumbiel"
       },
@@ -39883,6 +40222,7 @@
         "ADM3_PCODE": "BF570304",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5703",
         "ADM2_EN": "Noumbiel"
       },
@@ -39975,6 +40315,7 @@
         "ADM3_PCODE": "BF570305",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5703",
         "ADM2_EN": "Noumbiel"
       },
@@ -40105,6 +40446,7 @@
         "ADM3_PCODE": "BF570401",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -40229,6 +40571,7 @@
         "ADM3_PCODE": "BF570402",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -40333,6 +40676,7 @@
         "ADM3_PCODE": "BF570403",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -40461,6 +40805,7 @@
         "ADM3_PCODE": "BF570404",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -40581,6 +40926,7 @@
         "ADM3_PCODE": "BF570405",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -40705,6 +41051,7 @@
         "ADM3_PCODE": "BF570406",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -40909,6 +41256,7 @@
         "ADM3_PCODE": "BF570407",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -41115,6 +41463,7 @@
         "ADM3_PCODE": "BF570408",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -41239,6 +41588,7 @@
         "ADM3_PCODE": "BF570409",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },
@@ -41427,6 +41777,7 @@
         "ADM3_PCODE": "BF570410",
         "ADM1_PCODE": "BF57",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "BF",
         "ADM2_PCODE": "BF5704",
         "ADM2_EN": "Poni"
       },

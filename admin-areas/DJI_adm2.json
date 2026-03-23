@@ -14,7 +14,8 @@
         "ADM2_EN": "Adailou",
         "ADM2_PCODE": "DJ0111",
         "ADM1_PCODE": "DJ01",
-        "ADM1_EN": "Obock"
+        "ADM1_EN": "Obock",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -60,7 +61,8 @@
         "ADM2_EN": "Dadda'to",
         "ADM2_PCODE": "DJ0112",
         "ADM1_PCODE": "DJ01",
-        "ADM1_EN": "Obock"
+        "ADM1_EN": "Obock",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -114,7 +116,8 @@
         "ADM2_EN": "Khôr 'Angar",
         "ADM2_PCODE": "DJ0113",
         "ADM1_PCODE": "DJ01",
-        "ADM1_EN": "Obock"
+        "ADM1_EN": "Obock",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -344,7 +347,8 @@
         "ADM2_EN": "Moulhoule",
         "ADM2_PCODE": "DJ0114",
         "ADM1_PCODE": "DJ01",
-        "ADM1_EN": "Obock"
+        "ADM1_EN": "Obock",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -406,7 +410,8 @@
         "ADM2_EN": "Obock",
         "ADM2_PCODE": "DJ0115",
         "ADM1_PCODE": "DJ01",
-        "ADM1_EN": "Obock"
+        "ADM1_EN": "Obock",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -492,7 +497,8 @@
         "ADM2_EN": "Balho",
         "ADM2_PCODE": "DJ0211",
         "ADM1_PCODE": "DJ02",
-        "ADM1_EN": "Tadjoura"
+        "ADM1_EN": "Tadjoura",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -550,7 +556,8 @@
         "ADM2_EN": "Dorra",
         "ADM2_PCODE": "DJ0212",
         "ADM1_PCODE": "DJ02",
-        "ADM1_EN": "Tadjoura"
+        "ADM1_EN": "Tadjoura",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -620,7 +627,8 @@
         "ADM2_EN": "Lac 'Assal",
         "ADM2_PCODE": "DJ0213",
         "ADM1_PCODE": "DJ02",
-        "ADM1_EN": "Tadjoura"
+        "ADM1_EN": "Tadjoura",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -666,7 +674,8 @@
         "ADM2_EN": "Mousa Ali",
         "ADM2_PCODE": "DJ0214",
         "ADM1_PCODE": "DJ02",
-        "ADM1_EN": "Tadjoura"
+        "ADM1_EN": "Tadjoura",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -704,7 +713,8 @@
         "ADM2_EN": "Randa",
         "ADM2_PCODE": "DJ0215",
         "ADM1_PCODE": "DJ02",
-        "ADM1_EN": "Tadjoura"
+        "ADM1_EN": "Tadjoura",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -762,7 +772,8 @@
         "ADM2_EN": "Tadjoura",
         "ADM2_PCODE": "DJ0216",
         "ADM1_PCODE": "DJ02",
-        "ADM1_EN": "Tadjoura"
+        "ADM1_EN": "Tadjoura",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -956,7 +967,8 @@
         "ADM2_EN": "As Eyla",
         "ADM2_PCODE": "DJ0311",
         "ADM1_PCODE": "DJ03",
-        "ADM1_EN": "Dikhil"
+        "ADM1_EN": "Dikhil",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1046,7 +1058,8 @@
         "ADM2_EN": "Dikhil",
         "ADM2_PCODE": "DJ0312",
         "ADM1_PCODE": "DJ03",
-        "ADM1_EN": "Dikhil"
+        "ADM1_EN": "Dikhil",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1112,7 +1125,8 @@
         "ADM2_EN": "Galafi",
         "ADM2_PCODE": "DJ0313",
         "ADM1_PCODE": "DJ03",
-        "ADM1_EN": "Dikhil"
+        "ADM1_EN": "Dikhil",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1170,7 +1184,8 @@
         "ADM2_EN": "Yuboki",
         "ADM2_PCODE": "DJ0314",
         "ADM1_PCODE": "DJ03",
-        "ADM1_EN": "Dikhil"
+        "ADM1_EN": "Dikhil",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1244,7 +1259,8 @@
         "ADM2_EN": "Djiboutii",
         "ADM2_PCODE": "DJ0411",
         "ADM1_PCODE": "DJ04",
-        "ADM1_EN": "Djiboutii"
+        "ADM1_EN": "Djiboutii",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1658,7 +1674,8 @@
         "ADM2_EN": "Ali Adde",
         "ADM2_PCODE": "DJ0511",
         "ADM1_PCODE": "DJ05",
-        "ADM1_EN": "Ali Sabieh"
+        "ADM1_EN": "Ali Sabieh",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1712,7 +1729,8 @@
         "ADM2_EN": "Ali Sabieh",
         "ADM2_PCODE": "DJ0512",
         "ADM1_PCODE": "DJ05",
-        "ADM1_EN": "Ali Sabieh"
+        "ADM1_EN": "Ali Sabieh",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1786,7 +1804,8 @@
         "ADM2_EN": "Holhol",
         "ADM2_PCODE": "DJ0513",
         "ADM1_PCODE": "DJ05",
-        "ADM1_EN": "Ali Sabieh"
+        "ADM1_EN": "Ali Sabieh",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -1840,7 +1859,8 @@
         "ADM2_EN": "Arta",
         "ADM2_PCODE": "DJ0611",
         "ADM1_PCODE": "DJ06",
-        "ADM1_EN": "Arta"
+        "ADM1_EN": "Arta",
+        "ADM0_PCODE": "DJ"
       },
       "geometry": {
         "type": "MultiPolygon",

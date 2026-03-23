@@ -14,7 +14,8 @@
         "ADM2_EN": "Central 1 Mahe",
         "ADM2_PCODE": "SC11",
         "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe"
+        "ADM1_EN": "Mahe",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80,7 +81,8 @@
         "ADM2_EN": "Central 2 Mahe",
         "ADM2_PCODE": "SC12",
         "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe"
+        "ADM1_EN": "Mahe",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -380,7 +382,8 @@
         "ADM2_EN": "East Mahe",
         "ADM2_PCODE": "SC13",
         "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe"
+        "ADM1_EN": "Mahe",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -462,7 +465,8 @@
         "ADM2_EN": "West Mahe",
         "ADM2_PCODE": "SC14",
         "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe"
+        "ADM1_EN": "Mahe",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -580,7 +584,8 @@
         "ADM2_EN": "North Mahe",
         "ADM2_PCODE": "SC15",
         "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe"
+        "ADM1_EN": "Mahe",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -658,7 +663,8 @@
         "ADM2_EN": "Praslin",
         "ADM2_PCODE": "SC26",
         "ADM1_PCODE": "SC2",
-        "ADM1_EN": "Praslin"
+        "ADM1_EN": "Praslin",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -860,7 +866,8 @@
         "ADM2_EN": "La Digue",
         "ADM2_PCODE": "SC36",
         "ADM1_PCODE": "SC3",
-        "ADM1_EN": "La Digue"
+        "ADM1_EN": "La Digue",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "Polygon",
@@ -898,7 +905,8 @@
         "ADM2_EN": "Other Islands",
         "ADM2_PCODE": "SC47",
         "ADM1_PCODE": "SC4",
-        "ADM1_EN": "Other Islands"
+        "ADM1_EN": "Other Islands",
+        "ADM0_PCODE": "SC"
       },
       "geometry": {
         "type": "MultiPolygon",

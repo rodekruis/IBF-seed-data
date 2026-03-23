@@ -15,6 +15,7 @@
         "ADM3_PCODE": "CM001001001",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001001",
         "ADM2_EN": "Djérem"
       },
@@ -195,6 +196,7 @@
         "ADM3_PCODE": "CM001001002",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001001",
         "ADM2_EN": "Djérem"
       },
@@ -511,6 +513,7 @@
         "ADM3_PCODE": "CM001002001",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001002",
         "ADM2_EN": "Faro-et-Déo"
       },
@@ -667,6 +670,7 @@
         "ADM3_PCODE": "CM001002002",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001002",
         "ADM2_EN": "Faro-et-Déo"
       },
@@ -739,6 +743,7 @@
         "ADM3_PCODE": "CM001002003",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001002",
         "ADM2_EN": "Faro-et-Déo"
       },
@@ -911,6 +916,7 @@
         "ADM3_PCODE": "CM001002004",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001002",
         "ADM2_EN": "Faro-et-Déo"
       },
@@ -1171,6 +1177,7 @@
         "ADM3_PCODE": "CM001003001",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001003",
         "ADM2_EN": "Mayo-Banyo"
       },
@@ -1407,6 +1414,7 @@
         "ADM3_PCODE": "CM001003002",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001003",
         "ADM2_EN": "Mayo-Banyo"
       },
@@ -1699,6 +1707,7 @@
         "ADM3_PCODE": "CM001003003",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001003",
         "ADM2_EN": "Mayo-Banyo"
       },
@@ -1827,6 +1836,7 @@
         "ADM3_PCODE": "CM001004001",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001004",
         "ADM2_EN": "Mbéré"
       },
@@ -2091,6 +2101,7 @@
         "ADM3_PCODE": "CM001004002",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001004",
         "ADM2_EN": "Mbéré"
       },
@@ -2299,6 +2310,7 @@
         "ADM3_PCODE": "CM001004003",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001004",
         "ADM2_EN": "Mbéré"
       },
@@ -2523,6 +2535,7 @@
         "ADM3_PCODE": "CM001004004",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001004",
         "ADM2_EN": "Mbéré"
       },
@@ -2587,6 +2600,7 @@
         "ADM3_PCODE": "CM001005001",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -2819,6 +2833,7 @@
         "ADM3_PCODE": "CM001005002",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3067,6 +3082,7 @@
         "ADM3_PCODE": "CM001005003",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3223,6 +3239,7 @@
         "ADM3_PCODE": "CM001005004",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3423,6 +3440,7 @@
         "ADM3_PCODE": "CM001005005",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3495,6 +3513,7 @@
         "ADM3_PCODE": "CM001005006",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3555,6 +3574,7 @@
         "ADM3_PCODE": "CM001005007",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3623,6 +3643,7 @@
         "ADM3_PCODE": "CM001005008",
         "ADM1_PCODE": "CM001",
         "ADM1_EN": "Adamaoua",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM001005",
         "ADM2_EN": "Vina"
       },
@@ -3963,6 +3984,7 @@
         "ADM3_PCODE": "CM002001001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4095,6 +4117,7 @@
         "ADM3_PCODE": "CM002001002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4219,6 +4242,7 @@
         "ADM3_PCODE": "CM002001003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4335,6 +4359,7 @@
         "ADM3_PCODE": "CM002001004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4487,6 +4512,7 @@
         "ADM3_PCODE": "CM002001005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4779,6 +4805,7 @@
         "ADM3_PCODE": "CM002001006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4891,6 +4918,7 @@
         "ADM3_PCODE": "CM002001007",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002001",
         "ADM2_EN": "Haute-Sanaga"
       },
@@ -4963,6 +4991,7 @@
         "ADM3_PCODE": "CM002002001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5035,6 +5064,7 @@
         "ADM3_PCODE": "CM002002002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5111,6 +5141,7 @@
         "ADM3_PCODE": "CM002002003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5191,6 +5222,7 @@
         "ADM3_PCODE": "CM002002004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5267,6 +5299,7 @@
         "ADM3_PCODE": "CM002002005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5347,6 +5380,7 @@
         "ADM3_PCODE": "CM002002006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5475,6 +5509,7 @@
         "ADM3_PCODE": "CM002002007",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5603,6 +5638,7 @@
         "ADM3_PCODE": "CM002002008",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5711,6 +5747,7 @@
         "ADM3_PCODE": "CM002002009",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002002",
         "ADM2_EN": "Lekié"
       },
@@ -5803,6 +5840,7 @@
         "ADM3_PCODE": "CM002003001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -5863,6 +5901,7 @@
         "ADM3_PCODE": "CM002003002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6031,6 +6070,7 @@
         "ADM3_PCODE": "CM002003003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6171,6 +6211,7 @@
         "ADM3_PCODE": "CM002003004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6251,6 +6292,7 @@
         "ADM3_PCODE": "CM002003005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6327,6 +6369,7 @@
         "ADM3_PCODE": "CM002003006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6459,6 +6502,7 @@
         "ADM3_PCODE": "CM002003007",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6659,6 +6703,7 @@
         "ADM3_PCODE": "CM002003008",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6719,6 +6764,7 @@
         "ADM3_PCODE": "CM002003009",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002003",
         "ADM2_EN": "Mbam-et-Inoubou"
       },
@@ -6783,6 +6829,7 @@
         "ADM3_PCODE": "CM002004001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002004",
         "ADM2_EN": "Mbam-et-Kim"
       },
@@ -6899,6 +6946,7 @@
         "ADM3_PCODE": "CM002004002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002004",
         "ADM2_EN": "Mbam-et-Kim"
       },
@@ -7091,6 +7139,7 @@
         "ADM3_PCODE": "CM002004003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002004",
         "ADM2_EN": "Mbam-et-Kim"
       },
@@ -7287,6 +7336,7 @@
         "ADM3_PCODE": "CM002004004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002004",
         "ADM2_EN": "Mbam-et-Kim"
       },
@@ -7371,6 +7421,7 @@
         "ADM3_PCODE": "CM002004005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002004",
         "ADM2_EN": "Mbam-et-Kim"
       },
@@ -7735,6 +7786,7 @@
         "ADM3_PCODE": "CM002005001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -7803,6 +7855,7 @@
         "ADM3_PCODE": "CM002005002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -7879,6 +7932,7 @@
         "ADM3_PCODE": "CM002005003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -7983,6 +8037,7 @@
         "ADM3_PCODE": "CM002005004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -8055,6 +8110,7 @@
         "ADM3_PCODE": "CM002005005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -8143,6 +8199,7 @@
         "ADM3_PCODE": "CM002005006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -8251,6 +8308,7 @@
         "ADM3_PCODE": "CM002005007",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -8339,6 +8397,7 @@
         "ADM3_PCODE": "CM002005008",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002005",
         "ADM2_EN": "Mefou-et-Afamba"
       },
@@ -8431,6 +8490,7 @@
         "ADM3_PCODE": "CM002006001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002006",
         "ADM2_EN": "Mefou-et-Akono"
       },
@@ -8503,6 +8563,7 @@
         "ADM3_PCODE": "CM002006002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002006",
         "ADM2_EN": "Mefou-et-Akono"
       },
@@ -8627,6 +8688,7 @@
         "ADM3_PCODE": "CM002006003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002006",
         "ADM2_EN": "Mefou-et-Akono"
       },
@@ -8735,6 +8797,7 @@
         "ADM3_PCODE": "CM002006004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002006",
         "ADM2_EN": "Mefou-et-Akono"
       },
@@ -8831,6 +8894,7 @@
         "ADM3_PCODE": "CM002007001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -8887,6 +8951,7 @@
         "ADM3_PCODE": "CM002007002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -8927,6 +8992,7 @@
         "ADM3_PCODE": "CM002007003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -8999,6 +9065,7 @@
         "ADM3_PCODE": "CM002007004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -9051,6 +9118,7 @@
         "ADM3_PCODE": "CM002007005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -9091,6 +9159,7 @@
         "ADM3_PCODE": "CM002007006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -9139,6 +9208,7 @@
         "ADM3_PCODE": "CM002007007",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002007",
         "ADM2_EN": "Mfoundi"
       },
@@ -9179,6 +9249,7 @@
         "ADM3_PCODE": "CM002008001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9239,6 +9310,7 @@
         "ADM3_PCODE": "CM002008002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9315,6 +9387,7 @@
         "ADM3_PCODE": "CM002008003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9407,6 +9480,7 @@
         "ADM3_PCODE": "CM002008004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9495,6 +9569,7 @@
         "ADM3_PCODE": "CM002008005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9615,6 +9690,7 @@
         "ADM3_PCODE": "CM002008006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9779,6 +9855,7 @@
         "ADM3_PCODE": "CM002008007",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -9891,6 +9968,7 @@
         "ADM3_PCODE": "CM002008008",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -10035,6 +10113,7 @@
         "ADM3_PCODE": "CM002008009",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -10103,6 +10182,7 @@
         "ADM3_PCODE": "CM002008010",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002008",
         "ADM2_EN": "Nyong-et-Kellé"
       },
@@ -10187,6 +10267,7 @@
         "ADM3_PCODE": "CM002009001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002009",
         "ADM2_EN": "Nyong-et-Mfoumou"
       },
@@ -10515,6 +10596,7 @@
         "ADM3_PCODE": "CM002009002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002009",
         "ADM2_EN": "Nyong-et-Mfoumou"
       },
@@ -10699,6 +10781,7 @@
         "ADM3_PCODE": "CM002009003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002009",
         "ADM2_EN": "Nyong-et-Mfoumou"
       },
@@ -10847,6 +10930,7 @@
         "ADM3_PCODE": "CM002009004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002009",
         "ADM2_EN": "Nyong-et-Mfoumou"
       },
@@ -10971,6 +11055,7 @@
         "ADM3_PCODE": "CM002009005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002009",
         "ADM2_EN": "Nyong-et-Mfoumou"
       },
@@ -11047,6 +11132,7 @@
         "ADM3_PCODE": "CM002010001",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002010",
         "ADM2_EN": "Nyong-et-So'o"
       },
@@ -11127,6 +11213,7 @@
         "ADM3_PCODE": "CM002010002",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002010",
         "ADM2_EN": "Nyong-et-So'o"
       },
@@ -11259,6 +11346,7 @@
         "ADM3_PCODE": "CM002010003",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002010",
         "ADM2_EN": "Nyong-et-So'o"
       },
@@ -11351,6 +11439,7 @@
         "ADM3_PCODE": "CM002010004",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002010",
         "ADM2_EN": "Nyong-et-So'o"
       },
@@ -11447,6 +11536,7 @@
         "ADM3_PCODE": "CM002010005",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002010",
         "ADM2_EN": "Nyong-et-So'o"
       },
@@ -11567,6 +11657,7 @@
         "ADM3_PCODE": "CM002010006",
         "ADM1_PCODE": "CM002",
         "ADM1_EN": "Centre",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM002010",
         "ADM2_EN": "Nyong-et-So'o"
       },
@@ -11651,6 +11742,7 @@
         "ADM3_PCODE": "CM003001001",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003001",
         "ADM2_EN": "Boumba-et-Ngoko"
       },
@@ -11755,6 +11847,7 @@
         "ADM3_PCODE": "CM003001002",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003001",
         "ADM2_EN": "Boumba-et-Ngoko"
       },
@@ -12087,6 +12180,7 @@
         "ADM3_PCODE": "CM003001003",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003001",
         "ADM2_EN": "Boumba-et-Ngoko"
       },
@@ -12151,6 +12245,7 @@
         "ADM3_PCODE": "CM003001004",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003001",
         "ADM2_EN": "Boumba-et-Ngoko"
       },
@@ -12315,6 +12410,7 @@
         "ADM3_PCODE": "CM003002001",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -12431,6 +12527,7 @@
         "ADM3_PCODE": "CM003002002",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -12535,6 +12632,7 @@
         "ADM3_PCODE": "CM003002003",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -12607,6 +12705,7 @@
         "ADM3_PCODE": "CM003002004",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -12787,6 +12886,7 @@
         "ADM3_PCODE": "CM003002005",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -12883,6 +12983,7 @@
         "ADM3_PCODE": "CM003002006",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -12971,6 +13072,7 @@
         "ADM3_PCODE": "CM003002007",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -13271,6 +13373,7 @@
         "ADM3_PCODE": "CM003002008",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -13363,6 +13466,7 @@
         "ADM3_PCODE": "CM003002009",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -13419,6 +13523,7 @@
         "ADM3_PCODE": "CM003002010",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -13547,6 +13652,7 @@
         "ADM3_PCODE": "CM003002011",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -13735,6 +13841,7 @@
         "ADM3_PCODE": "CM003002012",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -13883,6 +13990,7 @@
         "ADM3_PCODE": "CM003002013",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -14031,6 +14139,7 @@
         "ADM3_PCODE": "CM003002014",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003002",
         "ADM2_EN": "Haut-Nyong"
       },
@@ -14111,6 +14220,7 @@
         "ADM3_PCODE": "CM003003001",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -14315,6 +14425,7 @@
         "ADM3_PCODE": "CM003003002",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -14443,6 +14554,7 @@
         "ADM3_PCODE": "CM003003003",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -14571,6 +14683,7 @@
         "ADM3_PCODE": "CM003003004",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -14787,6 +14900,7 @@
         "ADM3_PCODE": "CM003003005",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -14903,6 +15017,7 @@
         "ADM3_PCODE": "CM003003006",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -15051,6 +15166,7 @@
         "ADM3_PCODE": "CM003003007",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003003",
         "ADM2_EN": "Kadey"
       },
@@ -15171,6 +15287,7 @@
         "ADM3_PCODE": "CM003004001",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -15299,6 +15416,7 @@
         "ADM3_PCODE": "CM003004002",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -15375,6 +15493,7 @@
         "ADM3_PCODE": "CM003004003",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -15431,6 +15550,7 @@
         "ADM3_PCODE": "CM003004004",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -15675,6 +15795,7 @@
         "ADM3_PCODE": "CM003004005",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -15755,6 +15876,7 @@
         "ADM3_PCODE": "CM003004006",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -15927,6 +16049,7 @@
         "ADM3_PCODE": "CM003004007",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -16027,6 +16150,7 @@
         "ADM3_PCODE": "CM003004008",
         "ADM1_PCODE": "CM003",
         "ADM1_EN": "Est",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM003004",
         "ADM2_EN": "Lom-et-Djérem"
       },
@@ -16135,6 +16259,7 @@
         "ADM3_PCODE": "CM004001001",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16211,6 +16336,7 @@
         "ADM3_PCODE": "CM004001002",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16279,6 +16405,7 @@
         "ADM3_PCODE": "CM004001003",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16339,6 +16466,7 @@
         "ADM3_PCODE": "CM004001004",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16411,6 +16539,7 @@
         "ADM3_PCODE": "CM004001005",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16451,6 +16580,7 @@
         "ADM3_PCODE": "CM004001006",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16543,6 +16673,7 @@
         "ADM3_PCODE": "CM004001007",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16635,6 +16766,7 @@
         "ADM3_PCODE": "CM004001008",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16711,6 +16843,7 @@
         "ADM3_PCODE": "CM004001009",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004001",
         "ADM2_EN": "Diamaré"
       },
@@ -16783,6 +16916,7 @@
         "ADM3_PCODE": "CM004002001",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -16927,6 +17061,7 @@
         "ADM3_PCODE": "CM004002002",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -17135,6 +17270,7 @@
         "ADM3_PCODE": "CM004002003",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -17271,6 +17407,7 @@
         "ADM3_PCODE": "CM004002004",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -17451,6 +17588,7 @@
         "ADM3_PCODE": "CM004002005",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -17579,6 +17717,7 @@
         "ADM3_PCODE": "CM004002006",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -17659,6 +17798,7 @@
         "ADM3_PCODE": "CM004002007",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -17899,6 +18039,7 @@
         "ADM3_PCODE": "CM004002008",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -18127,6 +18268,7 @@
         "ADM3_PCODE": "CM004002009",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -18287,6 +18429,7 @@
         "ADM3_PCODE": "CM004002010",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004002",
         "ADM2_EN": "Logone-et-Chari"
       },
@@ -18391,6 +18534,7 @@
         "ADM3_PCODE": "CM004003001",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18435,6 +18579,7 @@
         "ADM3_PCODE": "CM004003002",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18503,6 +18648,7 @@
         "ADM3_PCODE": "CM004003003",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18571,6 +18717,7 @@
         "ADM3_PCODE": "CM004003004",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18647,6 +18794,7 @@
         "ADM3_PCODE": "CM004003005",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18739,6 +18887,7 @@
         "ADM3_PCODE": "CM004003006",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18791,6 +18940,7 @@
         "ADM3_PCODE": "CM004003007",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18859,6 +19009,7 @@
         "ADM3_PCODE": "CM004003008",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18911,6 +19062,7 @@
         "ADM3_PCODE": "CM004003009",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -18971,6 +19123,7 @@
         "ADM3_PCODE": "CM004003010",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -19015,6 +19168,7 @@
         "ADM3_PCODE": "CM004003011",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004003",
         "ADM2_EN": "Mayo-Danay"
       },
@@ -19127,6 +19281,7 @@
         "ADM3_PCODE": "CM004004001",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19195,6 +19350,7 @@
         "ADM3_PCODE": "CM004004002",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19299,6 +19455,7 @@
         "ADM3_PCODE": "CM004004003",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19387,6 +19544,7 @@
         "ADM3_PCODE": "CM004004004",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19475,6 +19633,7 @@
         "ADM3_PCODE": "CM004004005",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19539,6 +19698,7 @@
         "ADM3_PCODE": "CM004004006",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19591,6 +19751,7 @@
         "ADM3_PCODE": "CM004004007",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004004",
         "ADM2_EN": "Mayo-Kani"
       },
@@ -19651,6 +19812,7 @@
         "ADM3_PCODE": "CM004005001",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004005",
         "ADM2_EN": "Mayo-Sava"
       },
@@ -19731,6 +19893,7 @@
         "ADM3_PCODE": "CM004005002",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004005",
         "ADM2_EN": "Mayo-Sava"
       },
@@ -19847,6 +20010,7 @@
         "ADM3_PCODE": "CM004005003",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004005",
         "ADM2_EN": "Mayo-Sava"
       },
@@ -19907,6 +20071,7 @@
         "ADM3_PCODE": "CM004006001",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20047,6 +20212,7 @@
         "ADM3_PCODE": "CM004006002",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20115,6 +20281,7 @@
         "ADM3_PCODE": "CM004006003",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20203,6 +20370,7 @@
         "ADM3_PCODE": "CM004006004",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20263,6 +20431,7 @@
         "ADM3_PCODE": "CM004006005",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20359,6 +20528,7 @@
         "ADM3_PCODE": "CM004006006",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20531,6 +20701,7 @@
         "ADM3_PCODE": "CM004006007",
         "ADM1_PCODE": "CM004",
         "ADM1_EN": "Extrême-Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM004006",
         "ADM2_EN": "Mayo-Tsanaga"
       },
@@ -20591,6 +20762,7 @@
         "ADM3_PCODE": "CM005001001",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -20667,6 +20839,7 @@
         "ADM3_PCODE": "CM005001002",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -20755,6 +20928,7 @@
         "ADM3_PCODE": "CM005001003",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -20823,6 +20997,7 @@
         "ADM3_PCODE": "CM005001004",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -20899,6 +21074,7 @@
         "ADM3_PCODE": "CM005001005",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -20999,6 +21175,7 @@
         "ADM3_PCODE": "CM005001006",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21131,6 +21308,7 @@
         "ADM3_PCODE": "CM005001007",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21263,6 +21441,7 @@
         "ADM3_PCODE": "CM005001008",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21315,6 +21494,7 @@
         "ADM3_PCODE": "CM005001009",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21399,6 +21579,7 @@
         "ADM3_PCODE": "CM005001010",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21463,6 +21644,7 @@
         "ADM3_PCODE": "CM005001011",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21507,6 +21689,7 @@
         "ADM3_PCODE": "CM005001012",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21563,6 +21746,7 @@
         "ADM3_PCODE": "CM005001013",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005001",
         "ADM2_EN": "Moungo"
       },
@@ -21643,6 +21827,7 @@
         "ADM3_PCODE": "CM005002001",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005002",
         "ADM2_EN": "Nkam"
       },
@@ -21759,6 +21944,7 @@
         "ADM3_PCODE": "CM005002002",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005002",
         "ADM2_EN": "Nkam"
       },
@@ -21855,6 +22041,7 @@
         "ADM3_PCODE": "CM005002003",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005002",
         "ADM2_EN": "Nkam"
       },
@@ -22023,6 +22210,7 @@
         "ADM3_PCODE": "CM005002004",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005002",
         "ADM2_EN": "Nkam"
       },
@@ -22215,6 +22403,7 @@
         "ADM3_PCODE": "CM005003001",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -22311,6 +22500,7 @@
         "ADM3_PCODE": "CM005003002",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -22443,6 +22633,7 @@
         "ADM3_PCODE": "CM005003003",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -22571,6 +22762,7 @@
         "ADM3_PCODE": "CM005003004",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -22679,6 +22871,7 @@
         "ADM3_PCODE": "CM005003005",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -22771,6 +22964,7 @@
         "ADM3_PCODE": "CM005003006",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -22919,6 +23113,7 @@
         "ADM3_PCODE": "CM005003007",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -23007,6 +23202,7 @@
         "ADM3_PCODE": "CM005003008",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -23119,6 +23315,7 @@
         "ADM3_PCODE": "CM005003009",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -23239,6 +23436,7 @@
         "ADM3_PCODE": "CM005003010",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -23311,6 +23509,7 @@
         "ADM3_PCODE": "CM005003011",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005003",
         "ADM2_EN": "Sanaga-Maritime"
       },
@@ -23467,6 +23666,7 @@
         "ADM3_PCODE": "CM005004001",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005004",
         "ADM2_EN": "Wouri"
       },
@@ -23515,6 +23715,7 @@
         "ADM3_PCODE": "CM005004002",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005004",
         "ADM2_EN": "Wouri"
       },
@@ -23563,6 +23764,7 @@
         "ADM3_PCODE": "CM005004003",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005004",
         "ADM2_EN": "Wouri"
       },
@@ -23647,6 +23849,7 @@
         "ADM3_PCODE": "CM005004004",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005004",
         "ADM2_EN": "Wouri"
       },
@@ -23755,6 +23958,7 @@
         "ADM3_PCODE": "CM005004005",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005004",
         "ADM2_EN": "Wouri"
       },
@@ -23819,6 +24023,7 @@
         "ADM3_PCODE": "CM005004006",
         "ADM1_PCODE": "CM005",
         "ADM1_EN": "Littoral",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM005004",
         "ADM2_EN": "Wouri"
       },
@@ -24075,6 +24280,7 @@
         "ADM3_PCODE": "CM006001001",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24207,6 +24413,7 @@
         "ADM3_PCODE": "CM006001002",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24423,6 +24630,7 @@
         "ADM3_PCODE": "CM006001003",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24523,6 +24731,7 @@
         "ADM3_PCODE": "CM006001004",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24583,6 +24792,7 @@
         "ADM3_PCODE": "CM006001005",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24635,6 +24845,7 @@
         "ADM3_PCODE": "CM006001006",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24687,6 +24898,7 @@
         "ADM3_PCODE": "CM006001007",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24759,6 +24971,7 @@
         "ADM3_PCODE": "CM006001008",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -24887,6 +25100,7 @@
         "ADM3_PCODE": "CM006001009",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -25003,6 +25217,7 @@
         "ADM3_PCODE": "CM006001010",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -25159,6 +25374,7 @@
         "ADM3_PCODE": "CM006001011",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -25267,6 +25483,7 @@
         "ADM3_PCODE": "CM006001012",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006001",
         "ADM2_EN": "Bénoué"
       },
@@ -25379,6 +25596,7 @@
         "ADM3_PCODE": "CM006002001",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006002",
         "ADM2_EN": "Faro"
       },
@@ -25595,6 +25813,7 @@
         "ADM3_PCODE": "CM006002002",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006002",
         "ADM2_EN": "Faro"
       },
@@ -25935,6 +26154,7 @@
         "ADM3_PCODE": "CM006003001",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006003",
         "ADM2_EN": "Mayo-Louti"
       },
@@ -26043,6 +26263,7 @@
         "ADM3_PCODE": "CM006003002",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006003",
         "ADM2_EN": "Mayo-Louti"
       },
@@ -26207,6 +26428,7 @@
         "ADM3_PCODE": "CM006003003",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006003",
         "ADM2_EN": "Mayo-Louti"
       },
@@ -26403,6 +26625,7 @@
         "ADM3_PCODE": "CM006004001",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006004",
         "ADM2_EN": "Mayo-Rey"
       },
@@ -26519,6 +26742,7 @@
         "ADM3_PCODE": "CM006004002",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006004",
         "ADM2_EN": "Mayo-Rey"
       },
@@ -26787,6 +27011,7 @@
         "ADM3_PCODE": "CM006004003",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006004",
         "ADM2_EN": "Mayo-Rey"
       },
@@ -27199,6 +27424,7 @@
         "ADM3_PCODE": "CM006004004",
         "ADM1_PCODE": "CM006",
         "ADM1_EN": "Nord",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM006004",
         "ADM2_EN": "Mayo-Rey"
       },
@@ -27419,6 +27645,7 @@
         "ADM3_PCODE": "CM007001001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007001",
         "ADM2_EN": "Boyo"
       },
@@ -27507,6 +27734,7 @@
         "ADM3_PCODE": "CM007001002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007001",
         "ADM2_EN": "Boyo"
       },
@@ -27599,6 +27827,7 @@
         "ADM3_PCODE": "CM007001003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007001",
         "ADM2_EN": "Boyo"
       },
@@ -27683,6 +27912,7 @@
         "ADM3_PCODE": "CM007001004",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007001",
         "ADM2_EN": "Boyo"
       },
@@ -27751,6 +27981,7 @@
         "ADM3_PCODE": "CM007002001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007002",
         "ADM2_EN": "Bui"
       },
@@ -27835,6 +28066,7 @@
         "ADM3_PCODE": "CM007002002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007002",
         "ADM2_EN": "Bui"
       },
@@ -27895,6 +28127,7 @@
         "ADM3_PCODE": "CM007002003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007002",
         "ADM2_EN": "Bui"
       },
@@ -27995,6 +28228,7 @@
         "ADM3_PCODE": "CM007002004",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007002",
         "ADM2_EN": "Bui"
       },
@@ -28063,6 +28297,7 @@
         "ADM3_PCODE": "CM007002005",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007002",
         "ADM2_EN": "Bui"
       },
@@ -28135,6 +28370,7 @@
         "ADM3_PCODE": "CM007002006",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007002",
         "ADM2_EN": "Bui"
       },
@@ -28211,6 +28447,7 @@
         "ADM3_PCODE": "CM007003001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007003",
         "ADM2_EN": "Donga-Mantung"
       },
@@ -28327,6 +28564,7 @@
         "ADM3_PCODE": "CM007003002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007003",
         "ADM2_EN": "Donga-Mantung"
       },
@@ -28427,6 +28665,7 @@
         "ADM3_PCODE": "CM007003003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007003",
         "ADM2_EN": "Donga-Mantung"
       },
@@ -28531,6 +28770,7 @@
         "ADM3_PCODE": "CM007003004",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007003",
         "ADM2_EN": "Donga-Mantung"
       },
@@ -28599,6 +28839,7 @@
         "ADM3_PCODE": "CM007003005",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007003",
         "ADM2_EN": "Donga-Mantung"
       },
@@ -28767,6 +29008,7 @@
         "ADM3_PCODE": "CM007004001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007004",
         "ADM2_EN": "Menchum"
       },
@@ -28919,6 +29161,7 @@
         "ADM3_PCODE": "CM007004002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007004",
         "ADM2_EN": "Menchum"
       },
@@ -29015,6 +29258,7 @@
         "ADM3_PCODE": "CM007004003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007004",
         "ADM2_EN": "Menchum"
       },
@@ -29135,6 +29379,7 @@
         "ADM3_PCODE": "CM007004004",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007004",
         "ADM2_EN": "Menchum"
       },
@@ -29207,6 +29452,7 @@
         "ADM3_PCODE": "CM007005001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29295,6 +29541,7 @@
         "ADM3_PCODE": "CM007005002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29355,6 +29602,7 @@
         "ADM3_PCODE": "CM007005003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29411,6 +29659,7 @@
         "ADM3_PCODE": "CM007005004",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29471,6 +29720,7 @@
         "ADM3_PCODE": "CM007005005",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29515,6 +29765,7 @@
         "ADM3_PCODE": "CM007005006",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29599,6 +29850,7 @@
         "ADM3_PCODE": "CM007005007",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007005",
         "ADM2_EN": "Mezam"
       },
@@ -29679,6 +29931,7 @@
         "ADM3_PCODE": "CM007006001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007006",
         "ADM2_EN": "Momo"
       },
@@ -29779,6 +30032,7 @@
         "ADM3_PCODE": "CM007006002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007006",
         "ADM2_EN": "Momo"
       },
@@ -29855,6 +30109,7 @@
         "ADM3_PCODE": "CM007006003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007006",
         "ADM2_EN": "Momo"
       },
@@ -29919,6 +30174,7 @@
         "ADM3_PCODE": "CM007006004",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007006",
         "ADM2_EN": "Momo"
       },
@@ -30015,6 +30271,7 @@
         "ADM3_PCODE": "CM007006005",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007006",
         "ADM2_EN": "Momo"
       },
@@ -30139,6 +30396,7 @@
         "ADM3_PCODE": "CM007007001",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007007",
         "ADM2_EN": "Ngo-Ketunjia"
       },
@@ -30239,6 +30497,7 @@
         "ADM3_PCODE": "CM007007002",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007007",
         "ADM2_EN": "Ngo-Ketunjia"
       },
@@ -30327,6 +30586,7 @@
         "ADM3_PCODE": "CM007007003",
         "ADM1_PCODE": "CM007",
         "ADM1_EN": "Nord-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM007007",
         "ADM2_EN": "Ngo-Ketunjia"
       },
@@ -30403,6 +30663,7 @@
         "ADM3_PCODE": "CM008001001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008001",
         "ADM2_EN": "Bamboutos"
       },
@@ -30459,6 +30720,7 @@
         "ADM3_PCODE": "CM008001002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008001",
         "ADM2_EN": "Bamboutos"
       },
@@ -30543,6 +30805,7 @@
         "ADM3_PCODE": "CM008001003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008001",
         "ADM2_EN": "Bamboutos"
       },
@@ -30651,6 +30914,7 @@
         "ADM3_PCODE": "CM008001004",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008001",
         "ADM2_EN": "Bamboutos"
       },
@@ -30759,6 +31023,7 @@
         "ADM3_PCODE": "CM008002001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -30811,6 +31076,7 @@
         "ADM3_PCODE": "CM008002002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -30883,6 +31149,7 @@
         "ADM3_PCODE": "CM008002003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -30943,6 +31210,7 @@
         "ADM3_PCODE": "CM008002004",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -31015,6 +31283,7 @@
         "ADM3_PCODE": "CM008002005",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -31091,6 +31360,7 @@
         "ADM3_PCODE": "CM008002006",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -31147,6 +31417,7 @@
         "ADM3_PCODE": "CM008002007",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008002",
         "ADM2_EN": "Haut-Nkam"
       },
@@ -31207,6 +31478,7 @@
         "ADM3_PCODE": "CM008003001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008003",
         "ADM2_EN": "Hauts-Plateaux"
       },
@@ -31255,6 +31527,7 @@
         "ADM3_PCODE": "CM008003002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008003",
         "ADM2_EN": "Hauts-Plateaux"
       },
@@ -31323,6 +31596,7 @@
         "ADM3_PCODE": "CM008003003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008003",
         "ADM2_EN": "Hauts-Plateaux"
       },
@@ -31391,6 +31665,7 @@
         "ADM3_PCODE": "CM008003004",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008003",
         "ADM2_EN": "Hauts-Plateaux"
       },
@@ -31443,6 +31718,7 @@
         "ADM3_PCODE": "CM008004001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008004",
         "ADM2_EN": "Koung-Khi"
       },
@@ -31491,6 +31767,7 @@
         "ADM3_PCODE": "CM008004002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008004",
         "ADM2_EN": "Koung-Khi"
       },
@@ -31559,6 +31836,7 @@
         "ADM3_PCODE": "CM008004003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008004",
         "ADM2_EN": "Koung-Khi"
       },
@@ -31631,6 +31909,7 @@
         "ADM3_PCODE": "CM008005001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008005",
         "ADM2_EN": "Menoua"
       },
@@ -31707,6 +31986,7 @@
         "ADM3_PCODE": "CM008005002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008005",
         "ADM2_EN": "Menoua"
       },
@@ -31775,6 +32055,7 @@
         "ADM3_PCODE": "CM008005003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008005",
         "ADM2_EN": "Menoua"
       },
@@ -31851,6 +32132,7 @@
         "ADM3_PCODE": "CM008005004",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008005",
         "ADM2_EN": "Menoua"
       },
@@ -31923,6 +32205,7 @@
         "ADM3_PCODE": "CM008005005",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008005",
         "ADM2_EN": "Menoua"
       },
@@ -31995,6 +32278,7 @@
         "ADM3_PCODE": "CM008005006",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008005",
         "ADM2_EN": "Menoua"
       },
@@ -32091,6 +32375,7 @@
         "ADM3_PCODE": "CM008006001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008006",
         "ADM2_EN": "Mifi"
       },
@@ -32167,6 +32452,7 @@
         "ADM3_PCODE": "CM008006002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008006",
         "ADM2_EN": "Mifi"
       },
@@ -32239,6 +32525,7 @@
         "ADM3_PCODE": "CM008006003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008006",
         "ADM2_EN": "Mifi"
       },
@@ -32295,6 +32582,7 @@
         "ADM3_PCODE": "CM008007001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008007",
         "ADM2_EN": "Ndé"
       },
@@ -32495,6 +32783,7 @@
         "ADM3_PCODE": "CM008007002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008007",
         "ADM2_EN": "Ndé"
       },
@@ -32535,6 +32824,7 @@
         "ADM3_PCODE": "CM008007003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008007",
         "ADM2_EN": "Ndé"
       },
@@ -32611,6 +32901,7 @@
         "ADM3_PCODE": "CM008007004",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008007",
         "ADM2_EN": "Ndé"
       },
@@ -32691,6 +32982,7 @@
         "ADM3_PCODE": "CM008008001",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -32783,6 +33075,7 @@
         "ADM3_PCODE": "CM008008002",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -32883,6 +33176,7 @@
         "ADM3_PCODE": "CM008008003",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33031,6 +33325,7 @@
         "ADM3_PCODE": "CM008008004",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33127,6 +33422,7 @@
         "ADM3_PCODE": "CM008008005",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33231,6 +33527,7 @@
         "ADM3_PCODE": "CM008008006",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33387,6 +33684,7 @@
         "ADM3_PCODE": "CM008008007",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33519,6 +33817,7 @@
         "ADM3_PCODE": "CM008008008",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33703,6 +34002,7 @@
         "ADM3_PCODE": "CM008008009",
         "ADM1_PCODE": "CM008",
         "ADM1_EN": "Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM008008",
         "ADM2_EN": "Noun"
       },
@@ -33811,6 +34111,7 @@
         "ADM3_PCODE": "CM009001001",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -33999,6 +34300,7 @@
         "ADM3_PCODE": "CM009001002",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -34279,6 +34581,7 @@
         "ADM3_PCODE": "CM009001003",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -34487,6 +34790,7 @@
         "ADM3_PCODE": "CM009001004",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -34543,6 +34847,7 @@
         "ADM3_PCODE": "CM009001005",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -34751,6 +35056,7 @@
         "ADM3_PCODE": "CM009001006",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -34879,6 +35185,7 @@
         "ADM3_PCODE": "CM009001007",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -34979,6 +35286,7 @@
         "ADM3_PCODE": "CM009001008",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009001",
         "ADM2_EN": "Dja-et-Lobo"
       },
@@ -35139,6 +35447,7 @@
         "ADM3_PCODE": "CM009002001",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35227,6 +35536,7 @@
         "ADM3_PCODE": "CM009002002",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35307,6 +35617,7 @@
         "ADM3_PCODE": "CM009002003",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35435,6 +35746,7 @@
         "ADM3_PCODE": "CM009002004",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35595,6 +35907,7 @@
         "ADM3_PCODE": "CM009002005",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35711,6 +36024,7 @@
         "ADM3_PCODE": "CM009002006",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35783,6 +36097,7 @@
         "ADM3_PCODE": "CM009002007",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -35927,6 +36242,7 @@
         "ADM3_PCODE": "CM009002008",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009002",
         "ADM2_EN": "Mvila"
       },
@@ -36027,6 +36343,7 @@
         "ADM3_PCODE": "CM009003001",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36195,6 +36512,7 @@
         "ADM3_PCODE": "CM009003002",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36323,6 +36641,7 @@
         "ADM3_PCODE": "CM009003003",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36459,6 +36778,7 @@
         "ADM3_PCODE": "CM009003004",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36547,6 +36867,7 @@
         "ADM3_PCODE": "CM009003005",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36603,6 +36924,7 @@
         "ADM3_PCODE": "CM009003006",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36791,6 +37113,7 @@
         "ADM3_PCODE": "CM009003007",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36871,6 +37194,7 @@
         "ADM3_PCODE": "CM009003008",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -36995,6 +37319,7 @@
         "ADM3_PCODE": "CM009003009",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009003",
         "ADM2_EN": "Océan"
       },
@@ -37123,6 +37448,7 @@
         "ADM3_PCODE": "CM009004001",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009004",
         "ADM2_EN": "Vallée-du-Ntem"
       },
@@ -37239,6 +37565,7 @@
         "ADM3_PCODE": "CM009004002",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009004",
         "ADM2_EN": "Vallée-du-Ntem"
       },
@@ -37319,6 +37646,7 @@
         "ADM3_PCODE": "CM009004003",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009004",
         "ADM2_EN": "Vallée-du-Ntem"
       },
@@ -37471,6 +37799,7 @@
         "ADM3_PCODE": "CM009004004",
         "ADM1_PCODE": "CM009",
         "ADM1_EN": "Sud",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM009004",
         "ADM2_EN": "Vallée-du-Ntem"
       },
@@ -37555,6 +37884,7 @@
         "ADM3_PCODE": "CM010001001",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -37643,6 +37973,7 @@
         "ADM3_PCODE": "CM010001002",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -37683,6 +38014,7 @@
         "ADM3_PCODE": "CM010001003",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -37947,6 +38279,7 @@
         "ADM3_PCODE": "CM010001004",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -38099,6 +38432,7 @@
         "ADM3_PCODE": "CM010001005",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -38183,6 +38517,7 @@
         "ADM3_PCODE": "CM010001006",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -38275,6 +38610,7 @@
         "ADM3_PCODE": "CM010001007",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010001",
         "ADM2_EN": "Fako"
       },
@@ -38363,6 +38699,7 @@
         "ADM3_PCODE": "CM010002001",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010002",
         "ADM2_EN": "Kupe-Manenguba"
       },
@@ -38487,6 +38824,7 @@
         "ADM3_PCODE": "CM010002002",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010002",
         "ADM2_EN": "Kupe-Manenguba"
       },
@@ -38663,6 +39001,7 @@
         "ADM3_PCODE": "CM010002003",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010002",
         "ADM2_EN": "Kupe-Manenguba"
       },
@@ -38827,6 +39166,7 @@
         "ADM3_PCODE": "CM010003001",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010003",
         "ADM2_EN": "Lebialem"
       },
@@ -38899,6 +39239,7 @@
         "ADM3_PCODE": "CM010003002",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010003",
         "ADM2_EN": "Lebialem"
       },
@@ -38959,6 +39300,7 @@
         "ADM3_PCODE": "CM010003003",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010003",
         "ADM2_EN": "Lebialem"
       },
@@ -39023,6 +39365,7 @@
         "ADM3_PCODE": "CM010004001",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010004",
         "ADM2_EN": "Manyu"
       },
@@ -39235,6 +39578,7 @@
         "ADM3_PCODE": "CM010004002",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010004",
         "ADM2_EN": "Manyu"
       },
@@ -39419,6 +39763,7 @@
         "ADM3_PCODE": "CM010004003",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010004",
         "ADM2_EN": "Manyu"
       },
@@ -39703,6 +40048,7 @@
         "ADM3_PCODE": "CM010004004",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010004",
         "ADM2_EN": "Manyu"
       },
@@ -39835,6 +40181,7 @@
         "ADM3_PCODE": "CM010005001",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010005",
         "ADM2_EN": "Meme"
       },
@@ -39971,6 +40318,7 @@
         "ADM3_PCODE": "CM010005002",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010005",
         "ADM2_EN": "Meme"
       },
@@ -40055,6 +40403,7 @@
         "ADM3_PCODE": "CM010005003",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010005",
         "ADM2_EN": "Meme"
       },
@@ -40115,6 +40464,7 @@
         "ADM3_PCODE": "CM010005004",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010005",
         "ADM2_EN": "Meme"
       },
@@ -40207,6 +40557,7 @@
         "ADM3_PCODE": "CM010005005",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010005",
         "ADM2_EN": "Meme"
       },
@@ -40343,6 +40694,7 @@
         "ADM3_PCODE": "CM010006001",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -40559,6 +40911,7 @@
         "ADM3_PCODE": "CM010006002",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -40659,6 +41012,7 @@
         "ADM3_PCODE": "CM010006003",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -40811,6 +41165,7 @@
         "ADM3_PCODE": "CM010006004",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -40895,6 +41250,7 @@
         "ADM3_PCODE": "CM010006005",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -41131,6 +41487,7 @@
         "ADM3_PCODE": "CM010006006",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -41407,6 +41764,7 @@
         "ADM3_PCODE": "CM010006007",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -41859,6 +42217,7 @@
         "ADM3_PCODE": "CM010006008",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },
@@ -41999,6 +42358,7 @@
         "ADM3_PCODE": "CM010006009",
         "ADM1_PCODE": "CM010",
         "ADM1_EN": "Sud-Ouest",
+        "ADM0_PCODE": "CM",
         "ADM2_PCODE": "CM010006",
         "ADM2_EN": "Ndian"
       },

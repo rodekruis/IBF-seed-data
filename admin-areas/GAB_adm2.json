@@ -14,7 +14,8 @@
         "ADM2_EN": "Komo",
         "ADM2_PCODE": "GAB001001",
         "ADM1_PCODE": "GAB001",
-        "ADM1_EN": "Estuaire"
+        "ADM1_EN": "Estuaire",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -256,7 +257,8 @@
         "ADM2_EN": "Komo-Mondah",
         "ADM2_PCODE": "GAB001002",
         "ADM1_PCODE": "GAB001",
-        "ADM1_EN": "Estuaire"
+        "ADM1_EN": "Estuaire",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -608,7 +610,8 @@
         "ADM2_EN": "Noya",
         "ADM2_PCODE": "GAB001003",
         "ADM1_PCODE": "GAB001",
-        "ADM1_EN": "Estuaire"
+        "ADM1_EN": "Estuaire",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -878,7 +881,8 @@
         "ADM2_EN": "Libreville",
         "ADM2_PCODE": "GAB001004",
         "ADM1_PCODE": "GAB001",
-        "ADM1_EN": "Estuaire"
+        "ADM1_EN": "Estuaire",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -936,7 +940,8 @@
         "ADM2_EN": "Djoue",
         "ADM2_PCODE": "GAB002001",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1066,7 +1071,8 @@
         "ADM2_EN": "Djouori-Agnili",
         "ADM2_PCODE": "GAB002002",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1156,7 +1162,8 @@
         "ADM2_EN": "Lebombi-Leyou",
         "ADM2_PCODE": "GAB002003",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1318,7 +1325,8 @@
         "ADM2_EN": "Lekabi-Lewolo",
         "ADM2_PCODE": "GAB002004",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1416,7 +1424,8 @@
         "ADM2_EN": "Lekoko",
         "ADM2_PCODE": "GAB002005",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1574,7 +1583,8 @@
         "ADM2_EN": "Lekoni-Lekori",
         "ADM2_PCODE": "GAB002006",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1632,7 +1642,8 @@
         "ADM2_EN": "Ogooue-Letili",
         "ADM2_PCODE": "GAB002007",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1802,7 +1813,8 @@
         "ADM2_EN": "Passa",
         "ADM2_PCODE": "GAB002008",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -2044,7 +2056,8 @@
         "ADM2_EN": "Plateaux",
         "ADM2_PCODE": "GAB002009",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -2418,7 +2431,8 @@
         "ADM2_EN": "Sebe-Brikolo",
         "ADM2_PCODE": "GAB002010",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2680,7 +2694,8 @@
         "ADM2_EN": "Bayi-Brikolo",
         "ADM2_PCODE": "GAB002011",
         "ADM1_PCODE": "GAB002",
-        "ADM1_EN": "Haut-Ogooue"
+        "ADM1_EN": "Haut-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -2798,7 +2813,8 @@
         "ADM2_EN": "Abanga-Bigne",
         "ADM2_PCODE": "GAB003001",
         "ADM1_PCODE": "GAB003",
-        "ADM1_EN": "Moyen-Ogooue"
+        "ADM1_EN": "Moyen-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -2996,7 +3012,8 @@
         "ADM2_EN": "Ogooue et Lacs",
         "ADM2_PCODE": "GAB003002",
         "ADM1_PCODE": "GAB003",
-        "ADM1_EN": "Moyen-Ogooue"
+        "ADM1_EN": "Moyen-Ogooue",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -3246,7 +3263,8 @@
         "ADM2_EN": "Boumi-Louetsi",
         "ADM2_PCODE": "GAB004001",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -3420,7 +3438,8 @@
         "ADM2_EN": "Dola",
         "ADM2_PCODE": "GAB004002",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3786,7 +3805,8 @@
         "ADM2_EN": "Douya-Onoye",
         "ADM2_PCODE": "GAB004003",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -3956,7 +3976,8 @@
         "ADM2_EN": "Louetsi-Bibaka",
         "ADM2_PCODE": "GAB004004",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4186,7 +4207,8 @@
         "ADM2_EN": "Louetsi-Wano",
         "ADM2_PCODE": "GAB004005",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -4304,7 +4326,8 @@
         "ADM2_EN": "Ndolou",
         "ADM2_PCODE": "GAB004006",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -4502,7 +4525,8 @@
         "ADM2_EN": "Ogoulou",
         "ADM2_PCODE": "GAB004007",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -4700,7 +4724,8 @@
         "ADM2_EN": "Tsamba-Magotsi",
         "ADM2_PCODE": "GAB004008",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5006,7 +5031,8 @@
         "ADM2_EN": "Mougalaba",
         "ADM2_PCODE": "GAB004009",
         "ADM1_PCODE": "GAB004",
-        "ADM1_EN": "Ngounie"
+        "ADM1_EN": "Ngounie",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5112,7 +5138,8 @@
         "ADM2_EN": "Basse-Banio",
         "ADM2_PCODE": "GAB005001",
         "ADM1_PCODE": "GAB005",
-        "ADM1_EN": "Nyanga"
+        "ADM1_EN": "Nyanga",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5294,7 +5321,8 @@
         "ADM2_EN": "Douigni",
         "ADM2_PCODE": "GAB005002",
         "ADM1_PCODE": "GAB005",
-        "ADM1_EN": "Nyanga"
+        "ADM1_EN": "Nyanga",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5400,7 +5428,8 @@
         "ADM2_EN": "Doutsila",
         "ADM2_PCODE": "GAB005003",
         "ADM1_PCODE": "GAB005",
-        "ADM1_EN": "Nyanga"
+        "ADM1_EN": "Nyanga",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5554,7 +5583,8 @@
         "ADM2_EN": "Haute-Banio",
         "ADM2_PCODE": "GAB005004",
         "ADM1_PCODE": "GAB005",
-        "ADM1_EN": "Nyanga"
+        "ADM1_EN": "Nyanga",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5656,7 +5686,8 @@
         "ADM2_EN": "Mougoutsi",
         "ADM2_PCODE": "GAB005005",
         "ADM1_PCODE": "GAB005",
-        "ADM1_EN": "Nyanga"
+        "ADM1_EN": "Nyanga",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5810,7 +5841,8 @@
         "ADM2_EN": "Mongo",
         "ADM2_PCODE": "GAB005006",
         "ADM1_PCODE": "GAB005",
-        "ADM1_EN": "Nyanga"
+        "ADM1_EN": "Nyanga",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5980,7 +6012,8 @@
         "ADM2_EN": "Ivindo",
         "ADM2_PCODE": "GAB006001",
         "ADM1_PCODE": "GAB006",
-        "ADM1_EN": "Ogooue-Ivindo"
+        "ADM1_EN": "Ogooue-Ivindo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -6390,7 +6423,8 @@
         "ADM2_EN": "Lope",
         "ADM2_PCODE": "GAB006002",
         "ADM1_PCODE": "GAB006",
-        "ADM1_EN": "Ogooue-Ivindo"
+        "ADM1_EN": "Ogooue-Ivindo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -6564,7 +6598,8 @@
         "ADM2_EN": "Mvoung",
         "ADM2_PCODE": "GAB006003",
         "ADM1_PCODE": "GAB006",
-        "ADM1_EN": "Ogooue-Ivindo"
+        "ADM1_EN": "Ogooue-Ivindo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -6730,7 +6765,8 @@
         "ADM2_EN": "Zadie",
         "ADM2_PCODE": "GAB006004",
         "ADM1_PCODE": "GAB006",
-        "ADM1_EN": "Ogooue-Ivindo"
+        "ADM1_EN": "Ogooue-Ivindo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -6992,7 +7028,8 @@
         "ADM2_EN": "Lolo-Bouenguidi",
         "ADM2_PCODE": "GAB007001",
         "ADM1_PCODE": "GAB007",
-        "ADM1_EN": "Ogooue-Lolo"
+        "ADM1_EN": "Ogooue-Lolo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7274,7 +7311,8 @@
         "ADM2_EN": "Lombo-Bouenguidi",
         "ADM2_PCODE": "GAB007002",
         "ADM1_PCODE": "GAB007",
-        "ADM1_EN": "Ogooue-Lolo"
+        "ADM1_EN": "Ogooue-Lolo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7468,7 +7506,8 @@
         "ADM2_EN": "Mouloundou",
         "ADM2_PCODE": "GAB007003",
         "ADM1_PCODE": "GAB007",
-        "ADM1_EN": "Ogooue-Lolo"
+        "ADM1_EN": "Ogooue-Lolo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7834,7 +7873,8 @@
         "ADM2_EN": "Offoue-Onoye",
         "ADM2_PCODE": "GAB007004",
         "ADM1_PCODE": "GAB007",
-        "ADM1_EN": "Ogooue-Lolo"
+        "ADM1_EN": "Ogooue-Lolo",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7984,7 +8024,8 @@
         "ADM2_EN": "Bendje",
         "ADM2_PCODE": "GAB008001",
         "ADM1_PCODE": "GAB008",
-        "ADM1_EN": "Ogooue-Maritime"
+        "ADM1_EN": "Ogooue-Maritime",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8866,7 +8907,8 @@
         "ADM2_EN": "Etimboue",
         "ADM2_PCODE": "GAB008002",
         "ADM1_PCODE": "GAB008",
-        "ADM1_EN": "Ogooue-Maritime"
+        "ADM1_EN": "Ogooue-Maritime",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9156,7 +9198,8 @@
         "ADM2_EN": "Ndougou",
         "ADM2_PCODE": "GAB008003",
         "ADM1_PCODE": "GAB008",
-        "ADM1_EN": "Ogooue-Maritime"
+        "ADM1_EN": "Ogooue-Maritime",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -9314,7 +9357,8 @@
         "ADM2_EN": "Haut-Komo",
         "ADM2_PCODE": "GAB009001",
         "ADM1_PCODE": "GAB009",
-        "ADM1_EN": "Woleu-Ntem"
+        "ADM1_EN": "Woleu-Ntem",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -9408,7 +9452,8 @@
         "ADM2_EN": "Haut-Ntem",
         "ADM2_PCODE": "GAB009002",
         "ADM1_PCODE": "GAB009",
-        "ADM1_EN": "Woleu-Ntem"
+        "ADM1_EN": "Woleu-Ntem",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -9774,7 +9819,8 @@
         "ADM2_EN": "Ntem",
         "ADM2_PCODE": "GAB009003",
         "ADM1_PCODE": "GAB009",
-        "ADM1_EN": "Woleu-Ntem"
+        "ADM1_EN": "Woleu-Ntem",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -9892,7 +9938,8 @@
         "ADM2_EN": "Okano",
         "ADM2_PCODE": "GAB009004",
         "ADM1_PCODE": "GAB009",
-        "ADM1_EN": "Woleu-Ntem"
+        "ADM1_EN": "Woleu-Ntem",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",
@@ -10046,7 +10093,8 @@
         "ADM2_EN": "Woleu",
         "ADM2_PCODE": "GAB009005",
         "ADM1_PCODE": "GAB009",
-        "ADM1_EN": "Woleu-Ntem"
+        "ADM1_EN": "Woleu-Ntem",
+        "ADM0_PCODE": "GA"
       },
       "geometry": {
         "type": "Polygon",

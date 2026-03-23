@@ -14,7 +14,8 @@
         "ADM2_EN": "Pagué",
         "ADM2_PCODE": "ST0101",
         "ADM1_PCODE": "ST01",
-        "ADM1_EN": "Príncipe"
+        "ADM1_EN": "Príncipe",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -412,7 +413,8 @@
         "ADM2_EN": "Água Grande",
         "ADM2_PCODE": "ST0201",
         "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé"
+        "ADM1_EN": "São Tomé",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "Polygon",
@@ -462,7 +464,8 @@
         "ADM2_EN": "Cantagalo",
         "ADM2_PCODE": "ST0202",
         "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé"
+        "ADM1_EN": "São Tomé",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -588,7 +591,8 @@
         "ADM2_EN": "Caué",
         "ADM2_PCODE": "ST0203",
         "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé"
+        "ADM1_EN": "São Tomé",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1046,7 +1050,8 @@
         "ADM2_EN": "Lembá",
         "ADM2_PCODE": "ST0204",
         "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé"
+        "ADM1_EN": "São Tomé",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1448,7 +1453,8 @@
         "ADM2_EN": "Lobata",
         "ADM2_PCODE": "ST0205",
         "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé"
+        "ADM1_EN": "São Tomé",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1530,7 +1536,8 @@
         "ADM2_EN": "Mé-Zóchi",
         "ADM2_PCODE": "ST0206",
         "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé"
+        "ADM1_EN": "São Tomé",
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "Polygon",

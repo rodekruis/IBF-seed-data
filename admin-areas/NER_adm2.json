@@ -14,7 +14,8 @@
         "ADM2_EN": "Aderbissinat",
         "ADM2_PCODE": "NE001001",
         "ADM1_PCODE": "NE001",
-        "ADM1_EN": "Agadez"
+        "ADM1_EN": "Agadez",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -228,7 +229,8 @@
         "ADM2_EN": "Arlit",
         "ADM2_PCODE": "NE001002",
         "ADM1_PCODE": "NE001",
-        "ADM1_EN": "Agadez"
+        "ADM1_EN": "Agadez",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -362,7 +364,8 @@
         "ADM2_EN": "Bilma",
         "ADM2_PCODE": "NE001003",
         "ADM1_PCODE": "NE001",
-        "ADM1_EN": "Agadez"
+        "ADM1_EN": "Agadez",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -532,7 +535,8 @@
         "ADM2_EN": "Iferouane",
         "ADM2_PCODE": "NE001004",
         "ADM1_PCODE": "NE001",
-        "ADM1_EN": "Agadez"
+        "ADM1_EN": "Agadez",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -630,7 +634,8 @@
         "ADM2_EN": "Ingall",
         "ADM2_PCODE": "NE001005",
         "ADM1_PCODE": "NE001",
-        "ADM1_EN": "Agadez"
+        "ADM1_EN": "Agadez",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -912,7 +917,8 @@
         "ADM2_EN": "Tchirozerine",
         "ADM2_PCODE": "NE001006",
         "ADM1_PCODE": "NE001",
-        "ADM1_EN": "Agadez"
+        "ADM1_EN": "Agadez",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1086,7 +1092,8 @@
         "ADM2_EN": "Bosso",
         "ADM2_PCODE": "NE002001",
         "ADM1_PCODE": "NE002",
-        "ADM1_EN": "Diffa"
+        "ADM1_EN": "Diffa",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1272,7 +1279,8 @@
         "ADM2_EN": "Diffa",
         "ADM2_PCODE": "NE002002",
         "ADM1_PCODE": "NE002",
-        "ADM1_EN": "Diffa"
+        "ADM1_EN": "Diffa",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1550,7 +1558,8 @@
         "ADM2_EN": "Goudoumaria",
         "ADM2_PCODE": "NE002003",
         "ADM1_PCODE": "NE002",
-        "ADM1_EN": "Diffa"
+        "ADM1_EN": "Diffa",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1696,7 +1705,8 @@
         "ADM2_EN": "Maïné Soroa",
         "ADM2_PCODE": "NE002004",
         "ADM1_PCODE": "NE002",
-        "ADM1_EN": "Diffa"
+        "ADM1_EN": "Diffa",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1894,7 +1904,8 @@
         "ADM2_EN": "N'Gourti",
         "ADM2_PCODE": "NE002005",
         "ADM1_PCODE": "NE002",
-        "ADM1_EN": "Diffa"
+        "ADM1_EN": "Diffa",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2080,7 +2091,8 @@
         "ADM2_EN": "N'Guigmi",
         "ADM2_PCODE": "NE002006",
         "ADM1_PCODE": "NE002",
-        "ADM1_EN": "Diffa"
+        "ADM1_EN": "Diffa",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2198,7 +2210,8 @@
         "ADM2_EN": "Boboye",
         "ADM2_PCODE": "NE003001",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2376,7 +2389,8 @@
         "ADM2_EN": "Dioundiou",
         "ADM2_PCODE": "NE003002",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2462,7 +2476,8 @@
         "ADM2_EN": "Dogondoutchi",
         "ADM2_PCODE": "NE003003",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2620,7 +2635,8 @@
         "ADM2_EN": "Dosso",
         "ADM2_PCODE": "NE003004",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2930,7 +2946,8 @@
         "ADM2_EN": "Falmey",
         "ADM2_PCODE": "NE003005",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -3076,7 +3093,8 @@
         "ADM2_EN": "Gaya",
         "ADM2_PCODE": "NE003006",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -3206,7 +3224,8 @@
         "ADM2_EN": "Loga",
         "ADM2_PCODE": "NE003007",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -3400,7 +3419,8 @@
         "ADM2_EN": "Tibiri",
         "ADM2_PCODE": "NE003008",
         "ADM1_PCODE": "NE003",
-        "ADM1_EN": "Dosso"
+        "ADM1_EN": "Dosso",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -3522,7 +3542,8 @@
         "ADM2_EN": "Aguié",
         "ADM2_PCODE": "NE004001",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -3652,7 +3673,8 @@
         "ADM2_EN": "Bermo",
         "ADM2_PCODE": "NE004002",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -3786,7 +3808,8 @@
         "ADM2_EN": "Dakoro",
         "ADM2_PCODE": "NE004003",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -4104,7 +4127,8 @@
         "ADM2_EN": "Gazaoua",
         "ADM2_PCODE": "NE004004",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -4214,7 +4238,8 @@
         "ADM2_EN": "Guidan Roumdji",
         "ADM2_PCODE": "NE004005",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -4404,7 +4429,8 @@
         "ADM2_EN": "Madarounfa",
         "ADM2_PCODE": "NE004006",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -4558,7 +4584,8 @@
         "ADM2_EN": "Ville de Maradi",
         "ADM2_PCODE": "NE004007",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -4608,7 +4635,8 @@
         "ADM2_EN": "Mayahi",
         "ADM2_PCODE": "NE004008",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -4806,7 +4834,8 @@
         "ADM2_EN": "Tessaoua",
         "ADM2_PCODE": "NE004009",
         "ADM1_PCODE": "NE004",
-        "ADM1_EN": "Maradi"
+        "ADM1_EN": "Maradi",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5024,7 +5053,8 @@
         "ADM2_EN": "Abalak",
         "ADM2_PCODE": "NE005001",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5254,7 +5284,8 @@
         "ADM2_EN": "Bagaroua",
         "ADM2_PCODE": "NE005002",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5344,7 +5375,8 @@
         "ADM2_EN": "Birni N'Konni",
         "ADM2_PCODE": "NE005003",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5466,7 +5498,8 @@
         "ADM2_EN": "Bouza",
         "ADM2_PCODE": "NE005004",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5600,7 +5633,8 @@
         "ADM2_EN": "Illéla",
         "ADM2_PCODE": "NE005005",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5714,7 +5748,8 @@
         "ADM2_EN": "Keita",
         "ADM2_PCODE": "NE005006",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5932,7 +5967,8 @@
         "ADM2_EN": "Madaoua",
         "ADM2_PCODE": "NE005007",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6062,7 +6098,8 @@
         "ADM2_EN": "Malbaza",
         "ADM2_PCODE": "NE005008",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6148,7 +6185,8 @@
         "ADM2_EN": "Tahoua",
         "ADM2_PCODE": "NE005009",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6392,7 +6430,8 @@
         "ADM2_EN": "Tassara",
         "ADM2_PCODE": "NE005010",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6550,7 +6589,8 @@
         "ADM2_EN": "Tchintabaraden",
         "ADM2_PCODE": "NE005011",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6740,7 +6780,8 @@
         "ADM2_EN": "Tillia",
         "ADM2_PCODE": "NE005012",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6882,7 +6923,8 @@
         "ADM2_EN": "Ville de Tahoua",
         "ADM2_PCODE": "NE005013",
         "ADM1_PCODE": "NE005",
-        "ADM1_EN": "Tahoua"
+        "ADM1_EN": "Tahoua",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6952,7 +6994,8 @@
         "ADM2_EN": "Abala",
         "ADM2_PCODE": "NE006001",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7154,7 +7197,8 @@
         "ADM2_EN": "Ayerou",
         "ADM2_PCODE": "NE006002",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7276,7 +7320,8 @@
         "ADM2_EN": "Balleyara",
         "ADM2_PCODE": "NE006003",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7382,7 +7427,8 @@
         "ADM2_EN": "Banibangou",
         "ADM2_PCODE": "NE006004",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7508,7 +7554,8 @@
         "ADM2_EN": "Bankilaré",
         "ADM2_PCODE": "NE006005",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7642,7 +7689,8 @@
         "ADM2_EN": "Filingué",
         "ADM2_PCODE": "NE006006",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7908,7 +7956,8 @@
         "ADM2_EN": "Gothèye",
         "ADM2_PCODE": "NE006007",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8218,7 +8267,8 @@
         "ADM2_EN": "Kollo",
         "ADM2_PCODE": "NE006008",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -8642,7 +8692,8 @@
         "ADM2_EN": "Ouallam",
         "ADM2_PCODE": "NE006009",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -8936,7 +8987,8 @@
         "ADM2_EN": "Say",
         "ADM2_PCODE": "NE006010",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -9298,7 +9350,8 @@
         "ADM2_EN": "Téra",
         "ADM2_PCODE": "NE006011",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -9712,7 +9765,8 @@
         "ADM2_EN": "Tillabéri",
         "ADM2_PCODE": "NE006012",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -9958,7 +10012,8 @@
         "ADM2_EN": "Torodi",
         "ADM2_PCODE": "NE006013",
         "ADM1_PCODE": "NE006",
-        "ADM1_EN": "Tillabéri"
+        "ADM1_EN": "Tillabéri",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -10128,7 +10183,8 @@
         "ADM2_EN": "Belbedji",
         "ADM2_PCODE": "NE007001",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -10314,7 +10370,8 @@
         "ADM2_EN": "Damagaram Takaya",
         "ADM2_PCODE": "NE007002",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -10508,7 +10565,8 @@
         "ADM2_EN": "Dungass",
         "ADM2_PCODE": "NE007003",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -10686,7 +10744,8 @@
         "ADM2_EN": "Gouré",
         "ADM2_PCODE": "NE007004",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -10872,7 +10931,8 @@
         "ADM2_EN": "Kantché",
         "ADM2_PCODE": "NE007005",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -11014,7 +11074,8 @@
         "ADM2_EN": "Magaria",
         "ADM2_PCODE": "NE007006",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11252,7 +11313,8 @@
         "ADM2_EN": "Mirriah",
         "ADM2_PCODE": "NE007007",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -11486,7 +11548,8 @@
         "ADM2_EN": "Takeita",
         "ADM2_PCODE": "NE007008",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -11676,7 +11739,8 @@
         "ADM2_EN": "Tanout",
         "ADM2_PCODE": "NE007009",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -11894,7 +11958,8 @@
         "ADM2_EN": "Tesker",
         "ADM2_PCODE": "NE007010",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -12036,7 +12101,8 @@
         "ADM2_EN": "Ville de Zinder",
         "ADM2_PCODE": "NE007011",
         "ADM1_PCODE": "NE007",
-        "ADM1_EN": "Zinder"
+        "ADM1_EN": "Zinder",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",
@@ -12178,7 +12244,8 @@
         "ADM2_EN": "Ville de Niamey",
         "ADM2_PCODE": "NE008001",
         "ADM1_PCODE": "NE008",
-        "ADM1_EN": "Niamey"
+        "ADM1_EN": "Niamey",
+        "ADM0_PCODE": "NE"
       },
       "geometry": {
         "type": "Polygon",

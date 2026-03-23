@@ -14,7 +14,8 @@
         "ADM2_EN": "Derna",
         "ADM2_PCODE": "LY0101",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -576,7 +577,8 @@
         "ADM2_EN": "Almarj",
         "ADM2_PCODE": "LY0102",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -862,7 +864,8 @@
         "ADM2_EN": "Benghazi",
         "ADM2_PCODE": "LY0103",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1044,7 +1047,8 @@
         "ADM2_EN": "Tobruk",
         "ADM2_PCODE": "LY0104",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1534,7 +1538,8 @@
         "ADM2_EN": "Ejdabia",
         "ADM2_PCODE": "LY0105",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1800,7 +1805,8 @@
         "ADM2_EN": "Al Jabal Al Akhdar",
         "ADM2_PCODE": "LY0106",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2330,7 +2336,8 @@
         "ADM2_EN": "Alkufra",
         "ADM2_PCODE": "LY0107",
         "ADM1_PCODE": "LY01",
-        "ADM1_EN": "East"
+        "ADM1_EN": "East",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -2388,7 +2395,8 @@
         "ADM2_EN": "Sirt",
         "ADM2_PCODE": "LY0208",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -2710,7 +2718,8 @@
         "ADM2_EN": "Nalut",
         "ADM2_PCODE": "LY0209",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -2936,7 +2945,8 @@
         "ADM2_EN": "Almargeb",
         "ADM2_PCODE": "LY0210",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3310,7 +3320,8 @@
         "ADM2_EN": "Tripoli",
         "ADM2_PCODE": "LY0211",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3820,7 +3831,8 @@
         "ADM2_EN": "Aljfara",
         "ADM2_PCODE": "LY0212",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4002,7 +4014,8 @@
         "ADM2_EN": "Azzawya",
         "ADM2_PCODE": "LY0213",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4268,7 +4281,8 @@
         "ADM2_EN": "Misrata",
         "ADM2_PCODE": "LY0214",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4626,7 +4640,8 @@
         "ADM2_EN": "Zwara",
         "ADM2_PCODE": "LY0215",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5056,7 +5071,8 @@
         "ADM2_EN": "Al Jabal Al Gharbi",
         "ADM2_PCODE": "LY0216",
         "ADM1_PCODE": "LY02",
-        "ADM1_EN": "West"
+        "ADM1_EN": "West",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -5294,7 +5310,8 @@
         "ADM2_EN": "Aljufra",
         "ADM2_PCODE": "LY0317",
         "ADM1_PCODE": "LY03",
-        "ADM1_EN": "South"
+        "ADM1_EN": "South",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -5628,7 +5645,8 @@
         "ADM2_EN": "Wadi Ashshati",
         "ADM2_PCODE": "LY0318",
         "ADM1_PCODE": "LY03",
-        "ADM1_EN": "South"
+        "ADM1_EN": "South",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -5834,7 +5852,8 @@
         "ADM2_EN": "Sebha",
         "ADM2_PCODE": "LY0319",
         "ADM1_PCODE": "LY03",
-        "ADM1_EN": "South"
+        "ADM1_EN": "South",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -5976,7 +5995,8 @@
         "ADM2_EN": "Ubari",
         "ADM2_PCODE": "LY0320",
         "ADM1_PCODE": "LY03",
-        "ADM1_EN": "South"
+        "ADM1_EN": "South",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",
@@ -6126,7 +6146,8 @@
         "ADM2_EN": "Ghat",
         "ADM2_PCODE": "LY0321",
         "ADM1_PCODE": "LY03",
-        "ADM1_EN": "South"
+        "ADM1_EN": "South",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6404,7 +6425,8 @@
         "ADM2_EN": "Murzuq",
         "ADM2_PCODE": "LY0322",
         "ADM1_PCODE": "LY03",
-        "ADM1_EN": "South"
+        "ADM1_EN": "South",
+        "ADM0_PCODE": "LY"
       },
       "geometry": {
         "type": "Polygon",

@@ -14,7 +14,8 @@
         "ADM2_EN": "Borama",
         "ADM2_PCODE": "SO1101",
         "ADM1_PCODE": "SO11",
-        "ADM1_EN": "Awdal"
+        "ADM1_EN": "Awdal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -96,7 +97,8 @@
         "ADM2_EN": "Baki",
         "ADM2_PCODE": "SO1102",
         "ADM1_PCODE": "SO11",
-        "ADM1_EN": "Awdal"
+        "ADM1_EN": "Awdal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -162,7 +164,8 @@
         "ADM2_EN": "Lughaye",
         "ADM2_PCODE": "SO1103",
         "ADM1_PCODE": "SO11",
-        "ADM1_EN": "Awdal"
+        "ADM1_EN": "Awdal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -216,7 +219,8 @@
         "ADM2_EN": "Zeylac",
         "ADM2_PCODE": "SO1104",
         "ADM1_PCODE": "SO11",
-        "ADM1_EN": "Awdal"
+        "ADM1_EN": "Awdal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1062,7 +1066,8 @@
         "ADM2_EN": "Hargeysa",
         "ADM2_PCODE": "SO1201",
         "ADM1_PCODE": "SO12",
-        "ADM1_EN": "Woqooyi Galbeed"
+        "ADM1_EN": "Woqooyi Galbeed",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1132,7 +1137,8 @@
         "ADM2_EN": "Berbera",
         "ADM2_PCODE": "SO1202",
         "ADM1_PCODE": "SO12",
-        "ADM1_EN": "Woqooyi Galbeed"
+        "ADM1_EN": "Woqooyi Galbeed",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1326,7 +1332,8 @@
         "ADM2_EN": "Gebiley",
         "ADM2_PCODE": "SO1203",
         "ADM1_PCODE": "SO12",
-        "ADM1_EN": "Woqooyi Galbeed"
+        "ADM1_EN": "Woqooyi Galbeed",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1392,7 +1399,8 @@
         "ADM2_EN": "Burco",
         "ADM2_PCODE": "SO1301",
         "ADM1_PCODE": "SO13",
-        "ADM1_EN": "Togdheer"
+        "ADM1_EN": "Togdheer",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1462,7 +1470,8 @@
         "ADM2_EN": "Buuhoodle",
         "ADM2_PCODE": "SO1302",
         "ADM1_PCODE": "SO13",
-        "ADM1_EN": "Togdheer"
+        "ADM1_EN": "Togdheer",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1512,7 +1521,8 @@
         "ADM2_EN": "Owdweyne",
         "ADM2_PCODE": "SO1303",
         "ADM1_PCODE": "SO13",
-        "ADM1_EN": "Togdheer"
+        "ADM1_EN": "Togdheer",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1562,7 +1572,8 @@
         "ADM2_EN": "Sheikh",
         "ADM2_PCODE": "SO1304",
         "ADM1_PCODE": "SO13",
-        "ADM1_EN": "Togdheer"
+        "ADM1_EN": "Togdheer",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1608,7 +1619,8 @@
         "ADM2_EN": "Laas Caanood",
         "ADM2_PCODE": "SO1401",
         "ADM1_PCODE": "SO14",
-        "ADM1_EN": "Sool"
+        "ADM1_EN": "Sool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1670,7 +1682,8 @@
         "ADM2_EN": "Caynabo",
         "ADM2_PCODE": "SO1402",
         "ADM1_PCODE": "SO14",
-        "ADM1_EN": "Sool"
+        "ADM1_EN": "Sool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1720,7 +1733,8 @@
         "ADM2_EN": "Taleex",
         "ADM2_PCODE": "SO1403",
         "ADM1_PCODE": "SO14",
-        "ADM1_EN": "Sool"
+        "ADM1_EN": "Sool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1766,7 +1780,8 @@
         "ADM2_EN": "Xudun",
         "ADM2_PCODE": "SO1404",
         "ADM1_PCODE": "SO14",
-        "ADM1_EN": "Sool"
+        "ADM1_EN": "Sool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1804,7 +1819,8 @@
         "ADM2_EN": "Ceerigaabo",
         "ADM2_PCODE": "SO1501",
         "ADM1_PCODE": "SO15",
-        "ADM1_EN": "Sanaag"
+        "ADM1_EN": "Sanaag",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1982,7 +1998,8 @@
         "ADM2_EN": "Ceel Afweyn",
         "ADM2_PCODE": "SO1502",
         "ADM1_PCODE": "SO15",
-        "ADM1_EN": "Sanaag"
+        "ADM1_EN": "Sanaag",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -2060,7 +2077,8 @@
         "ADM2_EN": "Laasqoray",
         "ADM2_PCODE": "SO1503",
         "ADM1_PCODE": "SO15",
-        "ADM1_EN": "Sanaag"
+        "ADM1_EN": "Sanaag",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -2138,7 +2156,8 @@
         "ADM2_EN": "Bossaso",
         "ADM2_PCODE": "SO1601",
         "ADM1_PCODE": "SO16",
-        "ADM1_EN": "Bari"
+        "ADM1_EN": "Bari",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -2232,7 +2251,8 @@
         "ADM2_EN": "Bandarbeyla",
         "ADM2_PCODE": "SO1602",
         "ADM1_PCODE": "SO16",
-        "ADM1_EN": "Bari"
+        "ADM1_EN": "Bari",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2538,7 +2558,8 @@
         "ADM2_EN": "Caluula",
         "ADM2_PCODE": "SO1603",
         "ADM1_PCODE": "SO16",
-        "ADM1_EN": "Bari"
+        "ADM1_EN": "Bari",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2692,7 +2713,8 @@
         "ADM2_EN": "Iskushuban",
         "ADM2_PCODE": "SO1604",
         "ADM1_PCODE": "SO16",
-        "ADM1_EN": "Bari"
+        "ADM1_EN": "Bari",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2930,7 +2952,8 @@
         "ADM2_EN": "Qandala",
         "ADM2_PCODE": "SO1605",
         "ADM1_PCODE": "SO16",
-        "ADM1_EN": "Bari"
+        "ADM1_EN": "Bari",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3040,7 +3063,8 @@
         "ADM2_EN": "Qardho",
         "ADM2_PCODE": "SO1606",
         "ADM1_PCODE": "SO16",
-        "ADM1_EN": "Bari"
+        "ADM1_EN": "Bari",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3138,7 +3162,8 @@
         "ADM2_EN": "Garoowe",
         "ADM2_PCODE": "SO1701",
         "ADM1_PCODE": "SO17",
-        "ADM1_EN": "Nugaal"
+        "ADM1_EN": "Nugaal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3204,7 +3229,8 @@
         "ADM2_EN": "Burtinle",
         "ADM2_PCODE": "SO1702",
         "ADM1_PCODE": "SO17",
-        "ADM1_EN": "Nugaal"
+        "ADM1_EN": "Nugaal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3262,7 +3288,8 @@
         "ADM2_EN": "Eyl",
         "ADM2_PCODE": "SO1703",
         "ADM1_PCODE": "SO17",
-        "ADM1_EN": "Nugaal"
+        "ADM1_EN": "Nugaal",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3412,7 +3439,8 @@
         "ADM2_EN": "Gaalkacyo",
         "ADM2_PCODE": "SO1801",
         "ADM1_PCODE": "SO18",
-        "ADM1_EN": "Mudug"
+        "ADM1_EN": "Mudug",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3482,7 +3510,8 @@
         "ADM2_EN": "Galdogob",
         "ADM2_PCODE": "SO1802",
         "ADM1_PCODE": "SO18",
-        "ADM1_EN": "Mudug"
+        "ADM1_EN": "Mudug",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3520,7 +3549,8 @@
         "ADM2_EN": "Hobyo",
         "ADM2_PCODE": "SO1803",
         "ADM1_PCODE": "SO18",
-        "ADM1_EN": "Mudug"
+        "ADM1_EN": "Mudug",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3722,7 +3752,8 @@
         "ADM2_EN": "Jariiban",
         "ADM2_PCODE": "SO1804",
         "ADM1_PCODE": "SO18",
-        "ADM1_EN": "Mudug"
+        "ADM1_EN": "Mudug",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3816,7 +3847,8 @@
         "ADM2_EN": "Xarardheere",
         "ADM2_PCODE": "SO1805",
         "ADM1_PCODE": "SO18",
-        "ADM1_EN": "Mudug"
+        "ADM1_EN": "Mudug",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3890,7 +3922,8 @@
         "ADM2_EN": "Dhuusamarreeb",
         "ADM2_PCODE": "SO1901",
         "ADM1_PCODE": "SO19",
-        "ADM1_EN": "Galgaduud"
+        "ADM1_EN": "Galgaduud",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3960,7 +3993,8 @@
         "ADM2_EN": "Cabudwaaq",
         "ADM2_PCODE": "SO1902",
         "ADM1_PCODE": "SO19",
-        "ADM1_EN": "Galgaduud"
+        "ADM1_EN": "Galgaduud",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4014,7 +4048,8 @@
         "ADM2_EN": "Cadaado",
         "ADM2_PCODE": "SO1903",
         "ADM1_PCODE": "SO19",
-        "ADM1_EN": "Galgaduud"
+        "ADM1_EN": "Galgaduud",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4060,7 +4095,8 @@
         "ADM2_EN": "Ceel Buur",
         "ADM2_PCODE": "SO1904",
         "ADM1_PCODE": "SO19",
-        "ADM1_EN": "Galgaduud"
+        "ADM1_EN": "Galgaduud",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4122,7 +4158,8 @@
         "ADM2_EN": "Ceel Dheer",
         "ADM2_PCODE": "SO1905",
         "ADM1_PCODE": "SO19",
-        "ADM1_EN": "Galgaduud"
+        "ADM1_EN": "Galgaduud",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4176,7 +4213,8 @@
         "ADM2_EN": "Belet Weyne",
         "ADM2_PCODE": "SO2001",
         "ADM1_PCODE": "SO20",
-        "ADM1_EN": "Hiraan"
+        "ADM1_EN": "Hiraan",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4262,7 +4300,8 @@
         "ADM2_EN": "Bulo Burto",
         "ADM2_PCODE": "SO2002",
         "ADM1_PCODE": "SO20",
-        "ADM1_EN": "Hiraan"
+        "ADM1_EN": "Hiraan",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4364,7 +4403,8 @@
         "ADM2_EN": "Jalalaqsi",
         "ADM2_PCODE": "SO2003",
         "ADM1_PCODE": "SO20",
-        "ADM1_EN": "Hiraan"
+        "ADM1_EN": "Hiraan",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4410,7 +4450,8 @@
         "ADM2_EN": "Jowhar",
         "ADM2_PCODE": "SO2101",
         "ADM1_PCODE": "SO21",
-        "ADM1_EN": "Middle Shabelle"
+        "ADM1_EN": "Middle Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4472,7 +4513,8 @@
         "ADM2_EN": "Adan Yabaal",
         "ADM2_PCODE": "SO2102",
         "ADM1_PCODE": "SO21",
-        "ADM1_EN": "Middle Shabelle"
+        "ADM1_EN": "Middle Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4522,7 +4564,8 @@
         "ADM2_EN": "Balcad",
         "ADM2_PCODE": "SO2103",
         "ADM1_PCODE": "SO21",
-        "ADM1_EN": "Middle Shabelle"
+        "ADM1_EN": "Middle Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4692,7 +4735,8 @@
         "ADM2_EN": "Cadale",
         "ADM2_PCODE": "SO2104",
         "ADM1_PCODE": "SO21",
-        "ADM1_EN": "Middle Shabelle"
+        "ADM1_EN": "Middle Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4770,7 +4814,8 @@
         "ADM2_EN": "Banadir",
         "ADM2_PCODE": "SO2201",
         "ADM1_PCODE": "SO22",
-        "ADM1_EN": "Banadir"
+        "ADM1_EN": "Banadir",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -4820,7 +4865,8 @@
         "ADM2_EN": "Marka",
         "ADM2_PCODE": "SO2301",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4922,7 +4968,8 @@
         "ADM2_EN": "Afgooye",
         "ADM2_PCODE": "SO2302",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5112,7 +5159,8 @@
         "ADM2_EN": "Baraawe",
         "ADM2_PCODE": "SO2303",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5246,7 +5294,8 @@
         "ADM2_EN": "Kurtunwaarey",
         "ADM2_PCODE": "SO2304",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5292,7 +5341,8 @@
         "ADM2_EN": "Qoryooley",
         "ADM2_PCODE": "SO2305",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5338,7 +5388,8 @@
         "ADM2_EN": "Sablaale",
         "ADM2_PCODE": "SO2306",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5380,7 +5431,8 @@
         "ADM2_EN": "Wanla Weyn",
         "ADM2_PCODE": "SO2307",
         "ADM1_PCODE": "SO23",
-        "ADM1_EN": "Lower Shabelle"
+        "ADM1_EN": "Lower Shabelle",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5450,7 +5502,8 @@
         "ADM2_EN": "Baydhaba",
         "ADM2_PCODE": "SO2401",
         "ADM1_PCODE": "SO24",
-        "ADM1_EN": "Bay"
+        "ADM1_EN": "Bay",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5548,7 +5601,8 @@
         "ADM2_EN": "Buur Hakaba",
         "ADM2_PCODE": "SO2402",
         "ADM1_PCODE": "SO24",
-        "ADM1_EN": "Bay"
+        "ADM1_EN": "Bay",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5638,7 +5692,8 @@
         "ADM2_EN": "Diinsoor",
         "ADM2_PCODE": "SO2403",
         "ADM1_PCODE": "SO24",
-        "ADM1_EN": "Bay"
+        "ADM1_EN": "Bay",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5708,7 +5763,8 @@
         "ADM2_EN": "Qansax Dheere",
         "ADM2_PCODE": "SO2404",
         "ADM1_PCODE": "SO24",
-        "ADM1_EN": "Bay"
+        "ADM1_EN": "Bay",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5762,7 +5818,8 @@
         "ADM2_EN": "Xudur",
         "ADM2_PCODE": "SO2501",
         "ADM1_PCODE": "SO25",
-        "ADM1_EN": "Bakool"
+        "ADM1_EN": "Bakool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5816,7 +5873,8 @@
         "ADM2_EN": "Ceel Barde",
         "ADM2_PCODE": "SO2502",
         "ADM1_PCODE": "SO25",
-        "ADM1_EN": "Bakool"
+        "ADM1_EN": "Bakool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5870,7 +5928,8 @@
         "ADM2_EN": "Tayeeglow",
         "ADM2_PCODE": "SO2503",
         "ADM1_PCODE": "SO25",
-        "ADM1_EN": "Bakool"
+        "ADM1_EN": "Bakool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5944,7 +6003,8 @@
         "ADM2_EN": "Waajid",
         "ADM2_PCODE": "SO2504",
         "ADM1_PCODE": "SO25",
-        "ADM1_EN": "Bakool"
+        "ADM1_EN": "Bakool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6006,7 +6066,8 @@
         "ADM2_EN": "Rab Dhuure",
         "ADM2_PCODE": "SO2505",
         "ADM1_PCODE": "SO25",
-        "ADM1_EN": "Bakool"
+        "ADM1_EN": "Bakool",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6056,7 +6117,8 @@
         "ADM2_EN": "Garbahaarey",
         "ADM2_PCODE": "SO2601",
         "ADM1_PCODE": "SO26",
-        "ADM1_EN": "Gedo"
+        "ADM1_EN": "Gedo",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6110,7 +6172,8 @@
         "ADM2_EN": "Baardheere",
         "ADM2_PCODE": "SO2602",
         "ADM1_PCODE": "SO26",
-        "ADM1_EN": "Gedo"
+        "ADM1_EN": "Gedo",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6164,7 +6227,8 @@
         "ADM2_EN": "Belet Xaawo",
         "ADM2_PCODE": "SO2603",
         "ADM1_PCODE": "SO26",
-        "ADM1_EN": "Gedo"
+        "ADM1_EN": "Gedo",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6202,7 +6266,8 @@
         "ADM2_EN": "Ceel Waaq",
         "ADM2_PCODE": "SO2604",
         "ADM1_PCODE": "SO26",
-        "ADM1_EN": "Gedo"
+        "ADM1_EN": "Gedo",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6252,7 +6317,8 @@
         "ADM2_EN": "Doolow",
         "ADM2_PCODE": "SO2605",
         "ADM1_PCODE": "SO26",
-        "ADM1_EN": "Gedo"
+        "ADM1_EN": "Gedo",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6318,7 +6384,8 @@
         "ADM2_EN": "Luuq",
         "ADM2_PCODE": "SO2606",
         "ADM1_PCODE": "SO26",
-        "ADM1_EN": "Gedo"
+        "ADM1_EN": "Gedo",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6384,7 +6451,8 @@
         "ADM2_EN": "Bu'aale",
         "ADM2_PCODE": "SO2701",
         "ADM1_PCODE": "SO27",
-        "ADM1_EN": "Middle Juba"
+        "ADM1_EN": "Middle Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6434,7 +6502,8 @@
         "ADM2_EN": "Jilib",
         "ADM2_PCODE": "SO2702",
         "ADM1_PCODE": "SO27",
-        "ADM1_EN": "Middle Juba"
+        "ADM1_EN": "Middle Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6480,7 +6549,8 @@
         "ADM2_EN": "Saakow",
         "ADM2_PCODE": "SO2703",
         "ADM1_PCODE": "SO27",
-        "ADM1_EN": "Middle Juba"
+        "ADM1_EN": "Middle Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6534,7 +6604,8 @@
         "ADM2_EN": "Kismaayo",
         "ADM2_PCODE": "SO2801",
         "ADM1_PCODE": "SO28",
-        "ADM1_EN": "Lower Juba"
+        "ADM1_EN": "Lower Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9616,7 +9687,8 @@
         "ADM2_EN": "Afmadow",
         "ADM2_PCODE": "SO2802",
         "ADM1_PCODE": "SO28",
-        "ADM1_EN": "Lower Juba"
+        "ADM1_EN": "Lower Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -9670,7 +9742,8 @@
         "ADM2_EN": "Badhaadhe",
         "ADM2_PCODE": "SO2803",
         "ADM1_PCODE": "SO28",
-        "ADM1_EN": "Lower Juba"
+        "ADM1_EN": "Lower Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12088,7 +12161,8 @@
         "ADM2_EN": "Jamaame",
         "ADM2_PCODE": "SO2804",
         "ADM1_PCODE": "SO28",
-        "ADM1_EN": "Lower Juba"
+        "ADM1_EN": "Lower Juba",
+        "ADM0_PCODE": "SO"
       },
       "geometry": {
         "type": "Polygon",

@@ -14,7 +14,8 @@
         "ADM2_EN": "Tunis",
         "ADM2_PCODE": "TN11",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -232,7 +233,8 @@
         "ADM2_EN": "Ariana",
         "ADM2_PCODE": "TN12",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -414,7 +416,8 @@
         "ADM2_EN": "Ben Arous",
         "ADM2_PCODE": "TN13",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -572,7 +575,8 @@
         "ADM2_EN": "Manubah",
         "ADM2_PCODE": "TN14",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -746,7 +750,8 @@
         "ADM2_EN": "Nabeul",
         "ADM2_PCODE": "TN15",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1592,7 +1597,8 @@
         "ADM2_EN": "Zaghouan",
         "ADM2_PCODE": "TN16",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -1858,7 +1864,8 @@
         "ADM2_EN": "Bizerte",
         "ADM2_PCODE": "TN17",
         "ADM1_PCODE": "TN1",
-        "ADM1_EN": "North East"
+        "ADM1_EN": "North East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3616,7 +3623,8 @@
         "ADM2_EN": "Béja",
         "ADM2_PCODE": "TN21",
         "ADM1_PCODE": "TN2",
-        "ADM1_EN": "North West"
+        "ADM1_EN": "North West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3970,7 +3978,8 @@
         "ADM2_EN": "Jendouba",
         "ADM2_PCODE": "TN22",
         "ADM1_PCODE": "TN2",
-        "ADM1_EN": "North West"
+        "ADM1_EN": "North West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4292,7 +4301,8 @@
         "ADM2_EN": "Le Kef",
         "ADM2_PCODE": "TN23",
         "ADM1_PCODE": "TN2",
-        "ADM1_EN": "North West"
+        "ADM1_EN": "North West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -4602,7 +4612,8 @@
         "ADM2_EN": "Siliana",
         "ADM2_PCODE": "TN24",
         "ADM1_PCODE": "TN2",
-        "ADM1_EN": "North West"
+        "ADM1_EN": "North West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -5044,7 +5055,8 @@
         "ADM2_EN": "Sousse",
         "ADM2_PCODE": "TN31",
         "ADM1_PCODE": "TN3",
-        "ADM1_EN": "Centre East"
+        "ADM1_EN": "Centre East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5306,7 +5318,8 @@
         "ADM2_EN": "Monastir",
         "ADM2_PCODE": "TN32",
         "ADM1_PCODE": "TN3",
-        "ADM1_EN": "Centre East"
+        "ADM1_EN": "Centre East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5684,7 +5697,8 @@
         "ADM2_EN": "Mahdia",
         "ADM2_PCODE": "TN33",
         "ADM1_PCODE": "TN3",
-        "ADM1_EN": "Centre East"
+        "ADM1_EN": "Centre East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6162,7 +6176,8 @@
         "ADM2_EN": "Sfax",
         "ADM2_PCODE": "TN34",
         "ADM1_PCODE": "TN3",
-        "ADM1_EN": "Centre East"
+        "ADM1_EN": "Centre East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7628,7 +7643,8 @@
         "ADM2_EN": "Kairouan",
         "ADM2_PCODE": "TN41",
         "ADM1_PCODE": "TN4",
-        "ADM1_EN": "Centre West"
+        "ADM1_EN": "Centre West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -7982,7 +7998,8 @@
         "ADM2_EN": "Kassérine",
         "ADM2_PCODE": "TN42",
         "ADM1_PCODE": "TN4",
-        "ADM1_EN": "Centre West"
+        "ADM1_EN": "Centre West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -8280,7 +8297,8 @@
         "ADM2_EN": "Sidi Bou Zid",
         "ADM2_PCODE": "TN43",
         "ADM1_PCODE": "TN4",
-        "ADM1_EN": "Centre West"
+        "ADM1_EN": "Centre West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -8630,7 +8648,8 @@
         "ADM2_EN": "Gabès",
         "ADM2_PCODE": "TN51",
         "ADM1_PCODE": "TN5",
-        "ADM1_EN": "South East"
+        "ADM1_EN": "South East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8984,7 +9003,8 @@
         "ADM2_EN": "Médenine",
         "ADM2_PCODE": "TN52",
         "ADM1_PCODE": "TN5",
-        "ADM1_EN": "South East"
+        "ADM1_EN": "South East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10790,7 +10810,8 @@
         "ADM2_EN": "Tataouine",
         "ADM2_PCODE": "TN53",
         "ADM1_PCODE": "TN5",
-        "ADM1_EN": "South East"
+        "ADM1_EN": "South East",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11136,7 +11157,8 @@
         "ADM2_EN": "Gafsa",
         "ADM2_PCODE": "TN61",
         "ADM1_PCODE": "TN6",
-        "ADM1_EN": "South West"
+        "ADM1_EN": "South West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11414,7 +11436,8 @@
         "ADM2_EN": "Tozeur",
         "ADM2_PCODE": "TN62",
         "ADM1_PCODE": "TN6",
-        "ADM1_EN": "South West"
+        "ADM1_EN": "South West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",
@@ -11580,7 +11603,8 @@
         "ADM2_EN": "Kebili",
         "ADM2_PCODE": "TN63",
         "ADM1_PCODE": "TN6",
-        "ADM1_EN": "South West"
+        "ADM1_EN": "South West",
+        "ADM0_PCODE": "TN"
       },
       "geometry": {
         "type": "Polygon",

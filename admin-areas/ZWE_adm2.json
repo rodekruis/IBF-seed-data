@@ -14,7 +14,8 @@
         "ADM2_EN": "Bulawayo",
         "ADM2_PCODE": "ZW1021",
         "ADM1_PCODE": "ZW10",
-        "ADM1_EN": "Bulawayo"
+        "ADM1_EN": "Bulawayo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -148,7 +149,8 @@
         "ADM2_EN": "Buhera",
         "ADM2_PCODE": "ZW1101",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -406,7 +408,8 @@
         "ADM2_EN": "Chimanimani",
         "ADM2_PCODE": "ZW1102",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -600,7 +603,8 @@
         "ADM2_EN": "Chipinge",
         "ADM2_PCODE": "ZW1103",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -872,7 +876,8 @@
         "ADM2_EN": "Makoni",
         "ADM2_PCODE": "ZW1104",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1208,7 +1213,8 @@
         "ADM2_EN": "Mutare",
         "ADM2_PCODE": "ZW1105",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1466,7 +1472,8 @@
         "ADM2_EN": "Mutasa",
         "ADM2_PCODE": "ZW1106",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1716,7 +1723,8 @@
         "ADM2_EN": "Nyanga",
         "ADM2_PCODE": "ZW1107",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2046,7 +2054,8 @@
         "ADM2_EN": "Mutare Urban",
         "ADM2_PCODE": "ZW1121",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2108,7 +2117,8 @@
         "ADM2_EN": "Rusape",
         "ADM2_PCODE": "ZW1122",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2146,7 +2156,8 @@
         "ADM2_EN": "Chipinge Urban",
         "ADM2_PCODE": "ZW1123",
         "ADM1_PCODE": "ZW11",
-        "ADM1_EN": "Manicaland"
+        "ADM1_EN": "Manicaland",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2192,7 +2203,8 @@
         "ADM2_EN": "Bindura",
         "ADM2_PCODE": "ZW1201",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2452,7 +2464,8 @@
         "ADM2_EN": "Centenary/ Muzarabani",
         "ADM2_PCODE": "ZW1202",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2706,7 +2719,8 @@
         "ADM2_EN": "Guruve",
         "ADM2_PCODE": "ZW1203",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -2896,7 +2910,8 @@
         "ADM2_EN": "Mazowe",
         "ADM2_PCODE": "ZW1204",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3112,7 +3127,8 @@
         "ADM2_EN": "Mount Darwin",
         "ADM2_PCODE": "ZW1205",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3402,7 +3418,8 @@
         "ADM2_EN": "Rushinga",
         "ADM2_PCODE": "ZW1206",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3532,7 +3549,8 @@
         "ADM2_EN": "Shamva",
         "ADM2_PCODE": "ZW1207",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -3790,7 +3808,8 @@
         "ADM2_EN": "Mbire",
         "ADM2_PCODE": "ZW1208",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -4028,7 +4047,8 @@
         "ADM2_EN": "Mvurwi",
         "ADM2_PCODE": "ZW1209",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -4066,7 +4086,8 @@
         "ADM2_EN": "Bindura Urban",
         "ADM2_PCODE": "ZW1221",
         "ADM1_PCODE": "ZW12",
-        "ADM1_EN": "Mashonaland Central"
+        "ADM1_EN": "Mashonaland Central",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -4112,7 +4133,8 @@
         "ADM2_EN": "Chikomba",
         "ADM2_PCODE": "ZW1301",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -4446,7 +4468,8 @@
         "ADM2_EN": "Goromonzi",
         "ADM2_PCODE": "ZW1302",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -4708,7 +4731,8 @@
         "ADM2_EN": "Hwedza",
         "ADM2_PCODE": "ZW1303",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -4894,7 +4918,8 @@
         "ADM2_EN": "Marondera",
         "ADM2_PCODE": "ZW1304",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -5230,7 +5255,8 @@
         "ADM2_EN": "Mudzi",
         "ADM2_PCODE": "ZW1305",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -5396,7 +5422,8 @@
         "ADM2_EN": "Murehwa",
         "ADM2_PCODE": "ZW1306",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -5578,7 +5605,8 @@
         "ADM2_EN": "Mutoko",
         "ADM2_PCODE": "ZW1307",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -5788,7 +5816,8 @@
         "ADM2_EN": "Seke",
         "ADM2_PCODE": "ZW1308",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -6058,7 +6087,8 @@
         "ADM2_EN": "Uzumba Maramba Pfungwe",
         "ADM2_PCODE": "ZW1309",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -6244,7 +6274,8 @@
         "ADM2_EN": "Marondera Urban",
         "ADM2_PCODE": "ZW1321",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -6330,7 +6361,8 @@
         "ADM2_EN": "Ruwa",
         "ADM2_PCODE": "ZW1326",
         "ADM1_PCODE": "ZW13",
-        "ADM1_EN": "Mashonaland East"
+        "ADM1_EN": "Mashonaland East",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -6388,7 +6420,8 @@
         "ADM2_EN": "Chegutu",
         "ADM2_PCODE": "ZW1401",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -6732,7 +6765,8 @@
         "ADM2_EN": "Hurungwe",
         "ADM2_PCODE": "ZW1402",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -7172,7 +7206,8 @@
         "ADM2_EN": "Kadoma Urban",
         "ADM2_PCODE": "ZW1403",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -7238,7 +7273,8 @@
         "ADM2_EN": "Kariba",
         "ADM2_PCODE": "ZW1404",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -7540,7 +7576,8 @@
         "ADM2_EN": "Makonde",
         "ADM2_PCODE": "ZW1405",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8022,7 +8059,8 @@
         "ADM2_EN": "Zvimba",
         "ADM2_PCODE": "ZW1406",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8428,7 +8466,8 @@
         "ADM2_EN": "Chinhoyi",
         "ADM2_PCODE": "ZW1421",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8518,7 +8557,8 @@
         "ADM2_EN": "Chegutu Urban",
         "ADM2_PCODE": "ZW1423",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8564,7 +8604,8 @@
         "ADM2_EN": "Kariba Urban",
         "ADM2_PCODE": "ZW1424",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8618,7 +8659,8 @@
         "ADM2_EN": "Norton",
         "ADM2_PCODE": "ZW1425",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8676,7 +8718,8 @@
         "ADM2_EN": "Karoi",
         "ADM2_PCODE": "ZW1426",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8722,7 +8765,8 @@
         "ADM2_EN": "Mhondoro-Ngezi",
         "ADM2_PCODE": "ZW1427",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9032,7 +9076,8 @@
         "ADM2_EN": "Sanyati",
         "ADM2_PCODE": "ZW1428",
         "ADM1_PCODE": "ZW14",
-        "ADM1_EN": "Mashonaland West"
+        "ADM1_EN": "Mashonaland West",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9286,7 +9331,8 @@
         "ADM2_EN": "Binga",
         "ADM2_PCODE": "ZW1501",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9664,7 +9710,8 @@
         "ADM2_EN": "Bubi",
         "ADM2_PCODE": "ZW1502",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9898,7 +9945,8 @@
         "ADM2_EN": "Hwange",
         "ADM2_PCODE": "ZW1503",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10434,7 +10482,8 @@
         "ADM2_EN": "Lupane",
         "ADM2_PCODE": "ZW1504",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10708,7 +10757,8 @@
         "ADM2_EN": "Nkayi",
         "ADM2_PCODE": "ZW1505",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10806,7 +10856,8 @@
         "ADM2_EN": "Tsholotsho",
         "ADM2_PCODE": "ZW1506",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11060,7 +11111,8 @@
         "ADM2_EN": "Umguza",
         "ADM2_PCODE": "ZW1507",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11418,7 +11470,8 @@
         "ADM2_EN": "Hwange Urban",
         "ADM2_PCODE": "ZW1521",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11488,7 +11541,8 @@
         "ADM2_EN": "Victoria Falls",
         "ADM2_PCODE": "ZW1522",
         "ADM1_PCODE": "ZW15",
-        "ADM1_EN": "Matabeleland North"
+        "ADM1_EN": "Matabeleland North",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11534,7 +11588,8 @@
         "ADM2_EN": "Beitbridge",
         "ADM2_PCODE": "ZW1601",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11912,7 +11967,8 @@
         "ADM2_EN": "Bulilima",
         "ADM2_PCODE": "ZW1602",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -12158,7 +12214,8 @@
         "ADM2_EN": "Mangwe",
         "ADM2_PCODE": "ZW1603",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -12468,7 +12525,8 @@
         "ADM2_EN": "Gwanda",
         "ADM2_PCODE": "ZW1604",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -12804,7 +12862,8 @@
         "ADM2_EN": "Insiza",
         "ADM2_PCODE": "ZW1605",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -13130,7 +13189,8 @@
         "ADM2_EN": "Matobo",
         "ADM2_PCODE": "ZW1606",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -13444,7 +13504,8 @@
         "ADM2_EN": "Umzingwane",
         "ADM2_PCODE": "ZW1607",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -13638,7 +13699,8 @@
         "ADM2_EN": "Gwanda Urban",
         "ADM2_PCODE": "ZW1621",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -13688,7 +13750,8 @@
         "ADM2_EN": "Beitbridge Urban",
         "ADM2_PCODE": "ZW1622",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -13738,7 +13801,8 @@
         "ADM2_EN": "Plumtree",
         "ADM2_PCODE": "ZW1623",
         "ADM1_PCODE": "ZW16",
-        "ADM1_EN": "Matabeleland South"
+        "ADM1_EN": "Matabeleland South",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -13812,7 +13876,8 @@
         "ADM2_EN": "Chirumhanzu",
         "ADM2_PCODE": "ZW1701",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -14090,7 +14155,8 @@
         "ADM2_EN": "Gokwe North",
         "ADM2_PCODE": "ZW1702",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -14460,7 +14526,8 @@
         "ADM2_EN": "Gokwe South",
         "ADM2_PCODE": "ZW1703",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -14808,7 +14875,8 @@
         "ADM2_EN": "Gweru",
         "ADM2_PCODE": "ZW1704",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -15124,7 +15192,8 @@
         "ADM2_EN": "Kwekwe",
         "ADM2_PCODE": "ZW1705",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -15486,7 +15555,8 @@
         "ADM2_EN": "Mberengwa",
         "ADM2_PCODE": "ZW1706",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -15664,7 +15734,8 @@
         "ADM2_EN": "Shurugwi",
         "ADM2_PCODE": "ZW1707",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -15888,7 +15959,8 @@
         "ADM2_EN": "Zvishavane",
         "ADM2_PCODE": "ZW1708",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16096,7 +16168,8 @@
         "ADM2_EN": "Gweru Urban",
         "ADM2_PCODE": "ZW1721",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16174,7 +16247,8 @@
         "ADM2_EN": "Kwekwe Urban",
         "ADM2_PCODE": "ZW1722",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16236,7 +16310,8 @@
         "ADM2_EN": "Redcliff",
         "ADM2_PCODE": "ZW1723",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16310,7 +16385,8 @@
         "ADM2_EN": "Zvishavane Urban",
         "ADM2_PCODE": "ZW1725",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16368,7 +16444,8 @@
         "ADM2_EN": "Shurugwi Town",
         "ADM2_PCODE": "ZW1728",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16442,7 +16519,8 @@
         "ADM2_EN": "Gokwe South Urban",
         "ADM2_PCODE": "ZW1729",
         "ADM1_PCODE": "ZW17",
-        "ADM1_EN": "Midlands"
+        "ADM1_EN": "Midlands",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16480,7 +16558,8 @@
         "ADM2_EN": "Bikita",
         "ADM2_PCODE": "ZW1801",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -16662,7 +16741,8 @@
         "ADM2_EN": "Chiredzi",
         "ADM2_PCODE": "ZW1802",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -17034,7 +17114,8 @@
         "ADM2_EN": "Chivi",
         "ADM2_PCODE": "ZW1803",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -17280,7 +17361,8 @@
         "ADM2_EN": "Gutu",
         "ADM2_PCODE": "ZW1804",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -17606,7 +17688,8 @@
         "ADM2_EN": "Masvingo",
         "ADM2_PCODE": "ZW1805",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -17998,7 +18081,8 @@
         "ADM2_EN": "Mwenezi",
         "ADM2_PCODE": "ZW1806",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18404,7 +18488,8 @@
         "ADM2_EN": "Zaka",
         "ADM2_PCODE": "ZW1807",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18602,7 +18687,8 @@
         "ADM2_EN": "Masvingo Urban",
         "ADM2_PCODE": "ZW1821",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18660,7 +18746,8 @@
         "ADM2_EN": "Chiredzi Urban",
         "ADM2_PCODE": "ZW1822",
         "ADM1_PCODE": "ZW18",
-        "ADM1_EN": "Masvingo"
+        "ADM1_EN": "Masvingo",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18698,7 +18785,8 @@
         "ADM2_EN": "Harare",
         "ADM2_PCODE": "ZW1921",
         "ADM1_PCODE": "ZW19",
-        "ADM1_EN": "Harare"
+        "ADM1_EN": "Harare",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18852,7 +18940,8 @@
         "ADM2_EN": "Chitungwiza",
         "ADM2_PCODE": "ZW1922",
         "ADM1_PCODE": "ZW19",
-        "ADM1_EN": "Harare"
+        "ADM1_EN": "Harare",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18898,7 +18987,8 @@
         "ADM2_EN": "Epworth",
         "ADM2_PCODE": "ZW1923",
         "ADM1_PCODE": "ZW19",
-        "ADM1_EN": "Harare"
+        "ADM1_EN": "Harare",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
@@ -18952,7 +19042,8 @@
         "ADM2_EN": "Harare Rural",
         "ADM2_PCODE": "ZW1924",
         "ADM1_PCODE": "ZW19",
-        "ADM1_EN": "Harare"
+        "ADM1_EN": "Harare",
+        "ADM0_PCODE": "ZW"
       },
       "geometry": {
         "type": "Polygon",
