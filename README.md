@@ -14,15 +14,7 @@ Descriptions and notes for the stored data in the repo
 
 Data related to admin area geometry and codes. 
 The 'ready-to-use' admin areas are in `admin-areas/processed`.
-See `admin-areas/README.md` for more details. 
-
-### admin-areas-gadm
-
-Admin areas (lvl 0 to 3) fetched from https://gadm.org/data.html. Not all countries have admin level 3 and 4 though (i.e. Zimbabwe). 
-
-For now, this data is in here for testing/prototyping purposes only. We will need to move to using this data eventually, but we'll need different sources for admin 3 and 4 for some of the countries.
-
-See [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data) for more information on how this data is fetched.
+See `admin-areas/README.md` for more details. \
 
 ### country-data/go-data
 
