@@ -12,9 +12,9 @@ Descriptions and notes for the stored data in the repo
 
 ### admin-areas
 
-Admin areas (lvl 1 to 4) imported from [IBF v1 repo](https://github.com/rodekruis/IBF-system/tree/master/services/API-service/src/scripts/git-lfs). The source(s) are varied and they may be out of date. Not all countries are in the data. These are - until officially migrating - the sources, as used by both the pipeline and the back-end.
-
-Because of this, we'll need to move to admin-areas-gadm eventually.
+Data related to admin area geometry and codes. 
+The 'ready-to-use' admin areas are in `admin-areas/combined`.
+See `admin-areas/README.md` for more details. 
 
 ### admin-areas-gadm
 
