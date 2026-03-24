@@ -2,7 +2,7 @@
 
 Data related to admin area geometry and codes. 
 
-### combined
+### processed
 
 These are the processed admin-areas that are ready to use by the pipeline, backend, etc.
 

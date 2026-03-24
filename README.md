@@ -13,7 +13,7 @@ Descriptions and notes for the stored data in the repo
 ### admin-areas
 
 Data related to admin area geometry and codes. 
-The 'ready-to-use' admin areas are in `admin-areas/combined`.
+The 'ready-to-use' admin areas are in `admin-areas/processed`.
 See `admin-areas/README.md` for more details. 
 
 ### admin-areas-gadm
