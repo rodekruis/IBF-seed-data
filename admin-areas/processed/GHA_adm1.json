@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ahafo",
-        "ADM1_PCODE": "GH01",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH01"
       },
       "geometry": {
         "type": "Polygon",
@@ -368,11 +364,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ashanti",
-        "ADM1_PCODE": "GH02",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH02"
       },
       "geometry": {
         "type": "Polygon",
@@ -1084,11 +1076,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bono",
-        "ADM1_PCODE": "GH03",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH03"
       },
       "geometry": {
         "type": "Polygon",
@@ -1444,11 +1432,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bono East",
-        "ADM1_PCODE": "GH04",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH04"
       },
       "geometry": {
         "type": "Polygon",
@@ -2004,11 +1988,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Central",
-        "ADM1_PCODE": "GH05",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH05"
       },
       "geometry": {
         "type": "Polygon",
@@ -2488,11 +2468,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "GH06",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH06"
       },
       "geometry": {
         "type": "Polygon",
@@ -2968,11 +2944,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Greater Accra",
-        "ADM1_PCODE": "GH07",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3288,11 +3260,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "GH08",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH08"
       },
       "geometry": {
         "type": "Polygon",
@@ -4248,11 +4216,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Northern East",
-        "ADM1_PCODE": "GH09",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH09"
       },
       "geometry": {
         "type": "Polygon",
@@ -4816,11 +4780,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Oti",
-        "ADM1_PCODE": "GH10",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH10"
       },
       "geometry": {
         "type": "Polygon",
@@ -5284,11 +5244,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Savannah",
-        "ADM1_PCODE": "GH11",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH11"
       },
       "geometry": {
         "type": "Polygon",
@@ -6140,11 +6096,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Upper East",
-        "ADM1_PCODE": "GH12",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH12"
       },
       "geometry": {
         "type": "Polygon",
@@ -6552,11 +6504,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Upper West",
-        "ADM1_PCODE": "GH13",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH13"
       },
       "geometry": {
         "type": "Polygon",
@@ -6836,11 +6784,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Volta",
-        "ADM1_PCODE": "GH14",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH14"
       },
       "geometry": {
         "type": "Polygon",
@@ -7232,11 +7176,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Western",
-        "ADM1_PCODE": "GH15",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH15"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7932,11 +7872,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Western North",
-        "ADM1_PCODE": "GH16",
-        "ADM0_PCODE": "GH",
-        "ADM0_ISO_A2": "GH",
-        "ADM0_ISO_A3": "GHA",
-        "POPULATION": null
+        "ADM1_PCODE": "GH16"
       },
       "geometry": {
         "type": "Polygon",

@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Western Cape",
-        "ADM1_PCODE": "ZA1",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA1"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3548,11 +3544,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Eastern Cape",
-        "ADM1_PCODE": "ZA2",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA2"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5552,11 +5544,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nothern Cape",
-        "ADM1_PCODE": "ZA3",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA3"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8096,11 +8084,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Free State",
-        "ADM1_PCODE": "ZA4",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA4"
       },
       "geometry": {
         "type": "Polygon",
@@ -9876,11 +9860,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM1_PCODE": "ZA5",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA5"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10924,11 +10904,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North West",
-        "ADM1_PCODE": "ZA6",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA6"
       },
       "geometry": {
         "type": "Polygon",
@@ -12540,11 +12516,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gauteng",
-        "ADM1_PCODE": "ZA7",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA7"
       },
       "geometry": {
         "type": "Polygon",
@@ -13360,11 +13332,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mpumalanga",
-        "ADM1_PCODE": "ZA8",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA8"
       },
       "geometry": {
         "type": "Polygon",
@@ -14844,11 +14812,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Limpopo",
-        "ADM1_PCODE": "ZA9",
-        "ADM0_PCODE": "ZA",
-        "ADM0_ISO_A2": "ZA",
-        "ADM0_ISO_A3": "ZAF",
-        "POPULATION": null
+        "ADM1_PCODE": "ZA9"
       },
       "geometry": {
         "type": "Polygon",

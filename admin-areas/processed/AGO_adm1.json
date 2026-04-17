@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bengo",
-        "ADM1_PCODE": "AO01",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -324,11 +320,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Benguela",
-        "ADM1_PCODE": "AO02",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -932,11 +924,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bié",
-        "ADM1_PCODE": "AO03",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO03"
       },
       "geometry": {
         "type": "Polygon",
@@ -1716,11 +1704,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cabinda",
-        "ADM1_PCODE": "AO04",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO04"
       },
       "geometry": {
         "type": "Polygon",
@@ -2032,11 +2016,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cuando Cubango",
-        "ADM1_PCODE": "AO05",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO05"
       },
       "geometry": {
         "type": "Polygon",
@@ -3116,11 +3096,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cuanza Norte",
-        "ADM1_PCODE": "AO06",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO06"
       },
       "geometry": {
         "type": "Polygon",
@@ -3556,11 +3532,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cuanza Sul",
-        "ADM1_PCODE": "AO07",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO07"
       },
       "geometry": {
         "type": "Polygon",
@@ -4120,11 +4092,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cunene",
-        "ADM1_PCODE": "AO08",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO08"
       },
       "geometry": {
         "type": "Polygon",
@@ -4500,11 +4468,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Huíla",
-        "ADM1_PCODE": "AO09",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO09"
       },
       "geometry": {
         "type": "Polygon",
@@ -5108,11 +5072,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Huambo",
-        "ADM1_PCODE": "AO10",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO10"
       },
       "geometry": {
         "type": "Polygon",
@@ -5500,11 +5460,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Luanda",
-        "ADM1_PCODE": "AO11",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO11"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6084,11 +6040,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lunda Norte",
-        "ADM1_PCODE": "AO12",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO12"
       },
       "geometry": {
         "type": "Polygon",
@@ -6784,11 +6736,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lunda Sul",
-        "ADM1_PCODE": "AO13",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO13"
       },
       "geometry": {
         "type": "Polygon",
@@ -7608,11 +7556,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Malanje",
-        "ADM1_PCODE": "AO14",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO14"
       },
       "geometry": {
         "type": "Polygon",
@@ -8664,11 +8608,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Moxico",
-        "ADM1_PCODE": "AO15",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO15"
       },
       "geometry": {
         "type": "Polygon",
@@ -9708,11 +9648,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Namibe",
-        "ADM1_PCODE": "AO16",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO16"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10480,11 +10416,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Uíge",
-        "ADM1_PCODE": "AO17",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO17"
       },
       "geometry": {
         "type": "Polygon",
@@ -11124,11 +11056,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Zaire",
-        "ADM1_PCODE": "AO18",
-        "ADM0_PCODE": "AO",
-        "ADM0_ISO_A2": "AO",
-        "ADM0_ISO_A3": "AGO",
-        "POPULATION": null
+        "ADM1_PCODE": "AO18"
       },
       "geometry": {
         "type": "Polygon",

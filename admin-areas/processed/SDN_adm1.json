@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Khartoum",
-        "ADM1_PCODE": "SD01",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD01"
       },
       "geometry": {
         "type": "Polygon",
@@ -212,11 +208,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North Darfur",
-        "ADM1_PCODE": "SD02",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD02"
       },
       "geometry": {
         "type": "Polygon",
@@ -768,11 +760,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South Darfur",
-        "ADM1_PCODE": "SD03",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD03"
       },
       "geometry": {
         "type": "Polygon",
@@ -1676,11 +1664,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "West Darfur",
-        "ADM1_PCODE": "SD04",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD04"
       },
       "geometry": {
         "type": "Polygon",
@@ -2140,11 +2124,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "East Darfur",
-        "ADM1_PCODE": "SD05",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD05"
       },
       "geometry": {
         "type": "Polygon",
@@ -2464,11 +2444,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Central Darfur",
-        "ADM1_PCODE": "SD06",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD06"
       },
       "geometry": {
         "type": "Polygon",
@@ -2860,11 +2836,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South Kordofan",
-        "ADM1_PCODE": "SD07",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD07"
       },
       "geometry": {
         "type": "Polygon",
@@ -3140,11 +3112,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Blue Nile",
-        "ADM1_PCODE": "SD08",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD08"
       },
       "geometry": {
         "type": "Polygon",
@@ -3416,11 +3384,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "White Nile",
-        "ADM1_PCODE": "SD09",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD09"
       },
       "geometry": {
         "type": "Polygon",
@@ -3844,11 +3808,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Red Sea",
-        "ADM1_PCODE": "SD10",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD10"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10636,11 +10596,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kassala",
-        "ADM1_PCODE": "SD11",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD11"
       },
       "geometry": {
         "type": "Polygon",
@@ -10916,11 +10872,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gedaref",
-        "ADM1_PCODE": "SD12",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD12"
       },
       "geometry": {
         "type": "Polygon",
@@ -11280,11 +11232,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North Kordofan",
-        "ADM1_PCODE": "SD13",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD13"
       },
       "geometry": {
         "type": "Polygon",
@@ -11744,11 +11692,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sennar",
-        "ADM1_PCODE": "SD14",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD14"
       },
       "geometry": {
         "type": "Polygon",
@@ -12196,11 +12140,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Aj Jazirah",
-        "ADM1_PCODE": "SD15",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD15"
       },
       "geometry": {
         "type": "Polygon",
@@ -12664,11 +12604,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "River Nile",
-        "ADM1_PCODE": "SD16",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD16"
       },
       "geometry": {
         "type": "Polygon",
@@ -12912,11 +12848,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "SD17",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD17"
       },
       "geometry": {
         "type": "Polygon",
@@ -13024,11 +12956,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "West Kordofan",
-        "ADM1_PCODE": "SD18",
-        "ADM0_PCODE": "SD",
-        "ADM0_ISO_A2": "SD",
-        "ADM0_ISO_A3": "SDN",
-        "POPULATION": null
+        "ADM1_PCODE": "SD18"
       },
       "geometry": {
         "type": "Polygon",

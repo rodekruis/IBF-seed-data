@@ -15,10 +15,7 @@
         "ADM2_PCODE": "ST0101",
         "ADM1_PCODE": "ST01",
         "ADM1_EN": "Príncipe",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -417,10 +414,7 @@
         "ADM2_PCODE": "ST0201",
         "ADM1_PCODE": "ST02",
         "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "Polygon",
@@ -471,10 +465,7 @@
         "ADM2_PCODE": "ST0202",
         "ADM1_PCODE": "ST02",
         "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -601,10 +592,7 @@
         "ADM2_PCODE": "ST0203",
         "ADM1_PCODE": "ST02",
         "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1063,10 +1051,7 @@
         "ADM2_PCODE": "ST0204",
         "ADM1_PCODE": "ST02",
         "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1469,10 +1454,7 @@
         "ADM2_PCODE": "ST0205",
         "ADM1_PCODE": "ST02",
         "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1555,10 +1537,7 @@
         "ADM2_PCODE": "ST0206",
         "ADM1_PCODE": "ST02",
         "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST",
-        "ADM0_ISO_A2": "ST",
-        "ADM0_ISO_A3": "STP",
-        "POPULATION": null
+        "ADM0_PCODE": "ST"
       },
       "geometry": {
         "type": "Polygon",

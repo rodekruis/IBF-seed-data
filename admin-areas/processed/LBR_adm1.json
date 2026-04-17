@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bomi",
-        "ADM1_PCODE": "LR01",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR01"
       },
       "geometry": {
         "type": "Polygon",
@@ -224,11 +220,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bong",
-        "ADM1_PCODE": "LR02",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -660,11 +652,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gbarpolu",
-        "ADM1_PCODE": "LR03",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR03"
       },
       "geometry": {
         "type": "Polygon",
@@ -1048,11 +1036,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grand Bassa",
-        "ADM1_PCODE": "LR04",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1456,11 +1440,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grand Cape Mount",
-        "ADM1_PCODE": "LR05",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR05"
       },
       "geometry": {
         "type": "Polygon",
@@ -1688,11 +1668,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grand Gedeh",
-        "ADM1_PCODE": "LR06",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR06"
       },
       "geometry": {
         "type": "Polygon",
@@ -2204,11 +2180,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grand Kru",
-        "ADM1_PCODE": "LR07",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2788,11 +2760,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lofa",
-        "ADM1_PCODE": "LR08",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR08"
       },
       "geometry": {
         "type": "Polygon",
@@ -3264,11 +3232,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Margibi",
-        "ADM1_PCODE": "LR09",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR09"
       },
       "geometry": {
         "type": "Polygon",
@@ -3536,11 +3500,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maryland",
-        "ADM1_PCODE": "LR10",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR10"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3756,11 +3716,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Montserrado",
-        "ADM1_PCODE": "LR11",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR11"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4068,11 +4024,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nimba",
-        "ADM1_PCODE": "LR12",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR12"
       },
       "geometry": {
         "type": "Polygon",
@@ -4608,11 +4560,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "River Gee",
-        "ADM1_PCODE": "LR13",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR13"
       },
       "geometry": {
         "type": "Polygon",
@@ -4892,11 +4840,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Rivercess",
-        "ADM1_PCODE": "LR14",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR14"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5492,11 +5436,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sinoe",
-        "ADM1_PCODE": "LR15",
-        "ADM0_PCODE": "LR",
-        "ADM0_ISO_A2": "LR",
-        "ADM0_ISO_A3": "LBR",
-        "POPULATION": null
+        "ADM1_PCODE": "LR15"
       },
       "geometry": {
         "type": "MultiPolygon",

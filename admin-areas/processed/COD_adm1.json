@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kinshasa",
-        "ADM1_PCODE": "CD10",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD10"
       },
       "geometry": {
         "type": "Polygon",
@@ -324,11 +320,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kongo-Central",
-        "ADM1_PCODE": "CD20",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD20"
       },
       "geometry": {
         "type": "Polygon",
@@ -1136,11 +1128,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kwango",
-        "ADM1_PCODE": "CD31",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD31"
       },
       "geometry": {
         "type": "Polygon",
@@ -2320,11 +2308,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kwilu",
-        "ADM1_PCODE": "CD32",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD32"
       },
       "geometry": {
         "type": "Polygon",
@@ -3324,11 +3308,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maï-Ndombe",
-        "ADM1_PCODE": "CD33",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD33"
       },
       "geometry": {
         "type": "Polygon",
@@ -4112,11 +4092,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Equateur",
-        "ADM1_PCODE": "CD41",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD41"
       },
       "geometry": {
         "type": "Polygon",
@@ -4984,11 +4960,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sud-Ubangi",
-        "ADM1_PCODE": "CD42",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD42"
       },
       "geometry": {
         "type": "Polygon",
@@ -5636,11 +5608,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nord-Ubangi",
-        "ADM1_PCODE": "CD43",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD43"
       },
       "geometry": {
         "type": "Polygon",
@@ -6408,11 +6376,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mongala",
-        "ADM1_PCODE": "CD44",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD44"
       },
       "geometry": {
         "type": "Polygon",
@@ -7284,11 +7248,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tshuapa",
-        "ADM1_PCODE": "CD45",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD45"
       },
       "geometry": {
         "type": "Polygon",
@@ -8360,11 +8320,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tshopo",
-        "ADM1_PCODE": "CD51",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD51"
       },
       "geometry": {
         "type": "Polygon",
@@ -9824,11 +9780,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bas-Uele",
-        "ADM1_PCODE": "CD52",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD52"
       },
       "geometry": {
         "type": "Polygon",
@@ -11704,11 +11656,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Haut-Uele",
-        "ADM1_PCODE": "CD53",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD53"
       },
       "geometry": {
         "type": "Polygon",
@@ -13096,11 +13044,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ituri",
-        "ADM1_PCODE": "CD54",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD54"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14204,11 +14148,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nord-Kivu",
-        "ADM1_PCODE": "CD61",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD61"
       },
       "geometry": {
         "type": "Polygon",
@@ -15014,11 +14954,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sud-Kivu",
-        "ADM1_PCODE": "CD62",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD62"
       },
       "geometry": {
         "type": "Polygon",
@@ -15842,11 +15778,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maniema",
-        "ADM1_PCODE": "CD63",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD63"
       },
       "geometry": {
         "type": "Polygon",
@@ -17158,11 +17090,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Haut-Katanga",
-        "ADM1_PCODE": "CD71",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD71"
       },
       "geometry": {
         "type": "Polygon",
@@ -18946,11 +18874,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lualaba",
-        "ADM1_PCODE": "CD72",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD72"
       },
       "geometry": {
         "type": "Polygon",
@@ -20534,11 +20458,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Haut-Lomami",
-        "ADM1_PCODE": "CD73",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD73"
       },
       "geometry": {
         "type": "Polygon",
@@ -21874,11 +21794,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tanganyika",
-        "ADM1_PCODE": "CD74",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD74"
       },
       "geometry": {
         "type": "Polygon",
@@ -22750,11 +22666,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lomami",
-        "ADM1_PCODE": "CD81",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD81"
       },
       "geometry": {
         "type": "Polygon",
@@ -23746,11 +23658,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kasaï-Oriental",
-        "ADM1_PCODE": "CD82",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD82"
       },
       "geometry": {
         "type": "Polygon",
@@ -24130,11 +24038,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sankuru",
-        "ADM1_PCODE": "CD83",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD83"
       },
       "geometry": {
         "type": "Polygon",
@@ -25070,11 +24974,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kasaï-Central",
-        "ADM1_PCODE": "CD91",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD91"
       },
       "geometry": {
         "type": "Polygon",
@@ -25870,11 +25770,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kasaï",
-        "ADM1_PCODE": "CD92",
-        "ADM0_PCODE": "CD",
-        "ADM0_ISO_A2": "CD",
-        "ADM0_ISO_A3": "COD",
-        "POPULATION": null
+        "ADM1_PCODE": "CD92"
       },
       "geometry": {
         "type": "Polygon",

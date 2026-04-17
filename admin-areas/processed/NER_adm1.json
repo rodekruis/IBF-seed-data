@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Agadez",
-        "ADM1_PCODE": "NE001",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE001"
       },
       "geometry": {
         "type": "Polygon",
@@ -324,11 +320,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Diffa",
-        "ADM1_PCODE": "NE002",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE002"
       },
       "geometry": {
         "type": "Polygon",
@@ -888,11 +880,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Dosso",
-        "ADM1_PCODE": "NE003",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE003"
       },
       "geometry": {
         "type": "Polygon",
@@ -1260,11 +1248,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maradi",
-        "ADM1_PCODE": "NE004",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE004"
       },
       "geometry": {
         "type": "Polygon",
@@ -1544,11 +1528,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tahoua",
-        "ADM1_PCODE": "NE005",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE005"
       },
       "geometry": {
         "type": "Polygon",
@@ -1876,11 +1856,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tillabéri",
-        "ADM1_PCODE": "NE006",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE006"
       },
       "geometry": {
         "type": "Polygon",
@@ -2586,11 +2562,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Zinder",
-        "ADM1_PCODE": "NE007",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE007"
       },
       "geometry": {
         "type": "Polygon",
@@ -2934,11 +2906,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Niamey",
-        "ADM1_PCODE": "NE008",
-        "ADM0_PCODE": "NE",
-        "ADM0_ISO_A2": "NE",
-        "ADM0_ISO_A3": "NER",
-        "POPULATION": null
+        "ADM1_PCODE": "NE008"
       },
       "geometry": {
         "type": "Polygon",

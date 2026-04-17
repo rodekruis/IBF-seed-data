@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Obock",
-        "ADM1_PCODE": "DJ01",
-        "ADM0_PCODE": "DJ",
-        "ADM0_ISO_A2": "DJ",
-        "ADM0_ISO_A3": "DJI",
-        "POPULATION": null
+        "ADM1_PCODE": "DJ01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -352,11 +348,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tadjoura",
-        "ADM1_PCODE": "DJ02",
-        "ADM0_PCODE": "DJ",
-        "ADM0_ISO_A2": "DJ",
-        "ADM0_ISO_A3": "DJI",
-        "POPULATION": null
+        "ADM1_PCODE": "DJ02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -612,11 +604,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Dikhil",
-        "ADM1_PCODE": "DJ03",
-        "ADM0_PCODE": "DJ",
-        "ADM0_ISO_A2": "DJ",
-        "ADM0_ISO_A3": "DJI",
-        "POPULATION": null
+        "ADM1_PCODE": "DJ03"
       },
       "geometry": {
         "type": "Polygon",
@@ -768,11 +756,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Djiboutii",
-        "ADM1_PCODE": "DJ04",
-        "ADM0_PCODE": "DJ",
-        "ADM0_ISO_A2": "DJ",
-        "ADM0_ISO_A3": "DJI",
-        "POPULATION": null
+        "ADM1_PCODE": "DJ04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1192,11 +1176,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ali Sabieh",
-        "ADM1_PCODE": "DJ05",
-        "ADM0_PCODE": "DJ",
-        "ADM0_ISO_A2": "DJ",
-        "ADM0_ISO_A3": "DJI",
-        "POPULATION": null
+        "ADM1_PCODE": "DJ05"
       },
       "geometry": {
         "type": "Polygon",
@@ -1280,11 +1260,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Arta",
-        "ADM1_PCODE": "DJ06",
-        "ADM0_PCODE": "DJ",
-        "ADM0_ISO_A2": "DJ",
-        "ADM0_ISO_A3": "DJI",
-        "POPULATION": null
+        "ADM1_PCODE": "DJ06"
       },
       "geometry": {
         "type": "MultiPolygon",

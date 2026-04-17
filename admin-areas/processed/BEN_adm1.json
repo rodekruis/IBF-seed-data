@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Alibori",
-        "ADM1_PCODE": "BJ01",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ01"
       },
       "geometry": {
         "type": "Polygon",
@@ -372,11 +368,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Atacora",
-        "ADM1_PCODE": "BJ02",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ02"
       },
       "geometry": {
         "type": "Polygon",
@@ -740,11 +732,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Atlantique",
-        "ADM1_PCODE": "BJ03",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ03"
       },
       "geometry": {
         "type": "Polygon",
@@ -888,11 +876,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Borgou",
-        "ADM1_PCODE": "BJ04",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ04"
       },
       "geometry": {
         "type": "Polygon",
@@ -1300,11 +1284,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Collines",
-        "ADM1_PCODE": "BJ05",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ05"
       },
       "geometry": {
         "type": "Polygon",
@@ -1544,11 +1524,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Couffo",
-        "ADM1_PCODE": "BJ06",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ06"
       },
       "geometry": {
         "type": "Polygon",
@@ -1704,11 +1680,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Donga",
-        "ADM1_PCODE": "BJ07",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ07"
       },
       "geometry": {
         "type": "Polygon",
@@ -1968,11 +1940,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Littoral",
-        "ADM1_PCODE": "BJ08",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ08"
       },
       "geometry": {
         "type": "Polygon",
@@ -2024,11 +1992,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mono",
-        "ADM1_PCODE": "BJ09",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ09"
       },
       "geometry": {
         "type": "Polygon",
@@ -2204,11 +2168,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Oueme",
-        "ADM1_PCODE": "BJ10",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ10"
       },
       "geometry": {
         "type": "Polygon",
@@ -2316,11 +2276,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Plateau",
-        "ADM1_PCODE": "BJ11",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ11"
       },
       "geometry": {
         "type": "Polygon",
@@ -2504,11 +2460,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Zou",
-        "ADM1_PCODE": "BJ12",
-        "ADM0_PCODE": "BJ",
-        "ADM0_ISO_A2": "BJ",
-        "ADM0_ISO_A3": "BEN",
-        "POPULATION": null
+        "ADM1_PCODE": "BJ12"
       },
       "geometry": {
         "type": "Polygon",

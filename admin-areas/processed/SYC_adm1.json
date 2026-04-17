@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mahe",
-        "ADM1_PCODE": "SC1",
-        "ADM0_PCODE": "SC",
-        "ADM0_ISO_A2": "SC",
-        "ADM0_ISO_A3": "SYC",
-        "POPULATION": null
+        "ADM1_PCODE": "SC1"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -454,11 +450,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Praslin",
-        "ADM1_PCODE": "SC2",
-        "ADM0_PCODE": "SC",
-        "ADM0_ISO_A2": "SC",
-        "ADM0_ISO_A3": "SYC",
-        "POPULATION": null
+        "ADM1_PCODE": "SC2"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -658,11 +650,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "La Digue",
-        "ADM1_PCODE": "SC3",
-        "ADM0_PCODE": "SC",
-        "ADM0_ISO_A2": "SC",
-        "ADM0_ISO_A3": "SYC",
-        "POPULATION": null
+        "ADM1_PCODE": "SC3"
       },
       "geometry": {
         "type": "Polygon",
@@ -698,11 +686,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Other Islands",
-        "ADM1_PCODE": "SC4",
-        "ADM0_PCODE": "SC",
-        "ADM0_ISO_A2": "SC",
-        "ADM0_ISO_A3": "SYC",
-        "POPULATION": null
+        "ADM1_PCODE": "SC4"
       },
       "geometry": {
         "type": "MultiPolygon",

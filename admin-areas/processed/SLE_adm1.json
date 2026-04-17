@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "SL01",
-        "ADM0_PCODE": "SL",
-        "ADM0_ISO_A2": "SL",
-        "ADM0_ISO_A3": "SLE",
-        "POPULATION": null
+        "ADM1_PCODE": "SL01"
       },
       "geometry": {
         "type": "Polygon",
@@ -528,11 +524,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "SL02",
-        "ADM0_PCODE": "SL",
-        "ADM0_ISO_A2": "SL",
-        "ADM0_ISO_A3": "SLE",
-        "POPULATION": null
+        "ADM1_PCODE": "SL02"
       },
       "geometry": {
         "type": "Polygon",
@@ -1188,11 +1180,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Southern",
-        "ADM1_PCODE": "SL03",
-        "ADM0_PCODE": "SL",
-        "ADM0_ISO_A2": "SL",
-        "ADM0_ISO_A3": "SLE",
-        "POPULATION": null
+        "ADM1_PCODE": "SL03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3692,11 +3680,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Western",
-        "ADM1_PCODE": "SL04",
-        "ADM0_PCODE": "SL",
-        "ADM0_ISO_A2": "SL",
-        "ADM0_ISO_A3": "SLE",
-        "POPULATION": null
+        "ADM1_PCODE": "SL04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4220,11 +4204,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North Western",
-        "ADM1_PCODE": "SL05",
-        "ADM0_PCODE": "SL",
-        "ADM0_ISO_A2": "SL",
-        "ADM0_ISO_A3": "SLE",
-        "POPULATION": null
+        "ADM1_PCODE": "SL05"
       },
       "geometry": {
         "type": "MultiPolygon",

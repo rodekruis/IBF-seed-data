@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Banjul City Council",
-        "ADM1_PCODE": "GM01",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM01"
       },
       "geometry": {
         "type": "Polygon",
@@ -68,11 +64,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Upper River",
-        "ADM1_PCODE": "GM02",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM02"
       },
       "geometry": {
         "type": "Polygon",
@@ -212,11 +204,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "West Coast",
-        "ADM1_PCODE": "GM03",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -516,11 +504,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Central River South",
-        "ADM1_PCODE": "GM04",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM04"
       },
       "geometry": {
         "type": "Polygon",
@@ -716,11 +700,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM1_PCODE": "GM05",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM05"
       },
       "geometry": {
         "type": "Polygon",
@@ -764,11 +744,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North Bank",
-        "ADM1_PCODE": "GM06",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM06"
       },
       "geometry": {
         "type": "Polygon",
@@ -916,11 +892,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Central River North",
-        "ADM1_PCODE": "GM07",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM07"
       },
       "geometry": {
         "type": "Polygon",
@@ -1136,11 +1108,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lower River",
-        "ADM1_PCODE": "GM08",
-        "ADM0_PCODE": "GM",
-        "ADM0_ISO_A2": "GM",
-        "ADM0_ISO_A3": "GMB",
-        "POPULATION": null
+        "ADM1_PCODE": "GM08"
       },
       "geometry": {
         "type": "Polygon",

@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gaborone",
-        "ADM1_PCODE": "BW01",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW01"
       },
       "geometry": {
         "type": "Polygon",
@@ -100,11 +96,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Francistown",
-        "ADM1_PCODE": "BW02",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW02"
       },
       "geometry": {
         "type": "Polygon",
@@ -160,11 +152,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lobatse",
-        "ADM1_PCODE": "BW03",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW03"
       },
       "geometry": {
         "type": "Polygon",
@@ -208,11 +196,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Selibe Phikwe",
-        "ADM1_PCODE": "BW04",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW04"
       },
       "geometry": {
         "type": "Polygon",
@@ -252,11 +236,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Orapa",
-        "ADM1_PCODE": "BW05",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW05"
       },
       "geometry": {
         "type": "Polygon",
@@ -296,11 +276,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Jwaneng",
-        "ADM1_PCODE": "BW06",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW06"
       },
       "geometry": {
         "type": "Polygon",
@@ -336,11 +312,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sowa Town",
-        "ADM1_PCODE": "BW07",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW07"
       },
       "geometry": {
         "type": "Polygon",
@@ -376,11 +348,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Southern",
-        "ADM1_PCODE": "BW08",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW08"
       },
       "geometry": {
         "type": "Polygon",
@@ -550,11 +518,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South East",
-        "ADM1_PCODE": "BW09",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW09"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -736,11 +700,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kweneng",
-        "ADM1_PCODE": "BW10",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW10"
       },
       "geometry": {
         "type": "Polygon",
@@ -868,11 +828,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kgatleng",
-        "ADM1_PCODE": "BW11",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW11"
       },
       "geometry": {
         "type": "Polygon",
@@ -1052,11 +1008,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Central",
-        "ADM1_PCODE": "BW12",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW12"
       },
       "geometry": {
         "type": "Polygon",
@@ -1870,11 +1822,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North East",
-        "ADM1_PCODE": "BW13",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW13"
       },
       "geometry": {
         "type": "Polygon",
@@ -2164,11 +2112,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North West",
-        "ADM1_PCODE": "BW14",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW14"
       },
       "geometry": {
         "type": "Polygon",
@@ -2412,11 +2356,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Chobe",
-        "ADM1_PCODE": "BW15",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW15"
       },
       "geometry": {
         "type": "Polygon",
@@ -2712,11 +2652,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ghanzi",
-        "ADM1_PCODE": "BW16",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW16"
       },
       "geometry": {
         "type": "Polygon",
@@ -2768,11 +2704,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kgalagadi",
-        "ADM1_PCODE": "BW17",
-        "ADM0_PCODE": "BW",
-        "ADM0_ISO_A2": "BW",
-        "ADM0_ISO_A3": "BWA",
-        "POPULATION": null
+        "ADM1_PCODE": "BW17"
       },
       "geometry": {
         "type": "Polygon",

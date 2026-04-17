@@ -15,10 +15,7 @@
         "ADM2_PCODE": "GW0101",
         "ADM1_PCODE": "GW01",
         "ADM1_EN": "Bafata",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -165,10 +162,7 @@
         "ADM2_PCODE": "GW0102",
         "ADM1_PCODE": "GW01",
         "ADM1_EN": "Bafata",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -283,10 +277,7 @@
         "ADM2_PCODE": "GW0103",
         "ADM1_PCODE": "GW01",
         "ADM1_EN": "Bafata",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -449,10 +440,7 @@
         "ADM2_PCODE": "GW0104",
         "ADM1_PCODE": "GW01",
         "ADM1_EN": "Bafata",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -531,10 +519,7 @@
         "ADM2_PCODE": "GW0105",
         "ADM1_PCODE": "GW01",
         "ADM1_EN": "Bafata",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -653,10 +638,7 @@
         "ADM2_PCODE": "GW0106",
         "ADM1_PCODE": "GW01",
         "ADM1_EN": "Bafata",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -779,10 +761,7 @@
         "ADM2_PCODE": "GW0201",
         "ADM1_PCODE": "GW02",
         "ADM1_EN": "Biombo",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1089,10 +1068,7 @@
         "ADM2_PCODE": "GW0202",
         "ADM1_PCODE": "GW02",
         "ADM1_EN": "Biombo",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1179,10 +1155,7 @@
         "ADM2_PCODE": "GW0203",
         "ADM1_PCODE": "GW02",
         "ADM1_EN": "Biombo",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -1229,10 +1202,7 @@
         "ADM2_PCODE": "GW0301",
         "ADM1_PCODE": "GW03",
         "ADM1_EN": "Bolama/Bijagos",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1459,10 +1429,7 @@
         "ADM2_PCODE": "GW0302",
         "ADM1_PCODE": "GW03",
         "ADM1_EN": "Bolama/Bijagos",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4145,10 +4112,7 @@
         "ADM2_PCODE": "GW0303",
         "ADM1_PCODE": "GW03",
         "ADM1_EN": "Bolama/Bijagos",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5251,10 +5215,7 @@
         "ADM2_PCODE": "GW0304",
         "ADM1_PCODE": "GW03",
         "ADM1_EN": "Bolama/Bijagos",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7281,10 +7242,7 @@
         "ADM2_PCODE": "GW0401",
         "ADM1_PCODE": "GW04",
         "ADM1_EN": "Cacheu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -7403,10 +7361,7 @@
         "ADM2_PCODE": "GW0402",
         "ADM1_PCODE": "GW04",
         "ADM1_EN": "Cacheu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7537,10 +7492,7 @@
         "ADM2_PCODE": "GW0403",
         "ADM1_PCODE": "GW04",
         "ADM1_EN": "Cacheu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7687,10 +7639,7 @@
         "ADM2_PCODE": "GW0404",
         "ADM1_PCODE": "GW04",
         "ADM1_EN": "Cacheu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8397,10 +8346,7 @@
         "ADM2_PCODE": "GW0405",
         "ADM1_PCODE": "GW04",
         "ADM1_EN": "Cacheu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8555,10 +8501,7 @@
         "ADM2_PCODE": "GW0406",
         "ADM1_PCODE": "GW04",
         "ADM1_EN": "Cacheu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8661,10 +8604,7 @@
         "ADM2_PCODE": "GW0501",
         "ADM1_PCODE": "GW05",
         "ADM1_EN": "Gabu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -8899,10 +8839,7 @@
         "ADM2_PCODE": "GW0502",
         "ADM1_PCODE": "GW05",
         "ADM1_EN": "Gabu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9089,10 +9026,7 @@
         "ADM2_PCODE": "GW0503",
         "ADM1_PCODE": "GW05",
         "ADM1_EN": "Gabu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9211,10 +9145,7 @@
         "ADM2_PCODE": "GW0504",
         "ADM1_PCODE": "GW05",
         "ADM1_EN": "Gabu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9369,10 +9300,7 @@
         "ADM2_PCODE": "GW0505",
         "ADM1_PCODE": "GW05",
         "ADM1_EN": "Gabu",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9567,10 +9495,7 @@
         "ADM2_PCODE": "GW0601",
         "ADM1_PCODE": "GW06",
         "ADM1_EN": "Oio",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9725,10 +9650,7 @@
         "ADM2_PCODE": "GW0602",
         "ADM1_PCODE": "GW06",
         "ADM1_EN": "Oio",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9847,10 +9769,7 @@
         "ADM2_PCODE": "GW0603",
         "ADM1_PCODE": "GW06",
         "ADM1_EN": "Oio",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -9977,10 +9896,7 @@
         "ADM2_PCODE": "GW0604",
         "ADM1_PCODE": "GW06",
         "ADM1_EN": "Oio",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10155,10 +10071,7 @@
         "ADM2_PCODE": "GW0605",
         "ADM1_PCODE": "GW06",
         "ADM1_EN": "Oio",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10229,10 +10142,7 @@
         "ADM2_PCODE": "GW0701",
         "ADM1_PCODE": "GW07",
         "ADM1_EN": "Quinara",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10335,10 +10245,7 @@
         "ADM2_PCODE": "GW0702",
         "ADM1_PCODE": "GW07",
         "ADM1_EN": "Quinara",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10441,10 +10348,7 @@
         "ADM2_PCODE": "GW0703",
         "ADM1_PCODE": "GW07",
         "ADM1_EN": "Quinara",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -10531,10 +10435,7 @@
         "ADM2_PCODE": "GW0704",
         "ADM1_PCODE": "GW07",
         "ADM1_EN": "Quinara",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10761,10 +10662,7 @@
         "ADM2_PCODE": "GW0800",
         "ADM1_PCODE": "GW08",
         "ADM1_EN": "Bissau",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10879,10 +10777,7 @@
         "ADM2_PCODE": "GW0901",
         "ADM1_PCODE": "GW09",
         "ADM1_EN": "Tombali",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11069,10 +10964,7 @@
         "ADM2_PCODE": "GW0902",
         "ADM1_PCODE": "GW09",
         "ADM1_EN": "Tombali",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11335,10 +11227,7 @@
         "ADM2_PCODE": "GW0903",
         "ADM1_PCODE": "GW09",
         "ADM1_EN": "Tombali",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11445,10 +11334,7 @@
         "ADM2_PCODE": "GW0904",
         "ADM1_PCODE": "GW09",
         "ADM1_EN": "Tombali",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",
@@ -11551,10 +11437,7 @@
         "ADM2_PCODE": "GW0905",
         "ADM1_PCODE": "GW09",
         "ADM1_EN": "Tombali",
-        "ADM0_PCODE": "GW",
-        "ADM0_ISO_A2": "GW",
-        "ADM0_ISO_A3": "GNB",
-        "POPULATION": null
+        "ADM0_PCODE": "GW"
       },
       "geometry": {
         "type": "Polygon",

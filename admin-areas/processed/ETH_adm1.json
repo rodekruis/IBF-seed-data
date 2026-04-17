@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Addis Ababa",
-        "ADM1_PCODE": "ET14",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET14"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -820,11 +816,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Afar",
-        "ADM1_PCODE": "ET02",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5280,11 +5272,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Amhara",
-        "ADM1_PCODE": "ET03",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17648,11 +17636,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Benishangul Gumz",
-        "ADM1_PCODE": "ET06",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22172,11 +22156,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Dire Dawa",
-        "ADM1_PCODE": "ET15",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET15"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22636,11 +22616,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gambela",
-        "ADM1_PCODE": "ET12",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET12"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24596,11 +24572,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Harari",
-        "ADM1_PCODE": "ET13",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET13"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24920,11 +24892,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Oromia",
-        "ADM1_PCODE": "ET04",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42726,11 +42694,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sidama",
-        "ADM1_PCODE": "ET16",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET16"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46622,11 +46586,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "SNNP",
-        "ADM1_PCODE": "ET07",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55150,11 +55110,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Somali",
-        "ADM1_PCODE": "ET05",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60462,11 +60418,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tigray",
-        "ADM1_PCODE": "ET01",
-        "ADM0_PCODE": "ET",
-        "ADM0_ISO_A2": "ET",
-        "ADM0_ISO_A3": "ETH",
-        "POPULATION": null
+        "ADM1_PCODE": "ET01"
       },
       "geometry": {
         "type": "MultiPolygon",

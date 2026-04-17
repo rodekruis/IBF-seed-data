@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Hodh Chargui",
-        "ADM1_PCODE": "MR01",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR01"
       },
       "geometry": {
         "type": "Polygon",
@@ -104,11 +100,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Hodh El Gharbi",
-        "ADM1_PCODE": "MR02",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR02"
       },
       "geometry": {
         "type": "Polygon",
@@ -448,11 +440,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Assaba",
-        "ADM1_PCODE": "MR03",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR03"
       },
       "geometry": {
         "type": "Polygon",
@@ -1188,11 +1176,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gorgol",
-        "ADM1_PCODE": "MR04",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR04"
       },
       "geometry": {
         "type": "Polygon",
@@ -1540,11 +1524,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Brakna",
-        "ADM1_PCODE": "MR05",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR05"
       },
       "geometry": {
         "type": "Polygon",
@@ -1872,11 +1852,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Trarza",
-        "ADM1_PCODE": "MR06",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR06"
       },
       "geometry": {
         "type": "Polygon",
@@ -2184,11 +2160,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Adrar",
-        "ADM1_PCODE": "MR07",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR07"
       },
       "geometry": {
         "type": "Polygon",
@@ -2308,11 +2280,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Dakhlet Nouadhibou",
-        "ADM1_PCODE": "MR08",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR08"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3372,11 +3340,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tagant",
-        "ADM1_PCODE": "MR09",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR09"
       },
       "geometry": {
         "type": "Polygon",
@@ -3676,11 +3640,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Guidimagha",
-        "ADM1_PCODE": "MR10",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR10"
       },
       "geometry": {
         "type": "Polygon",
@@ -3972,11 +3932,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tiris Zemmour",
-        "ADM1_PCODE": "MR11",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR11"
       },
       "geometry": {
         "type": "Polygon",
@@ -4084,11 +4040,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Inchiri",
-        "ADM1_PCODE": "MR12",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR12"
       },
       "geometry": {
         "type": "Polygon",
@@ -4188,11 +4140,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nouakchott Ouest",
-        "ADM1_PCODE": "MR13",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR13"
       },
       "geometry": {
         "type": "Polygon",
@@ -4252,11 +4200,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nouakchott Nord",
-        "ADM1_PCODE": "MR14",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR14"
       },
       "geometry": {
         "type": "Polygon",
@@ -4324,11 +4268,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nouakchott Sud",
-        "ADM1_PCODE": "MR15",
-        "ADM0_PCODE": "MR",
-        "ADM0_ISO_A2": "MR",
-        "ADM0_ISO_A3": "MRT",
-        "POPULATION": null
+        "ADM1_PCODE": "MR15"
       },
       "geometry": {
         "type": "Polygon",

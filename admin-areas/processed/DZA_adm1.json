@@ -12,11 +12,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Adrar",
-        "ADM1_PCODE": "DZ001",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ001"
       },
       "geometry": {
         "type": "Polygon",
@@ -496,11 +492,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ain-Defla",
-        "ADM1_PCODE": "DZ002",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ002"
       },
       "geometry": {
         "type": "Polygon",
@@ -852,11 +844,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ain-Temouchent",
-        "ADM1_PCODE": "DZ003",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ003"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2392,11 +2380,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Alger",
-        "ADM1_PCODE": "DZ004",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ004"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2948,11 +2932,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Annaba",
-        "ADM1_PCODE": "DZ005",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ005"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3744,11 +3724,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Batna",
-        "ADM1_PCODE": "DZ006",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ006"
       },
       "geometry": {
         "type": "Polygon",
@@ -4352,11 +4328,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bechar",
-        "ADM1_PCODE": "DZ007",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ007"
       },
       "geometry": {
         "type": "Polygon",
@@ -5060,11 +5032,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bejaia",
-        "ADM1_PCODE": "DZ008",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ008"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6480,11 +6448,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Biskra",
-        "ADM1_PCODE": "DZ009",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ009"
       },
       "geometry": {
         "type": "Polygon",
@@ -7156,11 +7120,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Blida",
-        "ADM1_PCODE": "DZ010",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ010"
       },
       "geometry": {
         "type": "Polygon",
@@ -7428,11 +7388,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bordj Bou Arrer",
-        "ADM1_PCODE": "DZ011",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ011"
       },
       "geometry": {
         "type": "Polygon",
@@ -7744,11 +7700,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bouira",
-        "ADM1_PCODE": "DZ012",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ012"
       },
       "geometry": {
         "type": "Polygon",
@@ -8048,11 +8000,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Boumerdes",
-        "ADM1_PCODE": "DZ013",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ013"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8324,11 +8272,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Chlef",
-        "ADM1_PCODE": "DZ014",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ014"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8964,11 +8908,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Constantine",
-        "ADM1_PCODE": "DZ015",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ015"
       },
       "geometry": {
         "type": "Polygon",
@@ -9228,11 +9168,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Djelfa",
-        "ADM1_PCODE": "DZ016",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ016"
       },
       "geometry": {
         "type": "Polygon",
@@ -9904,11 +9840,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "El Bayadh",
-        "ADM1_PCODE": "DZ017",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ017"
       },
       "geometry": {
         "type": "Polygon",
@@ -10384,11 +10316,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "El Oued",
-        "ADM1_PCODE": "DZ018",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ018"
       },
       "geometry": {
         "type": "Polygon",
@@ -10736,11 +10664,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "El-Tarf",
-        "ADM1_PCODE": "DZ019",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ019"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11440,11 +11364,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ghardaia",
-        "ADM1_PCODE": "DZ020",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ020"
       },
       "geometry": {
         "type": "Polygon",
@@ -11636,11 +11556,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Guelma",
-        "ADM1_PCODE": "DZ021",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ021"
       },
       "geometry": {
         "type": "Polygon",
@@ -11932,11 +11848,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Illizi",
-        "ADM1_PCODE": "DZ022",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ022"
       },
       "geometry": {
         "type": "Polygon",
@@ -12420,11 +12332,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Jijel",
-        "ADM1_PCODE": "DZ023",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ023"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13520,11 +13428,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Khenchela",
-        "ADM1_PCODE": "DZ024",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ024"
       },
       "geometry": {
         "type": "Polygon",
@@ -13940,11 +13844,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Laghouat",
-        "ADM1_PCODE": "DZ025",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ025"
       },
       "geometry": {
         "type": "Polygon",
@@ -14384,11 +14284,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mascara",
-        "ADM1_PCODE": "DZ026",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ026"
       },
       "geometry": {
         "type": "Polygon",
@@ -14800,11 +14696,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Medea",
-        "ADM1_PCODE": "DZ027",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ027"
       },
       "geometry": {
         "type": "Polygon",
@@ -15332,11 +15224,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mila",
-        "ADM1_PCODE": "DZ028",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ028"
       },
       "geometry": {
         "type": "Polygon",
@@ -15616,11 +15504,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mostaganem",
-        "ADM1_PCODE": "DZ029",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ029"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16012,11 +15896,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "M'Sila",
-        "ADM1_PCODE": "DZ030",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ030"
       },
       "geometry": {
         "type": "Polygon",
@@ -16704,11 +16584,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Naama",
-        "ADM1_PCODE": "DZ031",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ031"
       },
       "geometry": {
         "type": "Polygon",
@@ -17120,11 +16996,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Oran",
-        "ADM1_PCODE": "DZ032",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ032"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17920,11 +17792,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ouargla",
-        "ADM1_PCODE": "DZ033",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ033"
       },
       "geometry": {
         "type": "Polygon",
@@ -18140,11 +18008,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Oum El Bouaghi",
-        "ADM1_PCODE": "DZ034",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ034"
       },
       "geometry": {
         "type": "Polygon",
@@ -18568,11 +18432,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Relizane",
-        "ADM1_PCODE": "DZ035",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ035"
       },
       "geometry": {
         "type": "Polygon",
@@ -18964,11 +18824,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Saida",
-        "ADM1_PCODE": "DZ036",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ036"
       },
       "geometry": {
         "type": "Polygon",
@@ -19276,11 +19132,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Setif",
-        "ADM1_PCODE": "DZ037",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ037"
       },
       "geometry": {
         "type": "Polygon",
@@ -19780,11 +19632,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sidi Bel Abbes",
-        "ADM1_PCODE": "DZ038",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ038"
       },
       "geometry": {
         "type": "Polygon",
@@ -20308,11 +20156,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Skikda",
-        "ADM1_PCODE": "DZ039",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ039"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22400,11 +22244,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Souk-Ahras",
-        "ADM1_PCODE": "DZ040",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ040"
       },
       "geometry": {
         "type": "Polygon",
@@ -22712,11 +22552,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tamanrasset",
-        "ADM1_PCODE": "DZ041",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ041"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23288,11 +23124,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tebessa",
-        "ADM1_PCODE": "DZ042",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ042"
       },
       "geometry": {
         "type": "Polygon",
@@ -23732,11 +23564,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tiaret",
-        "ADM1_PCODE": "DZ043",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ043"
       },
       "geometry": {
         "type": "Polygon",
@@ -24240,11 +24068,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tindouf",
-        "ADM1_PCODE": "DZ044",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ044"
       },
       "geometry": {
         "type": "Polygon",
@@ -24528,11 +24352,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tipaza",
-        "ADM1_PCODE": "DZ045",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ045"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25236,11 +25056,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tissemsilt",
-        "ADM1_PCODE": "DZ046",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ046"
       },
       "geometry": {
         "type": "Polygon",
@@ -25556,11 +25372,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tizi Ouzou",
-        "ADM1_PCODE": "DZ047",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ047"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25896,11 +25708,7 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tlemcen",
-        "ADM1_PCODE": "DZ048",
-        "ADM0_PCODE": "DZ",
-        "ADM0_ISO_A2": "DZ",
-        "ADM0_ISO_A3": "DZA",
-        "POPULATION": null
+        "ADM1_PCODE": "DZ048"
       },
       "geometry": {
         "type": "MultiPolygon",
