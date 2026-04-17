@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "East",
-        "ADM1_PCODE": "LY01"
+        "ADM1_PCODE": "LY01",
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1696,7 +1700,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "West",
-        "ADM1_PCODE": "LY02"
+        "ADM1_PCODE": "LY02",
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3444,7 +3452,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South",
-        "ADM1_PCODE": "LY03"
+        "ADM1_PCODE": "LY03",
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

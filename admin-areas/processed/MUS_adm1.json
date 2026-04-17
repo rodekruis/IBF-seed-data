@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Port Louis",
-        "ADM1_PCODE": "MU11"
+        "ADM1_PCODE": "MU11",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92,7 +96,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Pamplemousses",
-        "ADM1_PCODE": "MU12"
+        "ADM1_PCODE": "MU12",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -192,7 +200,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Riviere du Rempart",
-        "ADM1_PCODE": "MU13"
+        "ADM1_PCODE": "MU13",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1888,7 +1900,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Flacq",
-        "ADM1_PCODE": "MU14"
+        "ADM1_PCODE": "MU14",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2732,7 +2748,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grand Port",
-        "ADM1_PCODE": "MU15"
+        "ADM1_PCODE": "MU15",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3184,7 +3204,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Savanne",
-        "ADM1_PCODE": "MU16"
+        "ADM1_PCODE": "MU16",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3248,7 +3272,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Plaine Wilhems",
-        "ADM1_PCODE": "MU17"
+        "ADM1_PCODE": "MU17",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3332,7 +3360,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Moka",
-        "ADM1_PCODE": "MU18"
+        "ADM1_PCODE": "MU18",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3404,7 +3436,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Black River",
-        "ADM1_PCODE": "MU19"
+        "ADM1_PCODE": "MU19",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3788,7 +3824,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Rodriguez Island",
-        "ADM1_PCODE": "MU21"
+        "ADM1_PCODE": "MU21",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4440,7 +4480,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North Islands",
-        "ADM1_PCODE": "MU22"
+        "ADM1_PCODE": "MU22",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4500,7 +4544,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Saint Brandon Islands",
-        "ADM1_PCODE": "MU23"
+        "ADM1_PCODE": "MU23",
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

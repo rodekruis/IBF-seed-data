@@ -15,7 +15,10 @@
         "ADM2_PCODE": "GAB001001",
         "ADM1_PCODE": "GAB001",
         "ADM1_EN": "Estuaire",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -258,7 +261,10 @@
         "ADM2_PCODE": "GAB001002",
         "ADM1_PCODE": "GAB001",
         "ADM1_EN": "Estuaire",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -611,7 +617,10 @@
         "ADM2_PCODE": "GAB001003",
         "ADM1_PCODE": "GAB001",
         "ADM1_EN": "Estuaire",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -882,7 +891,10 @@
         "ADM2_PCODE": "GAB001004",
         "ADM1_PCODE": "GAB001",
         "ADM1_EN": "Estuaire",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -941,7 +953,10 @@
         "ADM2_PCODE": "GAB002001",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1072,7 +1087,10 @@
         "ADM2_PCODE": "GAB002002",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1163,7 +1181,10 @@
         "ADM2_PCODE": "GAB002003",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1326,7 +1347,10 @@
         "ADM2_PCODE": "GAB002004",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1425,7 +1449,10 @@
         "ADM2_PCODE": "GAB002005",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1584,7 +1611,10 @@
         "ADM2_PCODE": "GAB002006",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1643,7 +1673,10 @@
         "ADM2_PCODE": "GAB002007",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1814,7 +1847,10 @@
         "ADM2_PCODE": "GAB002008",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2057,7 +2093,10 @@
         "ADM2_PCODE": "GAB002009",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2432,7 +2471,10 @@
         "ADM2_PCODE": "GAB002010",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2695,7 +2737,10 @@
         "ADM2_PCODE": "GAB002011",
         "ADM1_PCODE": "GAB002",
         "ADM1_EN": "Haut-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2814,7 +2859,10 @@
         "ADM2_PCODE": "GAB003001",
         "ADM1_PCODE": "GAB003",
         "ADM1_EN": "Moyen-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3013,7 +3061,10 @@
         "ADM2_PCODE": "GAB003002",
         "ADM1_PCODE": "GAB003",
         "ADM1_EN": "Moyen-Ogooue",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3264,7 +3315,10 @@
         "ADM2_PCODE": "GAB004001",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3439,7 +3493,10 @@
         "ADM2_PCODE": "GAB004002",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3806,7 +3863,10 @@
         "ADM2_PCODE": "GAB004003",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3977,7 +4037,10 @@
         "ADM2_PCODE": "GAB004004",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4208,7 +4271,10 @@
         "ADM2_PCODE": "GAB004005",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4327,7 +4393,10 @@
         "ADM2_PCODE": "GAB004006",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4526,7 +4595,10 @@
         "ADM2_PCODE": "GAB004007",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4725,7 +4797,10 @@
         "ADM2_PCODE": "GAB004008",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5032,7 +5107,10 @@
         "ADM2_PCODE": "GAB004009",
         "ADM1_PCODE": "GAB004",
         "ADM1_EN": "Ngounie",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5139,7 +5217,10 @@
         "ADM2_PCODE": "GAB005001",
         "ADM1_PCODE": "GAB005",
         "ADM1_EN": "Nyanga",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5322,7 +5403,10 @@
         "ADM2_PCODE": "GAB005002",
         "ADM1_PCODE": "GAB005",
         "ADM1_EN": "Nyanga",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5429,7 +5513,10 @@
         "ADM2_PCODE": "GAB005003",
         "ADM1_PCODE": "GAB005",
         "ADM1_EN": "Nyanga",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5584,7 +5671,10 @@
         "ADM2_PCODE": "GAB005004",
         "ADM1_PCODE": "GAB005",
         "ADM1_EN": "Nyanga",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5687,7 +5777,10 @@
         "ADM2_PCODE": "GAB005005",
         "ADM1_PCODE": "GAB005",
         "ADM1_EN": "Nyanga",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5842,7 +5935,10 @@
         "ADM2_PCODE": "GAB005006",
         "ADM1_PCODE": "GAB005",
         "ADM1_EN": "Nyanga",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6013,7 +6109,10 @@
         "ADM2_PCODE": "GAB006001",
         "ADM1_PCODE": "GAB006",
         "ADM1_EN": "Ogooue-Ivindo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6424,7 +6523,10 @@
         "ADM2_PCODE": "GAB006002",
         "ADM1_PCODE": "GAB006",
         "ADM1_EN": "Ogooue-Ivindo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6599,7 +6701,10 @@
         "ADM2_PCODE": "GAB006003",
         "ADM1_PCODE": "GAB006",
         "ADM1_EN": "Ogooue-Ivindo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6766,7 +6871,10 @@
         "ADM2_PCODE": "GAB006004",
         "ADM1_PCODE": "GAB006",
         "ADM1_EN": "Ogooue-Ivindo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7029,7 +7137,10 @@
         "ADM2_PCODE": "GAB007001",
         "ADM1_PCODE": "GAB007",
         "ADM1_EN": "Ogooue-Lolo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7312,7 +7423,10 @@
         "ADM2_PCODE": "GAB007002",
         "ADM1_PCODE": "GAB007",
         "ADM1_EN": "Ogooue-Lolo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7507,7 +7621,10 @@
         "ADM2_PCODE": "GAB007003",
         "ADM1_PCODE": "GAB007",
         "ADM1_EN": "Ogooue-Lolo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7874,7 +7991,10 @@
         "ADM2_PCODE": "GAB007004",
         "ADM1_PCODE": "GAB007",
         "ADM1_EN": "Ogooue-Lolo",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8025,7 +8145,10 @@
         "ADM2_PCODE": "GAB008001",
         "ADM1_PCODE": "GAB008",
         "ADM1_EN": "Ogooue-Maritime",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8908,7 +9031,10 @@
         "ADM2_PCODE": "GAB008002",
         "ADM1_PCODE": "GAB008",
         "ADM1_EN": "Ogooue-Maritime",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9199,7 +9325,10 @@
         "ADM2_PCODE": "GAB008003",
         "ADM1_PCODE": "GAB008",
         "ADM1_EN": "Ogooue-Maritime",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9358,7 +9487,10 @@
         "ADM2_PCODE": "GAB009001",
         "ADM1_PCODE": "GAB009",
         "ADM1_EN": "Woleu-Ntem",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9453,7 +9585,10 @@
         "ADM2_PCODE": "GAB009002",
         "ADM1_PCODE": "GAB009",
         "ADM1_EN": "Woleu-Ntem",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9820,7 +9955,10 @@
         "ADM2_PCODE": "GAB009003",
         "ADM1_PCODE": "GAB009",
         "ADM1_EN": "Woleu-Ntem",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9939,7 +10077,10 @@
         "ADM2_PCODE": "GAB009004",
         "ADM1_PCODE": "GAB009",
         "ADM1_EN": "Woleu-Ntem",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10094,7 +10235,10 @@
         "ADM2_PCODE": "GAB009005",
         "ADM1_PCODE": "GAB009",
         "ADM1_EN": "Woleu-Ntem",
-        "ADM0_PCODE": "GA"
+        "ADM0_PCODE": "GA",
+        "ADM0_ISO_A2": "GA",
+        "ADM0_ISO_A3": "GAB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

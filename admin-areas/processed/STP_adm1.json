@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Príncipe",
-        "ADM1_PCODE": "ST01"
+        "ADM1_PCODE": "ST01",
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -408,7 +412,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "São Tomé",
-        "ADM1_PCODE": "ST02"
+        "ADM1_PCODE": "ST02",
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

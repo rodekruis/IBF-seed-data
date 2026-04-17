@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kigali City",
-        "ADM1_PCODE": "RW1"
+        "ADM1_PCODE": "RW1",
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -124,7 +128,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Southern Province",
-        "ADM1_PCODE": "RW2"
+        "ADM1_PCODE": "RW2",
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -416,7 +424,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Western Province",
-        "ADM1_PCODE": "RW3"
+        "ADM1_PCODE": "RW3",
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -708,7 +720,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Northern Province",
-        "ADM1_PCODE": "RW4"
+        "ADM1_PCODE": "RW4",
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -916,7 +932,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Eastern Province",
-        "ADM1_PCODE": "RW5"
+        "ADM1_PCODE": "RW5",
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

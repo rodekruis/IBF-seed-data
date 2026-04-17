@@ -15,7 +15,10 @@
         "ADM2_PCODE": "ZA101",
         "ADM1_PCODE": "ZA1",
         "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1562,7 +1565,10 @@
         "ADM2_PCODE": "ZA102",
         "ADM1_PCODE": "ZA1",
         "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2293,7 +2299,10 @@
         "ADM2_PCODE": "ZA103",
         "ADM1_PCODE": "ZA1",
         "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2968,7 +2977,10 @@
         "ADM2_PCODE": "ZA104",
         "ADM1_PCODE": "ZA1",
         "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3487,7 +3499,10 @@
         "ADM2_PCODE": "ZA105",
         "ADM1_PCODE": "ZA1",
         "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4314,7 +4329,10 @@
         "ADM2_PCODE": "ZA191",
         "ADM1_PCODE": "ZA1",
         "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5305,7 +5323,10 @@
         "ADM2_PCODE": "ZA210",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6680,7 +6701,10 @@
         "ADM2_PCODE": "ZA212",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8043,7 +8067,10 @@
         "ADM2_PCODE": "ZA213",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9246,7 +9273,10 @@
         "ADM2_PCODE": "ZA214",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10333,7 +10363,10 @@
         "ADM2_PCODE": "ZA215",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11196,7 +11229,10 @@
         "ADM2_PCODE": "ZA244",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -12039,7 +12075,10 @@
         "ADM2_PCODE": "ZA292",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -12382,7 +12421,10 @@
         "ADM2_PCODE": "ZA293",
         "ADM1_PCODE": "ZA2",
         "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12709,7 +12751,10 @@
         "ADM2_PCODE": "ZA306",
         "ADM1_PCODE": "ZA3",
         "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14232,7 +14277,10 @@
         "ADM2_PCODE": "ZA307",
         "ADM1_PCODE": "ZA3",
         "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -15319,7 +15367,10 @@
         "ADM2_PCODE": "ZA308",
         "ADM1_PCODE": "ZA3",
         "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -16398,7 +16449,10 @@
         "ADM2_PCODE": "ZA309",
         "ADM1_PCODE": "ZA3",
         "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -16785,7 +16839,10 @@
         "ADM2_PCODE": "ZA345",
         "ADM1_PCODE": "ZA3",
         "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -17248,7 +17305,10 @@
         "ADM2_PCODE": "ZA416",
         "ADM1_PCODE": "ZA4",
         "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -18131,7 +18191,10 @@
         "ADM2_PCODE": "ZA418",
         "ADM1_PCODE": "ZA4",
         "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -19030,7 +19093,10 @@
         "ADM2_PCODE": "ZA419",
         "ADM1_PCODE": "ZA4",
         "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -20221,7 +20287,10 @@
         "ADM2_PCODE": "ZA420",
         "ADM1_PCODE": "ZA4",
         "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -21132,7 +21201,10 @@
         "ADM2_PCODE": "ZA494",
         "ADM1_PCODE": "ZA4",
         "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -21799,7 +21871,10 @@
         "ADM2_PCODE": "ZA521",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22222,7 +22297,10 @@
         "ADM2_PCODE": "ZA522",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22897,7 +22975,10 @@
         "ADM2_PCODE": "ZA523",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -23344,7 +23425,10 @@
         "ADM2_PCODE": "ZA524",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -23975,7 +24059,10 @@
         "ADM2_PCODE": "ZA525",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -24338,7 +24425,10 @@
         "ADM2_PCODE": "ZA526",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -24849,7 +24939,10 @@
         "ADM2_PCODE": "ZA527",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -25120,7 +25213,10 @@
         "ADM2_PCODE": "ZA528",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25707,7 +25803,10 @@
         "ADM2_PCODE": "ZA529",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -26078,7 +26177,10 @@
         "ADM2_PCODE": "ZA543",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -26649,7 +26751,10 @@
         "ADM2_PCODE": "ZA595",
         "ADM1_PCODE": "ZA5",
         "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -26908,7 +27013,10 @@
         "ADM2_PCODE": "ZA637",
         "ADM1_PCODE": "ZA6",
         "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -27483,7 +27591,10 @@
         "ADM2_PCODE": "ZA638",
         "ADM1_PCODE": "ZA6",
         "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -28046,7 +28157,10 @@
         "ADM2_PCODE": "ZA639",
         "ADM1_PCODE": "ZA6",
         "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -29037,7 +29151,10 @@
         "ADM2_PCODE": "ZA640",
         "ADM1_PCODE": "ZA6",
         "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -29664,7 +29781,10 @@
         "ADM2_PCODE": "ZA742",
         "ADM1_PCODE": "ZA7",
         "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30151,7 +30271,10 @@
         "ADM2_PCODE": "ZA748",
         "ADM1_PCODE": "ZA7",
         "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30446,7 +30569,10 @@
         "ADM2_PCODE": "ZA797",
         "ADM1_PCODE": "ZA7",
         "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30729,7 +30855,10 @@
         "ADM2_PCODE": "ZA798",
         "ADM1_PCODE": "ZA7",
         "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31048,7 +31177,10 @@
         "ADM2_PCODE": "ZA799",
         "ADM1_PCODE": "ZA7",
         "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31579,7 +31711,10 @@
         "ADM2_PCODE": "ZA830",
         "ADM1_PCODE": "ZA8",
         "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32450,7 +32585,10 @@
         "ADM2_PCODE": "ZA831",
         "ADM1_PCODE": "ZA8",
         "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -33329,7 +33467,10 @@
         "ADM2_PCODE": "ZA832",
         "ADM1_PCODE": "ZA8",
         "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -33900,7 +34041,10 @@
         "ADM2_PCODE": "ZA933",
         "ADM1_PCODE": "ZA9",
         "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -34459,7 +34603,10 @@
         "ADM2_PCODE": "ZA934",
         "ADM1_PCODE": "ZA9",
         "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35022,7 +35169,10 @@
         "ADM2_PCODE": "ZA935",
         "ADM1_PCODE": "ZA9",
         "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35837,7 +35987,10 @@
         "ADM2_PCODE": "ZA936",
         "ADM1_PCODE": "ZA9",
         "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -36804,7 +36957,10 @@
         "ADM2_PCODE": "ZA947",
         "ADM1_PCODE": "ZA9",
         "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA"
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

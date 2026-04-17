@@ -15,7 +15,10 @@
         "ADM2_PCODE": "LY0101",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -578,7 +581,10 @@
         "ADM2_PCODE": "LY0102",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -865,7 +871,10 @@
         "ADM2_PCODE": "LY0103",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1048,7 +1057,10 @@
         "ADM2_PCODE": "LY0104",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1539,7 +1551,10 @@
         "ADM2_PCODE": "LY0105",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1806,7 +1821,10 @@
         "ADM2_PCODE": "LY0106",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2337,7 +2355,10 @@
         "ADM2_PCODE": "LY0107",
         "ADM1_PCODE": "LY01",
         "ADM1_EN": "East",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2396,7 +2417,10 @@
         "ADM2_PCODE": "LY0208",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2719,7 +2743,10 @@
         "ADM2_PCODE": "LY0209",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2946,7 +2973,10 @@
         "ADM2_PCODE": "LY0210",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3321,7 +3351,10 @@
         "ADM2_PCODE": "LY0211",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3832,7 +3865,10 @@
         "ADM2_PCODE": "LY0212",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4015,7 +4051,10 @@
         "ADM2_PCODE": "LY0213",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4282,7 +4321,10 @@
         "ADM2_PCODE": "LY0214",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4641,7 +4683,10 @@
         "ADM2_PCODE": "LY0215",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5072,7 +5117,10 @@
         "ADM2_PCODE": "LY0216",
         "ADM1_PCODE": "LY02",
         "ADM1_EN": "West",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5311,7 +5359,10 @@
         "ADM2_PCODE": "LY0317",
         "ADM1_PCODE": "LY03",
         "ADM1_EN": "South",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5646,7 +5697,10 @@
         "ADM2_PCODE": "LY0318",
         "ADM1_PCODE": "LY03",
         "ADM1_EN": "South",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5853,7 +5907,10 @@
         "ADM2_PCODE": "LY0319",
         "ADM1_PCODE": "LY03",
         "ADM1_EN": "South",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5996,7 +6053,10 @@
         "ADM2_PCODE": "LY0320",
         "ADM1_PCODE": "LY03",
         "ADM1_EN": "South",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6147,7 +6207,10 @@
         "ADM2_PCODE": "LY0321",
         "ADM1_PCODE": "LY03",
         "ADM1_EN": "South",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6426,7 +6489,10 @@
         "ADM2_PCODE": "LY0322",
         "ADM1_PCODE": "LY03",
         "ADM1_EN": "South",
-        "ADM0_PCODE": "LY"
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

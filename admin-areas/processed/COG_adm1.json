@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bouenza",
-        "ADM1_PCODE": "CG01"
+        "ADM1_PCODE": "CG01",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -564,7 +568,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Brazzaville",
-        "ADM1_PCODE": "CG02"
+        "ADM1_PCODE": "CG02",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -624,7 +632,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cuvette",
-        "ADM1_PCODE": "CG03"
+        "ADM1_PCODE": "CG03",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1220,7 +1232,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cuvette-Ouest",
-        "ADM1_PCODE": "CG04"
+        "ADM1_PCODE": "CG04",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2044,7 +2060,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kouilou",
-        "ADM1_PCODE": "CG05"
+        "ADM1_PCODE": "CG05",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2408,7 +2428,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lekoumou",
-        "ADM1_PCODE": "CG06"
+        "ADM1_PCODE": "CG06",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3096,7 +3120,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Likouala",
-        "ADM1_PCODE": "CG07"
+        "ADM1_PCODE": "CG07",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3732,7 +3760,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Niari",
-        "ADM1_PCODE": "CG08"
+        "ADM1_PCODE": "CG08",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4640,7 +4672,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Plateaux",
-        "ADM1_PCODE": "CG09"
+        "ADM1_PCODE": "CG09",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5332,7 +5368,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Point-Noire",
-        "ADM1_PCODE": "CG10"
+        "ADM1_PCODE": "CG10",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5396,7 +5436,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Pool",
-        "ADM1_PCODE": "CG11"
+        "ADM1_PCODE": "CG11",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6024,7 +6068,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sangha",
-        "ADM1_PCODE": "CG12"
+        "ADM1_PCODE": "CG12",
+        "ADM0_PCODE": "CG",
+        "ADM0_ISO_A2": "CG",
+        "ADM0_ISO_A3": "COG",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

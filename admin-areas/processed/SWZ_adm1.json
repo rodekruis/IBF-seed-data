@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Hhohho",
-        "ADM1_PCODE": "SZ1"
+        "ADM1_PCODE": "SZ1",
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -184,7 +188,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Manzini",
-        "ADM1_PCODE": "SZ2"
+        "ADM1_PCODE": "SZ2",
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -480,7 +488,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Shiselweni",
-        "ADM1_PCODE": "SZ3"
+        "ADM1_PCODE": "SZ3",
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -760,7 +772,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Lubombo",
-        "ADM1_PCODE": "SZ4"
+        "ADM1_PCODE": "SZ4",
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

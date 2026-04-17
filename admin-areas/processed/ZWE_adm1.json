@@ -522,7 +522,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -1654,7 +1657,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -10822,7 +10828,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -17354,7 +17363,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -24878,7 +24890,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -34142,7 +34157,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -40594,7 +40612,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -49010,7 +49031,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -57322,7 +57346,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     },
     {
@@ -66526,7 +66553,10 @@
         "ADM0_PCODE": "ZW",
         "date": "2018-08-31",
         "validOn": "2018-09-11",
-        "validTo": null
+        "validTo": null,
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "POPULATION": null
       }
     }
   ]

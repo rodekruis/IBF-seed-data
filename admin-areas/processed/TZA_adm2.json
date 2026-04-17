@@ -15,7 +15,10 @@
         "ADM2_PCODE": "TZ0101",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194,7 +197,10 @@
         "ADM2_PCODE": "TZ0102",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -501,7 +507,10 @@
         "ADM2_PCODE": "TZ0103",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -668,7 +677,10 @@
         "ADM2_PCODE": "TZ0104",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1123,7 +1135,10 @@
         "ADM2_PCODE": "TZ0105",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1298,7 +1313,10 @@
         "ADM2_PCODE": "TZ0106",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1597,7 +1615,10 @@
         "ADM2_PCODE": "TZ0107",
         "ADM1_PCODE": "TZ01",
         "ADM1_EN": "Dodoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1844,7 +1865,10 @@
         "ADM2_PCODE": "TZ0201",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2145,7 +2169,10 @@
         "ADM2_PCODE": "TZ0202",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2286,7 +2313,10 @@
         "ADM2_PCODE": "TZ0203",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2365,7 +2395,10 @@
         "ADM2_PCODE": "TZ0204",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2596,7 +2629,10 @@
         "ADM2_PCODE": "TZ0205",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2791,7 +2827,10 @@
         "ADM2_PCODE": "TZ0206",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3048,7 +3087,10 @@
         "ADM2_PCODE": "TZ0207",
         "ADM1_PCODE": "TZ02",
         "ADM1_EN": "Arusha",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3253,7 +3295,10 @@
         "ADM2_PCODE": "TZ0301",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3328,7 +3373,10 @@
         "ADM2_PCODE": "TZ0302",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3451,7 +3499,10 @@
         "ADM2_PCODE": "TZ0303",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3618,7 +3669,10 @@
         "ADM2_PCODE": "TZ0304",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3785,7 +3839,10 @@
         "ADM2_PCODE": "TZ0305",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3938,7 +3995,10 @@
         "ADM2_PCODE": "TZ0306",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3993,7 +4053,10 @@
         "ADM2_PCODE": "TZ0307",
         "ADM1_PCODE": "TZ03",
         "ADM1_EN": "Kilimanjaro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4092,7 +4155,10 @@
         "ADM2_PCODE": "TZ0401",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4191,7 +4257,10 @@
         "ADM2_PCODE": "TZ0402",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4430,7 +4499,10 @@
         "ADM2_PCODE": "TZ0403",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4553,7 +4625,10 @@
         "ADM2_PCODE": "TZ0404",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4956,7 +5031,10 @@
         "ADM2_PCODE": "TZ0405",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5183,7 +5261,10 @@
         "ADM2_PCODE": "TZ0406",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5542,7 +5623,10 @@
         "ADM2_PCODE": "TZ0407",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5781,7 +5865,10 @@
         "ADM2_PCODE": "TZ0408",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6404,7 +6491,10 @@
         "ADM2_PCODE": "TZ0409",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6487,7 +6577,10 @@
         "ADM2_PCODE": "TZ0410",
         "ADM1_PCODE": "TZ04",
         "ADM1_EN": "Tanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6594,7 +6687,10 @@
         "ADM2_PCODE": "TZ0501",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7053,7 +7149,10 @@
         "ADM2_PCODE": "TZ0502",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7522,7 +7621,10 @@
         "ADM2_PCODE": "TZ0503",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8147,7 +8249,10 @@
         "ADM2_PCODE": "TZ0504",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8604,7 +8709,10 @@
         "ADM2_PCODE": "TZ0505",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8707,7 +8815,10 @@
         "ADM2_PCODE": "TZ0506",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9062,7 +9173,10 @@
         "ADM2_PCODE": "TZ0507",
         "ADM1_PCODE": "TZ05",
         "ADM1_EN": "Morogoro",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9261,7 +9375,10 @@
         "ADM2_PCODE": "TZ0601",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9698,7 +9815,10 @@
         "ADM2_PCODE": "TZ0602",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9929,7 +10049,10 @@
         "ADM2_PCODE": "TZ0603",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10226,7 +10349,10 @@
         "ADM2_PCODE": "TZ0604",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10769,7 +10895,10 @@
         "ADM2_PCODE": "TZ0605",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11044,7 +11173,10 @@
         "ADM2_PCODE": "TZ0606",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11739,7 +11871,10 @@
         "ADM2_PCODE": "TZ0607",
         "ADM1_PCODE": "TZ06",
         "ADM1_EN": "Pwani",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11882,7 +12017,10 @@
         "ADM2_PCODE": "TZ0701",
         "ADM1_PCODE": "TZ07",
         "ADM1_EN": "Dar-es-salaam",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12073,7 +12211,10 @@
         "ADM2_PCODE": "TZ0702",
         "ADM1_PCODE": "TZ07",
         "ADM1_EN": "Dar-es-salaam",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12228,7 +12369,10 @@
         "ADM2_PCODE": "TZ0703",
         "ADM1_PCODE": "TZ07",
         "ADM1_EN": "Dar-es-salaam",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12793,7 +12937,10 @@
         "ADM2_PCODE": "TZ0801",
         "ADM1_PCODE": "TZ08",
         "ADM1_EN": "Lindi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14002,7 +14149,10 @@
         "ADM2_PCODE": "TZ0802",
         "ADM1_PCODE": "TZ08",
         "ADM1_EN": "Lindi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14773,7 +14923,10 @@
         "ADM2_PCODE": "TZ0803",
         "ADM1_PCODE": "TZ08",
         "ADM1_EN": "Lindi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -15000,7 +15153,10 @@
         "ADM2_PCODE": "TZ0804",
         "ADM1_PCODE": "TZ08",
         "ADM1_EN": "Lindi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -15323,7 +15479,10 @@
         "ADM2_PCODE": "TZ0805",
         "ADM1_PCODE": "TZ08",
         "ADM1_EN": "Lindi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -15506,7 +15665,10 @@
         "ADM2_PCODE": "TZ0806",
         "ADM1_PCODE": "TZ08",
         "ADM1_EN": "Lindi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15713,7 +15875,10 @@
         "ADM2_PCODE": "TZ0901",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16172,7 +16337,10 @@
         "ADM2_PCODE": "TZ0902",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -16331,7 +16499,10 @@
         "ADM2_PCODE": "TZ0903",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16610,7 +16781,10 @@
         "ADM2_PCODE": "TZ0904",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -16765,7 +16939,10 @@
         "ADM2_PCODE": "TZ0905",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17036,7 +17213,10 @@
         "ADM2_PCODE": "TZ0906",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -17223,7 +17403,10 @@
         "ADM2_PCODE": "TZ0907",
         "ADM1_PCODE": "TZ09",
         "ADM1_EN": "Mtwara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -17346,7 +17529,10 @@
         "ADM2_PCODE": "TZ1001",
         "ADM1_PCODE": "TZ10",
         "ADM1_EN": "Ruvuma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -17669,7 +17855,10 @@
         "ADM2_PCODE": "TZ1002",
         "ADM1_PCODE": "TZ10",
         "ADM1_EN": "Ruvuma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -18304,7 +18493,10 @@
         "ADM2_PCODE": "TZ1003",
         "ADM1_PCODE": "TZ10",
         "ADM1_EN": "Ruvuma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18739,7 +18931,10 @@
         "ADM2_PCODE": "TZ1004",
         "ADM1_PCODE": "TZ10",
         "ADM1_EN": "Ruvuma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -18846,7 +19041,10 @@
         "ADM2_PCODE": "TZ1005",
         "ADM1_PCODE": "TZ10",
         "ADM1_EN": "Ruvuma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -19381,7 +19579,10 @@
         "ADM2_PCODE": "TZ1006",
         "ADM1_PCODE": "TZ10",
         "ADM1_EN": "Ruvuma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19744,7 +19945,10 @@
         "ADM2_PCODE": "TZ1101",
         "ADM1_PCODE": "TZ11",
         "ADM1_EN": "Iringa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -20063,7 +20267,10 @@
         "ADM2_PCODE": "TZ1102",
         "ADM1_PCODE": "TZ11",
         "ADM1_EN": "Iringa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -20440,7 +20647,10 @@
         "ADM2_PCODE": "TZ1103",
         "ADM1_PCODE": "TZ11",
         "ADM1_EN": "Iringa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -20527,7 +20737,10 @@
         "ADM2_PCODE": "TZ1104",
         "ADM1_PCODE": "TZ11",
         "ADM1_EN": "Iringa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -20738,7 +20951,10 @@
         "ADM2_PCODE": "TZ1105",
         "ADM1_PCODE": "TZ11",
         "ADM1_EN": "Iringa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -20841,7 +21057,10 @@
         "ADM2_PCODE": "TZ1201",
         "ADM1_PCODE": "TZ12",
         "ADM1_EN": "Mbeya",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -21156,7 +21375,10 @@
         "ADM2_PCODE": "TZ1202",
         "ADM1_PCODE": "TZ12",
         "ADM1_EN": "Mbeya",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -21471,7 +21693,10 @@
         "ADM2_PCODE": "TZ1203",
         "ADM1_PCODE": "TZ12",
         "ADM1_EN": "Mbeya",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -21614,7 +21839,10 @@
         "ADM2_PCODE": "TZ1204",
         "ADM1_PCODE": "TZ12",
         "ADM1_EN": "Mbeya",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -21769,7 +21997,10 @@
         "ADM2_PCODE": "TZ1207",
         "ADM1_PCODE": "TZ12",
         "ADM1_EN": "Mbeya",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22000,7 +22231,10 @@
         "ADM2_PCODE": "TZ1208",
         "ADM1_PCODE": "TZ12",
         "ADM1_EN": "Mbeya",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22107,7 +22341,10 @@
         "ADM2_PCODE": "TZ1301",
         "ADM1_PCODE": "TZ13",
         "ADM1_EN": "Singida",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22250,7 +22487,10 @@
         "ADM2_PCODE": "TZ1302",
         "ADM1_PCODE": "TZ13",
         "ADM1_EN": "Singida",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22413,7 +22653,10 @@
         "ADM2_PCODE": "TZ1303",
         "ADM1_PCODE": "TZ13",
         "ADM1_EN": "Singida",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22780,7 +23023,10 @@
         "ADM2_PCODE": "TZ1304",
         "ADM1_PCODE": "TZ13",
         "ADM1_EN": "Singida",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22887,7 +23133,10 @@
         "ADM2_PCODE": "TZ1305",
         "ADM1_PCODE": "TZ13",
         "ADM1_EN": "Singida",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -23146,7 +23395,10 @@
         "ADM2_PCODE": "TZ1306",
         "ADM1_PCODE": "TZ13",
         "ADM1_EN": "Singida",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -23359,7 +23611,10 @@
         "ADM2_PCODE": "TZ1401",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23646,7 +23901,10 @@
         "ADM2_PCODE": "TZ1402",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -23825,7 +24083,10 @@
         "ADM2_PCODE": "TZ1403",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -24292,7 +24553,10 @@
         "ADM2_PCODE": "TZ1404",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -24483,7 +24747,10 @@
         "ADM2_PCODE": "TZ1405",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -24866,7 +25133,10 @@
         "ADM2_PCODE": "TZ1406",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -24989,7 +25259,10 @@
         "ADM2_PCODE": "TZ1407",
         "ADM1_PCODE": "TZ14",
         "ADM1_EN": "Tabora",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -25428,7 +25701,10 @@
         "ADM2_PCODE": "TZ1501",
         "ADM1_PCODE": "TZ15",
         "ADM1_EN": "Rukwa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -25707,7 +25983,10 @@
         "ADM2_PCODE": "TZ1502",
         "ADM1_PCODE": "TZ15",
         "ADM1_EN": "Rukwa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -26014,7 +26293,10 @@
         "ADM2_PCODE": "TZ1503",
         "ADM1_PCODE": "TZ15",
         "ADM1_EN": "Rukwa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -26197,7 +26479,10 @@
         "ADM2_PCODE": "TZ1504",
         "ADM1_PCODE": "TZ15",
         "ADM1_EN": "Rukwa",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -26336,7 +26621,10 @@
         "ADM2_PCODE": "TZ1601",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26835,7 +27123,10 @@
         "ADM2_PCODE": "TZ1602",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -27286,7 +27577,10 @@
         "ADM2_PCODE": "TZ1603",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -27457,7 +27751,10 @@
         "ADM2_PCODE": "TZ1604",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -27532,7 +27829,10 @@
         "ADM2_PCODE": "TZ1605",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -27963,7 +28263,10 @@
         "ADM2_PCODE": "TZ1606",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -28150,7 +28453,10 @@
         "ADM2_PCODE": "TZ1607",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28369,7 +28675,10 @@
         "ADM2_PCODE": "TZ1608",
         "ADM1_PCODE": "TZ16",
         "ADM1_EN": "Kigoma",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -28488,7 +28797,10 @@
         "ADM2_PCODE": "TZ1701",
         "ADM1_PCODE": "TZ17",
         "ADM1_EN": "Shinyanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -28583,7 +28895,10 @@
         "ADM2_PCODE": "TZ1702",
         "ADM1_PCODE": "TZ17",
         "ADM1_EN": "Shinyanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -28842,7 +29157,10 @@
         "ADM2_PCODE": "TZ1703",
         "ADM1_PCODE": "TZ17",
         "ADM1_EN": "Shinyanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29093,7 +29411,10 @@
         "ADM2_PCODE": "TZ1704",
         "ADM1_PCODE": "TZ17",
         "ADM1_EN": "Shinyanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29510,7 +29831,10 @@
         "ADM2_PCODE": "TZ1705",
         "ADM1_PCODE": "TZ17",
         "ADM1_EN": "Shinyanga",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -29665,7 +29989,10 @@
         "ADM2_PCODE": "TZ1801",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -29916,7 +30243,10 @@
         "ADM2_PCODE": "TZ1802",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30171,7 +30501,10 @@
         "ADM2_PCODE": "TZ1803",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30406,7 +30739,10 @@
         "ADM2_PCODE": "TZ1804",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30689,7 +31025,10 @@
         "ADM2_PCODE": "TZ1805",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30868,7 +31207,10 @@
         "ADM2_PCODE": "TZ1806",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -30935,7 +31277,10 @@
         "ADM2_PCODE": "TZ1807",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31162,7 +31507,10 @@
         "ADM2_PCODE": "TZ1808",
         "ADM1_PCODE": "TZ18",
         "ADM1_EN": "Kagera",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31317,7 +31665,10 @@
         "ADM2_PCODE": "TZ1901",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31432,7 +31783,10 @@
         "ADM2_PCODE": "TZ1902",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31599,7 +31953,10 @@
         "ADM2_PCODE": "TZ1903",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31674,7 +32031,10 @@
         "ADM2_PCODE": "TZ1904",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -31909,7 +32269,10 @@
         "ADM2_PCODE": "TZ1905",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32112,7 +32475,10 @@
         "ADM2_PCODE": "TZ1906",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32211,7 +32577,10 @@
         "ADM2_PCODE": "TZ1907",
         "ADM1_PCODE": "TZ19",
         "ADM1_EN": "Mwanza",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32434,7 +32803,10 @@
         "ADM2_PCODE": "TZ2001",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32593,7 +32965,10 @@
         "ADM2_PCODE": "TZ2002",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32772,7 +33147,10 @@
         "ADM2_PCODE": "TZ2003",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -32907,7 +33285,10 @@
         "ADM2_PCODE": "TZ2004",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -33114,7 +33495,10 @@
         "ADM2_PCODE": "TZ2005",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -33169,7 +33553,10 @@
         "ADM2_PCODE": "TZ2006",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33352,7 +33739,10 @@
         "ADM2_PCODE": "TZ2007",
         "ADM1_PCODE": "TZ20",
         "ADM1_EN": "Mara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -33545,7 +33935,10 @@
         "ADM2_PCODE": "TZ2101",
         "ADM1_PCODE": "TZ21",
         "ADM1_EN": "Manyara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -33794,7 +34187,10 @@
         "ADM2_PCODE": "TZ2102",
         "ADM1_PCODE": "TZ21",
         "ADM1_EN": "Manyara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33979,7 +34375,10 @@
         "ADM2_PCODE": "TZ2103",
         "ADM1_PCODE": "TZ21",
         "ADM1_EN": "Manyara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34166,7 +34565,10 @@
         "ADM2_PCODE": "TZ2104",
         "ADM1_PCODE": "TZ21",
         "ADM1_EN": "Manyara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -34501,7 +34903,10 @@
         "ADM2_PCODE": "TZ2105",
         "ADM1_PCODE": "TZ21",
         "ADM1_EN": "Manyara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -34724,7 +35129,10 @@
         "ADM2_PCODE": "TZ2106",
         "ADM1_PCODE": "TZ21",
         "ADM1_EN": "Manyara",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -34807,7 +35215,10 @@
         "ADM2_PCODE": "TZ2201",
         "ADM1_PCODE": "TZ22",
         "ADM1_EN": "Njombe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -34986,7 +35397,10 @@
         "ADM2_PCODE": "TZ2202",
         "ADM1_PCODE": "TZ22",
         "ADM1_EN": "Njombe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35189,7 +35603,10 @@
         "ADM2_PCODE": "TZ2203",
         "ADM1_PCODE": "TZ22",
         "ADM1_EN": "Njombe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35368,7 +35785,10 @@
         "ADM2_PCODE": "TZ2204",
         "ADM1_PCODE": "TZ22",
         "ADM1_EN": "Njombe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35527,7 +35947,10 @@
         "ADM2_PCODE": "TZ2205",
         "ADM1_PCODE": "TZ22",
         "ADM1_EN": "Njombe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35778,7 +36201,10 @@
         "ADM2_PCODE": "TZ2206",
         "ADM1_PCODE": "TZ22",
         "ADM1_EN": "Njombe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -35917,7 +36343,10 @@
         "ADM2_PCODE": "TZ2301",
         "ADM1_PCODE": "TZ23",
         "ADM1_EN": "Katavi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -36004,7 +36433,10 @@
         "ADM2_PCODE": "TZ2302",
         "ADM1_PCODE": "TZ23",
         "ADM1_EN": "Katavi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -36375,7 +36807,10 @@
         "ADM2_PCODE": "TZ2303",
         "ADM1_PCODE": "TZ23",
         "ADM1_EN": "Katavi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -36854,7 +37289,10 @@
         "ADM2_PCODE": "TZ2401",
         "ADM1_PCODE": "TZ24",
         "ADM1_EN": "Simiyu",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -37049,7 +37487,10 @@
         "ADM2_PCODE": "TZ2402",
         "ADM1_PCODE": "TZ24",
         "ADM1_EN": "Simiyu",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -37276,7 +37717,10 @@
         "ADM2_PCODE": "TZ2403",
         "ADM1_PCODE": "TZ24",
         "ADM1_EN": "Simiyu",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37503,7 +37947,10 @@
         "ADM2_PCODE": "TZ2404",
         "ADM1_PCODE": "TZ24",
         "ADM1_EN": "Simiyu",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -37756,7 +38203,10 @@
         "ADM2_PCODE": "TZ2405",
         "ADM1_PCODE": "TZ24",
         "ADM1_EN": "Simiyu",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -37875,7 +38325,10 @@
         "ADM2_PCODE": "TZ2501",
         "ADM1_PCODE": "TZ25",
         "ADM1_EN": "Geita",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -38166,7 +38619,10 @@
         "ADM2_PCODE": "TZ2502",
         "ADM1_PCODE": "TZ25",
         "ADM1_EN": "Geita",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -38301,7 +38757,10 @@
         "ADM2_PCODE": "TZ2503",
         "ADM1_PCODE": "TZ25",
         "ADM1_EN": "Geita",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -38476,7 +38935,10 @@
         "ADM2_PCODE": "TZ2504",
         "ADM1_PCODE": "TZ25",
         "ADM1_EN": "Geita",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38803,7 +39265,10 @@
         "ADM2_PCODE": "TZ2505",
         "ADM1_PCODE": "TZ25",
         "ADM1_EN": "Geita",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -39116,7 +39581,10 @@
         "ADM2_PCODE": "TZ2601",
         "ADM1_PCODE": "TZ26",
         "ADM1_EN": "Songwe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -39399,7 +39867,10 @@
         "ADM2_PCODE": "TZ2605",
         "ADM1_PCODE": "TZ26",
         "ADM1_EN": "Songwe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -39626,7 +40097,10 @@
         "ADM2_PCODE": "TZ2606",
         "ADM1_PCODE": "TZ26",
         "ADM1_EN": "Songwe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -39793,7 +40267,10 @@
         "ADM2_PCODE": "TZ2609",
         "ADM1_PCODE": "TZ26",
         "ADM1_EN": "Songwe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -40080,7 +40557,10 @@
         "ADM2_PCODE": "TZ2610",
         "ADM1_PCODE": "TZ26",
         "ADM1_EN": "Songwe",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -40147,7 +40627,10 @@
         "ADM2_PCODE": "TZ5101",
         "ADM1_PCODE": "TZ51",
         "ADM1_EN": "Kaskazini Unguja",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40430,7 +40913,10 @@
         "ADM2_PCODE": "TZ5102",
         "ADM1_PCODE": "TZ51",
         "ADM1_EN": "Kaskazini Unguja",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -40493,7 +40979,10 @@
         "ADM2_PCODE": "TZ5201",
         "ADM1_PCODE": "TZ52",
         "ADM1_EN": "Kusini Unguja",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40828,7 +41317,10 @@
         "ADM2_PCODE": "TZ5202",
         "ADM1_PCODE": "TZ52",
         "ADM1_EN": "Kusini Unguja",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -40903,7 +41395,10 @@
         "ADM2_PCODE": "TZ5301",
         "ADM1_PCODE": "TZ53",
         "ADM1_EN": "Mjini Magharibi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41562,7 +42057,10 @@
         "ADM2_PCODE": "TZ5302",
         "ADM1_PCODE": "TZ53",
         "ADM1_EN": "Mjini Magharibi",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41769,7 +42267,10 @@
         "ADM2_PCODE": "TZ5401",
         "ADM1_PCODE": "TZ54",
         "ADM1_EN": "Kaskazini Pemba",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42476,7 +42977,10 @@
         "ADM2_PCODE": "TZ5402",
         "ADM1_PCODE": "TZ54",
         "ADM1_EN": "Kaskazini Pemba",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42899,7 +43403,10 @@
         "ADM2_PCODE": "TZ5501",
         "ADM1_PCODE": "TZ55",
         "ADM1_EN": "Kusini Pemba",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43202,7 +43709,10 @@
         "ADM2_PCODE": "TZ5502",
         "ADM1_PCODE": "TZ55",
         "ADM1_EN": "Kusini Pemba",
-        "ADM0_PCODE": "TZ"
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kayes",
-        "ADM1_PCODE": "ML01"
+        "ADM1_PCODE": "ML01",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1416,7 +1420,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Koulikoro",
-        "ADM1_PCODE": "ML02"
+        "ADM1_PCODE": "ML02",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2622,7 +2630,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sikasso",
-        "ADM1_PCODE": "ML03"
+        "ADM1_PCODE": "ML03",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4086,7 +4098,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ségou",
-        "ADM1_PCODE": "ML04"
+        "ADM1_PCODE": "ML04",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4698,7 +4714,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mopti",
-        "ADM1_PCODE": "ML05"
+        "ADM1_PCODE": "ML05",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5362,7 +5382,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tombouctou",
-        "ADM1_PCODE": "ML06"
+        "ADM1_PCODE": "ML06",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5834,7 +5858,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gao",
-        "ADM1_PCODE": "ML07"
+        "ADM1_PCODE": "ML07",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6130,7 +6158,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kidal",
-        "ADM1_PCODE": "ML08"
+        "ADM1_PCODE": "ML08",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6522,7 +6554,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bamako",
-        "ADM1_PCODE": "ML09"
+        "ADM1_PCODE": "ML09",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6606,7 +6642,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Menaka",
-        "ADM1_PCODE": "ML10"
+        "ADM1_PCODE": "ML10",
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

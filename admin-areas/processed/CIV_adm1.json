@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "District Autonome D'Abidjan",
-        "ADM1_PCODE": "CI01"
+        "ADM1_PCODE": "CI01",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -152,7 +156,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "District Autonome De Yamoussoukro",
-        "ADM1_PCODE": "CI02"
+        "ADM1_PCODE": "CI02",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -288,7 +296,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Agneby-Tiassa",
-        "ADM1_PCODE": "CI03"
+        "ADM1_PCODE": "CI03",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -524,7 +536,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bafing",
-        "ADM1_PCODE": "CI04"
+        "ADM1_PCODE": "CI04",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1000,7 +1016,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bagoue",
-        "ADM1_PCODE": "CI05"
+        "ADM1_PCODE": "CI05",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1540,7 +1560,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Belier",
-        "ADM1_PCODE": "CI06"
+        "ADM1_PCODE": "CI06",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2016,7 +2040,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bere",
-        "ADM1_PCODE": "CI07"
+        "ADM1_PCODE": "CI07",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2508,7 +2536,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bounkani",
-        "ADM1_PCODE": "CI08"
+        "ADM1_PCODE": "CI08",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3008,7 +3040,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cavally",
-        "ADM1_PCODE": "CI09"
+        "ADM1_PCODE": "CI09",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3544,7 +3580,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Folon",
-        "ADM1_PCODE": "CI10"
+        "ADM1_PCODE": "CI10",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3972,7 +4012,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gbeke",
-        "ADM1_PCODE": "CI11"
+        "ADM1_PCODE": "CI11",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4300,7 +4344,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gbokle",
-        "ADM1_PCODE": "CI12"
+        "ADM1_PCODE": "CI12",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4568,7 +4616,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Goh",
-        "ADM1_PCODE": "CI13"
+        "ADM1_PCODE": "CI13",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4820,7 +4872,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gontougo",
-        "ADM1_PCODE": "CI14"
+        "ADM1_PCODE": "CI14",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5232,7 +5288,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grands Ponts",
-        "ADM1_PCODE": "CI15"
+        "ADM1_PCODE": "CI15",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5444,7 +5504,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Guemon",
-        "ADM1_PCODE": "CI16"
+        "ADM1_PCODE": "CI16",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5732,7 +5796,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Hambol",
-        "ADM1_PCODE": "CI17"
+        "ADM1_PCODE": "CI17",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6328,7 +6396,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Haut-Sassandra",
-        "ADM1_PCODE": "CI18"
+        "ADM1_PCODE": "CI18",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6608,7 +6680,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Iffou",
-        "ADM1_PCODE": "CI19"
+        "ADM1_PCODE": "CI19",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6968,7 +7044,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Indenie-Djuablin",
-        "ADM1_PCODE": "CI20"
+        "ADM1_PCODE": "CI20",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7348,7 +7428,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kabadougou",
-        "ADM1_PCODE": "CI21"
+        "ADM1_PCODE": "CI21",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7852,7 +7936,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Loh-Djiboua",
-        "ADM1_PCODE": "CI22"
+        "ADM1_PCODE": "CI22",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8140,7 +8228,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Marahoue",
-        "ADM1_PCODE": "CI23"
+        "ADM1_PCODE": "CI23",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8440,7 +8532,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Me",
-        "ADM1_PCODE": "CI24"
+        "ADM1_PCODE": "CI24",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8852,7 +8948,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Moronou",
-        "ADM1_PCODE": "CI25"
+        "ADM1_PCODE": "CI25",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9172,7 +9272,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nawa",
-        "ADM1_PCODE": "CI26"
+        "ADM1_PCODE": "CI26",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9512,7 +9616,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "N'Zi",
-        "ADM1_PCODE": "CI27"
+        "ADM1_PCODE": "CI27",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9800,7 +9908,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Poro",
-        "ADM1_PCODE": "CI28"
+        "ADM1_PCODE": "CI28",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10416,7 +10528,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "San Pedro",
-        "ADM1_PCODE": "CI29"
+        "ADM1_PCODE": "CI29",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10984,7 +11100,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sud-Comoe",
-        "ADM1_PCODE": "CI30"
+        "ADM1_PCODE": "CI30",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11304,7 +11424,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tchologo",
-        "ADM1_PCODE": "CI31"
+        "ADM1_PCODE": "CI31",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -12052,7 +12176,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tonkpi",
-        "ADM1_PCODE": "CI32"
+        "ADM1_PCODE": "CI32",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12612,7 +12740,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Worodougou",
-        "ADM1_PCODE": "CI33"
+        "ADM1_PCODE": "CI33",
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

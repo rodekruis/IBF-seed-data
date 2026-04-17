@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centrale",
-        "ADM1_PCODE": "TG01"
+        "ADM1_PCODE": "TG01",
+        "ADM0_PCODE": "TG",
+        "ADM0_ISO_A2": "TG",
+        "ADM0_ISO_A3": "TGO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -356,7 +360,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kara",
-        "ADM1_PCODE": "TG02"
+        "ADM1_PCODE": "TG02",
+        "ADM0_PCODE": "TG",
+        "ADM0_ISO_A2": "TG",
+        "ADM0_ISO_A3": "TGO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -740,7 +748,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maritime",
-        "ADM1_PCODE": "TG03"
+        "ADM1_PCODE": "TG03",
+        "ADM0_PCODE": "TG",
+        "ADM0_ISO_A2": "TG",
+        "ADM0_ISO_A3": "TGO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1000,7 +1012,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Plateaux",
-        "ADM1_PCODE": "TG04"
+        "ADM1_PCODE": "TG04",
+        "ADM0_PCODE": "TG",
+        "ADM0_ISO_A2": "TG",
+        "ADM0_ISO_A3": "TGO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1352,7 +1368,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Savanes",
-        "ADM1_PCODE": "TG05"
+        "ADM1_PCODE": "TG05",
+        "ADM0_PCODE": "TG",
+        "ADM0_ISO_A2": "TG",
+        "ADM0_ISO_A3": "TGO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

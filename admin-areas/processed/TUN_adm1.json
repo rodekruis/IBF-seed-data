@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North East",
-        "ADM1_PCODE": "TN1"
+        "ADM1_PCODE": "TN1",
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2868,7 +2872,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North West",
-        "ADM1_PCODE": "TN2"
+        "ADM1_PCODE": "TN2",
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3616,7 +3624,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre East",
-        "ADM1_PCODE": "TN3"
+        "ADM1_PCODE": "TN3",
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5752,7 +5764,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre West",
-        "ADM1_PCODE": "TN4"
+        "ADM1_PCODE": "TN4",
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6432,7 +6448,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South East",
-        "ADM1_PCODE": "TN5"
+        "ADM1_PCODE": "TN5",
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8556,7 +8576,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South West",
-        "ADM1_PCODE": "TN6"
+        "ADM1_PCODE": "TN6",
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

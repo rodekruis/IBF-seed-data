@@ -16,6 +16,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -61,6 +64,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -110,6 +116,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -151,6 +160,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -192,6 +204,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -245,6 +260,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -286,6 +304,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -327,6 +348,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -368,6 +392,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -409,6 +436,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW11",
         "ADM2_EN": "Nyarugenge"
       },
@@ -450,6 +480,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -511,6 +544,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -552,6 +588,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -601,6 +640,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -642,6 +684,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -683,6 +728,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -732,6 +780,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -773,6 +824,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -814,6 +868,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -855,6 +912,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -896,6 +956,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -957,6 +1020,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -1010,6 +1076,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -1055,6 +1124,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -1112,6 +1184,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW12",
         "ADM2_EN": "Gasabo"
       },
@@ -1157,6 +1232,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1202,6 +1280,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1243,6 +1324,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1284,6 +1368,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1325,6 +1412,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1370,6 +1460,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1411,6 +1504,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1452,6 +1548,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1501,6 +1600,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1542,6 +1644,9 @@
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW13",
         "ADM2_EN": "Kicukiro"
       },
@@ -1591,6 +1696,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1644,6 +1752,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1693,6 +1804,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1738,6 +1852,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1791,6 +1908,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1852,6 +1972,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1921,6 +2044,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -1982,6 +2108,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -2047,6 +2176,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -2104,6 +2236,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW21",
         "ADM2_EN": "Nyanza"
       },
@@ -2161,6 +2296,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2210,6 +2348,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2259,6 +2400,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2308,6 +2452,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2361,6 +2508,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2470,6 +2620,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2519,6 +2672,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2584,6 +2740,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2633,6 +2792,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2686,6 +2848,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2747,6 +2912,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2800,6 +2968,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2849,6 +3020,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW22",
         "ADM2_EN": "Gisagara"
       },
@@ -2906,6 +3080,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -2959,6 +3136,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3020,6 +3200,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3093,6 +3276,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3162,6 +3348,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3227,6 +3416,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3292,6 +3484,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3337,6 +3532,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3394,6 +3592,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3435,6 +3636,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3508,6 +3712,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3553,6 +3760,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3618,6 +3828,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3667,6 +3880,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW23",
         "ADM2_EN": "Nyaruguru"
       },
@@ -3740,6 +3956,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -3785,6 +4004,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -3838,6 +4060,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -3895,6 +4120,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -3944,6 +4172,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4005,6 +4236,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4058,6 +4292,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4107,6 +4344,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4152,6 +4392,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4193,6 +4436,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4262,6 +4508,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4315,6 +4564,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4372,6 +4624,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4413,6 +4668,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW24",
         "ADM2_EN": "Huye"
       },
@@ -4470,6 +4728,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4543,6 +4804,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4592,6 +4856,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4657,6 +4924,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4722,6 +4992,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4787,6 +5060,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4844,6 +5120,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4909,6 +5188,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -4970,6 +5252,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5051,6 +5336,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5100,6 +5388,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5157,6 +5448,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5210,6 +5504,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5271,6 +5568,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5320,6 +5620,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5381,6 +5684,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5434,6 +5740,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW25",
         "ADM2_EN": "Nyamagabe"
       },
@@ -5511,6 +5820,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5584,6 +5896,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5629,6 +5944,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5682,6 +6000,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5743,6 +6064,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5796,6 +6120,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5845,6 +6172,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5906,6 +6236,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -5963,6 +6296,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW26",
         "ADM2_EN": "Ruhango"
       },
@@ -6024,6 +6360,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6081,6 +6420,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6158,6 +6500,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6207,6 +6552,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6260,6 +6608,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6325,6 +6676,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6378,6 +6732,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6431,6 +6788,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6484,6 +6844,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6549,6 +6912,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6614,6 +6980,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6675,6 +7044,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW27",
         "ADM2_EN": "Muhanga"
       },
@@ -6732,6 +7104,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -6785,6 +7160,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -6830,6 +7208,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -6887,6 +7268,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -6932,6 +7316,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -6993,6 +7380,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7042,6 +7432,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7095,6 +7488,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7156,6 +7552,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7217,6 +7616,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7270,6 +7672,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7319,6 +7724,9 @@
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW28",
         "ADM2_EN": "Kamonyi"
       },
@@ -7372,6 +7780,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7425,6 +7836,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7486,6 +7900,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7559,6 +7976,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7632,6 +8052,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7685,6 +8108,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7738,6 +8164,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7795,6 +8224,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7856,6 +8288,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -7925,6 +8360,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -8010,6 +8448,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -8071,6 +8512,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -8140,6 +8584,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW31",
         "ADM2_EN": "Karongi"
       },
@@ -8225,6 +8672,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8286,6 +8736,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8339,6 +8792,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8404,6 +8860,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8465,6 +8924,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8526,6 +8988,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8595,6 +9060,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8660,6 +9128,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8709,6 +9180,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8766,6 +9240,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8847,6 +9324,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8908,6 +9388,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -8961,6 +9444,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW32",
         "ADM2_EN": "Rutsiro"
       },
@@ -9030,6 +9516,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9079,6 +9568,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9120,6 +9612,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9169,6 +9664,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9210,6 +9708,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9255,6 +9756,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9300,6 +9804,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9341,6 +9848,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9382,6 +9892,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9431,6 +9944,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9476,6 +9992,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9525,6 +10044,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW33",
         "ADM2_EN": "Rubavu"
       },
@@ -9574,6 +10096,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9627,6 +10152,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9680,6 +10208,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9733,6 +10264,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9790,6 +10324,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9839,6 +10376,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9884,6 +10424,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9941,6 +10484,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -9994,6 +10540,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -10047,6 +10596,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -10104,6 +10656,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -10169,6 +10724,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW34",
         "ADM2_EN": "Nyabihu"
       },
@@ -10222,6 +10780,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10275,6 +10836,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10320,6 +10884,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10369,6 +10936,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10438,6 +11008,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10499,6 +11072,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10552,6 +11128,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10605,6 +11184,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10670,6 +11252,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10719,6 +11304,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10772,6 +11360,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10837,6 +11428,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10882,6 +11476,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW35",
         "ADM2_EN": "Ngororero"
       },
@@ -10935,6 +11532,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -10994,6 +11594,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11075,6 +11678,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11172,6 +11778,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11229,6 +11838,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11278,6 +11890,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11351,6 +11966,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11404,6 +12022,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11449,6 +12070,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11514,6 +12138,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11559,6 +12186,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11638,6 +12268,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11711,6 +12344,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11776,6 +12412,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11857,6 +12496,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11926,6 +12568,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -11975,6 +12620,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -12044,6 +12692,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW36",
         "ADM2_EN": "Rusizi"
       },
@@ -12093,6 +12744,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12174,6 +12828,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12231,6 +12888,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12308,6 +12968,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12357,6 +13020,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12426,6 +13092,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12479,6 +13148,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12532,6 +13204,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12597,6 +13272,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12662,6 +13340,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12735,6 +13416,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12788,6 +13472,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12837,6 +13524,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12906,6 +13596,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -12967,6 +13660,9 @@
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW37",
         "ADM2_EN": "Nyamasheke"
       },
@@ -13012,6 +13708,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13069,6 +13768,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13118,6 +13820,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13171,6 +13876,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13220,6 +13928,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13277,6 +13988,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13334,6 +14048,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13379,6 +14096,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13432,6 +14152,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13481,6 +14204,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13538,6 +14264,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13579,6 +14308,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13628,6 +14360,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13677,6 +14412,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13722,6 +14460,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13779,6 +14520,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13832,6 +14576,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW41",
         "ADM2_EN": "Rulindo"
       },
@@ -13885,6 +14632,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -13942,6 +14692,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -13995,6 +14748,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14040,6 +14796,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14089,6 +14848,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14154,6 +14916,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14211,6 +14976,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14260,6 +15028,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14305,6 +15076,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14366,6 +15140,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14407,6 +15184,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14464,6 +15244,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14509,6 +15292,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14566,6 +15352,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14611,6 +15400,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14664,6 +15456,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14705,6 +15500,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14758,6 +15556,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14799,6 +15600,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW42",
         "ADM2_EN": "Gakenke"
       },
@@ -14872,6 +15676,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -14917,6 +15724,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -14966,6 +15776,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15007,6 +15820,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15060,6 +15876,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15101,6 +15920,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15146,6 +15968,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15203,6 +16028,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15248,6 +16076,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15289,6 +16120,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15338,6 +16172,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15387,6 +16224,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15444,6 +16284,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15489,6 +16332,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15542,6 +16388,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW43",
         "ADM2_EN": "Musanze"
       },
@@ -15587,6 +16436,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15636,6 +16488,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15697,6 +16552,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15746,6 +16604,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15787,6 +16648,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15836,6 +16700,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15885,6 +16752,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15938,6 +16808,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -15979,6 +16852,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16024,6 +16900,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16085,6 +16964,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16142,6 +17024,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16195,6 +17080,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16252,6 +17140,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16297,6 +17188,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16346,6 +17240,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16407,6 +17304,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW44",
         "ADM2_EN": "Burera"
       },
@@ -16452,6 +17352,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16497,6 +17400,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16562,6 +17468,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16611,6 +17520,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16656,6 +17568,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16697,6 +17612,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16742,6 +17660,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16807,6 +17728,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16848,6 +17772,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16901,6 +17828,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -16966,6 +17896,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17027,6 +17960,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17076,6 +18012,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17125,6 +18064,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17170,6 +18112,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17211,6 +18156,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17256,6 +18204,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17309,6 +18260,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17378,6 +18332,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17431,6 +18388,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17480,6 +18440,9 @@
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW45",
         "ADM2_EN": "Gicumbi"
       },
@@ -17537,6 +18500,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17586,6 +18552,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17631,6 +18600,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17676,6 +18648,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17741,6 +18716,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17798,6 +18776,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17851,6 +18832,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17904,6 +18888,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17953,6 +18940,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -17998,6 +18988,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -18051,6 +19044,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -18104,6 +19100,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -18153,6 +19152,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -18202,6 +19204,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW51",
         "ADM2_EN": "Rwamagana"
       },
@@ -18255,6 +19260,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18316,6 +19324,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18373,6 +19384,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18530,6 +19544,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18595,6 +19612,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18656,6 +19676,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18717,6 +19740,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18766,6 +19792,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18843,6 +19872,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -18940,6 +19972,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -19035,6 +20070,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -19084,6 +20122,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -19169,6 +20210,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -19274,6 +20318,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW52",
         "ADM2_EN": "Nyagatare"
       },
@@ -19343,6 +20390,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19388,6 +20438,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19461,6 +20514,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19514,6 +20570,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19587,6 +20646,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19648,6 +20710,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19705,6 +20770,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19770,6 +20838,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19827,6 +20898,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19884,6 +20958,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19933,6 +21010,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -19994,6 +21074,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -20043,6 +21126,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -20104,6 +21190,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW53",
         "ADM2_EN": "Gatsibo"
       },
@@ -20193,6 +21282,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20270,6 +21362,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20331,6 +21426,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20388,6 +21486,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20445,6 +21546,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20498,6 +21602,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20587,6 +21694,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20680,6 +21790,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20737,6 +21850,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20818,6 +21934,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20887,6 +22006,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20932,6 +22054,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW54",
         "ADM2_EN": "Kayonza"
       },
@@ -20993,6 +22118,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21062,6 +22190,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21119,6 +22250,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21184,6 +22318,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21245,6 +22382,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21294,6 +22434,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21347,6 +22490,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21404,6 +22550,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21457,6 +22606,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21530,6 +22682,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21603,6 +22758,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21652,6 +22810,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW55",
         "ADM2_EN": "Kirehe"
       },
@@ -21721,6 +22882,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -21778,6 +22942,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -21823,6 +22990,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -21876,6 +23046,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -21933,6 +23106,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -21990,6 +23166,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22043,6 +23222,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22104,6 +23286,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22173,6 +23358,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22226,6 +23414,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22283,6 +23474,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22356,6 +23550,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22409,6 +23606,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22462,6 +23662,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW56",
         "ADM2_EN": "Ngoma"
       },
@@ -22527,6 +23730,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22592,6 +23798,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22653,6 +23862,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22702,6 +23914,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22751,6 +23966,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22828,6 +24046,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22877,6 +24098,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22930,6 +24154,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -22987,6 +24214,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -23044,6 +24274,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -23097,6 +24330,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -23146,6 +24382,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -23199,6 +24438,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -23244,6 +24486,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },
@@ -23325,6 +24570,9 @@
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
         "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null,
         "ADM2_PCODE": "RW57",
         "ADM2_EN": "Bugesera"
       },

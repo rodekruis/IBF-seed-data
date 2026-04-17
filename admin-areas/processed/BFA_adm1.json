@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre",
-        "ADM1_PCODE": "BF13"
+        "ADM1_PCODE": "BF13",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -304,7 +308,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Boucle du Mouhoun",
-        "ADM1_PCODE": "BF46"
+        "ADM1_PCODE": "BF46",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1132,7 +1140,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cascades",
-        "ADM1_PCODE": "BF47"
+        "ADM1_PCODE": "BF47",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1844,7 +1856,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre-Est",
-        "ADM1_PCODE": "BF48"
+        "ADM1_PCODE": "BF48",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2412,7 +2428,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre-Nord",
-        "ADM1_PCODE": "BF49"
+        "ADM1_PCODE": "BF49",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2992,7 +3012,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre-Ouest",
-        "ADM1_PCODE": "BF50"
+        "ADM1_PCODE": "BF50",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3644,7 +3668,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Centre-Sud",
-        "ADM1_PCODE": "BF51"
+        "ADM1_PCODE": "BF51",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4156,7 +4184,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Est",
-        "ADM1_PCODE": "BF52"
+        "ADM1_PCODE": "BF52",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5036,7 +5068,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Hauts-Bassins",
-        "ADM1_PCODE": "BF53"
+        "ADM1_PCODE": "BF53",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5804,7 +5840,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nord",
-        "ADM1_PCODE": "BF54"
+        "ADM1_PCODE": "BF54",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6240,7 +6280,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Plateau-Central",
-        "ADM1_PCODE": "BF55"
+        "ADM1_PCODE": "BF55",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6790,7 +6834,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sahel",
-        "ADM1_PCODE": "BF56"
+        "ADM1_PCODE": "BF56",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7414,7 +7462,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sud-Ouest",
-        "ADM1_PCODE": "BF57"
+        "ADM1_PCODE": "BF57",
+        "ADM0_PCODE": "BF",
+        "ADM0_ISO_A2": "BF",
+        "ADM0_ISO_A3": "BFA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

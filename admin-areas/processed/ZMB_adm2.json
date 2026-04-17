@@ -24,7 +24,10 @@
         "ADM2_PCODE": "ZM8006",
         "zmb_adm__6": "City",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176,7 +179,10 @@
         "ADM2_PCODE": "ZM8011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -452,7 +458,10 @@
         "ADM2_PCODE": "ZM8002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -800,7 +809,10 @@
         "ADM2_PCODE": "ZM8004",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1308,7 +1320,10 @@
         "ADM2_PCODE": "ZM8001",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1880,7 +1895,10 @@
         "ADM2_PCODE": "ZM8005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2756,7 +2774,10 @@
         "ADM2_PCODE": "ZM8010",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3048,7 +3069,10 @@
         "ADM2_PCODE": "ZM8008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3396,7 +3420,10 @@
         "ADM2_PCODE": "ZM8009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3768,7 +3795,10 @@
         "ADM2_PCODE": "ZM9010",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4652,7 +4682,10 @@
         "ADM2_PCODE": "ZM9005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5564,7 +5597,10 @@
         "ADM2_PCODE": "ZM1009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6180,7 +6216,10 @@
         "ADM2_PCODE": "ZM5003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6456,7 +6495,10 @@
         "ADM2_PCODE": "ZM5007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6856,7 +6898,10 @@
         "ADM2_PCODE": "ZM9004",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7116,7 +7161,10 @@
         "ADM2_PCODE": "ZM1002",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7420,7 +7468,10 @@
         "ADM2_PCODE": "ZM3001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7608,7 +7659,10 @@
         "ADM2_PCODE": "ZM3007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8120,7 +8174,10 @@
         "ADM2_PCODE": "ZM3004",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8500,7 +8557,10 @@
         "ADM2_PCODE": "ZM3008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9012,7 +9072,10 @@
         "ADM2_PCODE": "ZM1010",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9780,7 +9843,10 @@
         "ADM2_PCODE": "ZM2008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10776,7 +10842,10 @@
         "ADM2_PCODE": "ZM3010",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11072,7 +11141,10 @@
         "ADM2_PCODE": "ZM7001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11228,7 +11300,10 @@
         "ADM2_PCODE": "ZM3006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11696,7 +11771,10 @@
         "ADM2_PCODE": "ZM7003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13736,7 +13814,10 @@
         "ADM2_PCODE": "ZM2004",
         "zmb_adm__6": "City",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13936,7 +14017,10 @@
         "ADM2_PCODE": "ZM2003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14132,7 +14216,10 @@
         "ADM2_PCODE": "ZM2009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14352,7 +14439,10 @@
         "ADM2_PCODE": "ZM1008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15256,7 +15346,10 @@
         "ADM2_PCODE": "ZM3011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16180,7 +16273,10 @@
         "ADM2_PCODE": "ZM7006",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17344,7 +17440,10 @@
         "ADM2_PCODE": "ZM4004",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17816,7 +17915,10 @@
         "ADM2_PCODE": "ZM7005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19072,7 +19174,10 @@
         "ADM2_PCODE": "ZM4007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19500,7 +19605,10 @@
         "ADM2_PCODE": "ZM6001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19832,7 +19940,10 @@
         "ADM2_PCODE": "ZM4003",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20484,7 +20595,10 @@
         "ADM2_PCODE": "ZM1112",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21376,7 +21490,10 @@
         "ADM2_PCODE": "ZM6006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22464,7 +22581,10 @@
         "ADM2_PCODE": "ZM1119",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23232,7 +23352,10 @@
         "ADM2_PCODE": "ZM6005",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37064,7 +37187,10 @@
         "ADM2_PCODE": "ZM6011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37792,7 +37918,10 @@
         "ADM2_PCODE": "ZM4002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38884,7 +39013,10 @@
         "ADM2_PCODE": "ZM6009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41148,7 +41280,10 @@
         "ADM2_PCODE": "ZM1111",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41568,7 +41703,10 @@
         "ADM2_PCODE": "ZM4006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41964,7 +42102,10 @@
         "ADM2_PCODE": "ZM6010",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42880,7 +43021,10 @@
         "ADM2_PCODE": "ZM6008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43428,7 +43572,10 @@
         "ADM2_PCODE": "ZM4001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43676,7 +43823,10 @@
         "ADM2_PCODE": "ZM2007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44364,7 +44514,10 @@
         "ADM2_PCODE": "ZM2005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44576,7 +44729,10 @@
         "ADM2_PCODE": "ZM2010",
         "zmb_adm__6": "City",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44824,7 +44980,10 @@
         "ADM2_PCODE": "ZM5006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45032,7 +45191,10 @@
         "ADM2_PCODE": "ZM4008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45292,7 +45454,10 @@
         "ADM2_PCODE": "ZM1114",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46040,7 +46205,10 @@
         "ADM2_PCODE": "ZM1004",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47132,7 +47300,10 @@
         "ADM2_PCODE": "ZM5001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47392,7 +47563,10 @@
         "ADM2_PCODE": "ZM1007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47856,7 +48030,10 @@
         "ADM2_PCODE": "ZM9011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48196,7 +48373,10 @@
         "ADM2_PCODE": "ZM9015",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48496,7 +48676,10 @@
         "ADM2_PCODE": "ZM9008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48956,7 +49139,10 @@
         "ADM2_PCODE": "ZM6004",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49448,7 +49634,10 @@
         "ADM2_PCODE": "ZM4011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49624,7 +49813,10 @@
         "ADM2_PCODE": "ZM8013",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50060,7 +50252,10 @@
         "ADM2_PCODE": "ZM3013",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50268,7 +50463,10 @@
         "ADM2_PCODE": "ZM9006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50608,7 +50806,10 @@
         "ADM2_PCODE": "ZM1006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51168,7 +51369,10 @@
         "ADM2_PCODE": "ZM7010",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51620,7 +51824,10 @@
         "ADM2_PCODE": "ZM4012",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51888,7 +52095,10 @@
         "ADM2_PCODE": "ZM8003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52204,7 +52414,10 @@
         "ADM2_PCODE": "ZM8012",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52612,7 +52825,10 @@
         "ADM2_PCODE": "ZM5004",
         "zmb_adm__6": "City",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52744,7 +52960,10 @@
         "ADM2_PCODE": "ZM5008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53192,7 +53411,10 @@
         "ADM2_PCODE": "ZM1001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53640,7 +53862,10 @@
         "ADM2_PCODE": "ZM9007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54104,7 +54329,10 @@
         "ADM2_PCODE": "ZM7007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54656,7 +54884,10 @@
         "ADM2_PCODE": "ZM7002",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55088,7 +55319,10 @@
         "ADM2_PCODE": "ZM7008",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55452,7 +55686,10 @@
         "ADM2_PCODE": "ZM7009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56544,7 +56781,10 @@
         "ADM2_PCODE": "ZM7011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57188,7 +57428,10 @@
         "ADM2_PCODE": "ZM2002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57556,7 +57799,10 @@
         "ADM2_PCODE": "ZM2006",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58164,7 +58410,10 @@
         "ADM2_PCODE": "ZM2001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58528,7 +58777,10 @@
         "ADM2_PCODE": "ZM7004",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60144,7 +60396,10 @@
         "ADM2_PCODE": "ZM9009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60576,7 +60831,10 @@
         "ADM2_PCODE": "ZM9003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61268,7 +61526,10 @@
         "ADM2_PCODE": "ZM5002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61816,7 +62077,10 @@
         "ADM2_PCODE": "ZM1113",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62392,7 +62656,10 @@
         "ADM2_PCODE": "ZM1115",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62852,7 +63119,10 @@
         "ADM2_PCODE": "ZM4005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63224,7 +63494,10 @@
         "ADM2_PCODE": "ZM4010",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63684,7 +63957,10 @@
         "ADM2_PCODE": "ZM3012",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63956,7 +64232,10 @@
         "ADM2_PCODE": "ZM9001",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64500,7 +64779,10 @@
         "ADM2_PCODE": "ZM9012",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64816,7 +65098,10 @@
         "ADM2_PCODE": "ZM9016",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65240,7 +65525,10 @@
         "ADM2_PCODE": "ZM9013",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65560,7 +65848,10 @@
         "ADM2_PCODE": "ZM9002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66084,7 +66375,10 @@
         "ADM2_PCODE": "ZM9014",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66352,7 +66646,10 @@
         "ADM2_PCODE": "ZM1005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67112,7 +67409,10 @@
         "ADM2_PCODE": "ZM1003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68720,7 +69020,10 @@
         "ADM2_PCODE": "ZM1011",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69148,7 +69451,10 @@
         "ADM2_PCODE": "ZM8007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69684,7 +69990,10 @@
         "ADM2_PCODE": "ZM5005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69940,7 +70249,10 @@
         "ADM2_PCODE": "ZM1118",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71340,7 +71652,10 @@
         "ADM2_PCODE": "ZM1117",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72360,7 +72675,10 @@
         "ADM2_PCODE": "ZM1116",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73012,7 +73330,10 @@
         "ADM2_PCODE": "ZM6002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89548,7 +89869,10 @@
         "ADM2_PCODE": "ZM6012",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91112,7 +91436,10 @@
         "ADM2_PCODE": "ZM6007",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92196,7 +92523,10 @@
         "ADM2_PCODE": "ZM6003",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92700,7 +93030,10 @@
         "ADM2_PCODE": "ZM4009",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92964,7 +93297,10 @@
         "ADM2_PCODE": "ZM3003",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93228,7 +93564,10 @@
         "ADM2_PCODE": "ZM3009",
         "zmb_adm__6": "Provincial Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93536,7 +93875,10 @@
         "ADM2_PCODE": "ZM3005",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93792,7 +94134,10 @@
         "ADM2_PCODE": "ZM3002",
         "zmb_adm__6": "District Town",
         "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

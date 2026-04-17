@@ -15,7 +15,10 @@
         "ADM2_PCODE": "RW11",
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -94,7 +97,10 @@
         "ADM2_PCODE": "RW12",
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -189,7 +195,10 @@
         "ADM2_PCODE": "RW13",
         "ADM1_PCODE": "RW1",
         "ADM1_EN": "Kigali City",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -260,7 +269,10 @@
         "ADM2_PCODE": "RW21",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -391,7 +403,10 @@
         "ADM2_PCODE": "RW22",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -482,7 +497,10 @@
         "ADM2_PCODE": "RW23",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -617,7 +635,10 @@
         "ADM2_PCODE": "RW24",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -724,7 +745,10 @@
         "ADM2_PCODE": "RW25",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -875,7 +899,10 @@
         "ADM2_PCODE": "RW26",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -990,7 +1017,10 @@
         "ADM2_PCODE": "RW27",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1109,7 +1139,10 @@
         "ADM2_PCODE": "RW28",
         "ADM1_PCODE": "RW2",
         "ADM1_EN": "Southern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1228,7 +1261,10 @@
         "ADM2_PCODE": "RW31",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1375,7 +1411,10 @@
         "ADM2_PCODE": "RW32",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1510,7 +1549,10 @@
         "ADM2_PCODE": "RW33",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1621,7 +1663,10 @@
         "ADM2_PCODE": "RW34",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1720,7 +1765,10 @@
         "ADM2_PCODE": "RW35",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1843,7 +1891,10 @@
         "ADM2_PCODE": "RW36",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2030,7 +2081,10 @@
         "ADM2_PCODE": "RW37",
         "ADM1_PCODE": "RW3",
         "ADM1_EN": "Western Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2157,7 +2211,10 @@
         "ADM2_PCODE": "RW41",
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2284,7 +2341,10 @@
         "ADM2_PCODE": "RW42",
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2387,7 +2447,10 @@
         "ADM2_PCODE": "RW43",
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2466,7 +2529,10 @@
         "ADM2_PCODE": "RW44",
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2601,7 +2667,10 @@
         "ADM2_PCODE": "RW45",
         "ADM1_PCODE": "RW4",
         "ADM1_EN": "Northern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2752,7 +2821,10 @@
         "ADM2_PCODE": "RW51",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2851,7 +2923,10 @@
         "ADM2_PCODE": "RW52",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3014,7 +3089,10 @@
         "ADM2_PCODE": "RW53",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3153,7 +3231,10 @@
         "ADM2_PCODE": "RW54",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3296,7 +3377,10 @@
         "ADM2_PCODE": "RW55",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3439,7 +3523,10 @@
         "ADM2_PCODE": "RW56",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3578,7 +3665,10 @@
         "ADM2_PCODE": "RW57",
         "ADM1_PCODE": "RW5",
         "ADM1_EN": "Eastern Province",
-        "ADM0_PCODE": "RW"
+        "ADM0_PCODE": "RW",
+        "ADM0_ISO_A2": "RW",
+        "ADM0_ISO_A3": "RWA",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

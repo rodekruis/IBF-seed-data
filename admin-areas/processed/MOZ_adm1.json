@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cabo Delgado",
-        "ADM1_PCODE": "MZ01"
+        "ADM1_PCODE": "MZ01",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5072,7 +5076,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gaza",
-        "ADM1_PCODE": "MZ02"
+        "ADM1_PCODE": "MZ02",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5756,7 +5764,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Inhambane",
-        "ADM1_PCODE": "MZ03"
+        "ADM1_PCODE": "MZ03",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8932,7 +8944,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Manica",
-        "ADM1_PCODE": "MZ04"
+        "ADM1_PCODE": "MZ04",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -10012,7 +10028,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maputo",
-        "ADM1_PCODE": "MZ05"
+        "ADM1_PCODE": "MZ05",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10564,7 +10584,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maputo City",
-        "ADM1_PCODE": "MZ06"
+        "ADM1_PCODE": "MZ06",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10808,7 +10832,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nampula",
-        "ADM1_PCODE": "MZ07"
+        "ADM1_PCODE": "MZ07",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12788,7 +12816,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Niassa",
-        "ADM1_PCODE": "MZ08"
+        "ADM1_PCODE": "MZ08",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -13688,7 +13720,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sofala",
-        "ADM1_PCODE": "MZ09"
+        "ADM1_PCODE": "MZ09",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14676,7 +14712,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tete",
-        "ADM1_PCODE": "MZ10"
+        "ADM1_PCODE": "MZ10",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -15692,7 +15732,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Zambezia",
-        "ADM1_PCODE": "MZ11"
+        "ADM1_PCODE": "MZ11",
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

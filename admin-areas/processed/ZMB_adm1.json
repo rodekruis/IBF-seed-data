@@ -399,7 +399,10 @@
       "properties": {
         "ADM1_EN": "Central",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM10"
+        "ADM1_PCODE": "ZM10",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -580,7 +583,10 @@
       "properties": {
         "ADM1_EN": "Copperbelt",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM20"
+        "ADM1_PCODE": "ZM20",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -797,7 +803,10 @@
       "properties": {
         "ADM1_EN": "Eastern",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM30"
+        "ADM1_PCODE": "ZM30",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -1042,7 +1051,10 @@
       "properties": {
         "ADM1_EN": "Luapula",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM40"
+        "ADM1_PCODE": "ZM40",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -1223,7 +1235,10 @@
       "properties": {
         "ADM1_EN": "Lusaka",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM50"
+        "ADM1_PCODE": "ZM50",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -1528,7 +1543,10 @@
       "properties": {
         "ADM1_EN": "Muchinga",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM11"
+        "ADM1_PCODE": "ZM11",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -1777,7 +1795,10 @@
       "properties": {
         "ADM1_EN": "Northern",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM60"
+        "ADM1_PCODE": "ZM60",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -2146,7 +2167,10 @@
       "properties": {
         "ADM1_EN": "Northwestern",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM70"
+        "ADM1_PCODE": "ZM70",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -2359,7 +2383,10 @@
       "properties": {
         "ADM1_EN": "Southern",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM80"
+        "ADM1_PCODE": "ZM80",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     },
     {
@@ -2616,7 +2643,10 @@
       "properties": {
         "ADM1_EN": "Western",
         "ADM0_PCODE": "ZM",
-        "ADM1_PCODE": "ZM90"
+        "ADM1_PCODE": "ZM90",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "POPULATION": null
       }
     }
   ]

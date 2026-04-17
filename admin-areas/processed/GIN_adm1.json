@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Boke",
-        "ADM1_PCODE": "GN001"
+        "ADM1_PCODE": "GN001",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4452,7 +4456,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Conakry",
-        "ADM1_PCODE": "GN002"
+        "ADM1_PCODE": "GN002",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4840,7 +4848,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Faranah",
-        "ADM1_PCODE": "GN003"
+        "ADM1_PCODE": "GN003",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5968,7 +5980,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kankan",
-        "ADM1_PCODE": "GN004"
+        "ADM1_PCODE": "GN004",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7216,7 +7232,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kindia",
-        "ADM1_PCODE": "GN005"
+        "ADM1_PCODE": "GN005",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8516,7 +8536,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Labe",
-        "ADM1_PCODE": "GN006"
+        "ADM1_PCODE": "GN006",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9012,7 +9036,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mamou",
-        "ADM1_PCODE": "GN007"
+        "ADM1_PCODE": "GN007",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9428,7 +9456,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Nzerekore",
-        "ADM1_PCODE": "GN008"
+        "ADM1_PCODE": "GN008",
+        "ADM0_PCODE": "GN",
+        "ADM0_ISO_A2": "GN",
+        "ADM0_ISO_A3": "GIN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

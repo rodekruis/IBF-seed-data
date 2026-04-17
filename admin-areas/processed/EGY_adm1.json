@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cairo",
-        "ADM1_PCODE": "EG01"
+        "ADM1_PCODE": "EG01",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -116,7 +120,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Alexandria",
-        "ADM1_PCODE": "EG02"
+        "ADM1_PCODE": "EG02",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -432,7 +440,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Port Said",
-        "ADM1_PCODE": "EG03"
+        "ADM1_PCODE": "EG03",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -756,7 +768,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Suez",
-        "ADM1_PCODE": "EG04"
+        "ADM1_PCODE": "EG04",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1124,7 +1140,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Damietta",
-        "ADM1_PCODE": "EG11"
+        "ADM1_PCODE": "EG11",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1344,7 +1364,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Dakahlia",
-        "ADM1_PCODE": "EG12"
+        "ADM1_PCODE": "EG12",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1680,7 +1704,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sharkia",
-        "ADM1_PCODE": "EG13"
+        "ADM1_PCODE": "EG13",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1932,7 +1960,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kalyoubia",
-        "ADM1_PCODE": "EG14"
+        "ADM1_PCODE": "EG14",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2148,7 +2180,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kafr El-Shikh",
-        "ADM1_PCODE": "EG15"
+        "ADM1_PCODE": "EG15",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2380,7 +2416,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gharbia",
-        "ADM1_PCODE": "EG16"
+        "ADM1_PCODE": "EG16",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2660,7 +2700,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Menoufia",
-        "ADM1_PCODE": "EG17"
+        "ADM1_PCODE": "EG17",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2972,7 +3016,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Behera",
-        "ADM1_PCODE": "EG18"
+        "ADM1_PCODE": "EG18",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3256,7 +3304,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ismailia",
-        "ADM1_PCODE": "EG19"
+        "ADM1_PCODE": "EG19",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3876,7 +3928,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Giza",
-        "ADM1_PCODE": "EG21"
+        "ADM1_PCODE": "EG21",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4068,7 +4124,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Beni Suef",
-        "ADM1_PCODE": "EG22"
+        "ADM1_PCODE": "EG22",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4252,7 +4312,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Fayoum",
-        "ADM1_PCODE": "EG23"
+        "ADM1_PCODE": "EG23",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4340,7 +4404,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Menia",
-        "ADM1_PCODE": "EG24"
+        "ADM1_PCODE": "EG24",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4512,7 +4580,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Assiut",
-        "ADM1_PCODE": "EG25"
+        "ADM1_PCODE": "EG25",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4656,7 +4728,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Suhag",
-        "ADM1_PCODE": "EG26"
+        "ADM1_PCODE": "EG26",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4788,7 +4864,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Qena",
-        "ADM1_PCODE": "EG27"
+        "ADM1_PCODE": "EG27",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5030,7 +5110,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Aswan",
-        "ADM1_PCODE": "EG28"
+        "ADM1_PCODE": "EG28",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5102,7 +5186,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Luxor",
-        "ADM1_PCODE": "EG29"
+        "ADM1_PCODE": "EG29",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5174,7 +5262,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Red Sea",
-        "ADM1_PCODE": "EG31"
+        "ADM1_PCODE": "EG31",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8190,7 +8282,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "New Valley",
-        "ADM1_PCODE": "EG32"
+        "ADM1_PCODE": "EG32",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8302,7 +8398,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Matrouh",
-        "ADM1_PCODE": "EG33"
+        "ADM1_PCODE": "EG33",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9126,7 +9226,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "North Sinai",
-        "ADM1_PCODE": "EG34"
+        "ADM1_PCODE": "EG34",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9674,7 +9778,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "South Sinai",
-        "ADM1_PCODE": "EG35"
+        "ADM1_PCODE": "EG35",
+        "ADM0_PCODE": "EG",
+        "ADM0_ISO_A2": "EG",
+        "ADM0_ISO_A3": "EGY",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",

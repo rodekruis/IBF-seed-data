@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Debubawi Keih Bahri",
-        "ADM1_PCODE": "ER1"
+        "ADM1_PCODE": "ER1",
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4520,7 +4524,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maekel",
-        "ADM1_PCODE": "ER2"
+        "ADM1_PCODE": "ER2",
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4672,7 +4680,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Semienawi Keih Bahri",
-        "ADM1_PCODE": "ER3"
+        "ADM1_PCODE": "ER3",
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13620,7 +13632,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Anseba",
-        "ADM1_PCODE": "ER4"
+        "ADM1_PCODE": "ER4",
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -14244,7 +14260,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gash Barka",
-        "ADM1_PCODE": "ER5"
+        "ADM1_PCODE": "ER5",
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -14720,7 +14740,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Debub",
-        "ADM1_PCODE": "ER6"
+        "ADM1_PCODE": "ER6",
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

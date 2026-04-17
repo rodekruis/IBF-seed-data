@@ -1631,7 +1631,11 @@
       "properties": {
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -2912,7 +2916,11 @@
       "properties": {
         "ADM1_EN": "Butha-Buthe",
         "ADM1_PCODE": "LSB",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -5817,7 +5825,11 @@
       "properties": {
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -7626,7 +7638,11 @@
       "properties": {
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -10459,7 +10475,11 @@
       "properties": {
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -13312,7 +13332,11 @@
       "properties": {
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -15605,7 +15629,11 @@
       "properties": {
         "ADM1_EN": "Mokhotlong",
         "ADM1_PCODE": "LSJ",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -17514,7 +17542,11 @@
       "properties": {
         "ADM1_EN": "Qacha's Nek",
         "ADM1_PCODE": "LSH",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -19423,7 +19455,11 @@
       "properties": {
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     },
     {
@@ -22692,7 +22728,11 @@
       "properties": {
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
-        "ADM1_TYPE": "District"
+        "ADM1_TYPE": "District",
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       }
     }
   ]

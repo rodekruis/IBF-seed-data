@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Dakar",
-        "ADM1_PCODE": "SN01"
+        "ADM1_PCODE": "SN01",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -604,7 +608,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Diourbel",
-        "ADM1_PCODE": "SN02"
+        "ADM1_PCODE": "SN02",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -796,7 +804,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Fatick",
-        "ADM1_PCODE": "SN03"
+        "ADM1_PCODE": "SN03",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1992,7 +2004,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kaffrine",
-        "ADM1_PCODE": "SN04"
+        "ADM1_PCODE": "SN04",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2168,7 +2184,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kaolack",
-        "ADM1_PCODE": "SN05"
+        "ADM1_PCODE": "SN05",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2384,7 +2404,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kédougou",
-        "ADM1_PCODE": "SN06"
+        "ADM1_PCODE": "SN06",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3020,7 +3044,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kolda",
-        "ADM1_PCODE": "SN07"
+        "ADM1_PCODE": "SN07",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3440,7 +3468,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Louga",
-        "ADM1_PCODE": "SN08"
+        "ADM1_PCODE": "SN08",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3712,7 +3744,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Matam",
-        "ADM1_PCODE": "SN09"
+        "ADM1_PCODE": "SN09",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4084,7 +4120,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Saint-Louis",
-        "ADM1_PCODE": "SN10"
+        "ADM1_PCODE": "SN10",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4560,7 +4600,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sédhiou",
-        "ADM1_PCODE": "SN11"
+        "ADM1_PCODE": "SN11",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4768,7 +4812,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tambacounda",
-        "ADM1_PCODE": "SN12"
+        "ADM1_PCODE": "SN12",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5636,7 +5684,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Thiès",
-        "ADM1_PCODE": "SN13"
+        "ADM1_PCODE": "SN13",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5926,7 +5978,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ziguinchor",
-        "ADM1_PCODE": "SN14"
+        "ADM1_PCODE": "SN14",
+        "ADM0_PCODE": "SN",
+        "ADM0_ISO_A2": "SN",
+        "ADM0_ISO_A3": "SEN",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

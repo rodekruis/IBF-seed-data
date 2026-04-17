@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Boa Vista",
-        "ADM1_PCODE": "CV01"
+        "ADM1_PCODE": "CV01",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -388,7 +392,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Brava",
-        "ADM1_PCODE": "CV02"
+        "ADM1_PCODE": "CV02",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2012,7 +2020,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Maio",
-        "ADM1_PCODE": "CV03"
+        "ADM1_PCODE": "CV03",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2160,7 +2172,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mosteiros",
-        "ADM1_PCODE": "CV04"
+        "ADM1_PCODE": "CV04",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2204,7 +2220,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Paul",
-        "ADM1_PCODE": "CV05"
+        "ADM1_PCODE": "CV05",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2340,7 +2360,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Porto Novo",
-        "ADM1_PCODE": "CV06"
+        "ADM1_PCODE": "CV06",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2420,7 +2444,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Praia",
-        "ADM1_PCODE": "CV07"
+        "ADM1_PCODE": "CV07",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2500,7 +2528,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ribeira Brava",
-        "ADM1_PCODE": "CV08"
+        "ADM1_PCODE": "CV08",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2612,7 +2644,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ribeira Grande",
-        "ADM1_PCODE": "CV09"
+        "ADM1_PCODE": "CV09",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2728,7 +2764,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ribeira Grande de Santiago",
-        "ADM1_PCODE": "CV10"
+        "ADM1_PCODE": "CV10",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2808,7 +2848,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sal",
-        "ADM1_PCODE": "CV11"
+        "ADM1_PCODE": "CV11",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2960,7 +3004,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Santa Catarina",
-        "ADM1_PCODE": "CV12"
+        "ADM1_PCODE": "CV12",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3152,7 +3200,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Santa Catarina do Fogo",
-        "ADM1_PCODE": "CV13"
+        "ADM1_PCODE": "CV13",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3420,7 +3472,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Santa Cruz",
-        "ADM1_PCODE": "CV14"
+        "ADM1_PCODE": "CV14",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3500,7 +3556,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sao Domingos",
-        "ADM1_PCODE": "CV15"
+        "ADM1_PCODE": "CV15",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3572,7 +3632,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sao Filipe",
-        "ADM1_PCODE": "CV16"
+        "ADM1_PCODE": "CV16",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4832,7 +4896,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sao Lourenco dos Orgaos",
-        "ADM1_PCODE": "CV17"
+        "ADM1_PCODE": "CV17",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4880,7 +4948,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sao Miguel",
-        "ADM1_PCODE": "CV18"
+        "ADM1_PCODE": "CV18",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4952,7 +5024,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sao Salvador do Mundo",
-        "ADM1_PCODE": "CV19"
+        "ADM1_PCODE": "CV19",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4992,7 +5068,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Sao Vicente",
-        "ADM1_PCODE": "CV20"
+        "ADM1_PCODE": "CV20",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5196,7 +5276,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tarrafal",
-        "ADM1_PCODE": "CV21"
+        "ADM1_PCODE": "CV21",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5260,7 +5344,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Tarrafal de Sao Nicolau",
-        "ADM1_PCODE": "CV22"
+        "ADM1_PCODE": "CV22",
+        "ADM0_PCODE": "CV",
+        "ADM0_ISO_A2": "CV",
+        "ADM0_ISO_A3": "CPV",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

@@ -15,7 +15,10 @@
         "ADM2_PCODE": "LSA01",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -78,7 +81,10 @@
         "ADM2_PCODE": "LSA02",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -157,7 +163,10 @@
         "ADM2_PCODE": "LSA03",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -380,7 +389,10 @@
         "ADM2_PCODE": "LSA04",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -443,7 +455,10 @@
         "ADM2_PCODE": "LSA05",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -534,7 +549,10 @@
         "ADM2_PCODE": "LSA06",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -613,7 +631,10 @@
         "ADM2_PCODE": "LSA07",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -724,7 +745,10 @@
         "ADM2_PCODE": "LSA08",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -827,7 +851,10 @@
         "ADM2_PCODE": "LSA09",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1002,7 +1029,10 @@
         "ADM2_PCODE": "LSA10",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1177,7 +1207,10 @@
         "ADM2_PCODE": "LSA11",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1228,7 +1261,10 @@
         "ADM2_PCODE": "LSA12",
         "ADM1_PCODE": "LSA",
         "ADM1_EN": "Maseru",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1327,7 +1363,10 @@
         "ADM2_PCODE": "LSB01",
         "ADM1_PCODE": "LSB",
         "ADM1_EN": "Butha-Buthe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1410,7 +1449,10 @@
         "ADM2_PCODE": "LSB02",
         "ADM1_PCODE": "LSB",
         "ADM1_EN": "Butha-Buthe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1501,7 +1543,10 @@
         "ADM2_PCODE": "LSB03",
         "ADM1_PCODE": "LSB",
         "ADM1_EN": "Butha-Buthe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1648,7 +1693,10 @@
         "ADM2_PCODE": "LSB04",
         "ADM1_PCODE": "LSB",
         "ADM1_EN": "Butha-Buthe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1711,7 +1759,10 @@
         "ADM2_PCODE": "LSB05",
         "ADM1_PCODE": "LSB",
         "ADM1_EN": "Butha-Buthe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1774,7 +1825,10 @@
         "ADM2_PCODE": "LSC01",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1989,7 +2043,10 @@
         "ADM2_PCODE": "LSC02",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2072,7 +2129,10 @@
         "ADM2_PCODE": "LSC03",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2147,7 +2207,10 @@
         "ADM2_PCODE": "LSC04",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2218,7 +2281,10 @@
         "ADM2_PCODE": "LSC05",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2301,7 +2367,10 @@
         "ADM2_PCODE": "LSC06",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2380,7 +2449,10 @@
         "ADM2_PCODE": "LSC07",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2451,7 +2523,10 @@
         "ADM2_PCODE": "LSC08",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2510,7 +2585,10 @@
         "ADM2_PCODE": "LSC09",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2577,7 +2655,10 @@
         "ADM2_PCODE": "LSC10",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2664,7 +2745,10 @@
         "ADM2_PCODE": "LSC11",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2771,7 +2855,10 @@
         "ADM2_PCODE": "LSC12",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2834,7 +2921,10 @@
         "ADM2_PCODE": "LSC13",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2917,7 +3007,10 @@
         "ADM2_PCODE": "LSC14",
         "ADM1_PCODE": "LSC",
         "ADM1_EN": "Leribe",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2988,7 +3081,10 @@
         "ADM2_PCODE": "LSD01",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3127,7 +3223,10 @@
         "ADM2_PCODE": "LSD02",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3190,7 +3289,10 @@
         "ADM2_PCODE": "LSD03",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3261,7 +3363,10 @@
         "ADM2_PCODE": "LSD04",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3344,7 +3449,10 @@
         "ADM2_PCODE": "LSD05",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3439,7 +3547,10 @@
         "ADM2_PCODE": "LSD06",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3526,7 +3637,10 @@
         "ADM2_PCODE": "LSD07",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3645,7 +3759,10 @@
         "ADM2_PCODE": "LSD08",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3748,7 +3865,10 @@
         "ADM2_PCODE": "LSD09",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3807,7 +3927,10 @@
         "ADM2_PCODE": "LSD10",
         "ADM1_PCODE": "LSD",
         "ADM1_EN": "Berea",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3866,7 +3989,10 @@
         "ADM2_PCODE": "LSE01",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3985,7 +4111,10 @@
         "ADM2_PCODE": "LSE02",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4096,7 +4225,10 @@
         "ADM2_PCODE": "LSE03",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4211,7 +4343,10 @@
         "ADM2_PCODE": "LSE04",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4390,7 +4525,10 @@
         "ADM2_PCODE": "LSE05",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4481,7 +4619,10 @@
         "ADM2_PCODE": "LSE06",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4576,7 +4717,10 @@
         "ADM2_PCODE": "LSE07",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4663,7 +4807,10 @@
         "ADM2_PCODE": "LSE08",
         "ADM1_PCODE": "LSE",
         "ADM1_EN": "Mafeteng",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4718,7 +4865,10 @@
         "ADM2_PCODE": "LSF01",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4813,7 +4963,10 @@
         "ADM2_PCODE": "LSF02",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4884,7 +5037,10 @@
         "ADM2_PCODE": "LSF03",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5011,7 +5167,10 @@
         "ADM2_PCODE": "LSF04",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5186,7 +5345,10 @@
         "ADM2_PCODE": "LSF05",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5289,7 +5451,10 @@
         "ADM2_PCODE": "LSF06",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5468,7 +5633,10 @@
         "ADM2_PCODE": "LSF07",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5655,7 +5823,10 @@
         "ADM2_PCODE": "LSF08",
         "ADM1_PCODE": "LSF",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5730,7 +5901,10 @@
         "ADM2_PCODE": "LSG01",
         "ADM1_PCODE": "LSG",
         "ADM1_EN": "Quthing",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5825,7 +5999,10 @@
         "ADM2_PCODE": "LSG02",
         "ADM1_PCODE": "LSG",
         "ADM1_EN": "Quthing",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5880,7 +6057,10 @@
         "ADM2_PCODE": "LSG03",
         "ADM1_PCODE": "LSG",
         "ADM1_EN": "Quthing",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6063,7 +6243,10 @@
         "ADM2_PCODE": "LSG04",
         "ADM1_PCODE": "LSG",
         "ADM1_EN": "Quthing",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6270,7 +6453,10 @@
         "ADM2_PCODE": "LSG05",
         "ADM1_PCODE": "LSG",
         "ADM1_EN": "Quthing",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6401,7 +6587,10 @@
         "ADM2_PCODE": "LSG06",
         "ADM1_PCODE": "LSG",
         "ADM1_EN": "Quthing",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6468,7 +6657,10 @@
         "ADM2_PCODE": "LSH01",
         "ADM1_PCODE": "LSH",
         "ADM1_EN": "Qacha's Nek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6587,7 +6779,10 @@
         "ADM2_PCODE": "LSH02",
         "ADM1_PCODE": "LSH",
         "ADM1_EN": "Qacha's Nek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6846,7 +7041,10 @@
         "ADM2_PCODE": "LSH03",
         "ADM1_PCODE": "LSH",
         "ADM1_EN": "Qacha's Nek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7093,7 +7291,10 @@
         "ADM2_PCODE": "LSH04",
         "ADM1_PCODE": "LSH",
         "ADM1_EN": "Qacha's Nek",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7144,7 +7345,10 @@
         "ADM2_PCODE": "LSJ01",
         "ADM1_PCODE": "LSJ",
         "ADM1_EN": "Mokhotlong",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7399,7 +7603,10 @@
         "ADM2_PCODE": "LSJ02",
         "ADM1_PCODE": "LSJ",
         "ADM1_EN": "Mokhotlong",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7722,7 +7929,10 @@
         "ADM2_PCODE": "LSJ03",
         "ADM1_PCODE": "LSJ",
         "ADM1_EN": "Mokhotlong",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7837,7 +8047,10 @@
         "ADM2_PCODE": "LSJ04",
         "ADM1_PCODE": "LSJ",
         "ADM1_EN": "Mokhotlong",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8048,7 +8261,10 @@
         "ADM2_PCODE": "LSJ05",
         "ADM1_PCODE": "LSJ",
         "ADM1_EN": "Mokhotlong",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8127,7 +8343,10 @@
         "ADM2_PCODE": "LSK01",
         "ADM1_PCODE": "LSK",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8358,7 +8577,10 @@
         "ADM2_PCODE": "LSK02",
         "ADM1_PCODE": "LSK",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8529,7 +8751,10 @@
         "ADM2_PCODE": "LSK03",
         "ADM1_PCODE": "LSK",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8704,7 +8929,10 @@
         "ADM2_PCODE": "LSK04",
         "ADM1_PCODE": "LSK",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8903,7 +9131,10 @@
         "ADM2_PCODE": "LSK05",
         "ADM1_PCODE": "LSK",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -9114,7 +9345,10 @@
         "ADM2_PCODE": "LSK06",
         "ADM1_PCODE": "LSK",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM0_PCODE": "LS"
+        "ADM0_PCODE": "LS",
+        "ADM0_ISO_A2": "LS",
+        "ADM0_ISO_A3": "LSO",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

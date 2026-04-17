@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bubanza",
-        "ADM1_PCODE": "BDI001"
+        "ADM1_PCODE": "BDI001",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -128,7 +132,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bujumbura Rural",
-        "ADM1_PCODE": "BDI002"
+        "ADM1_PCODE": "BDI002",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -320,7 +328,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bururi",
-        "ADM1_PCODE": "BDI003"
+        "ADM1_PCODE": "BDI003",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -512,7 +524,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cankuzo",
-        "ADM1_PCODE": "BDI004"
+        "ADM1_PCODE": "BDI004",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -716,7 +732,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Cibitoke",
-        "ADM1_PCODE": "BDI005"
+        "ADM1_PCODE": "BDI005",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -908,7 +928,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Gitega",
-        "ADM1_PCODE": "BDI006"
+        "ADM1_PCODE": "BDI006",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1120,7 +1144,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Karuzi",
-        "ADM1_PCODE": "BDI007"
+        "ADM1_PCODE": "BDI007",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1252,7 +1280,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kayanza",
-        "ADM1_PCODE": "BDI008"
+        "ADM1_PCODE": "BDI008",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1420,7 +1452,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Kirundo",
-        "ADM1_PCODE": "BDI009"
+        "ADM1_PCODE": "BDI009",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1552,7 +1588,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Makamba",
-        "ADM1_PCODE": "BDI010"
+        "ADM1_PCODE": "BDI010",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1736,7 +1776,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Muramvya",
-        "ADM1_PCODE": "BDI011"
+        "ADM1_PCODE": "BDI011",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1872,7 +1916,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Muyinga",
-        "ADM1_PCODE": "BDI012"
+        "ADM1_PCODE": "BDI012",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2112,7 +2160,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mwaro",
-        "ADM1_PCODE": "BDI013"
+        "ADM1_PCODE": "BDI013",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2268,7 +2320,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ngozi",
-        "ADM1_PCODE": "BDI014"
+        "ADM1_PCODE": "BDI014",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2460,7 +2516,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Rutana",
-        "ADM1_PCODE": "BDI015"
+        "ADM1_PCODE": "BDI015",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2644,7 +2704,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Ruyigi",
-        "ADM1_PCODE": "BDI016"
+        "ADM1_PCODE": "BDI016",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2848,7 +2912,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Bujumbura Mairie",
-        "ADM1_PCODE": "BDI017"
+        "ADM1_PCODE": "BDI017",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2936,7 +3004,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Rumonge",
-        "ADM1_PCODE": "BDI018"
+        "ADM1_PCODE": "BDI018",
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

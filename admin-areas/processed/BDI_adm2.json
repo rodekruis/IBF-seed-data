@@ -15,7 +15,10 @@
         "ADM2_PCODE": "BDI001001",
         "ADM1_PCODE": "BDI001",
         "ADM1_EN": "Bubanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -106,7 +109,10 @@
         "ADM2_PCODE": "BDI001002",
         "ADM1_PCODE": "BDI001",
         "ADM1_EN": "Bubanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -169,7 +175,10 @@
         "ADM2_PCODE": "BDI001003",
         "ADM1_PCODE": "BDI001",
         "ADM1_EN": "Bubanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -232,7 +241,10 @@
         "ADM2_PCODE": "BDI001004",
         "ADM1_PCODE": "BDI001",
         "ADM1_EN": "Bubanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -323,7 +335,10 @@
         "ADM2_PCODE": "BDI001005",
         "ADM1_PCODE": "BDI001",
         "ADM1_EN": "Bubanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -390,7 +405,10 @@
         "ADM2_PCODE": "BDI002002",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -449,7 +467,10 @@
         "ADM2_PCODE": "BDI002003",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -500,7 +521,10 @@
         "ADM2_PCODE": "BDI002004",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -571,7 +595,10 @@
         "ADM2_PCODE": "BDI002005",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -622,7 +649,10 @@
         "ADM2_PCODE": "BDI002006",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -709,7 +739,10 @@
         "ADM2_PCODE": "BDI002008",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -772,7 +805,10 @@
         "ADM2_PCODE": "BDI002009",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -847,7 +883,10 @@
         "ADM2_PCODE": "BDI002010",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -930,7 +969,10 @@
         "ADM2_PCODE": "BDI002012",
         "ADM1_PCODE": "BDI002",
         "ADM1_EN": "Bujumbura Rural",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1013,7 +1055,10 @@
         "ADM2_PCODE": "BDI003002",
         "ADM1_PCODE": "BDI003",
         "ADM1_EN": "Bururi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1104,7 +1149,10 @@
         "ADM2_PCODE": "BDI003004",
         "ADM1_PCODE": "BDI003",
         "ADM1_EN": "Bururi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1171,7 +1219,10 @@
         "ADM2_PCODE": "BDI003005",
         "ADM1_PCODE": "BDI003",
         "ADM1_EN": "Bururi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1254,7 +1305,10 @@
         "ADM2_PCODE": "BDI003007",
         "ADM1_PCODE": "BDI003",
         "ADM1_EN": "Bururi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1341,7 +1395,10 @@
         "ADM2_PCODE": "BDI003008",
         "ADM1_PCODE": "BDI003",
         "ADM1_EN": "Bururi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1416,7 +1473,10 @@
         "ADM2_PCODE": "BDI003009",
         "ADM1_PCODE": "BDI003",
         "ADM1_EN": "Bururi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1479,7 +1539,10 @@
         "ADM2_PCODE": "BDI004001",
         "ADM1_PCODE": "BDI004",
         "ADM1_EN": "Cankuzo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1606,7 +1669,10 @@
         "ADM2_PCODE": "BDI004002",
         "ADM1_PCODE": "BDI004",
         "ADM1_EN": "Cankuzo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1681,7 +1747,10 @@
         "ADM2_PCODE": "BDI004003",
         "ADM1_PCODE": "BDI004",
         "ADM1_EN": "Cankuzo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1788,7 +1857,10 @@
         "ADM2_PCODE": "BDI004004",
         "ADM1_PCODE": "BDI004",
         "ADM1_EN": "Cankuzo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1883,7 +1955,10 @@
         "ADM2_PCODE": "BDI004005",
         "ADM1_PCODE": "BDI004",
         "ADM1_EN": "Cankuzo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1954,7 +2029,10 @@
         "ADM2_PCODE": "BDI005001",
         "ADM1_PCODE": "BDI005",
         "ADM1_EN": "Cibitoke",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2049,7 +2127,10 @@
         "ADM2_PCODE": "BDI005002",
         "ADM1_PCODE": "BDI005",
         "ADM1_EN": "Cibitoke",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2140,7 +2221,10 @@
         "ADM2_PCODE": "BDI005003",
         "ADM1_PCODE": "BDI005",
         "ADM1_EN": "Cibitoke",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2235,7 +2319,10 @@
         "ADM2_PCODE": "BDI005004",
         "ADM1_PCODE": "BDI005",
         "ADM1_EN": "Cibitoke",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2322,7 +2409,10 @@
         "ADM2_PCODE": "BDI005005",
         "ADM1_PCODE": "BDI005",
         "ADM1_EN": "Cibitoke",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2413,7 +2503,10 @@
         "ADM2_PCODE": "BDI005006",
         "ADM1_PCODE": "BDI005",
         "ADM1_EN": "Cibitoke",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2500,7 +2593,10 @@
         "ADM2_PCODE": "BDI006001",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2559,7 +2655,10 @@
         "ADM2_PCODE": "BDI006002",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2618,7 +2717,10 @@
         "ADM2_PCODE": "BDI006003",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2689,7 +2791,10 @@
         "ADM2_PCODE": "BDI006004",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2760,7 +2865,10 @@
         "ADM2_PCODE": "BDI006005",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2827,7 +2935,10 @@
         "ADM2_PCODE": "BDI006006",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2906,7 +3017,10 @@
         "ADM2_PCODE": "BDI006007",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2981,7 +3095,10 @@
         "ADM2_PCODE": "BDI006008",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3044,7 +3161,10 @@
         "ADM2_PCODE": "BDI006009",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3115,7 +3235,10 @@
         "ADM2_PCODE": "BDI006010",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3194,7 +3317,10 @@
         "ADM2_PCODE": "BDI006011",
         "ADM1_PCODE": "BDI006",
         "ADM1_EN": "Gitega",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3261,7 +3387,10 @@
         "ADM2_PCODE": "BDI007001",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3332,7 +3461,10 @@
         "ADM2_PCODE": "BDI007002",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3407,7 +3539,10 @@
         "ADM2_PCODE": "BDI007003",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3478,7 +3613,10 @@
         "ADM2_PCODE": "BDI007004",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3537,7 +3675,10 @@
         "ADM2_PCODE": "BDI007005",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3612,7 +3753,10 @@
         "ADM2_PCODE": "BDI007006",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3683,7 +3827,10 @@
         "ADM2_PCODE": "BDI007007",
         "ADM1_PCODE": "BDI007",
         "ADM1_EN": "Karuzi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3758,7 +3905,10 @@
         "ADM2_PCODE": "BDI008001",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3817,7 +3967,10 @@
         "ADM2_PCODE": "BDI008002",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3872,7 +4025,10 @@
         "ADM2_PCODE": "BDI008003",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3943,7 +4099,10 @@
         "ADM2_PCODE": "BDI008004",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4014,7 +4173,10 @@
         "ADM2_PCODE": "BDI008005",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4073,7 +4235,10 @@
         "ADM2_PCODE": "BDI008006",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4140,7 +4305,10 @@
         "ADM2_PCODE": "BDI008007",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4199,7 +4367,10 @@
         "ADM2_PCODE": "BDI008008",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4242,7 +4413,10 @@
         "ADM2_PCODE": "BDI008009",
         "ADM1_PCODE": "BDI008",
         "ADM1_EN": "Kayanza",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4313,7 +4487,10 @@
         "ADM2_PCODE": "BDI009001",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4368,7 +4545,10 @@
         "ADM2_PCODE": "BDI009002",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4443,7 +4623,10 @@
         "ADM2_PCODE": "BDI009003",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4502,7 +4685,10 @@
         "ADM2_PCODE": "BDI009004",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4557,7 +4743,10 @@
         "ADM2_PCODE": "BDI009005",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4640,7 +4829,10 @@
         "ADM2_PCODE": "BDI009006",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4703,7 +4895,10 @@
         "ADM2_PCODE": "BDI009007",
         "ADM1_PCODE": "BDI009",
         "ADM1_EN": "Kirundo",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4798,7 +4993,10 @@
         "ADM2_PCODE": "BDI010001",
         "ADM1_PCODE": "BDI010",
         "ADM1_EN": "Makamba",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4901,7 +5099,10 @@
         "ADM2_PCODE": "BDI010002",
         "ADM1_PCODE": "BDI010",
         "ADM1_EN": "Makamba",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4992,7 +5193,10 @@
         "ADM2_PCODE": "BDI010003",
         "ADM1_PCODE": "BDI010",
         "ADM1_EN": "Makamba",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5083,7 +5287,10 @@
         "ADM2_PCODE": "BDI010004",
         "ADM1_PCODE": "BDI010",
         "ADM1_EN": "Makamba",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5186,7 +5393,10 @@
         "ADM2_PCODE": "BDI010005",
         "ADM1_PCODE": "BDI010",
         "ADM1_EN": "Makamba",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5277,7 +5487,10 @@
         "ADM2_PCODE": "BDI010006",
         "ADM1_PCODE": "BDI010",
         "ADM1_EN": "Makamba",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5344,7 +5557,10 @@
         "ADM2_PCODE": "BDI011001",
         "ADM1_PCODE": "BDI011",
         "ADM1_EN": "Muramvya",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5431,7 +5647,10 @@
         "ADM2_PCODE": "BDI011002",
         "ADM1_PCODE": "BDI011",
         "ADM1_EN": "Muramvya",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5490,7 +5709,10 @@
         "ADM2_PCODE": "BDI011003",
         "ADM1_PCODE": "BDI011",
         "ADM1_EN": "Muramvya",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5541,7 +5763,10 @@
         "ADM2_PCODE": "BDI011004",
         "ADM1_PCODE": "BDI011",
         "ADM1_EN": "Muramvya",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5616,7 +5841,10 @@
         "ADM2_PCODE": "BDI011005",
         "ADM1_PCODE": "BDI011",
         "ADM1_EN": "Muramvya",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5663,7 +5891,10 @@
         "ADM2_PCODE": "BDI012001",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5754,7 +5985,10 @@
         "ADM2_PCODE": "BDI012002",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5825,7 +6059,10 @@
         "ADM2_PCODE": "BDI012003",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5892,7 +6129,10 @@
         "ADM2_PCODE": "BDI012004",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5979,7 +6219,10 @@
         "ADM2_PCODE": "BDI012005",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6066,7 +6309,10 @@
         "ADM2_PCODE": "BDI012006",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6181,7 +6427,10 @@
         "ADM2_PCODE": "BDI012007",
         "ADM1_PCODE": "BDI012",
         "ADM1_EN": "Muyinga",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6260,7 +6509,10 @@
         "ADM2_PCODE": "BDI013001",
         "ADM1_PCODE": "BDI013",
         "ADM1_EN": "Mwaro",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6331,7 +6583,10 @@
         "ADM2_PCODE": "BDI013002",
         "ADM1_PCODE": "BDI013",
         "ADM1_EN": "Mwaro",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6410,7 +6665,10 @@
         "ADM2_PCODE": "BDI013003",
         "ADM1_PCODE": "BDI013",
         "ADM1_EN": "Mwaro",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6493,7 +6751,10 @@
         "ADM2_PCODE": "BDI013004",
         "ADM1_PCODE": "BDI013",
         "ADM1_EN": "Mwaro",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6584,7 +6845,10 @@
         "ADM2_PCODE": "BDI013005",
         "ADM1_PCODE": "BDI013",
         "ADM1_EN": "Mwaro",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6655,7 +6919,10 @@
         "ADM2_PCODE": "BDI013006",
         "ADM1_PCODE": "BDI013",
         "ADM1_EN": "Mwaro",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6738,7 +7005,10 @@
         "ADM2_PCODE": "BDI014001",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6805,7 +7075,10 @@
         "ADM2_PCODE": "BDI014002",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6860,7 +7133,10 @@
         "ADM2_PCODE": "BDI014003",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -6935,7 +7211,10 @@
         "ADM2_PCODE": "BDI014004",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7002,7 +7281,10 @@
         "ADM2_PCODE": "BDI014005",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7057,7 +7339,10 @@
         "ADM2_PCODE": "BDI014006",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7116,7 +7401,10 @@
         "ADM2_PCODE": "BDI014007",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7171,7 +7459,10 @@
         "ADM2_PCODE": "BDI014008",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7242,7 +7533,10 @@
         "ADM2_PCODE": "BDI014009",
         "ADM1_PCODE": "BDI014",
         "ADM1_EN": "Ngozi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7321,7 +7615,10 @@
         "ADM2_PCODE": "BDI015001",
         "ADM1_PCODE": "BDI015",
         "ADM1_EN": "Rutana",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7396,7 +7693,10 @@
         "ADM2_PCODE": "BDI015002",
         "ADM1_PCODE": "BDI015",
         "ADM1_EN": "Rutana",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7503,7 +7803,10 @@
         "ADM2_PCODE": "BDI015003",
         "ADM1_PCODE": "BDI015",
         "ADM1_EN": "Rutana",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7598,7 +7901,10 @@
         "ADM2_PCODE": "BDI015004",
         "ADM1_PCODE": "BDI015",
         "ADM1_EN": "Rutana",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7673,7 +7979,10 @@
         "ADM2_PCODE": "BDI015005",
         "ADM1_PCODE": "BDI015",
         "ADM1_EN": "Rutana",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7752,7 +8061,10 @@
         "ADM2_PCODE": "BDI015006",
         "ADM1_PCODE": "BDI015",
         "ADM1_EN": "Rutana",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7839,7 +8151,10 @@
         "ADM2_PCODE": "BDI016001",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7922,7 +8237,10 @@
         "ADM2_PCODE": "BDI016002",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8005,7 +8323,10 @@
         "ADM2_PCODE": "BDI016003",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8112,7 +8433,10 @@
         "ADM2_PCODE": "BDI016004",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8215,7 +8539,10 @@
         "ADM2_PCODE": "BDI016005",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8302,7 +8629,10 @@
         "ADM2_PCODE": "BDI016006",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8389,7 +8719,10 @@
         "ADM2_PCODE": "BDI016007",
         "ADM1_PCODE": "BDI016",
         "ADM1_EN": "Ruyigi",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8464,7 +8797,10 @@
         "ADM2_PCODE": "BDI017014",
         "ADM1_PCODE": "BDI017",
         "ADM1_EN": "Bujumbura Mairie",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8523,7 +8859,10 @@
         "ADM2_PCODE": "BDI017015",
         "ADM1_PCODE": "BDI017",
         "ADM1_EN": "Bujumbura Mairie",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8566,7 +8905,10 @@
         "ADM2_PCODE": "BDI017016",
         "ADM1_PCODE": "BDI017",
         "ADM1_EN": "Bujumbura Mairie",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8633,7 +8975,10 @@
         "ADM2_PCODE": "BDI018001",
         "ADM1_PCODE": "BDI018",
         "ADM1_EN": "Rumonge",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8716,7 +9061,10 @@
         "ADM2_PCODE": "BDI018002",
         "ADM1_PCODE": "BDI018",
         "ADM1_EN": "Rumonge",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8791,7 +9139,10 @@
         "ADM2_PCODE": "BDI018003",
         "ADM1_PCODE": "BDI018",
         "ADM1_EN": "Rumonge",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8866,7 +9217,10 @@
         "ADM2_PCODE": "BDI018004",
         "ADM1_PCODE": "BDI018",
         "ADM1_EN": "Rumonge",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -8929,7 +9283,10 @@
         "ADM2_PCODE": "BDI018005",
         "ADM1_PCODE": "BDI018",
         "ADM1_EN": "Rumonge",
-        "ADM0_PCODE": "BD"
+        "ADM0_PCODE": "BD",
+        "ADM0_ISO_A2": "BD",
+        "ADM0_ISO_A3": "BGD",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

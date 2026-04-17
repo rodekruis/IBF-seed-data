@@ -15,7 +15,10 @@
         "ADM2_PCODE": "GM0101",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -54,7 +57,10 @@
         "ADM2_PCODE": "GM0102",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -93,7 +99,10 @@
         "ADM2_PCODE": "GM0103",
         "ADM1_PCODE": "GM01",
         "ADM1_EN": "Banjul City Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -136,7 +145,10 @@
         "ADM2_PCODE": "GM0201",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -203,7 +215,10 @@
         "ADM2_PCODE": "GM0202",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -286,7 +301,10 @@
         "ADM2_PCODE": "GM0203",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -385,7 +403,10 @@
         "ADM2_PCODE": "GM0204",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -468,7 +489,10 @@
         "ADM2_PCODE": "GM0205",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -563,7 +587,10 @@
         "ADM2_PCODE": "GM0206",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -642,7 +669,10 @@
         "ADM2_PCODE": "GM0207",
         "ADM1_PCODE": "GM02",
         "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -737,7 +767,10 @@
         "ADM2_PCODE": "GM0301",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -828,7 +861,10 @@
         "ADM2_PCODE": "GM0302",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -895,7 +931,10 @@
         "ADM2_PCODE": "GM0303",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -958,7 +997,10 @@
         "ADM2_PCODE": "GM0304",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1013,7 +1055,10 @@
         "ADM2_PCODE": "GM0305",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1124,7 +1169,10 @@
         "ADM2_PCODE": "GM0306",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1179,7 +1227,10 @@
         "ADM2_PCODE": "GM0307",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1246,7 +1297,10 @@
         "ADM2_PCODE": "GM0308",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1433,7 +1487,10 @@
         "ADM2_PCODE": "GM0309",
         "ADM1_PCODE": "GM03",
         "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1536,7 +1593,10 @@
         "ADM2_PCODE": "GM0401",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1615,7 +1675,10 @@
         "ADM2_PCODE": "GM0402",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1654,7 +1717,10 @@
         "ADM2_PCODE": "GM0403",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1713,7 +1779,10 @@
         "ADM2_PCODE": "GM0404",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1784,7 +1853,10 @@
         "ADM2_PCODE": "GM0405",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1863,7 +1935,10 @@
         "ADM2_PCODE": "GM0406",
         "ADM1_PCODE": "GM04",
         "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1974,7 +2049,10 @@
         "ADM2_PCODE": "GM0501",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2099,10 @@
         "ADM2_PCODE": "GM0502",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2064,7 +2145,10 @@
         "ADM2_PCODE": "GM0503",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2107,7 +2191,10 @@
         "ADM2_PCODE": "GM0504",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2146,7 +2233,10 @@
         "ADM2_PCODE": "GM0505",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2193,7 +2283,10 @@
         "ADM2_PCODE": "GM0506",
         "ADM1_PCODE": "GM05",
         "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2232,7 +2325,10 @@
         "ADM2_PCODE": "GM0601",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2295,7 +2391,10 @@
         "ADM2_PCODE": "GM0602",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2370,7 +2469,10 @@
         "ADM2_PCODE": "GM0603",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2425,7 +2527,10 @@
         "ADM2_PCODE": "GM0604",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2484,7 +2589,10 @@
         "ADM2_PCODE": "GM0605",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2559,7 +2667,10 @@
         "ADM2_PCODE": "GM0606",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2634,7 +2745,10 @@
         "ADM2_PCODE": "GM0607",
         "ADM1_PCODE": "GM06",
         "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2717,7 +2831,10 @@
         "ADM2_PCODE": "GM0701",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2780,7 +2897,10 @@
         "ADM2_PCODE": "GM0702",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2891,7 +3011,10 @@
         "ADM2_PCODE": "GM0703",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2954,7 +3077,10 @@
         "ADM2_PCODE": "GM0704",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3073,7 +3199,10 @@
         "ADM2_PCODE": "GM0705",
         "ADM1_PCODE": "GM07",
         "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3160,7 +3289,10 @@
         "ADM2_PCODE": "GM0801",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3215,7 +3347,10 @@
         "ADM2_PCODE": "GM0802",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3290,7 +3425,10 @@
         "ADM2_PCODE": "GM0803",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3357,7 +3495,10 @@
         "ADM2_PCODE": "GM0804",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3404,7 +3545,10 @@
         "ADM2_PCODE": "GM0805",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",
@@ -3459,7 +3603,10 @@
         "ADM2_PCODE": "GM0806",
         "ADM1_PCODE": "GM08",
         "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "POPULATION": null
       },
       "geometry": {
         "type": "Polygon",

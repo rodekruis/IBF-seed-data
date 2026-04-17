@@ -1215,7 +1215,10 @@
         "ADM1_EN": "Ilocos Region",
         "HRNAME": "Ilocos Region",
         "HRPCODE": "PH010000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -2344,7 +2347,10 @@
         "ADM1_EN": "Northern Mindanao",
         "HRNAME": "Northern Mindanao",
         "HRPCODE": "PH100000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -3785,7 +3791,10 @@
         "ADM1_EN": "Davao Region",
         "HRNAME": "Davao Region",
         "HRPCODE": "PH110000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -4866,7 +4875,10 @@
         "ADM1_EN": "SOCCSKSARGEN",
         "HRNAME": "SOCCSKSARGEN",
         "HRPCODE": "PH120000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -6259,7 +6271,10 @@
         "ADM1_EN": "Cagayan Valley",
         "HRNAME": "Cagayan Valley",
         "HRPCODE": "PH020000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -7500,7 +7515,10 @@
         "ADM1_EN": "Central Luzon",
         "HRNAME": "Central Luzon",
         "HRPCODE": "PH030000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -9667,7 +9685,10 @@
         "ADM1_EN": "CALABARZON",
         "HRNAME": "CALABARZON",
         "HRPCODE": "PH040000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -14106,7 +14127,10 @@
         "ADM1_EN": "MIMAROPA",
         "HRNAME": "MIMAROPA",
         "HRPCODE": "PH170000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -16687,7 +16711,10 @@
         "ADM1_EN": "Bicol Region",
         "HRNAME": "Bicol Region",
         "HRPCODE": "PH050000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -18360,7 +18387,10 @@
         "ADM1_EN": "Western Visayas",
         "HRNAME": "Western Visayas",
         "HRPCODE": "PH060000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -20129,7 +20159,10 @@
         "ADM1_EN": "Central Visayas",
         "HRNAME": "Central Visayas",
         "HRPCODE": "PH070000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -22610,7 +22643,10 @@
         "ADM1_EN": "Eastern Visayas",
         "HRNAME": "Eastern Visayas",
         "HRPCODE": "PH080000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -23845,7 +23881,10 @@
         "ADM1_EN": "Zamboanga Peninsula",
         "HRNAME": "Zamboanga Peninsula",
         "HRPCODE": "PH090000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -26874,7 +26913,10 @@
         "ADM1_EN": "Autonomous Region in Muslim Mindanao",
         "HRNAME": "Autonomous Region in Muslim Mindanao",
         "HRPCODE": "PH150000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -27507,7 +27549,10 @@
         "ADM1_EN": "Cordillera Administrative Region",
         "HRNAME": "Cordillera Administrative Region",
         "HRPCODE": "PH140000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -29126,7 +29171,10 @@
         "ADM1_EN": "Caraga",
         "HRNAME": "Caraga",
         "HRPCODE": "PH160000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     },
     {
@@ -29635,7 +29683,10 @@
         "ADM1_EN": "National Capital Region",
         "HRNAME": "National Capital Region",
         "HRPCODE": "PH130000000",
-        "ADM0_PCODE": "PH"
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
+        "POPULATION": null
       }
     }
   ]

@@ -12,7 +12,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM1_PCODE": "KM1"
+        "ADM1_PCODE": "KM1",
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -308,7 +312,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM1_PCODE": "KM2"
+        "ADM1_PCODE": "KM2",
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -428,7 +436,11 @@
       "type": "Feature",
       "properties": {
         "ADM1_EN": "Mohéli (Mwali)",
-        "ADM1_PCODE": "KM3"
+        "ADM1_PCODE": "KM3",
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "POPULATION": null
       },
       "geometry": {
         "type": "MultiPolygon",
