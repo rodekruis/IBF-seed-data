@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "LBY_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "East",
-        "ADM1_PCODE": "LY01"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1690,14 +1679,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "ADM1_EN": "East",
+        "ADM1_PCODE": "LY01"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "West",
-        "ADM1_PCODE": "LY02"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3438,14 +3430,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "ADM1_EN": "West",
+        "ADM1_PCODE": "LY02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "South",
-        "ADM1_PCODE": "LY03"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3874,6 +3869,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "LY",
+        "ADM0_ISO_A2": "LY",
+        "ADM0_ISO_A3": "LBY",
+        "ADM1_EN": "South",
+        "ADM1_PCODE": "LY03"
       }
     }
   ]

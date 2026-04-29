@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "GNQ_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mabana",
-        "ADM2_PCODE": "GQ198001",
-        "ADM1_PCODE": "GQ198",
-        "ADM1_EN": "Annobón",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -241,17 +227,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Annobón",
+        "ADM1_PCODE": "GQ198",
+        "ADM2_EN": "Mabana",
+        "ADM2_PCODE": "GQ198001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "San Antonio de Palé",
-        "ADM2_PCODE": "GQ198002",
-        "ADM1_PCODE": "GQ198",
-        "ADM1_EN": "Annobón",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -928,17 +916,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Annobón",
+        "ADM1_PCODE": "GQ198",
+        "ADM2_EN": "San Antonio de Palé",
+        "ADM2_PCODE": "GQ198002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Baney",
-        "ADM2_PCODE": "GQ199001",
-        "ADM1_PCODE": "GQ199",
-        "ADM1_EN": "Bioko Norte",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1067,17 +1057,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Norte",
+        "ADM1_PCODE": "GQ199",
+        "ADM2_EN": "Baney",
+        "ADM2_PCODE": "GQ199001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Malabo",
-        "ADM2_PCODE": "GQ199002",
-        "ADM1_PCODE": "GQ199",
-        "ADM1_EN": "Bioko Norte",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1186,17 +1178,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Norte",
+        "ADM1_PCODE": "GQ199",
+        "ADM2_EN": "Malabo",
+        "ADM2_PCODE": "GQ199002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rebola",
-        "ADM2_PCODE": "GQ199003",
-        "ADM1_PCODE": "GQ199",
-        "ADM1_EN": "Bioko Norte",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1433,17 +1427,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Norte",
+        "ADM1_PCODE": "GQ199",
+        "ADM2_EN": "Rebola",
+        "ADM2_PCODE": "GQ199003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luba",
-        "ADM2_PCODE": "GQ200001",
-        "ADM1_PCODE": "GQ200",
-        "ADM1_EN": "Bioko Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2208,17 +2204,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Sur",
+        "ADM1_PCODE": "GQ200",
+        "ADM2_EN": "Luba",
+        "ADM2_PCODE": "GQ200001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Riaba",
-        "ADM2_PCODE": "GQ200002",
-        "ADM1_PCODE": "GQ200",
-        "ADM1_EN": "Bioko Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2543,17 +2541,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Sur",
+        "ADM1_PCODE": "GQ200",
+        "ADM2_EN": "Riaba",
+        "ADM2_PCODE": "GQ200002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Acurenam",
-        "ADM2_PCODE": "GQ201001",
-        "ADM1_PCODE": "GQ201",
-        "ADM1_EN": "Centro Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2690,17 +2690,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Centro Sur",
+        "ADM1_PCODE": "GQ201",
+        "ADM2_EN": "Acurenam",
+        "ADM2_PCODE": "GQ201001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bicurga",
-        "ADM2_PCODE": "GQ201002",
-        "ADM1_PCODE": "GQ201",
-        "ADM1_EN": "Centro Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2793,17 +2795,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Centro Sur",
+        "ADM1_PCODE": "GQ201",
+        "ADM2_EN": "Bicurga",
+        "ADM2_PCODE": "GQ201002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Evinayong",
-        "ADM2_PCODE": "GQ201003",
-        "ADM1_PCODE": "GQ201",
-        "ADM1_EN": "Centro Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3020,17 +3024,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Centro Sur",
+        "ADM1_PCODE": "GQ201",
+        "ADM2_EN": "Evinayong",
+        "ADM2_PCODE": "GQ201003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niefang",
-        "ADM2_PCODE": "GQ201004",
-        "ADM1_PCODE": "GQ201",
-        "ADM1_EN": "Centro Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3155,17 +3161,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Centro Sur",
+        "ADM1_PCODE": "GQ201",
+        "ADM2_EN": "Niefang",
+        "ADM2_PCODE": "GQ201004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkimi",
-        "ADM2_PCODE": "GQ201005",
-        "ADM1_PCODE": "GQ201",
-        "ADM1_EN": "Centro Sur",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3234,17 +3242,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Centro Sur",
+        "ADM1_PCODE": "GQ201",
+        "ADM2_EN": "Nkimi",
+        "ADM2_PCODE": "GQ201005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bidjabidjan",
-        "ADM2_PCODE": "GQ202001",
-        "ADM1_PCODE": "GQ202",
-        "ADM1_EN": "Kié-Ntem",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3293,17 +3303,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202",
+        "ADM2_EN": "Bidjabidjan",
+        "ADM2_PCODE": "GQ202001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ebebiyin",
-        "ADM2_PCODE": "GQ202002",
-        "ADM1_PCODE": "GQ202",
-        "ADM1_EN": "Kié-Ntem",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3344,17 +3356,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202",
+        "ADM2_EN": "Ebebiyin",
+        "ADM2_PCODE": "GQ202002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Micomeseng",
-        "ADM2_PCODE": "GQ202003",
-        "ADM1_PCODE": "GQ202",
-        "ADM1_EN": "Kié-Ntem",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3407,17 +3421,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202",
+        "ADM2_EN": "Micomeseng",
+        "ADM2_PCODE": "GQ202003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nasng",
-        "ADM2_PCODE": "GQ202004",
-        "ADM1_PCODE": "GQ202",
-        "ADM1_EN": "Kié-Ntem",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3474,17 +3490,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202",
+        "ADM2_EN": "Nasng",
+        "ADM2_PCODE": "GQ202004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkue",
-        "ADM2_PCODE": "GQ202005",
-        "ADM1_PCODE": "GQ202",
-        "ADM1_EN": "Kié-Ntem",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3533,17 +3551,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202",
+        "ADM2_EN": "Nkue",
+        "ADM2_PCODE": "GQ202005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nsok-Nsomo",
-        "ADM2_PCODE": "GQ202006",
-        "ADM1_PCODE": "GQ202",
-        "ADM1_EN": "Kié-Ntem",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3596,17 +3616,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202",
+        "ADM2_EN": "Nsok-Nsomo",
+        "ADM2_PCODE": "GQ202006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bata",
-        "ADM2_PCODE": "GQ203001",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3731,17 +3753,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Bata",
+        "ADM2_PCODE": "GQ203001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bitica",
-        "ADM2_PCODE": "GQ203002",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3830,17 +3854,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Bitica",
+        "ADM2_PCODE": "GQ203002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cogo",
-        "ADM2_PCODE": "GQ203003",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4065,17 +4091,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Cogo",
+        "ADM2_PCODE": "GQ203003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Corisco",
-        "ADM2_PCODE": "GQ203004",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4156,17 +4184,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Corisco",
+        "ADM2_PCODE": "GQ203004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Machinda",
-        "ADM2_PCODE": "GQ203005",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4271,17 +4301,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Machinda",
+        "ADM2_PCODE": "GQ203005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mbini",
-        "ADM2_PCODE": "GQ203006",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4418,17 +4450,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Mbini",
+        "ADM2_PCODE": "GQ203006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rio Campo",
-        "ADM2_PCODE": "GQ203007",
-        "ADM1_PCODE": "GQ203",
-        "ADM1_EN": "Litoral",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4489,17 +4523,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203",
+        "ADM2_EN": "Rio Campo",
+        "ADM2_PCODE": "GQ203007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aconibe",
-        "ADM2_PCODE": "GQ204001",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4560,17 +4596,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Aconibe",
+        "ADM2_PCODE": "GQ204001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Añisok",
-        "ADM2_PCODE": "GQ204002",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4663,17 +4701,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Añisok",
+        "ADM2_PCODE": "GQ204002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ayene",
-        "ADM2_PCODE": "GQ204003",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4746,17 +4786,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Ayene",
+        "ADM2_PCODE": "GQ204003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ciudad Nueva Oyala",
-        "ADM2_PCODE": "GQ204004",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4809,17 +4851,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Ciudad Nueva Oyala",
+        "ADM2_PCODE": "GQ204004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mongomeyen",
-        "ADM2_PCODE": "GQ204005",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4860,17 +4904,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Mongomeyen",
+        "ADM2_PCODE": "GQ204005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mongomo",
-        "ADM2_PCODE": "GQ204006",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4923,17 +4969,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Mongomo",
+        "ADM2_PCODE": "GQ204006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nsork",
-        "ADM2_PCODE": "GQ204007",
-        "ADM1_PCODE": "GQ204",
-        "ADM1_EN": "Wele-Nzas",
-        "ADM0_PCODE": "GQ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4974,6 +5022,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204",
+        "ADM2_EN": "Nsork",
+        "ADM2_PCODE": "GQ204007"
       }
     }
   ]

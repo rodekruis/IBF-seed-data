@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MOZ_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ancuabe",
-        "ADM2_PCODE": "MZ0101",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -257,17 +243,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Ancuabe",
+        "ADM2_PCODE": "MZ0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Balama",
-        "ADM2_PCODE": "MZ0102",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -512,17 +500,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Balama",
+        "ADM2_PCODE": "MZ0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chiure",
-        "ADM2_PCODE": "MZ0103",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -815,17 +805,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Chiure",
+        "ADM2_PCODE": "MZ0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Pemba",
-        "ADM2_PCODE": "MZ0104",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -914,17 +906,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Cidade De Pemba",
+        "ADM2_PCODE": "MZ0104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ibo",
-        "ADM2_PCODE": "MZ0105",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1321,17 +1315,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Ibo",
+        "ADM2_PCODE": "MZ0105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Macomia",
-        "ADM2_PCODE": "MZ0106",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2068,17 +2064,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Macomia",
+        "ADM2_PCODE": "MZ0106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mecufi",
-        "ADM2_PCODE": "MZ0107",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2199,17 +2197,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Mecufi",
+        "ADM2_PCODE": "MZ0107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Meluco",
-        "ADM2_PCODE": "MZ0108",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2470,17 +2470,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Meluco",
+        "ADM2_PCODE": "MZ0108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Metuge",
-        "ADM2_PCODE": "MZ0109",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3065,17 +3067,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Metuge",
+        "ADM2_PCODE": "MZ0109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mocimboa Da Praia",
-        "ADM2_PCODE": "MZ0110",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3844,17 +3848,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Mocimboa Da Praia",
+        "ADM2_PCODE": "MZ0110"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Montepuez",
-        "ADM2_PCODE": "MZ0111",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4275,17 +4281,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Montepuez",
+        "ADM2_PCODE": "MZ0111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mueda",
-        "ADM2_PCODE": "MZ0112",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4534,17 +4542,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Mueda",
+        "ADM2_PCODE": "MZ0112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Muidumbe",
-        "ADM2_PCODE": "MZ0113",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4673,17 +4683,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Muidumbe",
+        "ADM2_PCODE": "MZ0113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Namuno",
-        "ADM2_PCODE": "MZ0114",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4876,17 +4888,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Namuno",
+        "ADM2_PCODE": "MZ0114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nangade",
-        "ADM2_PCODE": "MZ0115",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4995,17 +5009,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Nangade",
+        "ADM2_PCODE": "MZ0115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Palma",
-        "ADM2_PCODE": "MZ0116",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5638,17 +5654,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Palma",
+        "ADM2_PCODE": "MZ0116"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quissanga",
-        "ADM2_PCODE": "MZ0118",
-        "ADM1_PCODE": "MZ01",
-        "ADM1_EN": "Cabo Delgado",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7777,17 +7795,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Cabo Delgado",
+        "ADM1_PCODE": "MZ01",
+        "ADM2_EN": "Quissanga",
+        "ADM2_PCODE": "MZ0118"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bilene",
-        "ADM2_PCODE": "MZ0201",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7932,17 +7952,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Bilene",
+        "ADM2_PCODE": "MZ0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chibuto",
-        "ADM2_PCODE": "MZ0202",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8179,17 +8201,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Chibuto",
+        "ADM2_PCODE": "MZ0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chicualacuala",
-        "ADM2_PCODE": "MZ0203",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8418,17 +8442,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Chicualacuala",
+        "ADM2_PCODE": "MZ0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chigubo",
-        "ADM2_PCODE": "MZ0204",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8773,17 +8799,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Chigubo",
+        "ADM2_PCODE": "MZ0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chokwe",
-        "ADM2_PCODE": "MZ0205",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8968,17 +8996,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Chokwe",
+        "ADM2_PCODE": "MZ0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chongoene",
-        "ADM2_PCODE": "MZ0206",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9135,17 +9165,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Chongoene",
+        "ADM2_PCODE": "MZ0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Xai-Xai",
-        "ADM2_PCODE": "MZ0207",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9214,17 +9246,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Cidade De Xai-Xai",
+        "ADM2_PCODE": "MZ0207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guija",
-        "ADM2_PCODE": "MZ0208",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9365,17 +9399,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Guija",
+        "ADM2_PCODE": "MZ0208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Limpopo",
-        "ADM2_PCODE": "MZ0209",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9512,17 +9548,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Limpopo",
+        "ADM2_PCODE": "MZ0209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mabalane",
-        "ADM2_PCODE": "MZ0210",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9659,17 +9697,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Mabalane",
+        "ADM2_PCODE": "MZ0210"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mandlakaze",
-        "ADM2_PCODE": "MZ0211",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9866,17 +9906,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Mandlakaze",
+        "ADM2_PCODE": "MZ0211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mapai",
-        "ADM2_PCODE": "MZ0212",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10073,17 +10115,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Mapai",
+        "ADM2_PCODE": "MZ0212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Massangena",
-        "ADM2_PCODE": "MZ0213",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10288,17 +10332,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Massangena",
+        "ADM2_PCODE": "MZ0213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Massingir",
-        "ADM2_PCODE": "MZ0214",
-        "ADM1_PCODE": "MZ02",
-        "ADM1_EN": "Gaza",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10467,17 +10513,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Gaza",
+        "ADM1_PCODE": "MZ02",
+        "ADM2_EN": "Massingir",
+        "ADM2_PCODE": "MZ0214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Inhambane",
-        "ADM2_PCODE": "MZ0301",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11026,17 +11074,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Cidade De Inhambane",
+        "ADM2_PCODE": "MZ0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Funhalouro",
-        "ADM2_PCODE": "MZ0302",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11289,17 +11339,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Funhalouro",
+        "ADM2_PCODE": "MZ0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Govuro",
-        "ADM2_PCODE": "MZ0303",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11672,17 +11724,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Govuro",
+        "ADM2_PCODE": "MZ0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Homoine",
-        "ADM2_PCODE": "MZ0304",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11771,17 +11825,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Homoine",
+        "ADM2_PCODE": "MZ0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Inharrime",
-        "ADM2_PCODE": "MZ0305",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11950,17 +12006,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Inharrime",
+        "ADM2_PCODE": "MZ0305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Inhassoro",
-        "ADM2_PCODE": "MZ0306",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12189,17 +12247,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Inhassoro",
+        "ADM2_PCODE": "MZ0306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jangamo",
-        "ADM2_PCODE": "MZ0307",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12288,17 +12348,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Jangamo",
+        "ADM2_PCODE": "MZ0307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mabote",
-        "ADM2_PCODE": "MZ0308",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12627,17 +12689,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Mabote",
+        "ADM2_PCODE": "MZ0308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Massinga",
-        "ADM2_PCODE": "MZ0309",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13154,17 +13218,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Massinga",
+        "ADM2_PCODE": "MZ0309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maxixe",
-        "ADM2_PCODE": "MZ0310",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13321,17 +13387,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Maxixe",
+        "ADM2_PCODE": "MZ0310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Morrumbene",
-        "ADM2_PCODE": "MZ0311",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14764,17 +14832,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Morrumbene",
+        "ADM2_PCODE": "MZ0311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Panda",
-        "ADM2_PCODE": "MZ0312",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14979,17 +15049,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Panda",
+        "ADM2_PCODE": "MZ0312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Vilankulo",
-        "ADM2_PCODE": "MZ0313",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15310,17 +15382,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Vilankulo",
+        "ADM2_PCODE": "MZ0313"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zavala",
-        "ADM2_PCODE": "MZ0314",
-        "ADM1_PCODE": "MZ03",
-        "ADM1_EN": "Inhambane",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15437,17 +15511,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Inhambane",
+        "ADM1_PCODE": "MZ03",
+        "ADM2_EN": "Zavala",
+        "ADM2_PCODE": "MZ0314"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Barue",
-        "ADM2_PCODE": "MZ0401",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15772,17 +15848,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Barue",
+        "ADM2_PCODE": "MZ0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Chimoio",
-        "ADM2_PCODE": "MZ0402",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15823,17 +15901,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Cidade De Chimoio",
+        "ADM2_PCODE": "MZ0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gondola",
-        "ADM2_PCODE": "MZ0403",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16010,17 +16090,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Gondola",
+        "ADM2_PCODE": "MZ0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guro",
-        "ADM2_PCODE": "MZ0404",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16245,17 +16327,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Guro",
+        "ADM2_PCODE": "MZ0404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Macate",
-        "ADM2_PCODE": "MZ0405",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16472,17 +16556,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Macate",
+        "ADM2_PCODE": "MZ0405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Machaze",
-        "ADM2_PCODE": "MZ0406",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16823,17 +16909,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Machaze",
+        "ADM2_PCODE": "MZ0406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Macossa",
-        "ADM2_PCODE": "MZ0407",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17150,17 +17238,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Macossa",
+        "ADM2_PCODE": "MZ0407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Manica",
-        "ADM2_PCODE": "MZ0408",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17389,17 +17479,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Manica",
+        "ADM2_PCODE": "MZ0408"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mossurize",
-        "ADM2_PCODE": "MZ0409",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17660,17 +17752,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Mossurize",
+        "ADM2_PCODE": "MZ0409"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sussundenga",
-        "ADM2_PCODE": "MZ0410",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18007,17 +18101,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Sussundenga",
+        "ADM2_PCODE": "MZ0410"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tambara",
-        "ADM2_PCODE": "MZ0411",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18178,17 +18274,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Tambara",
+        "ADM2_PCODE": "MZ0411"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Vanduzi",
-        "ADM2_PCODE": "MZ0412",
-        "ADM1_PCODE": "MZ04",
-        "ADM1_EN": "Manica",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18409,17 +18507,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Manica",
+        "ADM1_PCODE": "MZ04",
+        "ADM2_EN": "Vanduzi",
+        "ADM2_PCODE": "MZ0412"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boane",
-        "ADM2_PCODE": "MZ0501",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18620,17 +18720,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Boane",
+        "ADM2_PCODE": "MZ0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade Da Matola",
-        "ADM2_PCODE": "MZ0502",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18691,17 +18793,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Cidade Da Matola",
+        "ADM2_PCODE": "MZ0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Magude",
-        "ADM2_PCODE": "MZ0503",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19022,17 +19126,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Magude",
+        "ADM2_PCODE": "MZ0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Manhiça",
-        "ADM2_PCODE": "MZ0504",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19193,17 +19299,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Manhiça",
+        "ADM2_PCODE": "MZ0504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Marracuene",
-        "ADM2_PCODE": "MZ0505",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19288,17 +19396,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Marracuene",
+        "ADM2_PCODE": "MZ0505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Matutuine",
-        "ADM2_PCODE": "MZ0506",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19679,17 +19789,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Matutuine",
+        "ADM2_PCODE": "MZ0506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Moamba",
-        "ADM2_PCODE": "MZ0507",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19918,17 +20030,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Moamba",
+        "ADM2_PCODE": "MZ0507"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Namaacha",
-        "ADM2_PCODE": "MZ0508",
-        "ADM1_PCODE": "MZ05",
-        "ADM1_EN": "Maputo",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20149,17 +20263,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo",
+        "ADM1_PCODE": "MZ05",
+        "ADM2_EN": "Namaacha",
+        "ADM2_PCODE": "MZ0508"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Maputo",
-        "ADM2_PCODE": "MZ0601",
-        "ADM1_PCODE": "MZ06",
-        "ADM1_EN": "Maputo City",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20388,17 +20504,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Maputo City",
+        "ADM1_PCODE": "MZ06",
+        "ADM2_EN": "Cidade De Maputo",
+        "ADM2_PCODE": "MZ0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Angoche",
-        "ADM2_PCODE": "MZ0701",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20743,17 +20861,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Angoche",
+        "ADM2_PCODE": "MZ0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Nampula",
-        "ADM2_PCODE": "MZ0702",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20814,17 +20934,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Cidade De Nampula",
+        "ADM2_PCODE": "MZ0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Erati",
-        "ADM2_PCODE": "MZ0703",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21109,17 +21231,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Erati",
+        "ADM2_PCODE": "MZ0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ilha De Moçambique",
-        "ADM2_PCODE": "MZ0704",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21288,17 +21412,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Ilha De Moçambique",
+        "ADM2_PCODE": "MZ0704"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lalaua",
-        "ADM2_PCODE": "MZ0705",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21539,17 +21665,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Lalaua",
+        "ADM2_PCODE": "MZ0705"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Larde",
-        "ADM2_PCODE": "MZ0706",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21710,17 +21838,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Larde",
+        "ADM2_PCODE": "MZ0706"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Liúpo",
-        "ADM2_PCODE": "MZ0707",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21893,17 +22023,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Liúpo",
+        "ADM2_PCODE": "MZ0707"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Malema",
-        "ADM2_PCODE": "MZ0708",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22176,17 +22308,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Malema",
+        "ADM2_PCODE": "MZ0708"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Meconta",
-        "ADM2_PCODE": "MZ0709",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22447,17 +22581,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Meconta",
+        "ADM2_PCODE": "MZ0709"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mecuburi",
-        "ADM2_PCODE": "MZ0710",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22706,17 +22842,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Mecuburi",
+        "ADM2_PCODE": "MZ0710"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Memba",
-        "ADM2_PCODE": "MZ0711",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -23277,17 +23415,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Memba",
+        "ADM2_PCODE": "MZ0711"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mogincual",
-        "ADM2_PCODE": "MZ0712",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23492,17 +23632,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Mogincual",
+        "ADM2_PCODE": "MZ0712"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mogovolas",
-        "ADM2_PCODE": "MZ0713",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23787,17 +23929,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Mogovolas",
+        "ADM2_PCODE": "MZ0713"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Moma",
-        "ADM2_PCODE": "MZ0714",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24034,17 +24178,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Moma",
+        "ADM2_PCODE": "MZ0714"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Monapo",
-        "ADM2_PCODE": "MZ0715",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24301,17 +24447,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Monapo",
+        "ADM2_PCODE": "MZ0715"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mossuril",
-        "ADM2_PCODE": "MZ0716",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -25000,17 +25148,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Mossuril",
+        "ADM2_PCODE": "MZ0716"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Muecate",
-        "ADM2_PCODE": "MZ0717",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25223,17 +25373,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Muecate",
+        "ADM2_PCODE": "MZ0717"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Murrupula",
-        "ADM2_PCODE": "MZ0718",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25418,17 +25570,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Murrupula",
+        "ADM2_PCODE": "MZ0718"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nacala",
-        "ADM2_PCODE": "MZ0719",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25489,17 +25643,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Nacala",
+        "ADM2_PCODE": "MZ0719"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nacala-A-Velha",
-        "ADM2_PCODE": "MZ0720",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25656,17 +25812,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Nacala-A-Velha",
+        "ADM2_PCODE": "MZ0720"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nacaroa",
-        "ADM2_PCODE": "MZ0721",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25875,17 +26033,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Nacaroa",
+        "ADM2_PCODE": "MZ0721"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rapale",
-        "ADM2_PCODE": "MZ0722",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26160,17 +26320,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Rapale",
+        "ADM2_PCODE": "MZ0722"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ribaue",
-        "ADM2_PCODE": "MZ0723",
-        "ADM1_PCODE": "MZ07",
-        "ADM1_EN": "Nampula",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26467,17 +26629,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Nampula",
+        "ADM1_PCODE": "MZ07",
+        "ADM2_EN": "Ribaue",
+        "ADM2_PCODE": "MZ0723"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chimbonila",
-        "ADM2_PCODE": "MZ0801",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26748,17 +26912,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Chimbonila",
+        "ADM2_PCODE": "MZ0801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Lichinga",
-        "ADM2_PCODE": "MZ0802",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26823,17 +26989,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Cidade De Lichinga",
+        "ADM2_PCODE": "MZ0802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuamba",
-        "ADM2_PCODE": "MZ0803",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27058,17 +27226,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Cuamba",
+        "ADM2_PCODE": "MZ0803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lago",
-        "ADM2_PCODE": "MZ0806",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -27385,17 +27555,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Lago",
+        "ADM2_PCODE": "MZ0806"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lago Niassa",
-        "ADM2_PCODE": "MZ0807",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27664,17 +27836,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Lago Niassa",
+        "ADM2_PCODE": "MZ0807"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Majune",
-        "ADM2_PCODE": "MZ0808",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28083,17 +28257,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Majune",
+        "ADM2_PCODE": "MZ0808"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mandimba",
-        "ADM2_PCODE": "MZ0809",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28286,17 +28462,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Mandimba",
+        "ADM2_PCODE": "MZ0809"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Marrupa",
-        "ADM2_PCODE": "MZ0810",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28761,17 +28939,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Marrupa",
+        "ADM2_PCODE": "MZ0810"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maua",
-        "ADM2_PCODE": "MZ0811",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29084,17 +29264,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Maua",
+        "ADM2_PCODE": "MZ0811"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mavago",
-        "ADM2_PCODE": "MZ0812",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29391,17 +29573,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Mavago",
+        "ADM2_PCODE": "MZ0812"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mecanhelas",
-        "ADM2_PCODE": "MZ0813",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29558,17 +29742,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Mecanhelas",
+        "ADM2_PCODE": "MZ0813"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mecula",
-        "ADM2_PCODE": "MZ0814",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29877,17 +30063,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Mecula",
+        "ADM2_PCODE": "MZ0814"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Metarica",
-        "ADM2_PCODE": "MZ0815",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30136,17 +30324,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Metarica",
+        "ADM2_PCODE": "MZ0815"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Muembe",
-        "ADM2_PCODE": "MZ0816",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30463,17 +30653,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Muembe",
+        "ADM2_PCODE": "MZ0816"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ngauma",
-        "ADM2_PCODE": "MZ0817",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30598,17 +30790,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Ngauma",
+        "ADM2_PCODE": "MZ0817"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nipepe",
-        "ADM2_PCODE": "MZ0818",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30849,17 +31043,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Nipepe",
+        "ADM2_PCODE": "MZ0818"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sanga",
-        "ADM2_PCODE": "MZ0819",
-        "ADM1_PCODE": "MZ08",
-        "ADM1_EN": "Niassa",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31344,17 +31540,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Niassa",
+        "ADM1_PCODE": "MZ08",
+        "ADM2_EN": "Sanga",
+        "ADM2_PCODE": "MZ0819"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Buzi",
-        "ADM2_PCODE": "MZ0901",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -31631,17 +31829,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Buzi",
+        "ADM2_PCODE": "MZ0901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caia",
-        "ADM2_PCODE": "MZ0902",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31810,17 +32010,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Caia",
+        "ADM2_PCODE": "MZ0902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chemba",
-        "ADM2_PCODE": "MZ0903",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31977,17 +32179,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Chemba",
+        "ADM2_PCODE": "MZ0903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cheringoma",
-        "ADM2_PCODE": "MZ0904",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32160,17 +32364,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Cheringoma",
+        "ADM2_PCODE": "MZ0904"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chibabava",
-        "ADM2_PCODE": "MZ0905",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32435,17 +32641,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Chibabava",
+        "ADM2_PCODE": "MZ0905"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade Da Beira",
-        "ADM2_PCODE": "MZ0906",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32506,17 +32714,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Cidade Da Beira",
+        "ADM2_PCODE": "MZ0906"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dondo",
-        "ADM2_PCODE": "MZ0907",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32753,17 +32963,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Dondo",
+        "ADM2_PCODE": "MZ0907"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gorongosa",
-        "ADM2_PCODE": "MZ0908",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33028,17 +33240,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Gorongosa",
+        "ADM2_PCODE": "MZ0908"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Machanga",
-        "ADM2_PCODE": "MZ0909",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -33355,17 +33569,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Machanga",
+        "ADM2_PCODE": "MZ0909"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maringue",
-        "ADM2_PCODE": "MZ0910",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33550,17 +33766,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Maringue",
+        "ADM2_PCODE": "MZ0910"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Marromeu",
-        "ADM2_PCODE": "MZ0911",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33733,17 +33951,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Marromeu",
+        "ADM2_PCODE": "MZ0911"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Muanza",
-        "ADM2_PCODE": "MZ0912",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33956,17 +34176,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Muanza",
+        "ADM2_PCODE": "MZ0912"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nhamatanda",
-        "ADM2_PCODE": "MZ0913",
-        "ADM1_PCODE": "MZ09",
-        "ADM1_EN": "Sofala",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34179,17 +34401,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Sofala",
+        "ADM1_PCODE": "MZ09",
+        "ADM2_EN": "Nhamatanda",
+        "ADM2_PCODE": "MZ0913"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Angonia",
-        "ADM2_PCODE": "MZ1001",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34398,17 +34622,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Angonia",
+        "ADM2_PCODE": "MZ1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cahora Bassa",
-        "ADM2_PCODE": "MZ1002",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34653,17 +34879,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Cahora Bassa",
+        "ADM2_PCODE": "MZ1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Changara",
-        "ADM2_PCODE": "MZ1003",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34948,17 +35176,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Changara",
+        "ADM2_PCODE": "MZ1003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chifunde",
-        "ADM2_PCODE": "MZ1004",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35231,17 +35461,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Chifunde",
+        "ADM2_PCODE": "MZ1004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chiuta",
-        "ADM2_PCODE": "MZ1005",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35482,17 +35714,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Chiuta",
+        "ADM2_PCODE": "MZ1005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Tete",
-        "ADM2_PCODE": "MZ1006",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35565,17 +35799,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Cidade De Tete",
+        "ADM2_PCODE": "MZ1006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Doa",
-        "ADM2_PCODE": "MZ1007",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35768,17 +36004,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Doa",
+        "ADM2_PCODE": "MZ1007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Macanga",
-        "ADM2_PCODE": "MZ1008",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -36079,17 +36317,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Macanga",
+        "ADM2_PCODE": "MZ1008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Magoe",
-        "ADM2_PCODE": "MZ1009",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -36342,17 +36582,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Magoe",
+        "ADM2_PCODE": "MZ1009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Marara",
-        "ADM2_PCODE": "MZ1010",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -36493,17 +36735,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Marara",
+        "ADM2_PCODE": "MZ1010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maravia",
-        "ADM2_PCODE": "MZ1011",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -36752,17 +36996,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Maravia",
+        "ADM2_PCODE": "MZ1011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Moatize",
-        "ADM2_PCODE": "MZ1012",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37083,17 +37329,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Moatize",
+        "ADM2_PCODE": "MZ1012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mutarara",
-        "ADM2_PCODE": "MZ1013",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37330,17 +37578,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Mutarara",
+        "ADM2_PCODE": "MZ1013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tsangano",
-        "ADM2_PCODE": "MZ1014",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37573,17 +37823,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Tsangano",
+        "ADM2_PCODE": "MZ1014"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zumbu",
-        "ADM2_PCODE": "MZ1015",
-        "ADM1_PCODE": "MZ10",
-        "ADM1_EN": "Tete",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37772,17 +38024,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Tete",
+        "ADM1_PCODE": "MZ10",
+        "ADM2_EN": "Zumbu",
+        "ADM2_PCODE": "MZ1015"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Alto Molocue",
-        "ADM2_PCODE": "MZ1101",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38095,17 +38349,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Alto Molocue",
+        "ADM2_PCODE": "MZ1101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chinde",
-        "ADM2_PCODE": "MZ1102",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -38638,17 +38894,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Chinde",
+        "ADM2_PCODE": "MZ1102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cidade De Quelimane",
-        "ADM2_PCODE": "MZ1103",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38697,17 +38955,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Cidade De Quelimane",
+        "ADM2_PCODE": "MZ1103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Derre",
-        "ADM2_PCODE": "MZ1104",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38908,17 +39168,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Derre",
+        "ADM2_PCODE": "MZ1104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gile",
-        "ADM2_PCODE": "MZ1105",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39319,17 +39581,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Gile",
+        "ADM2_PCODE": "MZ1105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gurue",
-        "ADM2_PCODE": "MZ1106",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39586,17 +39850,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Gurue",
+        "ADM2_PCODE": "MZ1106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ile",
-        "ADM2_PCODE": "MZ1107",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39781,17 +40047,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Ile",
+        "ADM2_PCODE": "MZ1107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Inhassunge",
-        "ADM2_PCODE": "MZ1108",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -39932,17 +40200,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Inhassunge",
+        "ADM2_PCODE": "MZ1108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luabo",
-        "ADM2_PCODE": "MZ1109",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40095,17 +40365,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Luabo",
+        "ADM2_PCODE": "MZ1109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lugela",
-        "ADM2_PCODE": "MZ1110",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40362,17 +40634,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Lugela",
+        "ADM2_PCODE": "MZ1110"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maganja Da Costa",
-        "ADM2_PCODE": "MZ1111",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40593,17 +40867,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Maganja Da Costa",
+        "ADM2_PCODE": "MZ1111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maquival",
-        "ADM2_PCODE": "MZ1112",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40732,17 +41008,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Maquival",
+        "ADM2_PCODE": "MZ1112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Milange",
-        "ADM2_PCODE": "MZ1113",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40979,17 +41257,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Milange",
+        "ADM2_PCODE": "MZ1113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mocuba",
-        "ADM2_PCODE": "MZ1114",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41394,17 +41674,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Mocuba",
+        "ADM2_PCODE": "MZ1114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mocubela",
-        "ADM2_PCODE": "MZ1115",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -41745,17 +42027,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Mocubela",
+        "ADM2_PCODE": "MZ1115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Molumbo",
-        "ADM2_PCODE": "MZ1116",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41936,17 +42220,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Molumbo",
+        "ADM2_PCODE": "MZ1116"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mopeia",
-        "ADM2_PCODE": "MZ1117",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42235,17 +42521,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Mopeia",
+        "ADM2_PCODE": "MZ1117"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Morrumbala",
-        "ADM2_PCODE": "MZ1118",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42582,17 +42870,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Morrumbala",
+        "ADM2_PCODE": "MZ1118"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mulevala",
-        "ADM2_PCODE": "MZ1119",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42793,17 +43083,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Mulevala",
+        "ADM2_PCODE": "MZ1119"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Namacurra",
-        "ADM2_PCODE": "MZ1120",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43004,17 +43296,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Namacurra",
+        "ADM2_PCODE": "MZ1120"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Namarroi",
-        "ADM2_PCODE": "MZ1121",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43231,17 +43525,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Namarroi",
+        "ADM2_PCODE": "MZ1121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nicoadala",
-        "ADM2_PCODE": "MZ1122",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43442,17 +43738,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Nicoadala",
+        "ADM2_PCODE": "MZ1122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pebane",
-        "ADM2_PCODE": "MZ1123",
-        "ADM1_PCODE": "MZ11",
-        "ADM1_EN": "Zambezia",
-        "ADM0_PCODE": "MZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -43841,6 +44139,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MZ",
+        "ADM0_ISO_A2": "MZ",
+        "ADM0_ISO_A3": "MOZ",
+        "ADM1_EN": "Zambezia",
+        "ADM1_PCODE": "MZ11",
+        "ADM2_EN": "Pebane",
+        "ADM2_PCODE": "MZ1123"
       }
     }
   ]

@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "AGO_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ambriz",
-        "ADM2_PCODE": "AO01001",
-        "ADM1_PCODE": "AO01",
-        "ADM1_EN": "Bengo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -137,17 +123,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bengo",
+        "ADM1_PCODE": "AO01",
+        "ADM2_EN": "Ambriz",
+        "ADM2_PCODE": "AO01001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dande",
-        "ADM2_PCODE": "AO01002",
-        "ADM1_PCODE": "AO01",
-        "ADM1_EN": "Bengo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -360,17 +348,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bengo",
+        "ADM1_PCODE": "AO01",
+        "ADM2_EN": "Dande",
+        "ADM2_PCODE": "AO01002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nambuangongo",
-        "ADM2_PCODE": "AO01005",
-        "ADM1_PCODE": "AO01",
-        "ADM1_EN": "Bengo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -503,17 +493,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bengo",
+        "ADM1_PCODE": "AO01",
+        "ADM2_EN": "Nambuangongo",
+        "ADM2_PCODE": "AO01005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bula-Atumba",
-        "ADM2_PCODE": "AO01040",
-        "ADM1_PCODE": "AO01",
-        "ADM1_EN": "Bengo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -598,17 +590,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bengo",
+        "ADM1_PCODE": "AO01",
+        "ADM2_EN": "Bula-Atumba",
+        "ADM2_PCODE": "AO01040"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dembos-Quibaxe",
-        "ADM2_PCODE": "AO01043",
-        "ADM1_PCODE": "AO01",
-        "ADM1_EN": "Bengo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -689,17 +683,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bengo",
+        "ADM1_PCODE": "AO01",
+        "ADM2_EN": "Dembos-Quibaxe",
+        "ADM2_PCODE": "AO01043"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pango-Aluquém",
-        "ADM2_PCODE": "AO01047",
-        "ADM1_PCODE": "AO01",
-        "ADM1_EN": "Bengo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -772,17 +768,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bengo",
+        "ADM1_PCODE": "AO01",
+        "ADM2_EN": "Pango-Aluquém",
+        "ADM2_PCODE": "AO01047"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Baía Farta",
-        "ADM2_PCODE": "AO02006",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1127,17 +1125,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Baía Farta",
+        "ADM2_PCODE": "AO02006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Balombo",
-        "ADM2_PCODE": "AO02007",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1238,17 +1238,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Balombo",
+        "ADM2_PCODE": "AO02007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Benguela",
-        "ADM2_PCODE": "AO02008",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1365,17 +1367,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Benguela",
+        "ADM2_PCODE": "AO02008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bocoio",
-        "ADM2_PCODE": "AO02009",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1512,17 +1516,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Bocoio",
+        "ADM2_PCODE": "AO02009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caimbambo",
-        "ADM2_PCODE": "AO02010",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1643,17 +1649,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Caimbambo",
+        "ADM2_PCODE": "AO02010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chongoroi",
-        "ADM2_PCODE": "AO02011",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1822,17 +1830,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Chongoroi",
+        "ADM2_PCODE": "AO02011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cubal",
-        "ADM2_PCODE": "AO02012",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1961,17 +1971,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Cubal",
+        "ADM2_PCODE": "AO02012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ganda",
-        "ADM2_PCODE": "AO02013",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2132,17 +2144,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Ganda",
+        "ADM2_PCODE": "AO02013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lobito",
-        "ADM2_PCODE": "AO02014",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2283,17 +2297,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Lobito",
+        "ADM2_PCODE": "AO02014"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Catumbela",
-        "ADM2_PCODE": "AO02164",
-        "ADM1_PCODE": "AO02",
-        "ADM1_EN": "Benguela",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2370,17 +2386,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Benguela",
+        "ADM1_PCODE": "AO02",
+        "ADM2_EN": "Catumbela",
+        "ADM2_PCODE": "AO02164"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Andulo",
-        "ADM2_PCODE": "AO03015",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2613,17 +2631,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Andulo",
+        "ADM2_PCODE": "AO03015"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Camacupa",
-        "ADM2_PCODE": "AO03016",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2868,17 +2888,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Camacupa",
+        "ADM2_PCODE": "AO03016"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Catabola",
-        "ADM2_PCODE": "AO03017",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2987,17 +3009,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Catabola",
+        "ADM2_PCODE": "AO03017"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chinguar",
-        "ADM2_PCODE": "AO03018",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3118,17 +3142,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Chinguar",
+        "ADM2_PCODE": "AO03018"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chitembo",
-        "ADM2_PCODE": "AO03019",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3413,17 +3439,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Chitembo",
+        "ADM2_PCODE": "AO03019"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuemba",
-        "ADM2_PCODE": "AO03020",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3728,17 +3756,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Cuemba",
+        "ADM2_PCODE": "AO03020"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cunhinga",
-        "ADM2_PCODE": "AO03021",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3839,17 +3869,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Cunhinga",
+        "ADM2_PCODE": "AO03021"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuito (Kuito)",
-        "ADM2_PCODE": "AO03022",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3982,17 +4014,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "Cuito (Kuito)",
+        "ADM2_PCODE": "AO03022"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "N'harea",
-        "ADM2_PCODE": "AO03023",
-        "ADM1_PCODE": "AO03",
-        "ADM1_EN": "Bié",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4193,17 +4227,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Bié",
+        "ADM1_PCODE": "AO03",
+        "ADM2_EN": "N'harea",
+        "ADM2_PCODE": "AO03023"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Belize",
-        "ADM2_PCODE": "AO04024",
-        "ADM1_PCODE": "AO04",
-        "ADM1_EN": "Cabinda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4332,17 +4368,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cabinda",
+        "ADM1_PCODE": "AO04",
+        "ADM2_EN": "Belize",
+        "ADM2_PCODE": "AO04024"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Buco Zau",
-        "ADM2_PCODE": "AO04025",
-        "ADM1_PCODE": "AO04",
-        "ADM1_EN": "Cabinda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4483,17 +4521,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cabinda",
+        "ADM1_PCODE": "AO04",
+        "ADM2_EN": "Buco Zau",
+        "ADM2_PCODE": "AO04025"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cabinda",
-        "ADM2_PCODE": "AO04026",
-        "ADM1_PCODE": "AO04",
-        "ADM1_EN": "Cabinda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4598,17 +4638,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cabinda",
+        "ADM1_PCODE": "AO04",
+        "ADM2_EN": "Cabinda",
+        "ADM2_PCODE": "AO04026"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cacongo (Landana)",
-        "ADM2_PCODE": "AO04027",
-        "ADM1_PCODE": "AO04",
-        "ADM1_EN": "Cabinda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4693,17 +4735,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cabinda",
+        "ADM1_PCODE": "AO04",
+        "ADM2_EN": "Cacongo (Landana)",
+        "ADM2_PCODE": "AO04027"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Calai",
-        "ADM2_PCODE": "AO05028",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4884,17 +4928,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Calai",
+        "ADM2_PCODE": "AO05028"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuangar",
-        "ADM2_PCODE": "AO05029",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5111,17 +5157,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Cuangar",
+        "ADM2_PCODE": "AO05029"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuchi",
-        "ADM2_PCODE": "AO05030",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5362,17 +5410,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Cuchi",
+        "ADM2_PCODE": "AO05030"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuito Cuanavale",
-        "ADM2_PCODE": "AO05031",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5773,17 +5823,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Cuito Cuanavale",
+        "ADM2_PCODE": "AO05031"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dirico",
-        "ADM2_PCODE": "AO05032",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6004,17 +6056,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Dirico",
+        "ADM2_PCODE": "AO05032"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mavinga",
-        "ADM2_PCODE": "AO05033",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6455,17 +6509,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Mavinga",
+        "ADM2_PCODE": "AO05033"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Menongue",
-        "ADM2_PCODE": "AO05034",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6722,17 +6778,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Menongue",
+        "ADM2_PCODE": "AO05034"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nancova",
-        "ADM2_PCODE": "AO05035",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6917,17 +6975,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Nancova",
+        "ADM2_PCODE": "AO05035"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rivungo",
-        "ADM2_PCODE": "AO05036",
-        "ADM1_PCODE": "AO05",
-        "ADM1_EN": "Cuando Cubango",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7292,17 +7352,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuando Cubango",
+        "ADM1_PCODE": "AO05",
+        "ADM2_EN": "Rivungo",
+        "ADM2_PCODE": "AO05036"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ambaca",
-        "ADM2_PCODE": "AO06037",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7439,17 +7501,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Ambaca",
+        "ADM2_PCODE": "AO06037"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banga",
-        "ADM2_PCODE": "AO06038",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7550,17 +7614,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Banga",
+        "ADM2_PCODE": "AO06038"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bolongongo",
-        "ADM2_PCODE": "AO06039",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7661,17 +7727,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Bolongongo",
+        "ADM2_PCODE": "AO06039"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cambambe (Kambambe)",
-        "ADM2_PCODE": "AO06041",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7912,17 +7980,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Cambambe (Kambambe)",
+        "ADM2_PCODE": "AO06041"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cazengo",
-        "ADM2_PCODE": "AO06042",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8035,17 +8105,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Cazengo",
+        "ADM2_PCODE": "AO06042"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Golungo Alto",
-        "ADM2_PCODE": "AO06044",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8138,17 +8210,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Golungo Alto",
+        "ADM2_PCODE": "AO06044"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lucala",
-        "ADM2_PCODE": "AO06045",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8241,17 +8315,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Lucala",
+        "ADM2_PCODE": "AO06045"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ngonguembo",
-        "ADM2_PCODE": "AO06046",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8332,17 +8408,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Ngonguembo",
+        "ADM2_PCODE": "AO06046"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quiculungo",
-        "ADM2_PCODE": "AO06048",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8391,17 +8469,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Quiculungo",
+        "ADM2_PCODE": "AO06048"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Samba Cajú",
-        "ADM2_PCODE": "AO06049",
-        "ADM1_PCODE": "AO06",
-        "ADM1_EN": "Cuanza Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8514,17 +8594,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Norte",
+        "ADM1_PCODE": "AO06",
+        "ADM2_EN": "Samba Cajú",
+        "ADM2_PCODE": "AO06049"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Amboim (Gabela)",
-        "ADM2_PCODE": "AO07050",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8613,17 +8695,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Amboim (Gabela)",
+        "ADM2_PCODE": "AO07050"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cassongue",
-        "ADM2_PCODE": "AO07051",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8800,17 +8884,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Cassongue",
+        "ADM2_PCODE": "AO07051"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Conda",
-        "ADM2_PCODE": "AO07052",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8931,17 +9017,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Conda",
+        "ADM2_PCODE": "AO07052"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ebo",
-        "ADM2_PCODE": "AO07053",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9062,17 +9150,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Ebo",
+        "ADM2_PCODE": "AO07053"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Libolo (Calulo)",
-        "ADM2_PCODE": "AO07054",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9213,17 +9303,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Libolo (Calulo)",
+        "ADM2_PCODE": "AO07054"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mussende",
-        "ADM2_PCODE": "AO07055",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9448,17 +9540,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Mussende",
+        "ADM2_PCODE": "AO07055"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Porto Amboim",
-        "ADM2_PCODE": "AO07056",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9615,17 +9709,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Porto Amboim",
+        "ADM2_PCODE": "AO07056"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quibala",
-        "ADM2_PCODE": "AO07057",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9842,17 +9938,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Quibala",
+        "ADM2_PCODE": "AO07057"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quilenda",
-        "ADM2_PCODE": "AO07058",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9941,17 +10039,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Quilenda",
+        "ADM2_PCODE": "AO07058"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Seles (Uku Seles)",
-        "ADM2_PCODE": "AO07059",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10108,17 +10208,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Seles (Uku Seles)",
+        "ADM2_PCODE": "AO07059"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sumbe (Ngangula)",
-        "ADM2_PCODE": "AO07060",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10295,17 +10397,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Sumbe (Ngangula)",
+        "ADM2_PCODE": "AO07060"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cela (Waku Kungo)",
-        "ADM2_PCODE": "AO07061",
-        "ADM1_PCODE": "AO07",
-        "ADM1_EN": "Cuanza Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10442,17 +10546,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cuanza Sul",
+        "ADM1_PCODE": "AO07",
+        "ADM2_EN": "Cela (Waku Kungo)",
+        "ADM2_PCODE": "AO07061"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cahama",
-        "ADM2_PCODE": "AO08062",
-        "ADM1_PCODE": "AO08",
-        "ADM1_EN": "Cunene",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10645,17 +10751,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cunene",
+        "ADM1_PCODE": "AO08",
+        "ADM2_EN": "Cahama",
+        "ADM2_PCODE": "AO08062"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuanhama",
-        "ADM2_PCODE": "AO08063",
-        "ADM1_PCODE": "AO08",
-        "ADM1_EN": "Cunene",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10904,17 +11012,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cunene",
+        "ADM1_PCODE": "AO08",
+        "ADM2_EN": "Cuanhama",
+        "ADM2_PCODE": "AO08063"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Curoca",
-        "ADM2_PCODE": "AO08064",
-        "ADM1_PCODE": "AO08",
-        "ADM1_EN": "Cunene",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11163,17 +11273,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cunene",
+        "ADM1_PCODE": "AO08",
+        "ADM2_EN": "Curoca",
+        "ADM2_PCODE": "AO08064"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuvelai",
-        "ADM2_PCODE": "AO08065",
-        "ADM1_PCODE": "AO08",
-        "ADM1_EN": "Cunene",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11442,17 +11554,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cunene",
+        "ADM1_PCODE": "AO08",
+        "ADM2_EN": "Cuvelai",
+        "ADM2_PCODE": "AO08065"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Namacunde",
-        "ADM2_PCODE": "AO08066",
-        "ADM1_PCODE": "AO08",
-        "ADM1_EN": "Cunene",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11553,17 +11667,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cunene",
+        "ADM1_PCODE": "AO08",
+        "ADM2_EN": "Namacunde",
+        "ADM2_PCODE": "AO08066"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ombadja",
-        "ADM2_PCODE": "AO08067",
-        "ADM1_PCODE": "AO08",
-        "ADM1_EN": "Cunene",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11744,17 +11860,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Cunene",
+        "ADM1_PCODE": "AO08",
+        "ADM2_EN": "Ombadja",
+        "ADM2_PCODE": "AO08067"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caconda",
-        "ADM2_PCODE": "AO09068",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11907,17 +12025,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Caconda",
+        "ADM2_PCODE": "AO09068"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caluquembe",
-        "ADM2_PCODE": "AO09069",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12106,17 +12226,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Caluquembe",
+        "ADM2_PCODE": "AO09069"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chibia",
-        "ADM2_PCODE": "AO09070",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12309,17 +12431,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Chibia",
+        "ADM2_PCODE": "AO09070"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chicomba",
-        "ADM2_PCODE": "AO09071",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12488,17 +12612,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Chicomba",
+        "ADM2_PCODE": "AO09071"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chipindo",
-        "ADM2_PCODE": "AO09072",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12635,17 +12761,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Chipindo",
+        "ADM2_PCODE": "AO09072"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gambos (ex-Chiange)",
-        "ADM2_PCODE": "AO09073",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12806,17 +12934,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Gambos (ex-Chiange)",
+        "ADM2_PCODE": "AO09073"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Humpata",
-        "ADM2_PCODE": "AO09074",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12909,17 +13039,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Humpata",
+        "ADM2_PCODE": "AO09074"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jamba",
-        "ADM2_PCODE": "AO09075",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13156,17 +13288,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Jamba",
+        "ADM2_PCODE": "AO09075"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuvango (Kuvango)",
-        "ADM2_PCODE": "AO09076",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13447,17 +13581,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Cuvango (Kuvango)",
+        "ADM2_PCODE": "AO09076"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lubango",
-        "ADM2_PCODE": "AO09077",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13598,17 +13734,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Lubango",
+        "ADM2_PCODE": "AO09077"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Matala",
-        "ADM2_PCODE": "AO09078",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13801,17 +13939,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Matala",
+        "ADM2_PCODE": "AO09078"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quilengues",
-        "ADM2_PCODE": "AO09079",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14000,17 +14140,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Quilengues",
+        "ADM2_PCODE": "AO09079"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quipungo (Tchipungo)",
-        "ADM2_PCODE": "AO09080",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14171,17 +14313,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Quipungo (Tchipungo)",
+        "ADM2_PCODE": "AO09080"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cacula",
-        "ADM2_PCODE": "AO09165",
-        "ADM1_PCODE": "AO09",
-        "ADM1_EN": "Huíla",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14406,17 +14550,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huíla",
+        "ADM1_PCODE": "AO09",
+        "ADM2_EN": "Cacula",
+        "ADM2_PCODE": "AO09165"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bailundo",
-        "ADM2_PCODE": "AO10081",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14613,17 +14759,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Bailundo",
+        "ADM2_PCODE": "AO10081"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caála",
-        "ADM2_PCODE": "AO10082",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14732,17 +14880,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Caála",
+        "ADM2_PCODE": "AO10082"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Catchiungo",
-        "ADM2_PCODE": "AO10083",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14895,17 +15045,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Catchiungo",
+        "ADM2_PCODE": "AO10083"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ecunha (Ekunha)",
-        "ADM2_PCODE": "AO10084",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14986,17 +15138,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Ecunha (Ekunha)",
+        "ADM2_PCODE": "AO10084"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Huambo",
-        "ADM2_PCODE": "AO10085",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15125,17 +15279,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Huambo",
+        "ADM2_PCODE": "AO10085"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Londuimbale",
-        "ADM2_PCODE": "AO10086",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15260,17 +15416,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Londuimbale",
+        "ADM2_PCODE": "AO10086"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Longonjo",
-        "ADM2_PCODE": "AO10087",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15379,17 +15537,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Longonjo",
+        "ADM2_PCODE": "AO10087"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mungo",
-        "ADM2_PCODE": "AO10088",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15526,17 +15686,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Mungo",
+        "ADM2_PCODE": "AO10088"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tchikala-Tcholohanga",
-        "ADM2_PCODE": "AO10089",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15721,17 +15883,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Tchikala-Tcholohanga",
+        "ADM2_PCODE": "AO10089"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tchinjenje",
-        "ADM2_PCODE": "AO10090",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15820,17 +15984,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Tchinjenje",
+        "ADM2_PCODE": "AO10090"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ukuma",
-        "ADM2_PCODE": "AO10091",
-        "ADM1_PCODE": "AO10",
-        "ADM1_EN": "Huambo",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15923,17 +16089,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Huambo",
+        "ADM1_PCODE": "AO10",
+        "ADM2_EN": "Ukuma",
+        "ADM2_PCODE": "AO10091"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Icolo e Bengo",
-        "ADM2_PCODE": "AO11003",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16102,17 +16270,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Icolo e Bengo",
+        "ADM2_PCODE": "AO11003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quissama (Muxima, Quiçama)",
-        "ADM2_PCODE": "AO11004",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16417,17 +16587,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Quissama (Muxima, Quiçama)",
+        "ADM2_PCODE": "AO11004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cacuaco",
-        "ADM2_PCODE": "AO11092",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16504,17 +16676,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Cacuaco",
+        "ADM2_PCODE": "AO11092"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cazenga",
-        "ADM2_PCODE": "AO11093",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16547,17 +16721,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Cazenga",
+        "ADM2_PCODE": "AO11093"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luanda",
-        "ADM2_PCODE": "AO11094",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16634,17 +16810,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Luanda",
+        "ADM2_PCODE": "AO11094"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Belas (Samba)",
-        "ADM2_PCODE": "AO11098",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16941,17 +17119,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Belas (Samba)",
+        "ADM2_PCODE": "AO11098"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Viana",
-        "ADM2_PCODE": "AO11100",
-        "ADM1_PCODE": "AO11",
-        "ADM1_EN": "Luanda",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17012,17 +17192,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Luanda",
+        "ADM1_PCODE": "AO11",
+        "ADM2_EN": "Viana",
+        "ADM2_PCODE": "AO11100"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cambulo",
-        "ADM2_PCODE": "AO12101",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17203,17 +17385,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Cambulo",
+        "ADM2_PCODE": "AO12101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Capenda-Camulemba",
-        "ADM2_PCODE": "AO12102",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17370,17 +17554,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Capenda-Camulemba",
+        "ADM2_PCODE": "AO12102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caungula",
-        "ADM2_PCODE": "AO12103",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17557,17 +17743,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Caungula",
+        "ADM2_PCODE": "AO12103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chitato (Lóvua)",
-        "ADM2_PCODE": "AO12104",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17704,17 +17892,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Chitato (Lóvua)",
+        "ADM2_PCODE": "AO12104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuango",
-        "ADM2_PCODE": "AO12105",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17975,17 +18165,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Cuango",
+        "ADM2_PCODE": "AO12105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuilo",
-        "ADM2_PCODE": "AO12106",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18226,17 +18418,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Cuilo",
+        "ADM2_PCODE": "AO12106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lubalo",
-        "ADM2_PCODE": "AO12107",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18445,17 +18639,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Lubalo",
+        "ADM2_PCODE": "AO12107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lucapa",
-        "ADM2_PCODE": "AO12108",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18640,17 +18836,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Lucapa",
+        "ADM2_PCODE": "AO12108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Xá-Muteba",
-        "ADM2_PCODE": "AO12109",
-        "ADM1_PCODE": "AO12",
-        "ADM1_EN": "Lunda Norte",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18987,17 +19185,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Norte",
+        "ADM1_PCODE": "AO12",
+        "ADM2_EN": "Xá-Muteba",
+        "ADM2_PCODE": "AO12109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cacolo",
-        "ADM2_PCODE": "AO13110",
-        "ADM1_PCODE": "AO13",
-        "ADM1_EN": "Lunda Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19366,17 +19566,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Sul",
+        "ADM1_PCODE": "AO13",
+        "ADM2_EN": "Cacolo",
+        "ADM2_PCODE": "AO13110"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dala",
-        "ADM2_PCODE": "AO13111",
-        "ADM1_PCODE": "AO13",
-        "ADM1_EN": "Lunda Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19673,17 +19875,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Sul",
+        "ADM1_PCODE": "AO13",
+        "ADM2_EN": "Dala",
+        "ADM2_PCODE": "AO13111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Muconda",
-        "ADM2_PCODE": "AO13112",
-        "ADM1_PCODE": "AO13",
-        "ADM1_EN": "Lunda Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20040,17 +20244,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Sul",
+        "ADM1_PCODE": "AO13",
+        "ADM2_EN": "Muconda",
+        "ADM2_PCODE": "AO13112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Saurimo",
-        "ADM2_PCODE": "AO13113",
-        "ADM1_PCODE": "AO13",
-        "ADM1_EN": "Lunda Sul",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20427,17 +20633,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Lunda Sul",
+        "ADM1_PCODE": "AO13",
+        "ADM2_EN": "Saurimo",
+        "ADM2_PCODE": "AO13113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cacuso",
-        "ADM2_PCODE": "AO14114",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20598,17 +20806,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Cacuso",
+        "ADM2_PCODE": "AO14114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Calandula",
-        "ADM2_PCODE": "AO14115",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20837,17 +21047,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Calandula",
+        "ADM2_PCODE": "AO14115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cambundi-Catembo",
-        "ADM2_PCODE": "AO14116",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21292,17 +21504,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Cambundi-Catembo",
+        "ADM2_PCODE": "AO14116"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cangandala",
-        "ADM2_PCODE": "AO14117",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21507,17 +21721,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Cangandala",
+        "ADM2_PCODE": "AO14117"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cahombo",
-        "ADM2_PCODE": "AO14118",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21718,17 +21934,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Cahombo",
+        "ADM2_PCODE": "AO14118"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kiuaba-N'Zoji (Cuaba Nzogo)",
-        "ADM2_PCODE": "AO14119",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21857,17 +22075,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+        "ADM2_PCODE": "AO14119"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cunda-dia-Baze",
-        "ADM2_PCODE": "AO14120",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22036,17 +22256,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Cunda-dia-Baze",
+        "ADM2_PCODE": "AO14120"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luquembo",
-        "ADM2_PCODE": "AO14121",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22387,17 +22609,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Luquembo",
+        "ADM2_PCODE": "AO14121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Malanje",
-        "ADM2_PCODE": "AO14122",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22510,17 +22734,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Malanje",
+        "ADM2_PCODE": "AO14122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Marimba",
-        "ADM2_PCODE": "AO14123",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22797,17 +23023,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Marimba",
+        "ADM2_PCODE": "AO14123"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Massango",
-        "ADM2_PCODE": "AO14124",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22992,17 +23220,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Massango",
+        "ADM2_PCODE": "AO14124"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mucari",
-        "ADM2_PCODE": "AO14125",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23107,17 +23337,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Mucari",
+        "ADM2_PCODE": "AO14125"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quela",
-        "ADM2_PCODE": "AO14126",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23358,17 +23590,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Quela",
+        "ADM2_PCODE": "AO14126"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quirima",
-        "ADM2_PCODE": "AO14127",
-        "ADM1_PCODE": "AO14",
-        "ADM1_EN": "Malanje",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23633,17 +23867,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Malanje",
+        "ADM1_PCODE": "AO14",
+        "ADM2_EN": "Quirima",
+        "ADM2_PCODE": "AO14127"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Alto Zambeze",
-        "ADM2_PCODE": "AO15128",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24084,17 +24320,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Alto Zambeze",
+        "ADM2_PCODE": "AO15128"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Camanongue",
-        "ADM2_PCODE": "AO15129",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24235,17 +24473,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Camanongue",
+        "ADM2_PCODE": "AO15129"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cameia (Lumeje)",
-        "ADM2_PCODE": "AO15130",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24406,17 +24646,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Cameia (Lumeje)",
+        "ADM2_PCODE": "AO15130"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Léua",
-        "ADM2_PCODE": "AO15131",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24521,17 +24763,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Léua",
+        "ADM2_PCODE": "AO15131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luau",
-        "ADM2_PCODE": "AO15132",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24656,17 +24900,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Luau",
+        "ADM2_PCODE": "AO15132"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luacano",
-        "ADM2_PCODE": "AO15133",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24859,17 +25105,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Luacano",
+        "ADM2_PCODE": "AO15133"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luchazes",
-        "ADM2_PCODE": "AO15134",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25378,17 +25626,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Luchazes",
+        "ADM2_PCODE": "AO15134"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bundas (Lumbala-Nguimbo)",
-        "ADM2_PCODE": "AO15135",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25705,17 +25955,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Bundas (Lumbala-Nguimbo)",
+        "ADM2_PCODE": "AO15135"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Luena",
-        "ADM2_PCODE": "AO15136",
-        "ADM1_PCODE": "AO15",
-        "ADM1_EN": "Moxico",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26144,17 +26396,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Moxico",
+        "ADM1_PCODE": "AO15",
+        "ADM2_EN": "Luena",
+        "ADM2_PCODE": "AO15136"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bibala",
-        "ADM2_PCODE": "AO16137",
-        "ADM1_PCODE": "AO16",
-        "ADM1_EN": "Namibe",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26367,17 +26621,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Namibe",
+        "ADM1_PCODE": "AO16",
+        "ADM2_EN": "Bibala",
+        "ADM2_PCODE": "AO16137"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Camucuio",
-        "ADM2_PCODE": "AO16138",
-        "ADM1_PCODE": "AO16",
-        "ADM1_EN": "Namibe",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26578,17 +26834,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Namibe",
+        "ADM1_PCODE": "AO16",
+        "ADM2_EN": "Camucuio",
+        "ADM2_PCODE": "AO16138"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Namibe",
-        "ADM2_PCODE": "AO16139",
-        "ADM1_PCODE": "AO16",
-        "ADM1_EN": "Namibe",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -26945,17 +27203,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Namibe",
+        "ADM1_PCODE": "AO16",
+        "ADM2_EN": "Namibe",
+        "ADM2_PCODE": "AO16139"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tômbwa (Porto Alexandre)",
-        "ADM2_PCODE": "AO16140",
-        "ADM1_PCODE": "AO16",
-        "ADM1_EN": "Namibe",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -27372,17 +27632,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Namibe",
+        "ADM1_PCODE": "AO16",
+        "ADM2_EN": "Tômbwa (Porto Alexandre)",
+        "ADM2_PCODE": "AO16140"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Virei",
-        "ADM2_PCODE": "AO16141",
-        "ADM1_PCODE": "AO16",
-        "ADM1_EN": "Namibe",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27679,17 +27941,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Namibe",
+        "ADM1_PCODE": "AO16",
+        "ADM2_EN": "Virei",
+        "ADM2_PCODE": "AO16141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cangola (Alto Cauale)",
-        "ADM2_PCODE": "AO17142",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27818,17 +28082,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Cangola (Alto Cauale)",
+        "ADM2_PCODE": "AO17142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ambuíla",
-        "ADM2_PCODE": "AO17143",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27989,17 +28255,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Ambuíla",
+        "ADM2_PCODE": "AO17143"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bembe",
-        "ADM2_PCODE": "AO17144",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28228,17 +28496,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Bembe",
+        "ADM2_PCODE": "AO17144"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Buengas",
-        "ADM2_PCODE": "AO17145",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28307,17 +28577,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Buengas",
+        "ADM2_PCODE": "AO17145"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bungo",
-        "ADM2_PCODE": "AO17146",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28418,17 +28690,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Bungo",
+        "ADM2_PCODE": "AO17146"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Damba",
-        "ADM2_PCODE": "AO17147",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28585,17 +28859,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Damba",
+        "ADM2_PCODE": "AO17147"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maquela do Zombo",
-        "ADM2_PCODE": "AO17148",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28752,17 +29028,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Maquela do Zombo",
+        "ADM2_PCODE": "AO17148"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Milunga",
-        "ADM2_PCODE": "AO17149",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28979,17 +29257,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Milunga",
+        "ADM2_PCODE": "AO17149"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mucaba",
-        "ADM2_PCODE": "AO17150",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29094,17 +29374,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Mucaba",
+        "ADM2_PCODE": "AO17150"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Negage",
-        "ADM2_PCODE": "AO17151",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29205,17 +29487,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Negage",
+        "ADM2_PCODE": "AO17151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Puri",
-        "ADM2_PCODE": "AO17152",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29272,17 +29556,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Puri",
+        "ADM2_PCODE": "AO17152"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quimbele",
-        "ADM2_PCODE": "AO17153",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29503,17 +29789,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Quimbele",
+        "ADM2_PCODE": "AO17153"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Quitexe",
-        "ADM2_PCODE": "AO17154",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29654,17 +29942,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Quitexe",
+        "ADM2_PCODE": "AO17154"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sanza Pombo",
-        "ADM2_PCODE": "AO17155",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29785,17 +30075,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Sanza Pombo",
+        "ADM2_PCODE": "AO17155"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Songo",
-        "ADM2_PCODE": "AO17156",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29932,17 +30224,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Songo",
+        "ADM2_PCODE": "AO17156"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Uíge",
-        "ADM2_PCODE": "AO17157",
-        "ADM1_PCODE": "AO17",
-        "ADM1_EN": "Uíge",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30023,17 +30317,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Uíge",
+        "ADM1_PCODE": "AO17",
+        "ADM2_EN": "Uíge",
+        "ADM2_PCODE": "AO17157"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cuimba",
-        "ADM2_PCODE": "AO18158",
-        "ADM1_PCODE": "AO18",
-        "ADM1_EN": "Zaire",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30126,17 +30422,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Zaire",
+        "ADM1_PCODE": "AO18",
+        "ADM2_EN": "Cuimba",
+        "ADM2_PCODE": "AO18158"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mbanza Congo",
-        "ADM2_PCODE": "AO18159",
-        "ADM1_PCODE": "AO18",
-        "ADM1_EN": "Zaire",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30309,17 +30607,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Zaire",
+        "ADM1_PCODE": "AO18",
+        "ADM2_EN": "Mbanza Congo",
+        "ADM2_PCODE": "AO18159"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "N'Zeto",
-        "ADM2_PCODE": "AO18160",
-        "ADM1_PCODE": "AO18",
-        "ADM1_EN": "Zaire",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30500,17 +30800,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Zaire",
+        "ADM1_PCODE": "AO18",
+        "ADM2_EN": "N'Zeto",
+        "ADM2_PCODE": "AO18160"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nóqui",
-        "ADM2_PCODE": "AO18161",
-        "ADM1_PCODE": "AO18",
-        "ADM1_EN": "Zaire",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30643,17 +30945,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Zaire",
+        "ADM1_PCODE": "AO18",
+        "ADM2_EN": "Nóqui",
+        "ADM2_PCODE": "AO18161"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Soyo",
-        "ADM2_PCODE": "AO18162",
-        "ADM1_PCODE": "AO18",
-        "ADM1_EN": "Zaire",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30770,17 +31074,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Zaire",
+        "ADM1_PCODE": "AO18",
+        "ADM2_EN": "Soyo",
+        "ADM2_PCODE": "AO18162"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tomboco",
-        "ADM2_PCODE": "AO18163",
-        "ADM1_PCODE": "AO18",
-        "ADM1_EN": "Zaire",
-        "ADM0_PCODE": "AO"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30961,6 +31267,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "AO",
+        "ADM0_ISO_A2": "AO",
+        "ADM0_ISO_A3": "AGO",
+        "ADM1_EN": "Zaire",
+        "ADM1_PCODE": "AO18",
+        "ADM2_EN": "Tomboco",
+        "ADM2_PCODE": "AO18163"
       }
     }
   ]

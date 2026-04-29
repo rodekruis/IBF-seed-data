@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "NGA_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Abia",
-        "ADM1_PCODE": "NG001"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -298,14 +287,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Abia",
+        "ADM1_PCODE": "NG001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Adamawa",
-        "ADM1_PCODE": "NG002"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -954,14 +946,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Adamawa",
+        "ADM1_PCODE": "NG002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Akwa Ibom",
-        "ADM1_PCODE": "NG003"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1238,14 +1233,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Akwa Ibom",
+        "ADM1_PCODE": "NG003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Anambra",
-        "ADM1_PCODE": "NG004"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1454,14 +1452,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Anambra",
+        "ADM1_PCODE": "NG004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bauchi",
-        "ADM1_PCODE": "NG005"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2162,14 +2163,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Bauchi",
+        "ADM1_PCODE": "NG005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bayelsa",
-        "ADM1_PCODE": "NG006"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2522,14 +2526,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Bayelsa",
+        "ADM1_PCODE": "NG006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Benue",
-        "ADM1_PCODE": "NG007"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2982,14 +2989,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Benue",
+        "ADM1_PCODE": "NG007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Borno",
-        "ADM1_PCODE": "NG008"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3854,14 +3864,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Borno",
+        "ADM1_PCODE": "NG008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Cross River",
-        "ADM1_PCODE": "NG009"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4362,14 +4375,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Cross River",
+        "ADM1_PCODE": "NG009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Delta",
-        "ADM1_PCODE": "NG010"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4798,14 +4814,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Delta",
+        "ADM1_PCODE": "NG010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ebonyi",
-        "ADM1_PCODE": "NG011"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5130,14 +5149,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Ebonyi",
+        "ADM1_PCODE": "NG011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Edo",
-        "ADM1_PCODE": "NG012"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5602,14 +5624,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Edo",
+        "ADM1_PCODE": "NG012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ekiti",
-        "ADM1_PCODE": "NG013"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5814,14 +5839,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Ekiti",
+        "ADM1_PCODE": "NG013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Enugu",
-        "ADM1_PCODE": "NG014"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6078,14 +6106,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Enugu",
+        "ADM1_PCODE": "NG014"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Federal Capital Territory",
-        "ADM1_PCODE": "NG015"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6170,14 +6201,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Federal Capital Territory",
+        "ADM1_PCODE": "NG015"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gombe",
-        "ADM1_PCODE": "NG016"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6450,14 +6484,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Gombe",
+        "ADM1_PCODE": "NG016"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Imo",
-        "ADM1_PCODE": "NG017"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6626,14 +6663,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Imo",
+        "ADM1_PCODE": "NG017"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Jigawa",
-        "ADM1_PCODE": "NG018"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7270,14 +7310,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Jigawa",
+        "ADM1_PCODE": "NG018"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kaduna",
-        "ADM1_PCODE": "NG019"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8042,14 +8085,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Kaduna",
+        "ADM1_PCODE": "NG019"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kano",
-        "ADM1_PCODE": "NG020"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8502,14 +8548,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Kano",
+        "ADM1_PCODE": "NG020"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Katsina",
-        "ADM1_PCODE": "NG021"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8926,14 +8975,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Katsina",
+        "ADM1_PCODE": "NG021"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kebbi",
-        "ADM1_PCODE": "NG022"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9694,14 +9746,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Kebbi",
+        "ADM1_PCODE": "NG022"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kogi",
-        "ADM1_PCODE": "NG023"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10234,14 +10289,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Kogi",
+        "ADM1_PCODE": "NG023"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kwara",
-        "ADM1_PCODE": "NG024"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10910,14 +10968,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Kwara",
+        "ADM1_PCODE": "NG024"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Lagos",
-        "ADM1_PCODE": "NG025"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11106,14 +11167,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Lagos",
+        "ADM1_PCODE": "NG025"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Nasarawa",
-        "ADM1_PCODE": "NG026"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11514,14 +11578,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Nasarawa",
+        "ADM1_PCODE": "NG026"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Niger",
-        "ADM1_PCODE": "NG027"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12490,14 +12557,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Niger",
+        "ADM1_PCODE": "NG027"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ogun",
-        "ADM1_PCODE": "NG028"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13026,14 +13096,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Ogun",
+        "ADM1_PCODE": "NG028"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ondo",
-        "ADM1_PCODE": "NG029"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13462,14 +13535,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Ondo",
+        "ADM1_PCODE": "NG029"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Osun",
-        "ADM1_PCODE": "NG030"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13762,14 +13838,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Osun",
+        "ADM1_PCODE": "NG030"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Oyo",
-        "ADM1_PCODE": "NG031"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14238,14 +14317,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Oyo",
+        "ADM1_PCODE": "NG031"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Plateau",
-        "ADM1_PCODE": "NG032"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14718,14 +14800,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Plateau",
+        "ADM1_PCODE": "NG032"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Rivers",
-        "ADM1_PCODE": "NG033"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15074,14 +15159,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Rivers",
+        "ADM1_PCODE": "NG033"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sokoto",
-        "ADM1_PCODE": "NG034"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15482,14 +15570,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Sokoto",
+        "ADM1_PCODE": "NG034"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Taraba",
-        "ADM1_PCODE": "NG035"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16178,14 +16269,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Taraba",
+        "ADM1_PCODE": "NG035"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Yobe",
-        "ADM1_PCODE": "NG036"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16646,14 +16740,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Yobe",
+        "ADM1_PCODE": "NG036"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Zamfara",
-        "ADM1_PCODE": "NG037"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17098,6 +17195,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "NG",
+        "ADM0_ISO_A2": "NG",
+        "ADM0_ISO_A3": "NGA",
+        "ADM1_EN": "Zamfara",
+        "ADM1_PCODE": "NG037"
       }
     }
   ]

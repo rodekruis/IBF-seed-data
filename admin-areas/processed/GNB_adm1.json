@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "GNB_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bafata",
-        "ADM1_PCODE": "GW01"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -322,14 +311,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Bafata",
+        "ADM1_PCODE": "GW01"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Biombo",
-        "ADM1_PCODE": "GW02"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -666,14 +658,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Biombo",
+        "ADM1_PCODE": "GW02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bolama/Bijagos",
-        "ADM1_PCODE": "GW03"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6294,14 +6289,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Bolama/Bijagos",
+        "ADM1_PCODE": "GW03"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Cacheu",
-        "ADM1_PCODE": "GW04"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7258,14 +7256,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Cacheu",
+        "ADM1_PCODE": "GW04"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gabu",
-        "ADM1_PCODE": "GW05"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7642,14 +7643,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Gabu",
+        "ADM1_PCODE": "GW05"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Oio",
-        "ADM1_PCODE": "GW06"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7946,14 +7950,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Oio",
+        "ADM1_PCODE": "GW06"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Quinara",
-        "ADM1_PCODE": "GW07"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8274,14 +8281,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Quinara",
+        "ADM1_PCODE": "GW07"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bissau",
-        "ADM1_PCODE": "GW08"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8386,14 +8396,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Bissau",
+        "ADM1_PCODE": "GW08"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tombali",
-        "ADM1_PCODE": "GW09"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8762,6 +8775,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GW",
+        "ADM0_ISO_A2": "GW",
+        "ADM0_ISO_A3": "GNB",
+        "ADM1_EN": "Tombali",
+        "ADM1_PCODE": "GW09"
       }
     }
   ]

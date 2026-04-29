@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MRT_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Amourj",
-        "ADM2_PCODE": "MR011",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77,17 +63,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Amourj",
+        "ADM2_PCODE": "MR011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bassiknou",
-        "ADM2_PCODE": "MR012",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -140,17 +128,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Bassiknou",
+        "ADM2_PCODE": "MR012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Djiguenni",
-        "ADM2_PCODE": "MR013",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -227,17 +217,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Djiguenni",
+        "ADM2_PCODE": "MR013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Néma",
-        "ADM2_PCODE": "MR014",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -314,17 +306,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Néma",
+        "ADM2_PCODE": "MR014"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Oualata",
-        "ADM2_PCODE": "MR015",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -393,17 +387,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Oualata",
+        "ADM2_PCODE": "MR015"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Timbédra",
-        "ADM2_PCODE": "MR016",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -488,17 +484,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Timbédra",
+        "ADM2_PCODE": "MR016"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "N’Beiket Lehwach",
-        "ADM2_PCODE": "MR017",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -531,17 +529,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "N’Beiket Lehwach",
+        "ADM2_PCODE": "MR017"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adel Bagrou",
-        "ADM2_PCODE": "MR018",
-        "ADM1_PCODE": "MR01",
-        "ADM1_EN": "Hodh Chargui",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -598,17 +598,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh Chargui",
+        "ADM1_PCODE": "MR01",
+        "ADM2_EN": "Adel Bagrou",
+        "ADM2_PCODE": "MR018"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aïoun",
-        "ADM2_PCODE": "MR021",
-        "ADM1_PCODE": "MR02",
-        "ADM1_EN": "Hodh El Gharbi",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -681,17 +683,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh El Gharbi",
+        "ADM1_PCODE": "MR02",
+        "ADM2_EN": "Aïoun",
+        "ADM2_PCODE": "MR021"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kobeni",
-        "ADM2_PCODE": "MR022",
-        "ADM1_PCODE": "MR02",
-        "ADM1_EN": "Hodh El Gharbi",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -820,17 +824,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh El Gharbi",
+        "ADM1_PCODE": "MR02",
+        "ADM2_EN": "Kobeni",
+        "ADM2_PCODE": "MR022"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tamchekett",
-        "ADM2_PCODE": "MR023",
-        "ADM1_PCODE": "MR02",
-        "ADM1_EN": "Hodh El Gharbi",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -947,17 +953,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh El Gharbi",
+        "ADM1_PCODE": "MR02",
+        "ADM2_EN": "Tamchekett",
+        "ADM2_PCODE": "MR023"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tintane",
-        "ADM2_PCODE": "MR024",
-        "ADM1_PCODE": "MR02",
-        "ADM1_EN": "Hodh El Gharbi",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1166,17 +1174,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh El Gharbi",
+        "ADM1_PCODE": "MR02",
+        "ADM2_EN": "Tintane",
+        "ADM2_PCODE": "MR024"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Touil",
-        "ADM2_PCODE": "MR025",
-        "ADM1_PCODE": "MR02",
-        "ADM1_EN": "Hodh El Gharbi",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1253,17 +1263,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Hodh El Gharbi",
+        "ADM1_PCODE": "MR02",
+        "ADM2_EN": "Touil",
+        "ADM2_PCODE": "MR025"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Barkéol",
-        "ADM2_PCODE": "MR031",
-        "ADM1_PCODE": "MR03",
-        "ADM1_EN": "Assaba",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1528,17 +1540,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Assaba",
+        "ADM1_PCODE": "MR03",
+        "ADM2_EN": "Barkéol",
+        "ADM2_PCODE": "MR031"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boumdeid",
-        "ADM2_PCODE": "MR032",
-        "ADM1_PCODE": "MR03",
-        "ADM1_EN": "Assaba",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1763,17 +1777,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Assaba",
+        "ADM1_PCODE": "MR03",
+        "ADM2_EN": "Boumdeid",
+        "ADM2_PCODE": "MR032"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guerou",
-        "ADM2_PCODE": "MR033",
-        "ADM1_PCODE": "MR03",
-        "ADM1_EN": "Assaba",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1910,17 +1926,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Assaba",
+        "ADM1_PCODE": "MR03",
+        "ADM2_EN": "Guerou",
+        "ADM2_PCODE": "MR033"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kankoussa",
-        "ADM2_PCODE": "MR034",
-        "ADM1_PCODE": "MR03",
-        "ADM1_EN": "Assaba",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2117,17 +2135,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Assaba",
+        "ADM1_PCODE": "MR03",
+        "ADM2_EN": "Kankoussa",
+        "ADM2_PCODE": "MR034"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kiffa",
-        "ADM2_PCODE": "MR035",
-        "ADM1_PCODE": "MR03",
-        "ADM1_EN": "Assaba",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2476,17 +2496,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Assaba",
+        "ADM1_PCODE": "MR03",
+        "ADM2_EN": "Kiffa",
+        "ADM2_PCODE": "MR035"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kaedi",
-        "ADM2_PCODE": "MR041",
-        "ADM1_PCODE": "MR04",
-        "ADM1_EN": "Gorgol",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2639,17 +2661,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Gorgol",
+        "ADM1_PCODE": "MR04",
+        "ADM2_EN": "Kaedi",
+        "ADM2_PCODE": "MR041"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maghama",
-        "ADM2_PCODE": "MR042",
-        "ADM1_PCODE": "MR04",
-        "ADM1_EN": "Gorgol",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2766,17 +2790,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Gorgol",
+        "ADM1_PCODE": "MR04",
+        "ADM2_EN": "Maghama",
+        "ADM2_PCODE": "MR042"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "M’Bout",
-        "ADM2_PCODE": "MR043",
-        "ADM1_PCODE": "MR04",
-        "ADM1_EN": "Gorgol",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2937,17 +2963,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Gorgol",
+        "ADM1_PCODE": "MR04",
+        "ADM2_EN": "M’Bout",
+        "ADM2_PCODE": "MR043"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mounguel",
-        "ADM2_PCODE": "MR044",
-        "ADM1_PCODE": "MR04",
-        "ADM1_EN": "Gorgol",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3044,17 +3072,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Gorgol",
+        "ADM1_PCODE": "MR04",
+        "ADM2_EN": "Mounguel",
+        "ADM2_PCODE": "MR044"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lexeibe 1",
-        "ADM2_PCODE": "MR045",
-        "ADM1_PCODE": "MR04",
-        "ADM1_EN": "Gorgol",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3115,17 +3145,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Gorgol",
+        "ADM1_PCODE": "MR04",
+        "ADM2_EN": "Lexeibe 1",
+        "ADM2_PCODE": "MR045"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aleg",
-        "ADM2_PCODE": "MR051",
-        "ADM1_PCODE": "MR05",
-        "ADM1_EN": "Brakna",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3202,17 +3234,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Brakna",
+        "ADM1_PCODE": "MR05",
+        "ADM2_EN": "Aleg",
+        "ADM2_PCODE": "MR051"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bababé",
-        "ADM2_PCODE": "MR052",
-        "ADM1_PCODE": "MR05",
-        "ADM1_EN": "Brakna",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3301,17 +3335,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Brakna",
+        "ADM1_PCODE": "MR05",
+        "ADM2_EN": "Bababé",
+        "ADM2_PCODE": "MR052"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boghé",
-        "ADM2_PCODE": "MR053",
-        "ADM1_PCODE": "MR05",
-        "ADM1_EN": "Brakna",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3456,17 +3492,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Brakna",
+        "ADM1_PCODE": "MR05",
+        "ADM2_EN": "Boghé",
+        "ADM2_PCODE": "MR053"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Magtalahjar",
-        "ADM2_PCODE": "MR054",
-        "ADM1_PCODE": "MR05",
-        "ADM1_EN": "Brakna",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3543,17 +3581,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Brakna",
+        "ADM1_PCODE": "MR05",
+        "ADM2_EN": "Magtalahjar",
+        "ADM2_PCODE": "MR054"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "M’Bagne",
-        "ADM2_PCODE": "MR055",
-        "ADM1_PCODE": "MR05",
-        "ADM1_EN": "Brakna",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3638,17 +3678,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Brakna",
+        "ADM1_PCODE": "MR05",
+        "ADM2_EN": "M’Bagne",
+        "ADM2_PCODE": "MR055"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maal",
-        "ADM2_PCODE": "MR056",
-        "ADM1_PCODE": "MR05",
-        "ADM1_EN": "Brakna",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3745,17 +3787,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Brakna",
+        "ADM1_PCODE": "MR05",
+        "ADM2_EN": "Maal",
+        "ADM2_PCODE": "MR056"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boutilimit",
-        "ADM2_PCODE": "MR061",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3844,17 +3888,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "Boutilimit",
+        "ADM2_PCODE": "MR061"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Keur Macen",
-        "ADM2_PCODE": "MR062",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4003,17 +4049,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "Keur Macen",
+        "ADM2_PCODE": "MR062"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mederdra",
-        "ADM2_PCODE": "MR063",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4118,17 +4166,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "Mederdra",
+        "ADM2_PCODE": "MR063"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouad Naga",
-        "ADM2_PCODE": "MR064",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4265,17 +4315,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "Ouad Naga",
+        "ADM2_PCODE": "MR064"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "R’Kiz",
-        "ADM2_PCODE": "MR065",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4352,17 +4404,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "R’Kiz",
+        "ADM2_PCODE": "MR065"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rosso",
-        "ADM2_PCODE": "MR066",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4443,17 +4497,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "Rosso",
+        "ADM2_PCODE": "MR066"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tekane",
-        "ADM2_PCODE": "MR067",
-        "ADM1_PCODE": "MR06",
-        "ADM1_EN": "Trarza",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4586,17 +4642,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Trarza",
+        "ADM1_PCODE": "MR06",
+        "ADM2_EN": "Tekane",
+        "ADM2_PCODE": "MR067"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aoujeft",
-        "ADM2_PCODE": "MR071",
-        "ADM1_PCODE": "MR07",
-        "ADM1_EN": "Adrar",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4789,17 +4847,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Adrar",
+        "ADM1_PCODE": "MR07",
+        "ADM2_EN": "Aoujeft",
+        "ADM2_PCODE": "MR071"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atar",
-        "ADM2_PCODE": "MR072",
-        "ADM1_PCODE": "MR07",
-        "ADM1_EN": "Adrar",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4992,17 +5052,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Adrar",
+        "ADM1_PCODE": "MR07",
+        "ADM2_EN": "Atar",
+        "ADM2_PCODE": "MR072"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chinguitti",
-        "ADM2_PCODE": "MR073",
-        "ADM1_PCODE": "MR07",
-        "ADM1_EN": "Adrar",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5115,17 +5177,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Adrar",
+        "ADM1_PCODE": "MR07",
+        "ADM2_EN": "Chinguitti",
+        "ADM2_PCODE": "MR073"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouadane",
-        "ADM2_PCODE": "MR074",
-        "ADM1_PCODE": "MR07",
-        "ADM1_EN": "Adrar",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5190,17 +5254,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Adrar",
+        "ADM1_PCODE": "MR07",
+        "ADM2_EN": "Ouadane",
+        "ADM2_PCODE": "MR074"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nouadhibou",
-        "ADM2_PCODE": "MR081",
-        "ADM1_PCODE": "MR08",
-        "ADM1_EN": "Dakhlet Nouadhibou",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5417,17 +5483,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Dakhlet Nouadhibou",
+        "ADM1_PCODE": "MR08",
+        "ADM2_EN": "Nouadhibou",
+        "ADM2_PCODE": "MR081"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chami",
-        "ADM2_PCODE": "MR082",
-        "ADM1_PCODE": "MR08",
-        "ADM1_EN": "Dakhlet Nouadhibou",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6304,17 +6372,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Dakhlet Nouadhibou",
+        "ADM1_PCODE": "MR08",
+        "ADM2_EN": "Chami",
+        "ADM2_PCODE": "MR082"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Moudjeria",
-        "ADM2_PCODE": "MR091",
-        "ADM1_PCODE": "MR09",
-        "ADM1_EN": "Tagant",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6387,17 +6457,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Tagant",
+        "ADM1_PCODE": "MR09",
+        "ADM2_EN": "Moudjeria",
+        "ADM2_PCODE": "MR091"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tichit",
-        "ADM2_PCODE": "MR092",
-        "ADM1_PCODE": "MR09",
-        "ADM1_EN": "Tagant",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6442,17 +6514,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Tagant",
+        "ADM1_PCODE": "MR09",
+        "ADM2_EN": "Tichit",
+        "ADM2_PCODE": "MR092"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tidjikja",
-        "ADM2_PCODE": "MR093",
-        "ADM1_PCODE": "MR09",
-        "ADM1_EN": "Tagant",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6697,17 +6771,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Tagant",
+        "ADM1_PCODE": "MR09",
+        "ADM2_EN": "Tidjikja",
+        "ADM2_PCODE": "MR093"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ould Yengé",
-        "ADM2_PCODE": "MR101",
-        "ADM1_PCODE": "MR10",
-        "ADM1_EN": "Guidimagha",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6872,17 +6948,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Guidimagha",
+        "ADM1_PCODE": "MR10",
+        "ADM2_EN": "Ould Yengé",
+        "ADM2_PCODE": "MR101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sélibaby",
-        "ADM2_PCODE": "MR102",
-        "ADM1_PCODE": "MR10",
-        "ADM1_EN": "Guidimagha",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6967,17 +7045,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Guidimagha",
+        "ADM1_PCODE": "MR10",
+        "ADM2_EN": "Sélibaby",
+        "ADM2_PCODE": "MR102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ghabou",
-        "ADM2_PCODE": "MR103",
-        "ADM1_PCODE": "MR10",
-        "ADM1_EN": "Guidimagha",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7154,17 +7234,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Guidimagha",
+        "ADM1_PCODE": "MR10",
+        "ADM2_EN": "Ghabou",
+        "ADM2_PCODE": "MR103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wompou",
-        "ADM2_PCODE": "MR104",
-        "ADM1_PCODE": "MR10",
-        "ADM1_EN": "Guidimagha",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7233,17 +7315,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Guidimagha",
+        "ADM1_PCODE": "MR10",
+        "ADM2_EN": "Wompou",
+        "ADM2_PCODE": "MR104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bir Moughrein",
-        "ADM2_PCODE": "MR111",
-        "ADM1_PCODE": "MR11",
-        "ADM1_EN": "Tiris Zemmour",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7284,17 +7368,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Tiris Zemmour",
+        "ADM1_PCODE": "MR11",
+        "ADM2_EN": "Bir Moughrein",
+        "ADM2_PCODE": "MR111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "F’Deirick",
-        "ADM2_PCODE": "MR112",
-        "ADM1_PCODE": "MR11",
-        "ADM1_EN": "Tiris Zemmour",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7409,17 +7495,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Tiris Zemmour",
+        "ADM1_PCODE": "MR11",
+        "ADM2_EN": "F’Deirick",
+        "ADM2_PCODE": "MR112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zoueirat",
-        "ADM2_PCODE": "MR113",
-        "ADM1_PCODE": "MR11",
-        "ADM1_EN": "Tiris Zemmour",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7460,17 +7548,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Tiris Zemmour",
+        "ADM1_PCODE": "MR11",
+        "ADM2_EN": "Zoueirat",
+        "ADM2_PCODE": "MR113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akjoujt",
-        "ADM2_PCODE": "MR121",
-        "ADM1_PCODE": "MR12",
-        "ADM1_EN": "Inchiri",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7551,17 +7641,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Inchiri",
+        "ADM1_PCODE": "MR12",
+        "ADM2_EN": "Akjoujt",
+        "ADM2_PCODE": "MR121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bennechab",
-        "ADM2_PCODE": "MR122",
-        "ADM1_PCODE": "MR12",
-        "ADM1_EN": "Inchiri",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7666,17 +7758,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Inchiri",
+        "ADM1_PCODE": "MR12",
+        "ADM2_EN": "Bennechab",
+        "ADM2_PCODE": "MR122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ksar",
-        "ADM2_PCODE": "MR131",
-        "ADM1_PCODE": "MR13",
-        "ADM1_EN": "Nouakchott Ouest",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7725,17 +7819,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Ouest",
+        "ADM1_PCODE": "MR13",
+        "ADM2_EN": "Ksar",
+        "ADM2_PCODE": "MR131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tevragh Zeina",
-        "ADM2_PCODE": "MR132",
-        "ADM1_PCODE": "MR13",
-        "ADM1_EN": "Nouakchott Ouest",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7772,17 +7868,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Ouest",
+        "ADM1_PCODE": "MR13",
+        "ADM2_EN": "Tevragh Zeina",
+        "ADM2_PCODE": "MR132"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sebkha",
-        "ADM2_PCODE": "MR133",
-        "ADM1_PCODE": "MR13",
-        "ADM1_EN": "Nouakchott Ouest",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7811,17 +7909,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Ouest",
+        "ADM1_PCODE": "MR13",
+        "ADM2_EN": "Sebkha",
+        "ADM2_PCODE": "MR133"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Toujounine",
-        "ADM2_PCODE": "MR141",
-        "ADM1_PCODE": "MR14",
-        "ADM1_EN": "Nouakchott Nord",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7854,17 +7954,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Nord",
+        "ADM1_PCODE": "MR14",
+        "ADM2_EN": "Toujounine",
+        "ADM2_PCODE": "MR141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dar Naïm",
-        "ADM2_PCODE": "MR142",
-        "ADM1_PCODE": "MR14",
-        "ADM1_EN": "Nouakchott Nord",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7897,17 +7999,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Nord",
+        "ADM1_PCODE": "MR14",
+        "ADM2_EN": "Dar Naïm",
+        "ADM2_PCODE": "MR142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Teyarett",
-        "ADM2_PCODE": "MR143",
-        "ADM1_PCODE": "MR14",
-        "ADM1_EN": "Nouakchott Nord",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7952,17 +8056,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Nord",
+        "ADM1_PCODE": "MR14",
+        "ADM2_EN": "Teyarett",
+        "ADM2_PCODE": "MR143"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "El Mina",
-        "ADM2_PCODE": "MR151",
-        "ADM1_PCODE": "MR15",
-        "ADM1_EN": "Nouakchott Sud",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8003,17 +8109,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Sud",
+        "ADM1_PCODE": "MR15",
+        "ADM2_EN": "El Mina",
+        "ADM2_PCODE": "MR151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Arafat",
-        "ADM2_PCODE": "MR152",
-        "ADM1_PCODE": "MR15",
-        "ADM1_EN": "Nouakchott Sud",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8042,17 +8150,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Sud",
+        "ADM1_PCODE": "MR15",
+        "ADM2_EN": "Arafat",
+        "ADM2_PCODE": "MR152"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Riad",
-        "ADM2_PCODE": "MR153",
-        "ADM1_PCODE": "MR15",
-        "ADM1_EN": "Nouakchott Sud",
-        "ADM0_PCODE": "MR"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8089,6 +8199,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MR",
+        "ADM0_ISO_A2": "MR",
+        "ADM0_ISO_A3": "MRT",
+        "ADM1_EN": "Nouakchott Sud",
+        "ADM1_PCODE": "MR15",
+        "ADM2_EN": "Riad",
+        "ADM2_PCODE": "MR153"
       }
     }
   ]

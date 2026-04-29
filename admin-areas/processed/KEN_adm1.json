@@ -673,18 +673,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.93231540894,
-        "Shape_Area": 0.88473225999,
-        "ADM1_EN": "Baringo",
-        "ADM1_PCODE": "KE030",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Baringo",
+        "ADM1_PCODE": "KE030"
       }
     },
     {
@@ -1399,18 +1393,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 2.92222029428,
-        "Shape_Area": 0.19809894637,
-        "ADM1_EN": "Bomet",
-        "ADM1_PCODE": "KE036",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Bomet",
+        "ADM1_PCODE": "KE036"
       }
     },
     {
@@ -1813,18 +1801,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.06248561022,
-        "Shape_Area": 0.24505809632,
-        "ADM1_EN": "Bungoma",
-        "ADM1_PCODE": "KE039",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Bungoma",
+        "ADM1_PCODE": "KE039"
       }
     },
     {
@@ -2155,18 +2137,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 2.67039572154,
-        "Shape_Area": 0.14717786298,
-        "ADM1_EN": "Busia",
-        "ADM1_PCODE": "KE040",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Busia",
+        "ADM1_PCODE": "KE040"
       }
     },
     {
@@ -2645,18 +2621,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.88893291238,
-        "Shape_Area": 0.24443179048,
-        "ADM1_EN": "Elgeyo-Marakwet",
-        "ADM1_PCODE": "KE028",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Elgeyo-Marakwet",
+        "ADM1_PCODE": "KE028"
       }
     },
     {
@@ -3055,18 +3025,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.38665284863,
-        "Shape_Area": 0.22941354898,
-        "ADM1_EN": "Embu",
-        "ADM1_PCODE": "KE014",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Embu",
+        "ADM1_PCODE": "KE014"
       }
     },
     {
@@ -3893,18 +3857,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 10.4909217261,
-        "Shape_Area": 3.54218783031,
-        "ADM1_EN": "Garissa",
-        "ADM1_PCODE": "KE007",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Garissa",
+        "ADM1_PCODE": "KE007"
       }
     },
     {
@@ -4235,18 +4193,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.37378072663,
-        "Shape_Area": 0.3844442995,
-        "ADM1_EN": "Homa Bay",
-        "ADM1_PCODE": "KE043",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Homa Bay",
+        "ADM1_PCODE": "KE043"
       }
     },
     {
@@ -5197,18 +5149,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 10.2197538266,
-        "Shape_Area": 2.06385026489,
-        "ADM1_EN": "Isiolo",
-        "ADM1_PCODE": "KE011",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Isiolo",
+        "ADM1_PCODE": "KE011"
       }
     },
     {
@@ -6299,18 +6245,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 7.4128346892,
-        "Shape_Area": 1.77918299674,
-        "ADM1_EN": "Kajiado",
-        "ADM1_PCODE": "KE034",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kajiado",
+        "ADM1_PCODE": "KE034"
       }
     },
     {
@@ -6877,18 +6817,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 4.12530392293,
-        "Shape_Area": 0.24438141009,
-        "ADM1_EN": "Kakamega",
-        "ADM1_PCODE": "KE037",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kakamega",
+        "ADM1_PCODE": "KE037"
       }
     },
     {
@@ -7367,18 +7301,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.54133427085,
-        "Shape_Area": 0.20417872736,
-        "ADM1_EN": "Kericho",
-        "ADM1_PCODE": "KE035",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kericho",
+        "ADM1_PCODE": "KE035"
       }
     },
     {
@@ -7797,18 +7725,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.19317492626,
-        "Shape_Area": 0.20662852517,
-        "ADM1_EN": "Kiambu",
-        "ADM1_PCODE": "KE022",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kiambu",
+        "ADM1_PCODE": "KE022"
       }
     },
     {
@@ -8291,18 +8213,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.74454270189,
-        "Shape_Area": 1.02512724116,
-        "ADM1_EN": "Kilifi",
-        "ADM1_PCODE": "KE003",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kilifi",
+        "ADM1_PCODE": "KE003"
       }
     },
     {
@@ -8517,18 +8433,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 1.94736198529,
-        "Shape_Area": 0.11985840061,
-        "ADM1_EN": "Kirinyaga",
-        "ADM1_PCODE": "KE020",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kirinyaga",
+        "ADM1_PCODE": "KE020"
       }
     },
     {
@@ -8739,18 +8649,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 1.69235198028,
-        "Shape_Area": 0.10673860464,
-        "ADM1_EN": "Kisii",
-        "ADM1_PCODE": "KE045",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kisii",
+        "ADM1_PCODE": "KE045"
       }
     },
     {
@@ -9129,18 +9033,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.07628556504,
-        "Shape_Area": 0.2165110787,
-        "ADM1_EN": "Kisumu",
-        "ADM1_PCODE": "KE042",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kisumu",
+        "ADM1_PCODE": "KE042"
       }
     },
     {
@@ -9927,18 +9825,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 9.07416928535,
-        "Shape_Area": 2.47533754723,
-        "ADM1_EN": "Kitui",
-        "ADM1_PCODE": "KE015",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kitui",
+        "ADM1_PCODE": "KE015"
       }
     },
     {
@@ -10337,18 +10229,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.42609734564,
-        "Shape_Area": 0.6732554386,
-        "ADM1_EN": "Kwale",
-        "ADM1_PCODE": "KE002",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Kwale",
+        "ADM1_PCODE": "KE002"
       }
     },
     {
@@ -10931,18 +10817,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.38167389936,
-        "Shape_Area": 0.77480691494,
-        "ADM1_EN": "Laikipia",
-        "ADM1_PCODE": "KE031",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Laikipia",
+        "ADM1_PCODE": "KE031"
       }
     },
     {
@@ -11601,18 +11481,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 7.98088349813,
-        "Shape_Area": 0.49157334457,
-        "ADM1_EN": "Lamu",
-        "ADM1_PCODE": "KE005",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Lamu",
+        "ADM1_PCODE": "KE005"
       }
     },
     {
@@ -12343,18 +12217,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 6.08198406447,
-        "Shape_Area": 0.49116370542,
-        "ADM1_EN": "Machakos",
-        "ADM1_PCODE": "KE016",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Machakos",
+        "ADM1_PCODE": "KE016"
       }
     },
     {
@@ -13029,18 +12897,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.98377354215,
-        "Shape_Area": 0.66460275607,
-        "ADM1_EN": "Makueni",
-        "ADM1_PCODE": "KE017",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Makueni",
+        "ADM1_PCODE": "KE017"
       }
     },
     {
@@ -13579,18 +13441,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 7.28212131732,
-        "Shape_Area": 2.11434545983,
-        "ADM1_EN": "Mandera",
-        "ADM1_PCODE": "KE009",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Mandera",
+        "ADM1_PCODE": "KE009"
       }
     },
     {
@@ -14513,18 +14369,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 11.9953621449,
-        "Shape_Area": 6.18518986668,
-        "ADM1_EN": "Marsabit",
-        "ADM1_PCODE": "KE010",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Marsabit",
+        "ADM1_PCODE": "KE010"
       }
     },
     {
@@ -14967,18 +14817,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 4.40059884792,
-        "Shape_Area": 0.5680862273,
-        "ADM1_EN": "Meru",
-        "ADM1_PCODE": "KE012",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Meru",
+        "ADM1_PCODE": "KE012"
       }
     },
     {
@@ -15373,18 +15217,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 2.98496042444,
-        "Shape_Area": 0.25548339064,
-        "ADM1_EN": "Migori",
-        "ADM1_PCODE": "KE044",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Migori",
+        "ADM1_PCODE": "KE044"
       }
     },
     {
@@ -15627,18 +15465,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 1.82090355443,
-        "Shape_Area": 0.01902403874,
-        "ADM1_EN": "Mombasa",
-        "ADM1_PCODE": "KE001",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Mombasa",
+        "ADM1_PCODE": "KE001"
       }
     },
     {
@@ -15997,18 +15829,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 2.63239651938,
-        "Shape_Area": 0.20519376604,
-        "ADM1_EN": "Murang'a",
-        "ADM1_PCODE": "KE021",
-        "ADM1_REF": "Muranga",
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Murang'a",
+        "ADM1_PCODE": "KE021"
       }
     },
     {
@@ -16235,18 +16061,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 1.65806105822,
-        "Shape_Area": 0.05749559731,
-        "ADM1_EN": "Nairobi",
-        "ADM1_PCODE": "KE047",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Nairobi",
+        "ADM1_PCODE": "KE047"
       }
     },
     {
@@ -16621,18 +16441,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.15041587604,
-        "Shape_Area": 0.23038408537,
-        "ADM1_EN": "Nandi",
-        "ADM1_PCODE": "KE029",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Nandi",
+        "ADM1_PCODE": "KE029"
       }
     },
     {
@@ -18535,18 +18349,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.82794545494,
-        "Shape_Area": 0.7802296684,
-        "ADM1_EN": "Narok",
-        "ADM1_PCODE": "KE033",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Narok",
+        "ADM1_PCODE": "KE033"
       }
     },
     {
@@ -18745,18 +18553,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 1.47320572482,
-        "Shape_Area": 0.07289004651,
-        "ADM1_EN": "Nyamira",
-        "ADM1_PCODE": "KE046",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Nyamira",
+        "ADM1_PCODE": "KE046"
       }
     },
     {
@@ -19211,18 +19013,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.571837953,
-        "Shape_Area": 0.26539795155,
-        "ADM1_EN": "Nyandarua",
-        "ADM1_PCODE": "KE018",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Nyandarua",
+        "ADM1_PCODE": "KE018"
       }
     },
     {
@@ -19569,18 +19365,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.09659104707,
-        "Shape_Area": 0.27090917222,
-        "ADM1_EN": "Nyeri",
-        "ADM1_PCODE": "KE019",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Nyeri",
+        "ADM1_PCODE": "KE019"
       }
     },
     {
@@ -20499,18 +20289,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 8.00461101133,
-        "Shape_Area": 1.70781409897,
-        "ADM1_EN": "Samburu",
-        "ADM1_PCODE": "KE025",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Samburu",
+        "ADM1_PCODE": "KE025"
       }
     },
     {
@@ -20801,18 +20585,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 2.90378112362,
-        "Shape_Area": 0.28600479868,
-        "ADM1_EN": "Siaya",
-        "ADM1_PCODE": "KE041",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Siaya",
+        "ADM1_PCODE": "KE041"
       }
     },
     {
@@ -21227,18 +21005,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 5.67784524415,
-        "Shape_Area": 1.39419800778,
-        "ADM1_EN": "Taita Taveta",
-        "ADM1_PCODE": "KE006",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Taita Taveta",
+        "ADM1_PCODE": "KE006"
       }
     },
     {
@@ -21953,18 +21725,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 10.3717493632,
-        "Shape_Area": 3.18540534407,
-        "ADM1_EN": "Tana River",
-        "ADM1_PCODE": "KE004",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Tana River",
+        "ADM1_PCODE": "KE004"
       }
     },
     {
@@ -22343,18 +22109,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.17194107179,
-        "Shape_Area": 0.20968321423,
-        "ADM1_EN": "Tharaka-Nithi",
-        "ADM1_PCODE": "KE013",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Tharaka-Nithi",
+        "ADM1_PCODE": "KE013"
       }
     },
     {
@@ -22649,18 +22409,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 2.42139844435,
-        "Shape_Area": 0.20189307762,
-        "ADM1_EN": "Trans Nzoia",
-        "ADM1_PCODE": "KE026",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Trans Nzoia",
+        "ADM1_PCODE": "KE026"
       }
     },
     {
@@ -23971,18 +23725,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 14.387308247,
-        "Shape_Area": 5.70842571667,
-        "ADM1_EN": "Turkana",
-        "ADM1_PCODE": "KE023",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Turkana",
+        "ADM1_PCODE": "KE023"
       }
     },
     {
@@ -24425,18 +24173,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 3.92605064202,
-        "Shape_Area": 0.27597606907,
-        "ADM1_EN": "Uasin Gishu",
-        "ADM1_PCODE": "KE027",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Uasin Gishu",
+        "ADM1_PCODE": "KE027"
       }
     },
     {
@@ -24643,18 +24385,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 1.3963610047,
-        "Shape_Area": 0.04553302427,
-        "ADM1_EN": "Vihiga",
-        "ADM1_PCODE": "KE038",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Vihiga",
+        "ADM1_PCODE": "KE038"
       }
     },
     {
@@ -25481,18 +25217,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 10.0049323836,
-        "Shape_Area": 4.60648949826,
-        "ADM1_EN": "Wajir",
-        "ADM1_PCODE": "KE008",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Wajir",
+        "ADM1_PCODE": "KE008"
       }
     },
     {
@@ -25983,18 +25713,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 4.73399595297,
-        "Shape_Area": 0.75634370247,
-        "ADM1_EN": "West Pokot",
-        "ADM1_PCODE": "KE024",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "West Pokot",
+        "ADM1_PCODE": "KE024"
       }
     },
     {
@@ -27017,18 +26741,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 10.5987160624,
-        "Shape_Area": 1.28361868572,
-        "ADM1_EN": "Nakuru",
-        "ADM1_PCODE": "KE032",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "date": "2017-11-03",
-        "validOn": "2019-10-31",
-        "validTo": null
+        "ADM0_ISO_A2": "KE",
+        "ADM0_ISO_A3": "KEN",
+        "ADM1_EN": "Nakuru",
+        "ADM1_PCODE": "KE032"
       }
     }
   ]

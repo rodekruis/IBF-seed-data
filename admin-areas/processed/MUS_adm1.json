@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MUS_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Port Louis",
-        "ADM1_PCODE": "MU11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -86,14 +75,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Port Louis",
+        "ADM1_PCODE": "MU11"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Pamplemousses",
-        "ADM1_PCODE": "MU12"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -186,14 +178,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Pamplemousses",
+        "ADM1_PCODE": "MU12"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Riviere du Rempart",
-        "ADM1_PCODE": "MU13"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1882,14 +1877,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Riviere du Rempart",
+        "ADM1_PCODE": "MU13"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Flacq",
-        "ADM1_PCODE": "MU14"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2726,14 +2724,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Flacq",
+        "ADM1_PCODE": "MU14"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Grand Port",
-        "ADM1_PCODE": "MU15"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3178,14 +3179,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Grand Port",
+        "ADM1_PCODE": "MU15"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Savanne",
-        "ADM1_PCODE": "MU16"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3242,14 +3246,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Savanne",
+        "ADM1_PCODE": "MU16"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Plaine Wilhems",
-        "ADM1_PCODE": "MU17"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3326,14 +3333,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Plaine Wilhems",
+        "ADM1_PCODE": "MU17"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Moka",
-        "ADM1_PCODE": "MU18"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3398,14 +3408,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Moka",
+        "ADM1_PCODE": "MU18"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Black River",
-        "ADM1_PCODE": "MU19"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3782,14 +3795,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Black River",
+        "ADM1_PCODE": "MU19"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Rodriguez Island",
-        "ADM1_PCODE": "MU21"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4434,14 +4450,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Rodriguez Island",
+        "ADM1_PCODE": "MU21"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "North Islands",
-        "ADM1_PCODE": "MU22"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4494,14 +4513,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "North Islands",
+        "ADM1_PCODE": "MU22"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Saint Brandon Islands",
-        "ADM1_PCODE": "MU23"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5622,6 +5644,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MU",
+        "ADM0_ISO_A2": "MU",
+        "ADM0_ISO_A3": "MUS",
+        "ADM1_EN": "Saint Brandon Islands",
+        "ADM1_PCODE": "MU23"
       }
     }
   ]

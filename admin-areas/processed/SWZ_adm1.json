@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SWZ_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Hhohho",
-        "ADM1_PCODE": "SZ1"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -178,14 +167,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Manzini",
-        "ADM1_PCODE": "SZ2"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -474,14 +466,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Shiselweni",
-        "ADM1_PCODE": "SZ3"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -754,14 +749,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Lubombo",
-        "ADM1_PCODE": "SZ4"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -982,6 +980,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4"
       }
     }
   ]

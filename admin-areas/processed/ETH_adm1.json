@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "ETH_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Addis Ababa",
-        "ADM1_PCODE": "ET14"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -810,14 +799,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Addis Ababa",
+        "ADM1_PCODE": "ET14"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Afar",
-        "ADM1_PCODE": "ET02"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5266,14 +5258,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Afar",
+        "ADM1_PCODE": "ET02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Amhara",
-        "ADM1_PCODE": "ET03"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17630,14 +17625,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Amhara",
+        "ADM1_PCODE": "ET03"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Benishangul Gumz",
-        "ADM1_PCODE": "ET06"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22150,14 +22148,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Benishangul Gumz",
+        "ADM1_PCODE": "ET06"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Dire Dawa",
-        "ADM1_PCODE": "ET15"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22610,14 +22611,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Dire Dawa",
+        "ADM1_PCODE": "ET15"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gambela",
-        "ADM1_PCODE": "ET12"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24566,14 +24570,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Gambela",
+        "ADM1_PCODE": "ET12"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Harari",
-        "ADM1_PCODE": "ET13"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24886,14 +24893,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Harari",
+        "ADM1_PCODE": "ET13"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Oromia",
-        "ADM1_PCODE": "ET04"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -42688,14 +42698,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Oromia",
+        "ADM1_PCODE": "ET04"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sidama",
-        "ADM1_PCODE": "ET16"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -46580,14 +46593,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Sidama",
+        "ADM1_PCODE": "ET16"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "SNNP",
-        "ADM1_PCODE": "ET07"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -55104,14 +55120,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "SNNP",
+        "ADM1_PCODE": "ET07"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Somali",
-        "ADM1_PCODE": "ET05"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -60412,14 +60431,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Somali",
+        "ADM1_PCODE": "ET05"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tigray",
-        "ADM1_PCODE": "ET01"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -69552,6 +69574,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ET",
+        "ADM0_ISO_A2": "ET",
+        "ADM0_ISO_A3": "ETH",
+        "ADM1_EN": "Tigray",
+        "ADM1_PCODE": "ET01"
       }
     }
   ]

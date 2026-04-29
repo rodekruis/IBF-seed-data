@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "TZA_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Dodoma",
-        "ADM1_PCODE": "TZ01"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -522,14 +511,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Dodoma",
+        "ADM1_PCODE": "TZ01"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Arusha",
-        "ADM1_PCODE": "TZ02"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -874,14 +866,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Arusha",
+        "ADM1_PCODE": "TZ02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kilimanjaro",
-        "ADM1_PCODE": "TZ03"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1170,14 +1165,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kilimanjaro",
+        "ADM1_PCODE": "TZ03"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tanga",
-        "ADM1_PCODE": "TZ04"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2470,14 +2468,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Tanga",
+        "ADM1_PCODE": "TZ04"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Morogoro",
-        "ADM1_PCODE": "TZ05"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3294,14 +3295,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Morogoro",
+        "ADM1_PCODE": "TZ05"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Pwani",
-        "ADM1_PCODE": "TZ06"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5148,14 +5152,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Pwani",
+        "ADM1_PCODE": "TZ06"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Dar-es-salaam",
-        "ADM1_PCODE": "TZ07"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5892,14 +5899,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Dar-es-salaam",
+        "ADM1_PCODE": "TZ07"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Lindi",
-        "ADM1_PCODE": "TZ08"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7852,14 +7862,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Lindi",
+        "ADM1_PCODE": "TZ08"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mtwara",
-        "ADM1_PCODE": "TZ09"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8592,14 +8605,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Mtwara",
+        "ADM1_PCODE": "TZ09"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ruvuma",
-        "ADM1_PCODE": "TZ10"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9388,14 +9404,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Ruvuma",
+        "ADM1_PCODE": "TZ10"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Iringa",
-        "ADM1_PCODE": "TZ11"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9836,14 +9855,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Iringa",
+        "ADM1_PCODE": "TZ11"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mbeya",
-        "ADM1_PCODE": "TZ12"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10420,14 +10442,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Mbeya",
+        "ADM1_PCODE": "TZ12"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Singida",
-        "ADM1_PCODE": "TZ13"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10978,14 +11003,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Singida",
+        "ADM1_PCODE": "TZ13"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tabora",
-        "ADM1_PCODE": "TZ14"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11778,14 +11806,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Tabora",
+        "ADM1_PCODE": "TZ14"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Rukwa",
-        "ADM1_PCODE": "TZ15"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12170,14 +12201,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Rukwa",
+        "ADM1_PCODE": "TZ15"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kigoma",
-        "ADM1_PCODE": "TZ16"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12894,14 +12928,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kigoma",
+        "ADM1_PCODE": "TZ16"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Shinyanga",
-        "ADM1_PCODE": "TZ17"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13416,14 +13453,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Shinyanga",
+        "ADM1_PCODE": "TZ17"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kagera",
-        "ADM1_PCODE": "TZ18"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13900,14 +13940,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kagera",
+        "ADM1_PCODE": "TZ18"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mwanza",
-        "ADM1_PCODE": "TZ19"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14308,14 +14351,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Mwanza",
+        "ADM1_PCODE": "TZ19"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mara",
-        "ADM1_PCODE": "TZ20"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14516,14 +14562,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Mara",
+        "ADM1_PCODE": "TZ20"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Manyara",
-        "ADM1_PCODE": "TZ21"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15222,14 +15271,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Manyara",
+        "ADM1_PCODE": "TZ21"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Njombe",
-        "ADM1_PCODE": "TZ22"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15622,14 +15674,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Njombe",
+        "ADM1_PCODE": "TZ22"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Katavi",
-        "ADM1_PCODE": "TZ23"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16198,14 +16253,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Katavi",
+        "ADM1_PCODE": "TZ23"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Simiyu",
-        "ADM1_PCODE": "TZ24"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16582,14 +16640,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Simiyu",
+        "ADM1_PCODE": "TZ24"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Geita",
-        "ADM1_PCODE": "TZ25"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17146,14 +17207,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Geita",
+        "ADM1_PCODE": "TZ25"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Songwe",
-        "ADM1_PCODE": "TZ26"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17782,14 +17846,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Songwe",
+        "ADM1_PCODE": "TZ26"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kaskazini Unguja",
-        "ADM1_PCODE": "TZ51"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18078,14 +18145,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kaskazini Unguja",
+        "ADM1_PCODE": "TZ51"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kusini Unguja",
-        "ADM1_PCODE": "TZ52"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18422,14 +18492,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kusini Unguja",
+        "ADM1_PCODE": "TZ52"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mjini Magharibi",
-        "ADM1_PCODE": "TZ53"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19166,14 +19239,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Mjini Magharibi",
+        "ADM1_PCODE": "TZ53"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kaskazini Pemba",
-        "ADM1_PCODE": "TZ54"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20206,14 +20282,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kaskazini Pemba",
+        "ADM1_PCODE": "TZ54"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kusini Pemba",
-        "ADM1_PCODE": "TZ55"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21018,6 +21097,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TZ",
+        "ADM0_ISO_A2": "TZ",
+        "ADM0_ISO_A3": "TZA",
+        "ADM1_EN": "Kusini Pemba",
+        "ADM1_PCODE": "TZ55"
       }
     }
   ]

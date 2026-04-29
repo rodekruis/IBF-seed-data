@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "TUN_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "North East",
-        "ADM1_PCODE": "TN1"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2862,14 +2851,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "ADM1_EN": "North East",
+        "ADM1_PCODE": "TN1"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "North West",
-        "ADM1_PCODE": "TN2"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3610,14 +3602,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "TN2"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Centre East",
-        "ADM1_PCODE": "TN3"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5746,14 +5741,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "ADM1_EN": "Centre East",
+        "ADM1_PCODE": "TN3"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Centre West",
-        "ADM1_PCODE": "TN4"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6426,14 +6424,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "ADM1_EN": "Centre West",
+        "ADM1_PCODE": "TN4"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "South East",
-        "ADM1_PCODE": "TN5"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8550,14 +8551,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "ADM1_EN": "South East",
+        "ADM1_PCODE": "TN5"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "South West",
-        "ADM1_PCODE": "TN6"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9062,6 +9066,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TN",
+        "ADM0_ISO_A2": "TN",
+        "ADM0_ISO_A3": "TUN",
+        "ADM1_EN": "South West",
+        "ADM1_PCODE": "TN6"
       }
     }
   ]

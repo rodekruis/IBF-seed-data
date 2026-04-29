@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "TCD_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Batha",
-        "ADM1_PCODE": "TCD01"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -230,14 +219,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Batha",
+        "ADM1_PCODE": "TCD01"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Borkou",
-        "ADM1_PCODE": "TCD02"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -386,14 +378,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Borkou",
+        "ADM1_PCODE": "TCD02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Chari Baguirmi",
-        "ADM1_PCODE": "TCD03"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -766,14 +761,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Chari Baguirmi",
+        "ADM1_PCODE": "TCD03"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Guéra",
-        "ADM1_PCODE": "TCD04"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1114,14 +1112,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Guéra",
+        "ADM1_PCODE": "TCD04"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Hadjer Lamis",
-        "ADM1_PCODE": "TCD05"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1530,14 +1531,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Hadjer Lamis",
+        "ADM1_PCODE": "TCD05"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kanem",
-        "ADM1_PCODE": "TCD06"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1738,14 +1742,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Kanem",
+        "ADM1_PCODE": "TCD06"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Lac",
-        "ADM1_PCODE": "TCD07"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1926,14 +1933,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Lac",
+        "ADM1_PCODE": "TCD07"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Logone Occidental",
-        "ADM1_PCODE": "TCD08"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2106,14 +2116,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Logone Occidental",
+        "ADM1_PCODE": "TCD08"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Logone Oriental",
-        "ADM1_PCODE": "TCD09"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2506,14 +2519,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Logone Oriental",
+        "ADM1_PCODE": "TCD09"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mandoul",
-        "ADM1_PCODE": "TCD10"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2758,14 +2774,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Mandoul",
+        "ADM1_PCODE": "TCD10"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mayo Kebbi Est",
-        "ADM1_PCODE": "TCD11"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3054,14 +3073,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Mayo Kebbi Est",
+        "ADM1_PCODE": "TCD11"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mayo Kebbi Ouest",
-        "ADM1_PCODE": "TCD12"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3278,14 +3300,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Mayo Kebbi Ouest",
+        "ADM1_PCODE": "TCD12"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Moyen Chari",
-        "ADM1_PCODE": "TCD13"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3718,14 +3743,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Moyen Chari",
+        "ADM1_PCODE": "TCD13"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ouaddaï",
-        "ADM1_PCODE": "TCD14"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4082,14 +4110,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Ouaddaï",
+        "ADM1_PCODE": "TCD14"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Salamat",
-        "ADM1_PCODE": "TCD15"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4774,14 +4805,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Salamat",
+        "ADM1_PCODE": "TCD15"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tandjilé",
-        "ADM1_PCODE": "TCD16"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5038,14 +5072,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Tandjilé",
+        "ADM1_PCODE": "TCD16"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Wadi Fira",
-        "ADM1_PCODE": "TCD17"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5338,14 +5375,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Wadi Fira",
+        "ADM1_PCODE": "TCD17"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "N'Djamena",
-        "ADM1_PCODE": "TCD18"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5418,14 +5458,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "N'Djamena",
+        "ADM1_PCODE": "TCD18"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Barh El Gazel",
-        "ADM1_PCODE": "TCD19"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5566,14 +5609,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Barh El Gazel",
+        "ADM1_PCODE": "TCD19"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ennedi Est",
-        "ADM1_PCODE": "TCD20"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5690,14 +5736,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Ennedi Est",
+        "ADM1_PCODE": "TCD20"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sila",
-        "ADM1_PCODE": "TCD21"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5998,14 +6047,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Sila",
+        "ADM1_PCODE": "TCD21"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tibesti",
-        "ADM1_PCODE": "TCD22"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6142,14 +6194,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Tibesti",
+        "ADM1_PCODE": "TCD22"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ennedi Ouest",
-        "ADM1_PCODE": "TCD23"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6290,6 +6345,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "TC",
+        "ADM0_ISO_A2": "TC",
+        "ADM0_ISO_A3": "TCA",
+        "ADM1_EN": "Ennedi Ouest",
+        "ADM1_PCODE": "TCD23"
       }
     }
   ]

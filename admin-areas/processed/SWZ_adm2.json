@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SWZ_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Timphisini",
-        "ADM2_PCODE": "SZ101",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69,17 +55,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Timphisini",
+        "ADM2_PCODE": "SZ101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ntfonjeni",
-        "ADM2_PCODE": "SZ102",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -144,17 +132,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Ntfonjeni",
+        "ADM2_PCODE": "SZ102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mayiwane",
-        "ADM2_PCODE": "SZ103",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -219,17 +209,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Mayiwane",
+        "ADM2_PCODE": "SZ103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mhlangatane",
-        "ADM2_PCODE": "SZ104",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -322,17 +314,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Mhlangatane",
+        "ADM2_PCODE": "SZ104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ndzingeni",
-        "ADM2_PCODE": "SZ105",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -425,17 +419,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Ndzingeni",
+        "ADM2_PCODE": "SZ105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Madlangempisi",
-        "ADM2_PCODE": "SZ106",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -528,17 +524,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Madlangempisi",
+        "ADM2_PCODE": "SZ106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maphalaleni",
-        "ADM2_PCODE": "SZ107",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -687,17 +685,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Maphalaleni",
+        "ADM2_PCODE": "SZ107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pigg's Peak",
-        "ADM2_PCODE": "SZ108",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -810,17 +810,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Pigg's Peak",
+        "ADM2_PCODE": "SZ108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkhaba",
-        "ADM2_PCODE": "SZ109",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -945,17 +947,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Nkhaba",
+        "ADM2_PCODE": "SZ109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Motjane",
-        "ADM2_PCODE": "SZ110",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1048,17 +1052,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Motjane",
+        "ADM2_PCODE": "SZ110"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mbabane West",
-        "ADM2_PCODE": "SZ111",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1111,17 +1117,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Mbabane West",
+        "ADM2_PCODE": "SZ111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mbabane East",
-        "ADM2_PCODE": "SZ112",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1178,17 +1186,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Mbabane East",
+        "ADM2_PCODE": "SZ112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Hhukwini",
-        "ADM2_PCODE": "SZ113",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1241,17 +1251,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Hhukwini",
+        "ADM2_PCODE": "SZ113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lobamba",
-        "ADM2_PCODE": "SZ114",
-        "ADM1_PCODE": "SZ1",
-        "ADM1_EN": "Hhohho",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1320,17 +1332,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Hhohho",
+        "ADM1_PCODE": "SZ1",
+        "ADM2_EN": "Lobamba",
+        "ADM2_PCODE": "SZ114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mkhiweni",
-        "ADM2_PCODE": "SZ215",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1435,17 +1449,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Mkhiweni",
+        "ADM2_PCODE": "SZ215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kukhanyeni",
-        "ADM2_PCODE": "SZ216",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1538,17 +1554,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Kukhanyeni",
+        "ADM2_PCODE": "SZ216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mafutseni",
-        "ADM2_PCODE": "SZ217",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1629,17 +1647,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Mafutseni",
+        "ADM2_PCODE": "SZ217"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mthongwaneni",
-        "ADM2_PCODE": "SZ218",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1704,17 +1724,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Mthongwaneni",
+        "ADM2_PCODE": "SZ218"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Manzini North",
-        "ADM2_PCODE": "SZ219",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1779,17 +1801,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Manzini North",
+        "ADM2_PCODE": "SZ219"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Manzini South",
-        "ADM2_PCODE": "SZ220",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1822,17 +1846,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Manzini South",
+        "ADM2_PCODE": "SZ220"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwaluseni",
-        "ADM2_PCODE": "SZ221",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1877,17 +1903,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Kwaluseni",
+        "ADM2_PCODE": "SZ221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ludzeludze",
-        "ADM2_PCODE": "SZ222",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1964,17 +1992,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Ludzeludze",
+        "ADM2_PCODE": "SZ222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lobamba Lomdzala",
-        "ADM2_PCODE": "SZ223",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2059,17 +2089,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Lobamba Lomdzala",
+        "ADM2_PCODE": "SZ223"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nhlambeni",
-        "ADM2_PCODE": "SZ224",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2170,17 +2202,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Nhlambeni",
+        "ADM2_PCODE": "SZ224"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ntondozi",
-        "ADM2_PCODE": "SZ225",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2257,17 +2291,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Ntondozi",
+        "ADM2_PCODE": "SZ225"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "La-Mgabhi",
-        "ADM2_PCODE": "SZ226",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2328,17 +2364,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "La-Mgabhi",
+        "ADM2_PCODE": "SZ226"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mhlambanyatsi",
-        "ADM2_PCODE": "SZ227",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2435,17 +2473,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Mhlambanyatsi",
+        "ADM2_PCODE": "SZ227"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mangcongco",
-        "ADM2_PCODE": "SZ228",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2550,17 +2590,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Mangcongco",
+        "ADM2_PCODE": "SZ228"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ngwempisi",
-        "ADM2_PCODE": "SZ229",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2717,17 +2759,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Ngwempisi",
+        "ADM2_PCODE": "SZ229"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mahlangatsha",
-        "ADM2_PCODE": "SZ230",
-        "ADM1_PCODE": "SZ2",
-        "ADM1_EN": "Manzini",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2852,17 +2896,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Manzini",
+        "ADM1_PCODE": "SZ2",
+        "ADM2_EN": "Mahlangatsha",
+        "ADM2_PCODE": "SZ230"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kubuta",
-        "ADM2_PCODE": "SZ331",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2943,17 +2989,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Kubuta",
+        "ADM2_PCODE": "SZ331"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkwene",
-        "ADM2_PCODE": "SZ332",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3058,17 +3106,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Nkwene",
+        "ADM2_PCODE": "SZ332"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mtsambama",
-        "ADM2_PCODE": "SZ333",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3157,17 +3207,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Mtsambama",
+        "ADM2_PCODE": "SZ333"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gege",
-        "ADM2_PCODE": "SZ334",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3376,17 +3428,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Gege",
+        "ADM2_PCODE": "SZ334"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mbangweni",
-        "ADM2_PCODE": "SZ335",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3491,17 +3545,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Mbangweni",
+        "ADM2_PCODE": "SZ335"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Maseyisini",
-        "ADM2_PCODE": "SZ336",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3578,17 +3634,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Maseyisini",
+        "ADM2_PCODE": "SZ336"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sandleni",
-        "ADM2_PCODE": "SZ337",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3677,17 +3735,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Sandleni",
+        "ADM2_PCODE": "SZ337"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ngudzeni",
-        "ADM2_PCODE": "SZ338",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3760,17 +3820,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Ngudzeni",
+        "ADM2_PCODE": "SZ338"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zombodze",
-        "ADM2_PCODE": "SZ339",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3839,17 +3901,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Zombodze",
+        "ADM2_PCODE": "SZ339"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Shiselweni",
-        "ADM2_PCODE": "SZ340",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3926,17 +3990,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Shiselweni",
+        "ADM2_PCODE": "SZ340"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Hosea",
-        "ADM2_PCODE": "SZ341",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4049,17 +4115,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Hosea",
+        "ADM2_PCODE": "SZ341"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sigwe",
-        "ADM2_PCODE": "SZ342",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4164,17 +4232,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Sigwe",
+        "ADM2_PCODE": "SZ342"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Matsanjeni South",
-        "ADM2_PCODE": "SZ343",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4279,17 +4349,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Matsanjeni South",
+        "ADM2_PCODE": "SZ343"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Somntongo",
-        "ADM2_PCODE": "SZ344",
-        "ADM1_PCODE": "SZ3",
-        "ADM1_EN": "Shiselweni",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4354,17 +4426,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Shiselweni",
+        "ADM1_PCODE": "SZ3",
+        "ADM2_EN": "Somntongo",
+        "ADM2_PCODE": "SZ344"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lubuli",
-        "ADM2_PCODE": "SZ445",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4457,17 +4531,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Lubuli",
+        "ADM2_PCODE": "SZ445"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sithobela",
-        "ADM2_PCODE": "SZ446",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4596,17 +4672,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Sithobela",
+        "ADM2_PCODE": "SZ446"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkilongo",
-        "ADM2_PCODE": "SZ447",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4727,17 +4805,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Nkilongo",
+        "ADM2_PCODE": "SZ447"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Siphofaneni",
-        "ADM2_PCODE": "SZ448",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4830,17 +4910,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Siphofaneni",
+        "ADM2_PCODE": "SZ448"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mpolonjeni",
-        "ADM2_PCODE": "SZ449",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4945,17 +5027,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Mpolonjeni",
+        "ADM2_PCODE": "SZ449"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Matsanjeni North",
-        "ADM2_PCODE": "SZ450",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5012,17 +5096,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Matsanjeni North",
+        "ADM2_PCODE": "SZ450"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lugongolweni",
-        "ADM2_PCODE": "SZ451",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5095,17 +5181,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Lugongolweni",
+        "ADM2_PCODE": "SZ451"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dvokodvweni",
-        "ADM2_PCODE": "SZ452",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5210,17 +5298,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Dvokodvweni",
+        "ADM2_PCODE": "SZ452"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Hlane",
-        "ADM2_PCODE": "SZ453",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5357,17 +5447,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Hlane",
+        "ADM2_PCODE": "SZ453"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mhlume",
-        "ADM2_PCODE": "SZ454",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5504,17 +5596,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Mhlume",
+        "ADM2_PCODE": "SZ454"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lomahasha",
-        "ADM2_PCODE": "SZ455",
-        "ADM1_PCODE": "SZ4",
-        "ADM1_EN": "Lubombo",
-        "ADM0_PCODE": "SZ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5583,6 +5677,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SZ",
+        "ADM0_ISO_A2": "SZ",
+        "ADM0_ISO_A3": "SWZ",
+        "ADM1_EN": "Lubombo",
+        "ADM1_PCODE": "SZ4",
+        "ADM2_EN": "Lomahasha",
+        "ADM2_PCODE": "SZ455"
       }
     }
   ]

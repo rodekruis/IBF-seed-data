@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MLI_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bafoulabe",
-        "ADM2_PCODE": "ML0101",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -317,17 +303,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Bafoulabe",
+        "ADM2_PCODE": "ML0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Diéma",
-        "ADM2_PCODE": "ML0102",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -628,17 +616,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Diéma",
+        "ADM2_PCODE": "ML0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kayes",
-        "ADM2_PCODE": "ML0103",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1087,17 +1077,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Kayes",
+        "ADM2_PCODE": "ML0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kéniéba",
-        "ADM2_PCODE": "ML0104",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1686,17 +1678,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Kéniéba",
+        "ADM2_PCODE": "ML0104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kita",
-        "ADM2_PCODE": "ML0105",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2481,17 +2475,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Kita",
+        "ADM2_PCODE": "ML0105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nioro",
-        "ADM2_PCODE": "ML0106",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2756,17 +2752,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Nioro",
+        "ADM2_PCODE": "ML0106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yélimané",
-        "ADM2_PCODE": "ML0107",
-        "ADM1_PCODE": "ML01",
-        "ADM1_EN": "Kayes",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2943,17 +2941,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01",
+        "ADM2_EN": "Yélimané",
+        "ADM2_PCODE": "ML0107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banamba",
-        "ADM2_PCODE": "ML0201",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3178,17 +3178,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Banamba",
+        "ADM2_PCODE": "ML0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dioila",
-        "ADM2_PCODE": "ML0202",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3597,17 +3599,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Dioila",
+        "ADM2_PCODE": "ML0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kangaba",
-        "ADM2_PCODE": "ML0203",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3876,17 +3880,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Kangaba",
+        "ADM2_PCODE": "ML0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kati",
-        "ADM2_PCODE": "ML0204",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4381,17 +4387,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Kati",
+        "ADM2_PCODE": "ML0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kolokani",
-        "ADM2_PCODE": "ML0205",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4776,17 +4784,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Kolokani",
+        "ADM2_PCODE": "ML0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Koulikoro",
-        "ADM2_PCODE": "ML0206",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5039,17 +5049,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Koulikoro",
+        "ADM2_PCODE": "ML0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nara",
-        "ADM2_PCODE": "ML0207",
-        "ADM1_PCODE": "ML02",
-        "ADM1_EN": "Koulikoro",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5230,17 +5242,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02",
+        "ADM2_EN": "Nara",
+        "ADM2_PCODE": "ML0207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bougouni",
-        "ADM2_PCODE": "ML0301",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5933,17 +5947,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Bougouni",
+        "ADM2_PCODE": "ML0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kadiolo",
-        "ADM2_PCODE": "ML0302",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6264,17 +6280,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Kadiolo",
+        "ADM2_PCODE": "ML0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kolondieba",
-        "ADM2_PCODE": "ML0303",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6627,17 +6645,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Kolondieba",
+        "ADM2_PCODE": "ML0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Koutiala",
-        "ADM2_PCODE": "ML0304",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7014,17 +7034,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Koutiala",
+        "ADM2_PCODE": "ML0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sikasso",
-        "ADM2_PCODE": "ML0305",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7549,17 +7571,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Sikasso",
+        "ADM2_PCODE": "ML0305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yanfolila",
-        "ADM2_PCODE": "ML0306",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8164,17 +8188,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Yanfolila",
+        "ADM2_PCODE": "ML0306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yorosso",
-        "ADM2_PCODE": "ML0307",
-        "ADM1_PCODE": "ML03",
-        "ADM1_EN": "Sikasso",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8347,17 +8373,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03",
+        "ADM2_EN": "Yorosso",
+        "ADM2_PCODE": "ML0307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Baraouéli",
-        "ADM2_PCODE": "ML0401",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8538,17 +8566,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "Baraouéli",
+        "ADM2_PCODE": "ML0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bla",
-        "ADM2_PCODE": "ML0402",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8785,17 +8815,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "Bla",
+        "ADM2_PCODE": "ML0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Macina",
-        "ADM2_PCODE": "ML0403",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8976,17 +9008,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "Macina",
+        "ADM2_PCODE": "ML0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niono",
-        "ADM2_PCODE": "ML0404",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9207,17 +9241,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "Niono",
+        "ADM2_PCODE": "ML0404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "San",
-        "ADM2_PCODE": "ML0405",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9414,17 +9450,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "San",
+        "ADM2_PCODE": "ML0405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ségou",
-        "ADM2_PCODE": "ML0406",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9749,17 +9787,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "Ségou",
+        "ADM2_PCODE": "ML0406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tominian",
-        "ADM2_PCODE": "ML0407",
-        "ADM1_PCODE": "ML04",
-        "ADM1_EN": "Ségou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9984,17 +10024,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04",
+        "ADM2_EN": "Tominian",
+        "ADM2_PCODE": "ML0407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bandiagara",
-        "ADM2_PCODE": "ML0501",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10199,17 +10241,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Bandiagara",
+        "ADM2_PCODE": "ML0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bankass",
-        "ADM2_PCODE": "ML0502",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10402,17 +10446,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Bankass",
+        "ADM2_PCODE": "ML0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Djenné",
-        "ADM2_PCODE": "ML0503",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10597,17 +10643,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Djenné",
+        "ADM2_PCODE": "ML0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Douentza",
-        "ADM2_PCODE": "ML0504",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10904,17 +10952,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Douentza",
+        "ADM2_PCODE": "ML0504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Koro",
-        "ADM2_PCODE": "ML0505",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11123,17 +11173,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Koro",
+        "ADM2_PCODE": "ML0505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mopti",
-        "ADM2_PCODE": "ML0506",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11402,17 +11454,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Mopti",
+        "ADM2_PCODE": "ML0506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ténenkou",
-        "ADM2_PCODE": "ML0507",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11645,17 +11699,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Ténenkou",
+        "ADM2_PCODE": "ML0507"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Youwarou",
-        "ADM2_PCODE": "ML0508",
-        "ADM1_PCODE": "ML05",
-        "ADM1_EN": "Mopti",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11904,17 +11960,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05",
+        "ADM2_EN": "Youwarou",
+        "ADM2_PCODE": "ML0508"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Diré",
-        "ADM2_PCODE": "ML0601",
-        "ADM1_PCODE": "ML06",
-        "ADM1_EN": "Tombouctou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12055,17 +12113,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Tombouctou",
+        "ADM1_PCODE": "ML06",
+        "ADM2_EN": "Diré",
+        "ADM2_PCODE": "ML0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Goundam",
-        "ADM2_PCODE": "ML0602",
-        "ADM1_PCODE": "ML06",
-        "ADM1_EN": "Tombouctou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12334,17 +12394,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Tombouctou",
+        "ADM1_PCODE": "ML06",
+        "ADM2_EN": "Goundam",
+        "ADM2_PCODE": "ML0602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gourma-Rharous",
-        "ADM2_PCODE": "ML0603",
-        "ADM1_PCODE": "ML06",
-        "ADM1_EN": "Tombouctou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12717,17 +12779,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Tombouctou",
+        "ADM1_PCODE": "ML06",
+        "ADM2_EN": "Gourma-Rharous",
+        "ADM2_PCODE": "ML0603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niafunké",
-        "ADM2_PCODE": "ML0604",
-        "ADM1_PCODE": "ML06",
-        "ADM1_EN": "Tombouctou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13032,17 +13096,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Tombouctou",
+        "ADM1_PCODE": "ML06",
+        "ADM2_EN": "Niafunké",
+        "ADM2_PCODE": "ML0604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tombouctou",
-        "ADM2_PCODE": "ML0605",
-        "ADM1_PCODE": "ML06",
-        "ADM1_EN": "Tombouctou",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13287,17 +13353,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Tombouctou",
+        "ADM1_PCODE": "ML06",
+        "ADM2_EN": "Tombouctou",
+        "ADM2_PCODE": "ML0605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ansongo",
-        "ADM2_PCODE": "ML0701",
-        "ADM1_PCODE": "ML07",
-        "ADM1_EN": "Gao",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13494,17 +13562,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Gao",
+        "ADM1_PCODE": "ML07",
+        "ADM2_EN": "Ansongo",
+        "ADM2_PCODE": "ML0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bourem",
-        "ADM2_PCODE": "ML0702",
-        "ADM1_PCODE": "ML07",
-        "ADM1_EN": "Gao",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13665,17 +13735,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Gao",
+        "ADM1_PCODE": "ML07",
+        "ADM2_EN": "Bourem",
+        "ADM2_PCODE": "ML0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gao",
-        "ADM2_PCODE": "ML0703",
-        "ADM1_PCODE": "ML07",
-        "ADM1_EN": "Gao",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13900,17 +13972,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Gao",
+        "ADM1_PCODE": "ML07",
+        "ADM2_EN": "Gao",
+        "ADM2_PCODE": "ML0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abeibara",
-        "ADM2_PCODE": "ML0801",
-        "ADM1_PCODE": "ML08",
-        "ADM1_EN": "Kidal",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14179,17 +14253,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kidal",
+        "ADM1_PCODE": "ML08",
+        "ADM2_EN": "Abeibara",
+        "ADM2_PCODE": "ML0801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kidal",
-        "ADM2_PCODE": "ML0802",
-        "ADM1_PCODE": "ML08",
-        "ADM1_EN": "Kidal",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14282,17 +14358,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kidal",
+        "ADM1_PCODE": "ML08",
+        "ADM2_EN": "Kidal",
+        "ADM2_PCODE": "ML0802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tessalit",
-        "ADM2_PCODE": "ML0803",
-        "ADM1_PCODE": "ML08",
-        "ADM1_EN": "Kidal",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14413,17 +14491,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kidal",
+        "ADM1_PCODE": "ML08",
+        "ADM2_EN": "Tessalit",
+        "ADM2_PCODE": "ML0803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tin-Essako",
-        "ADM2_PCODE": "ML0804",
-        "ADM1_PCODE": "ML08",
-        "ADM1_EN": "Kidal",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14504,17 +14584,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kidal",
+        "ADM1_PCODE": "ML08",
+        "ADM2_EN": "Tin-Essako",
+        "ADM2_PCODE": "ML0804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bamako",
-        "ADM2_PCODE": "ML0901",
-        "ADM1_PCODE": "ML09",
-        "ADM1_EN": "Bamako",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14591,17 +14673,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Bamako",
+        "ADM1_PCODE": "ML09",
+        "ADM2_EN": "Bamako",
+        "ADM2_PCODE": "ML0901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ménaka",
-        "ADM2_PCODE": "ML1001",
-        "ADM1_PCODE": "ML10",
-        "ADM1_EN": "Menaka",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14746,17 +14830,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Menaka",
+        "ADM1_PCODE": "ML10",
+        "ADM2_EN": "Ménaka",
+        "ADM2_PCODE": "ML1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Anderamboukane",
-        "ADM2_PCODE": "ML1002",
-        "ADM1_PCODE": "ML10",
-        "ADM1_EN": "Menaka",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14857,17 +14943,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Menaka",
+        "ADM1_PCODE": "ML10",
+        "ADM2_EN": "Anderamboukane",
+        "ADM2_PCODE": "ML1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Inekar",
-        "ADM2_PCODE": "ML1003",
-        "ADM1_PCODE": "ML10",
-        "ADM1_EN": "Menaka",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14996,17 +15084,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Menaka",
+        "ADM1_PCODE": "ML10",
+        "ADM2_EN": "Inekar",
+        "ADM2_PCODE": "ML1003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tidermene",
-        "ADM2_PCODE": "ML1004",
-        "ADM1_PCODE": "ML10",
-        "ADM1_EN": "Menaka",
-        "ADM0_PCODE": "ML"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15167,6 +15257,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Menaka",
+        "ADM1_PCODE": "ML10",
+        "ADM2_EN": "Tidermene",
+        "ADM2_PCODE": "ML1004"
       }
     }
   ]

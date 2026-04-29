@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "ERI_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Debubawi Keih Bahri",
-        "ADM1_PCODE": "ER1"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4514,14 +4503,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "ADM1_EN": "Debubawi Keih Bahri",
+        "ADM1_PCODE": "ER1"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Maekel",
-        "ADM1_PCODE": "ER2"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4666,14 +4658,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "ADM1_EN": "Maekel",
+        "ADM1_PCODE": "ER2"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Semienawi Keih Bahri",
-        "ADM1_PCODE": "ER3"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13614,14 +13609,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "ADM1_EN": "Semienawi Keih Bahri",
+        "ADM1_PCODE": "ER3"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Anseba",
-        "ADM1_PCODE": "ER4"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14238,14 +14236,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "ADM1_EN": "Anseba",
+        "ADM1_PCODE": "ER4"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gash Barka",
-        "ADM1_PCODE": "ER5"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14714,14 +14715,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "ADM1_EN": "Gash Barka",
+        "ADM1_PCODE": "ER5"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Debub",
-        "ADM1_PCODE": "ER6"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15098,6 +15102,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ER",
+        "ADM0_ISO_A2": "ER",
+        "ADM0_ISO_A3": "ERI",
+        "ADM1_EN": "Debub",
+        "ADM1_PCODE": "ER6"
       }
     }
   ]

@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MAR_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Azilal",
-        "ADM2_PCODE": "MA001001",
-        "ADM1_PCODE": "MA001",
-        "ADM1_EN": "Béni Mellal-Khénifra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -441,17 +427,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Béni Mellal-Khénifra",
+        "ADM1_PCODE": "MA001",
+        "ADM2_EN": "Azilal",
+        "ADM2_PCODE": "MA001001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Béni Mellal",
-        "ADM2_PCODE": "MA001002",
-        "ADM1_PCODE": "MA001",
-        "ADM1_EN": "Béni Mellal-Khénifra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -692,17 +680,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Béni Mellal-Khénifra",
+        "ADM1_PCODE": "MA001",
+        "ADM2_EN": "Béni Mellal",
+        "ADM2_PCODE": "MA001002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fquih Ben Salah",
-        "ADM2_PCODE": "MA001003",
-        "ADM1_PCODE": "MA001",
-        "ADM1_EN": "Béni Mellal-Khénifra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -887,17 +877,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Béni Mellal-Khénifra",
+        "ADM1_PCODE": "MA001",
+        "ADM2_EN": "Fquih Ben Salah",
+        "ADM2_PCODE": "MA001003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Khénifra",
-        "ADM2_PCODE": "MA001004",
-        "ADM1_PCODE": "MA001",
-        "ADM1_EN": "Béni Mellal-Khénifra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1270,17 +1262,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Béni Mellal-Khénifra",
+        "ADM1_PCODE": "MA001",
+        "ADM2_EN": "Khénifra",
+        "ADM2_PCODE": "MA001004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Khouribga",
-        "ADM2_PCODE": "MA001005",
-        "ADM1_PCODE": "MA001",
-        "ADM1_EN": "Béni Mellal-Khénifra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1509,17 +1503,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Béni Mellal-Khénifra",
+        "ADM1_PCODE": "MA001",
+        "ADM2_EN": "Khouribga",
+        "ADM2_PCODE": "MA001005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Berrechid",
-        "ADM2_PCODE": "MA002001",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1868,17 +1864,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Berrechid",
+        "ADM2_PCODE": "MA002001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "El Jadida",
-        "ADM2_PCODE": "MA002002",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2227,17 +2225,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "El Jadida",
+        "ADM2_PCODE": "MA002002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mediouna",
-        "ADM2_PCODE": "MA002003",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2302,17 +2302,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Mediouna",
+        "ADM2_PCODE": "MA002003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nouaceur",
-        "ADM2_PCODE": "MA002004",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2429,17 +2431,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Nouaceur",
+        "ADM2_PCODE": "MA002004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Casablanca",
-        "ADM2_PCODE": "MA002005",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2504,17 +2508,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Casablanca",
+        "ADM2_PCODE": "MA002005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mohammadia",
-        "ADM2_PCODE": "MA002006",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2663,17 +2669,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Mohammadia",
+        "ADM2_PCODE": "MA002006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Benslimane",
-        "ADM2_PCODE": "MA002007",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3014,17 +3022,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Benslimane",
+        "ADM2_PCODE": "MA002007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sidi Bennour",
-        "ADM2_PCODE": "MA002008",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3353,17 +3363,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Sidi Bennour",
+        "ADM2_PCODE": "MA002008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Settat",
-        "ADM2_PCODE": "MA002009",
-        "ADM1_PCODE": "MA002",
-        "ADM1_EN": "Grand Casablanca-Settat",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3804,17 +3816,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Grand Casablanca-Settat",
+        "ADM1_PCODE": "MA002",
+        "ADM2_EN": "Settat",
+        "ADM2_PCODE": "MA002009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouarzazate",
-        "ADM2_PCODE": "MA003001",
-        "ADM1_PCODE": "MA003",
-        "ADM1_EN": "Drâa-Tafilalet",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4175,17 +4189,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Drâa-Tafilalet",
+        "ADM1_PCODE": "MA003",
+        "ADM2_EN": "Ouarzazate",
+        "ADM2_PCODE": "MA003001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Errachidia",
-        "ADM2_PCODE": "MA003002",
-        "ADM1_PCODE": "MA003",
-        "ADM1_EN": "Drâa-Tafilalet",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4814,17 +4830,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Drâa-Tafilalet",
+        "ADM1_PCODE": "MA003",
+        "ADM2_EN": "Errachidia",
+        "ADM2_PCODE": "MA003002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Midelt",
-        "ADM2_PCODE": "MA003003",
-        "ADM1_PCODE": "MA003",
-        "ADM1_EN": "Drâa-Tafilalet",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5197,17 +5215,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Drâa-Tafilalet",
+        "ADM1_PCODE": "MA003",
+        "ADM2_EN": "Midelt",
+        "ADM2_PCODE": "MA003003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tinghir",
-        "ADM2_PCODE": "MA003004",
-        "ADM1_PCODE": "MA003",
-        "ADM1_EN": "Drâa-Tafilalet",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5580,17 +5600,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Drâa-Tafilalet",
+        "ADM1_PCODE": "MA003",
+        "ADM2_EN": "Tinghir",
+        "ADM2_PCODE": "MA003004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zagora",
-        "ADM2_PCODE": "MA003005",
-        "ADM1_PCODE": "MA003",
-        "ADM1_EN": "Drâa-Tafilalet",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5971,17 +5993,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Drâa-Tafilalet",
+        "ADM1_PCODE": "MA003",
+        "ADM2_EN": "Zagora",
+        "ADM2_PCODE": "MA003005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fès",
-        "ADM2_PCODE": "MA004001",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6074,17 +6098,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Fès",
+        "ADM2_PCODE": "MA004001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Meknès",
-        "ADM2_PCODE": "MA004002",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6337,17 +6363,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Meknès",
+        "ADM2_PCODE": "MA004002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "El Hajeb",
-        "ADM2_PCODE": "MA004003",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6600,17 +6628,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "El Hajeb",
+        "ADM2_PCODE": "MA004003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ifrane",
-        "ADM2_PCODE": "MA004004",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6851,17 +6881,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Ifrane",
+        "ADM2_PCODE": "MA004004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boulemane",
-        "ADM2_PCODE": "MA004005",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7226,17 +7258,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Boulemane",
+        "ADM2_PCODE": "MA004005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Moulay Yacoub",
-        "ADM2_PCODE": "MA004006",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7513,17 +7547,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Moulay Yacoub",
+        "ADM2_PCODE": "MA004006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sefrou",
-        "ADM2_PCODE": "MA004007",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7776,17 +7812,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Sefrou",
+        "ADM2_PCODE": "MA004007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Taounate",
-        "ADM2_PCODE": "MA004008",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8243,17 +8281,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Taounate",
+        "ADM2_PCODE": "MA004008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Taza",
-        "ADM2_PCODE": "MA004009",
-        "ADM1_PCODE": "MA004",
-        "ADM1_EN": "Fès-Meknès",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8674,17 +8714,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Fès-Meknès",
+        "ADM1_PCODE": "MA004",
+        "ADM2_EN": "Taza",
+        "ADM2_PCODE": "MA004009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Assa-Zag",
-        "ADM2_PCODE": "MA005001",
-        "ADM1_PCODE": "MA005",
-        "ADM1_EN": "Guelmim-Oued Noun",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8885,17 +8927,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Guelmim-Oued Noun",
+        "ADM1_PCODE": "MA005",
+        "ADM2_EN": "Assa-Zag",
+        "ADM2_PCODE": "MA005001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guelmim",
-        "ADM2_PCODE": "MA005002",
-        "ADM1_PCODE": "MA005",
-        "ADM1_EN": "Guelmim-Oued Noun",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9192,17 +9236,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Guelmim-Oued Noun",
+        "ADM1_PCODE": "MA005",
+        "ADM2_EN": "Guelmim",
+        "ADM2_PCODE": "MA005002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tan-Tan",
-        "ADM2_PCODE": "MA005003",
-        "ADM1_PCODE": "MA005",
-        "ADM1_EN": "Guelmim-Oued Noun",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9387,17 +9433,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Guelmim-Oued Noun",
+        "ADM1_PCODE": "MA005",
+        "ADM2_EN": "Tan-Tan",
+        "ADM2_PCODE": "MA005003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sidi Ifni",
-        "ADM2_PCODE": "MA005004",
-        "ADM1_PCODE": "MA005",
-        "ADM1_EN": "Guelmim-Oued Noun",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9714,17 +9762,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Guelmim-Oued Noun",
+        "ADM1_PCODE": "MA005",
+        "ADM2_EN": "Sidi Ifni",
+        "ADM2_PCODE": "MA005004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Al Haouz",
-        "ADM2_PCODE": "MA006001",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10097,17 +10147,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Al Haouz",
+        "ADM2_PCODE": "MA006001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chichaoua",
-        "ADM2_PCODE": "MA006002",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10520,17 +10572,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Chichaoua",
+        "ADM2_PCODE": "MA006002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Essaouira",
-        "ADM2_PCODE": "MA006003",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11755,17 +11809,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Essaouira",
+        "ADM2_PCODE": "MA006003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Marrakech",
-        "ADM2_PCODE": "MA006004",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12030,17 +12086,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Marrakech",
+        "ADM2_PCODE": "MA006004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "El Kelâa des Sraghna",
-        "ADM2_PCODE": "MA006005",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12329,17 +12387,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "El Kelâa des Sraghna",
+        "ADM2_PCODE": "MA006005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Safi",
-        "ADM2_PCODE": "MA006006",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12604,17 +12664,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Safi",
+        "ADM2_PCODE": "MA006006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Youssoufia",
-        "ADM2_PCODE": "MA006007",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12839,17 +12901,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Youssoufia",
+        "ADM2_PCODE": "MA006007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rehamna",
-        "ADM2_PCODE": "MA006008",
-        "ADM1_PCODE": "MA006",
-        "ADM1_EN": "Marrakech-Safi",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13182,17 +13246,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Marrakech-Safi",
+        "ADM1_PCODE": "MA006",
+        "ADM2_EN": "Rehamna",
+        "ADM2_PCODE": "MA006008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Oujda-Angad",
-        "ADM2_PCODE": "MA007001",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13389,17 +13455,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Oujda-Angad",
+        "ADM2_PCODE": "MA007001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Berkane",
-        "ADM2_PCODE": "MA007002",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13628,17 +13696,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Berkane",
+        "ADM2_PCODE": "MA007002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Driouch",
-        "ADM2_PCODE": "MA007003",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13871,17 +13941,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Driouch",
+        "ADM2_PCODE": "MA007003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Figuig",
-        "ADM2_PCODE": "MA007004",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14382,17 +14454,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Figuig",
+        "ADM2_PCODE": "MA007004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guercif",
-        "ADM2_PCODE": "MA007005",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14801,17 +14875,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Guercif",
+        "ADM2_PCODE": "MA007005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jerada",
-        "ADM2_PCODE": "MA007006",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15056,17 +15132,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Jerada",
+        "ADM2_PCODE": "MA007006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nador",
-        "ADM2_PCODE": "MA007007",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15807,17 +15885,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Nador",
+        "ADM2_PCODE": "MA007007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Taourirt",
-        "ADM2_PCODE": "MA007008",
-        "ADM1_PCODE": "MA007",
-        "ADM1_EN": "Oriental",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16162,17 +16242,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Oriental",
+        "ADM1_PCODE": "MA007",
+        "ADM2_EN": "Taourirt",
+        "ADM2_PCODE": "MA007008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Skhirate- Témara",
-        "ADM2_PCODE": "MA008001",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16513,17 +16595,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Skhirate- Témara",
+        "ADM2_PCODE": "MA008001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Rabat",
-        "ADM2_PCODE": "MA008002",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16788,17 +16872,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Rabat",
+        "ADM2_PCODE": "MA008002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Salé",
-        "ADM2_PCODE": "MA008003",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16947,17 +17033,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Salé",
+        "ADM2_PCODE": "MA008003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kénitra",
-        "ADM2_PCODE": "MA008004",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17298,17 +17386,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Kénitra",
+        "ADM2_PCODE": "MA008004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Khémisset",
-        "ADM2_PCODE": "MA008005",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17737,17 +17827,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Khémisset",
+        "ADM2_PCODE": "MA008005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sidi Kacem",
-        "ADM2_PCODE": "MA008006",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18188,17 +18280,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Sidi Kacem",
+        "ADM2_PCODE": "MA008006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sidi Slimane",
-        "ADM2_PCODE": "MA008007",
-        "ADM1_PCODE": "MA008",
-        "ADM1_EN": "Rabat-Salé-Kénitra",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18395,17 +18489,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Rabat-Salé-Kénitra",
+        "ADM1_PCODE": "MA008",
+        "ADM2_EN": "Sidi Slimane",
+        "ADM2_PCODE": "MA008007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agadir Ida Ou Tanane",
-        "ADM2_PCODE": "MA009001",
-        "ADM1_PCODE": "MA009",
-        "ADM1_EN": "Souss-Massa",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18702,17 +18798,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Souss-Massa",
+        "ADM1_PCODE": "MA009",
+        "ADM2_EN": "Agadir Ida Ou Tanane",
+        "ADM2_PCODE": "MA009001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chtouka- Ait Baha",
-        "ADM2_PCODE": "MA009002",
-        "ADM1_PCODE": "MA009",
-        "ADM1_EN": "Souss-Massa",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18973,17 +19071,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Souss-Massa",
+        "ADM1_PCODE": "MA009",
+        "ADM2_EN": "Chtouka- Ait Baha",
+        "ADM2_PCODE": "MA009002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Inezgane Ait Melloul",
-        "ADM2_PCODE": "MA009003",
-        "ADM1_PCODE": "MA009",
-        "ADM1_EN": "Souss-Massa",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19088,17 +19188,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Souss-Massa",
+        "ADM1_PCODE": "MA009",
+        "ADM2_EN": "Inezgane Ait Melloul",
+        "ADM2_PCODE": "MA009003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Taroudannt",
-        "ADM2_PCODE": "MA009004",
-        "ADM1_PCODE": "MA009",
-        "ADM1_EN": "Souss-Massa",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19599,17 +19701,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Souss-Massa",
+        "ADM1_PCODE": "MA009",
+        "ADM2_EN": "Taroudannt",
+        "ADM2_PCODE": "MA009004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tata",
-        "ADM2_PCODE": "MA009005",
-        "ADM1_PCODE": "MA009",
-        "ADM1_EN": "Souss-Massa",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20162,17 +20266,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Souss-Massa",
+        "ADM1_PCODE": "MA009",
+        "ADM2_EN": "Tata",
+        "ADM2_PCODE": "MA009005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tiznit",
-        "ADM2_PCODE": "MA009006",
-        "ADM1_PCODE": "MA009",
-        "ADM1_EN": "Souss-Massa",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20521,17 +20627,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Souss-Massa",
+        "ADM1_PCODE": "MA009",
+        "ADM2_EN": "Tiznit",
+        "ADM2_PCODE": "MA009006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Al Hoceima",
-        "ADM2_PCODE": "MA010001",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21000,17 +21108,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Al Hoceima",
+        "ADM2_PCODE": "MA010001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chefchaouen",
-        "ADM2_PCODE": "MA010002",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21451,17 +21561,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Chefchaouen",
+        "ADM2_PCODE": "MA010002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fahs-Anjra",
-        "ADM2_PCODE": "MA010003",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21710,17 +21822,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Fahs-Anjra",
+        "ADM2_PCODE": "MA010003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Larache",
-        "ADM2_PCODE": "MA010004",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21965,17 +22079,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Larache",
+        "ADM2_PCODE": "MA010004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mdiq - Fnidq",
-        "ADM2_PCODE": "MA010005",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22128,17 +22244,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Mdiq - Fnidq",
+        "ADM2_PCODE": "MA010005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tanger -Assilah",
-        "ADM2_PCODE": "MA010006",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22351,17 +22469,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Tanger -Assilah",
+        "ADM2_PCODE": "MA010006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouezzane",
-        "ADM2_PCODE": "MA010007",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22578,17 +22698,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Ouezzane",
+        "ADM2_PCODE": "MA010007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tétouan",
-        "ADM2_PCODE": "MA010008",
-        "ADM1_PCODE": "MA010",
-        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
-        "ADM0_PCODE": "MA"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22817,6 +22939,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MA",
+        "ADM0_ISO_A2": "MA",
+        "ADM0_ISO_A3": "MAR",
+        "ADM1_EN": "Tanger-Tétouan-Al Hoceima",
+        "ADM1_PCODE": "MA010",
+        "ADM2_EN": "Tétouan",
+        "ADM2_PCODE": "MA010008"
       }
     }
   ]

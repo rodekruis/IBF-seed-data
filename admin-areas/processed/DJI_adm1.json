@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "DJI_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Obock",
-        "ADM1_PCODE": "DJ01"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -342,14 +331,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "DJ",
+        "ADM0_ISO_A2": "DJ",
+        "ADM0_ISO_A3": "DJI",
+        "ADM1_EN": "Obock",
+        "ADM1_PCODE": "DJ01"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tadjoura",
-        "ADM1_PCODE": "DJ02"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -598,14 +590,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "DJ",
+        "ADM0_ISO_A2": "DJ",
+        "ADM0_ISO_A3": "DJI",
+        "ADM1_EN": "Tadjoura",
+        "ADM1_PCODE": "DJ02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Dikhil",
-        "ADM1_PCODE": "DJ03"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -750,14 +745,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "DJ",
+        "ADM0_ISO_A2": "DJ",
+        "ADM0_ISO_A3": "DJI",
+        "ADM1_EN": "Dikhil",
+        "ADM1_PCODE": "DJ03"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Djiboutii",
-        "ADM1_PCODE": "DJ04"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1170,14 +1168,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "DJ",
+        "ADM0_ISO_A2": "DJ",
+        "ADM0_ISO_A3": "DJI",
+        "ADM1_EN": "Djiboutii",
+        "ADM1_PCODE": "DJ04"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ali Sabieh",
-        "ADM1_PCODE": "DJ05"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1254,14 +1255,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "DJ",
+        "ADM0_ISO_A2": "DJ",
+        "ADM0_ISO_A3": "DJI",
+        "ADM1_EN": "Ali Sabieh",
+        "ADM1_PCODE": "DJ05"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Arta",
-        "ADM1_PCODE": "DJ06"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1626,6 +1630,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "DJ",
+        "ADM0_ISO_A2": "DJ",
+        "ADM0_ISO_A3": "DJI",
+        "ADM1_EN": "Arta",
+        "ADM1_PCODE": "DJ06"
       }
     }
   ]

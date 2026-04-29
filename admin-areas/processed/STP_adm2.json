@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "STP_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pagué",
-        "ADM2_PCODE": "ST0101",
-        "ADM1_PCODE": "ST01",
-        "ADM1_EN": "Príncipe",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -405,17 +391,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "Príncipe",
+        "ADM1_PCODE": "ST01",
+        "ADM2_EN": "Pagué",
+        "ADM2_PCODE": "ST0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Água Grande",
-        "ADM2_PCODE": "ST0201",
-        "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -456,17 +444,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "São Tomé",
+        "ADM1_PCODE": "ST02",
+        "ADM2_EN": "Água Grande",
+        "ADM2_PCODE": "ST0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cantagalo",
-        "ADM2_PCODE": "ST0202",
-        "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -583,17 +573,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "São Tomé",
+        "ADM1_PCODE": "ST02",
+        "ADM2_EN": "Cantagalo",
+        "ADM2_PCODE": "ST0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Caué",
-        "ADM2_PCODE": "ST0203",
-        "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1042,17 +1034,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "São Tomé",
+        "ADM1_PCODE": "ST02",
+        "ADM2_EN": "Caué",
+        "ADM2_PCODE": "ST0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lembá",
-        "ADM2_PCODE": "ST0204",
-        "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1445,17 +1439,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "São Tomé",
+        "ADM1_PCODE": "ST02",
+        "ADM2_EN": "Lembá",
+        "ADM2_PCODE": "ST0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lobata",
-        "ADM2_PCODE": "ST0205",
-        "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1528,17 +1524,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "São Tomé",
+        "ADM1_PCODE": "ST02",
+        "ADM2_EN": "Lobata",
+        "ADM2_PCODE": "ST0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mé-Zóchi",
-        "ADM2_PCODE": "ST0206",
-        "ADM1_PCODE": "ST02",
-        "ADM1_EN": "São Tomé",
-        "ADM0_PCODE": "ST"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1595,6 +1593,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ST",
+        "ADM0_ISO_A2": "ST",
+        "ADM0_ISO_A3": "STP",
+        "ADM1_EN": "São Tomé",
+        "ADM1_PCODE": "ST02",
+        "ADM2_EN": "Mé-Zóchi",
+        "ADM2_PCODE": "ST0206"
       }
     }
   ]

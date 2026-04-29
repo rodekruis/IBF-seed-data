@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "GMB_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banjul Central",
-        "ADM2_PCODE": "GM0101",
-        "ADM1_PCODE": "GM01",
-        "ADM1_EN": "Banjul City Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -45,17 +31,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Banjul City Council",
+        "ADM1_PCODE": "GM01",
+        "ADM2_EN": "Banjul Central",
+        "ADM2_PCODE": "GM0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banjul North",
-        "ADM2_PCODE": "GM0102",
-        "ADM1_PCODE": "GM01",
-        "ADM1_EN": "Banjul City Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -84,17 +72,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Banjul City Council",
+        "ADM1_PCODE": "GM01",
+        "ADM2_EN": "Banjul North",
+        "ADM2_PCODE": "GM0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banjul South",
-        "ADM2_PCODE": "GM0103",
-        "ADM1_PCODE": "GM01",
-        "ADM1_EN": "Banjul City Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -127,17 +117,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Banjul City Council",
+        "ADM1_PCODE": "GM01",
+        "ADM2_EN": "Banjul South",
+        "ADM2_PCODE": "GM0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Basse",
-        "ADM2_PCODE": "GM0201",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -194,17 +186,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Basse",
+        "ADM2_PCODE": "GM0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kantora",
-        "ADM2_PCODE": "GM0202",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -277,17 +271,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Kantora",
+        "ADM2_PCODE": "GM0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sandu",
-        "ADM2_PCODE": "GM0203",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -376,17 +372,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Sandu",
+        "ADM2_PCODE": "GM0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jimara",
-        "ADM2_PCODE": "GM0204",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -459,17 +457,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Jimara",
+        "ADM2_PCODE": "GM0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tumana",
-        "ADM2_PCODE": "GM0205",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -554,17 +554,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Tumana",
+        "ADM2_PCODE": "GM0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wuli West",
-        "ADM2_PCODE": "GM0206",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -633,17 +635,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Wuli West",
+        "ADM2_PCODE": "GM0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wuli East",
-        "ADM2_PCODE": "GM0207",
-        "ADM1_PCODE": "GM02",
-        "ADM1_EN": "Upper River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -728,17 +732,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Upper River",
+        "ADM1_PCODE": "GM02",
+        "ADM2_EN": "Wuli East",
+        "ADM2_PCODE": "GM0207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Foni Bintang Karenai",
-        "ADM2_PCODE": "GM0301",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -819,17 +825,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Foni Bintang Karenai",
+        "ADM2_PCODE": "GM0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Foni Bondali",
-        "ADM2_PCODE": "GM0302",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -886,17 +894,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Foni Bondali",
+        "ADM2_PCODE": "GM0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Foni Brefet",
-        "ADM2_PCODE": "GM0303",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -949,17 +959,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Foni Brefet",
+        "ADM2_PCODE": "GM0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Foni Jarrol",
-        "ADM2_PCODE": "GM0304",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1004,17 +1016,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Foni Jarrol",
+        "ADM2_PCODE": "GM0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Foni Kansala",
-        "ADM2_PCODE": "GM0305",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1115,17 +1129,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Foni Kansala",
+        "ADM2_PCODE": "GM0305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kombo Central",
-        "ADM2_PCODE": "GM0306",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1170,17 +1186,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Kombo Central",
+        "ADM2_PCODE": "GM0306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kombo East",
-        "ADM2_PCODE": "GM0307",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1237,17 +1255,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Kombo East",
+        "ADM2_PCODE": "GM0307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kombo North/St Marie",
-        "ADM2_PCODE": "GM0308",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1424,17 +1444,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Kombo North/St Marie",
+        "ADM2_PCODE": "GM0308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kombo South",
-        "ADM2_PCODE": "GM0309",
-        "ADM1_PCODE": "GM03",
-        "ADM1_EN": "West Coast",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1527,17 +1549,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "West Coast",
+        "ADM1_PCODE": "GM03",
+        "ADM2_EN": "Kombo South",
+        "ADM2_PCODE": "GM0309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lower Fuladu West",
-        "ADM2_PCODE": "GM0401",
-        "ADM1_PCODE": "GM04",
-        "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1606,17 +1630,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River South",
+        "ADM1_PCODE": "GM04",
+        "ADM2_EN": "Lower Fuladu West",
+        "ADM2_PCODE": "GM0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Janjanbureh",
-        "ADM2_PCODE": "GM0402",
-        "ADM1_PCODE": "GM04",
-        "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1645,17 +1671,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River South",
+        "ADM1_PCODE": "GM04",
+        "ADM2_EN": "Janjanbureh",
+        "ADM2_PCODE": "GM0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niamina Dankunku",
-        "ADM2_PCODE": "GM0403",
-        "ADM1_PCODE": "GM04",
-        "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1704,17 +1732,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River South",
+        "ADM1_PCODE": "GM04",
+        "ADM2_EN": "Niamina Dankunku",
+        "ADM2_PCODE": "GM0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niamina East",
-        "ADM2_PCODE": "GM0404",
-        "ADM1_PCODE": "GM04",
-        "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1775,17 +1805,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River South",
+        "ADM1_PCODE": "GM04",
+        "ADM2_EN": "Niamina East",
+        "ADM2_PCODE": "GM0404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niamina West",
-        "ADM2_PCODE": "GM0405",
-        "ADM1_PCODE": "GM04",
-        "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1854,17 +1886,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River South",
+        "ADM1_PCODE": "GM04",
+        "ADM2_EN": "Niamina West",
+        "ADM2_PCODE": "GM0405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper Fuladu West",
-        "ADM2_PCODE": "GM0406",
-        "ADM1_PCODE": "GM04",
-        "ADM1_EN": "Central River South",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1965,17 +1999,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River South",
+        "ADM1_PCODE": "GM04",
+        "ADM2_EN": "Upper Fuladu West",
+        "ADM2_PCODE": "GM0406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bakau",
-        "ADM2_PCODE": "GM0501",
-        "ADM1_PCODE": "GM05",
-        "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2012,17 +2048,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Kanifing Municipal Council",
+        "ADM1_PCODE": "GM05",
+        "ADM2_EN": "Bakau",
+        "ADM2_PCODE": "GM0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jeshwang",
-        "ADM2_PCODE": "GM0502",
-        "ADM1_PCODE": "GM05",
-        "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2055,17 +2093,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Kanifing Municipal Council",
+        "ADM1_PCODE": "GM05",
+        "ADM2_EN": "Jeshwang",
+        "ADM2_PCODE": "GM0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mangrove",
-        "ADM2_PCODE": "GM0503",
-        "ADM1_PCODE": "GM05",
-        "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2098,17 +2138,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Kanifing Municipal Council",
+        "ADM1_PCODE": "GM05",
+        "ADM2_EN": "Mangrove",
+        "ADM2_PCODE": "GM0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sere Kunda Central",
-        "ADM2_PCODE": "GM0504",
-        "ADM1_PCODE": "GM05",
-        "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2137,17 +2179,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Kanifing Municipal Council",
+        "ADM1_PCODE": "GM05",
+        "ADM2_EN": "Sere Kunda Central",
+        "ADM2_PCODE": "GM0504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sere Kunda East",
-        "ADM2_PCODE": "GM0505",
-        "ADM1_PCODE": "GM05",
-        "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2184,17 +2228,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Kanifing Municipal Council",
+        "ADM1_PCODE": "GM05",
+        "ADM2_EN": "Sere Kunda East",
+        "ADM2_PCODE": "GM0505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sere Kunda West",
-        "ADM2_PCODE": "GM0506",
-        "ADM1_PCODE": "GM05",
-        "ADM1_EN": "Kanifing Municipal Council",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2223,17 +2269,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Kanifing Municipal Council",
+        "ADM1_PCODE": "GM05",
+        "ADM2_EN": "Sere Kunda West",
+        "ADM2_PCODE": "GM0506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Central Baddibu",
-        "ADM2_PCODE": "GM0601",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2286,17 +2334,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Central Baddibu",
+        "ADM2_PCODE": "GM0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jokadu",
-        "ADM2_PCODE": "GM0602",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2361,17 +2411,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Jokadu",
+        "ADM2_PCODE": "GM0602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lower Baddibu",
-        "ADM2_PCODE": "GM0603",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2416,17 +2468,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Lower Baddibu",
+        "ADM2_PCODE": "GM0603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lower Niumi",
-        "ADM2_PCODE": "GM0604",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2475,17 +2529,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Lower Niumi",
+        "ADM2_PCODE": "GM0604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Illiassa",
-        "ADM2_PCODE": "GM0605",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2550,17 +2606,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Illiassa",
+        "ADM2_PCODE": "GM0605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper Niumi",
-        "ADM2_PCODE": "GM0606",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2625,17 +2683,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Upper Niumi",
+        "ADM2_PCODE": "GM0606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sabach - Sanjal",
-        "ADM2_PCODE": "GM0607",
-        "ADM1_PCODE": "GM06",
-        "ADM1_EN": "North Bank",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2708,17 +2768,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "North Bank",
+        "ADM1_PCODE": "GM06",
+        "ADM2_EN": "Sabach - Sanjal",
+        "ADM2_PCODE": "GM0607"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lower Saloum",
-        "ADM2_PCODE": "GM0701",
-        "ADM1_PCODE": "GM07",
-        "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2771,17 +2833,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River North",
+        "ADM1_PCODE": "GM07",
+        "ADM2_EN": "Lower Saloum",
+        "ADM2_PCODE": "GM0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niani",
-        "ADM2_PCODE": "GM0702",
-        "ADM1_PCODE": "GM07",
-        "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2882,17 +2946,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River North",
+        "ADM1_PCODE": "GM07",
+        "ADM2_EN": "Niani",
+        "ADM2_PCODE": "GM0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nianija",
-        "ADM2_PCODE": "GM0703",
-        "ADM1_PCODE": "GM07",
-        "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2945,17 +3011,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River North",
+        "ADM1_PCODE": "GM07",
+        "ADM2_EN": "Nianija",
+        "ADM2_PCODE": "GM0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sami",
-        "ADM2_PCODE": "GM0704",
-        "ADM1_PCODE": "GM07",
-        "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3064,17 +3132,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River North",
+        "ADM1_PCODE": "GM07",
+        "ADM2_EN": "Sami",
+        "ADM2_PCODE": "GM0704"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper Saloum",
-        "ADM2_PCODE": "GM0705",
-        "ADM1_PCODE": "GM07",
-        "ADM1_EN": "Central River North",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3151,17 +3221,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Central River North",
+        "ADM1_PCODE": "GM07",
+        "ADM2_EN": "Upper Saloum",
+        "ADM2_PCODE": "GM0705"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jarra Central",
-        "ADM2_PCODE": "GM0801",
-        "ADM1_PCODE": "GM08",
-        "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3206,17 +3278,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Lower River",
+        "ADM1_PCODE": "GM08",
+        "ADM2_EN": "Jarra Central",
+        "ADM2_PCODE": "GM0801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jarra East",
-        "ADM2_PCODE": "GM0802",
-        "ADM1_PCODE": "GM08",
-        "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3281,17 +3355,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Lower River",
+        "ADM1_PCODE": "GM08",
+        "ADM2_EN": "Jarra East",
+        "ADM2_PCODE": "GM0802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jarra West",
-        "ADM2_PCODE": "GM0803",
-        "ADM1_PCODE": "GM08",
-        "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3348,17 +3424,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Lower River",
+        "ADM1_PCODE": "GM08",
+        "ADM2_EN": "Jarra West",
+        "ADM2_PCODE": "GM0803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kiang Central",
-        "ADM2_PCODE": "GM0804",
-        "ADM1_PCODE": "GM08",
-        "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3395,17 +3473,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Lower River",
+        "ADM1_PCODE": "GM08",
+        "ADM2_EN": "Kiang Central",
+        "ADM2_PCODE": "GM0804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kiang East",
-        "ADM2_PCODE": "GM0805",
-        "ADM1_PCODE": "GM08",
-        "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3450,17 +3530,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Lower River",
+        "ADM1_PCODE": "GM08",
+        "ADM2_EN": "Kiang East",
+        "ADM2_PCODE": "GM0805"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kiang West",
-        "ADM2_PCODE": "GM0806",
-        "ADM1_PCODE": "GM08",
-        "ADM1_EN": "Lower River",
-        "ADM0_PCODE": "GM"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3589,6 +3671,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GM",
+        "ADM0_ISO_A2": "GM",
+        "ADM0_ISO_A3": "GMB",
+        "ADM1_EN": "Lower River",
+        "ADM1_PCODE": "GM08",
+        "ADM2_EN": "Kiang West",
+        "ADM2_PCODE": "GM0806"
       }
     }
   ]

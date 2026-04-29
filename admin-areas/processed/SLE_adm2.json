@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SLE_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kailahun",
-        "ADM2_PCODE": "SL0101",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -221,17 +207,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kenema",
-        "ADM2_PCODE": "SL0102",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -568,17 +556,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kono",
-        "ADM2_PCODE": "SL0103",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -847,17 +837,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bombali",
-        "ADM2_PCODE": "SL0201",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1190,17 +1182,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Koinadugu",
-        "ADM2_PCODE": "SL0203",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1621,17 +1615,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tonkolili",
-        "ADM2_PCODE": "SL0205",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2036,17 +2032,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fabala",
-        "ADM2_PCODE": "SL0206",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2415,17 +2413,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Fabala",
+        "ADM2_PCODE": "SL0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bo",
-        "ADM2_PCODE": "SL0301",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2762,17 +2762,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bonthe",
-        "ADM2_PCODE": "SL0302",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4821,17 +4823,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Moyamba",
-        "ADM2_PCODE": "SL0303",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5304,17 +5308,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pujehun",
-        "ADM2_PCODE": "SL0304",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5547,17 +5553,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Western Area Rural",
-        "ADM2_PCODE": "SL0401",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6010,17 +6018,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Rural",
+        "ADM2_PCODE": "SL0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Western Area Urban",
-        "ADM2_PCODE": "SL0402",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6149,17 +6159,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kambia",
-        "ADM2_PCODE": "SL0501",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6500,17 +6512,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Karene",
-        "ADM2_PCODE": "SL0502",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6955,17 +6969,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Port Loko",
-        "ADM2_PCODE": "SL0503",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7498,6 +7514,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503"
       }
     }
   ]

@@ -1,24 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SYC_adm3",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bel Air",
-        "ADM3_PCODE": "SC1109BA",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC11",
-        "ADM2_EN": "Central 1 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -47,19 +31,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 1 Mahe",
+        "ADM2_PCODE": "SC11",
+        "ADM3_EN": "Bel Air",
+        "ADM3_PCODE": "SC1109BA"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "English River",
-        "ADM3_PCODE": "SC1116ER",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC11",
-        "ADM2_EN": "Central 1 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -88,19 +74,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 1 Mahe",
+        "ADM2_PCODE": "SC11",
+        "ADM3_EN": "English River",
+        "ADM3_PCODE": "SC1116ER"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mont Buxton",
-        "ADM3_PCODE": "SC1117MB",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC11",
-        "ADM2_EN": "Central 1 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -129,19 +117,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 1 Mahe",
+        "ADM2_PCODE": "SC11",
+        "ADM3_EN": "Mont Buxton",
+        "ADM3_PCODE": "SC1117MB"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Saint Louis",
-        "ADM3_PCODE": "SC1122SL",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC11",
-        "ADM2_EN": "Central 1 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -170,19 +160,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 1 Mahe",
+        "ADM2_PCODE": "SC11",
+        "ADM3_EN": "Saint Louis",
+        "ADM3_PCODE": "SC1122SL"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Perseverance Island",
-        "ADM3_PCODE": "SC1127PI",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC11",
-        "ADM2_EN": "Central 1 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -211,19 +203,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 1 Mahe",
+        "ADM2_PCODE": "SC11",
+        "ADM3_EN": "Perseverance Island",
+        "ADM3_PCODE": "SC1127PI"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mont Fleuri",
-        "ADM3_PCODE": "SC1218MF",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC12",
-        "ADM2_EN": "Central 2 Mahe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -420,19 +414,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 2 Mahe",
+        "ADM2_PCODE": "SC12",
+        "ADM3_EN": "Mont Fleuri",
+        "ADM3_PCODE": "SC1218MF"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Plaisance",
-        "ADM3_PCODE": "SC1219PA",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC12",
-        "ADM2_EN": "Central 2 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -461,19 +457,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 2 Mahe",
+        "ADM2_PCODE": "SC12",
+        "ADM3_EN": "Plaisance",
+        "ADM3_PCODE": "SC1219PA"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Les Mamelles",
-        "ADM3_PCODE": "SC1224LM",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC12",
-        "ADM2_EN": "Central 2 Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -502,19 +500,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 2 Mahe",
+        "ADM2_PCODE": "SC12",
+        "ADM3_EN": "Les Mamelles",
+        "ADM3_PCODE": "SC1224LM"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Roche Caiman",
-        "ADM3_PCODE": "SC1225RC",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC12",
-        "ADM2_EN": "Central 2 Mahe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -667,19 +667,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "Central 2 Mahe",
+        "ADM2_PCODE": "SC12",
+        "ADM3_EN": "Roche Caiman",
+        "ADM3_PCODE": "SC1225RC"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Anse Aux Pins",
-        "ADM3_PCODE": "SC1301AA",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC13",
-        "ADM2_EN": "East Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -708,19 +710,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "East Mahe",
+        "ADM2_PCODE": "SC13",
+        "ADM3_EN": "Anse Aux Pins",
+        "ADM3_PCODE": "SC1301AA"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Au Cap",
-        "ADM3_PCODE": "SC1304AC",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC13",
-        "ADM2_EN": "East Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -753,19 +757,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "East Mahe",
+        "ADM2_PCODE": "SC13",
+        "ADM3_EN": "Au Cap",
+        "ADM3_PCODE": "SC1304AC"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Anse Royale",
-        "ADM3_PCODE": "SC1305AR",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC13",
-        "ADM2_EN": "East Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -794,19 +800,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "East Mahe",
+        "ADM2_PCODE": "SC13",
+        "ADM3_EN": "Anse Royale",
+        "ADM3_PCODE": "SC1305AR"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cascade",
-        "ADM3_PCODE": "SC1311CA",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC13",
-        "ADM2_EN": "East Mahe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -863,19 +871,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "East Mahe",
+        "ADM2_PCODE": "SC13",
+        "ADM3_EN": "Cascade",
+        "ADM3_PCODE": "SC1311CA"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pointe Larue",
-        "ADM3_PCODE": "SC1320PL",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC13",
-        "ADM2_EN": "East Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -904,19 +914,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "East Mahe",
+        "ADM2_PCODE": "SC13",
+        "ADM3_EN": "Pointe Larue",
+        "ADM3_PCODE": "SC1320PL"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Takamaka",
-        "ADM3_PCODE": "SC1323TA",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC13",
-        "ADM2_EN": "East Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -949,19 +961,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "East Mahe",
+        "ADM2_PCODE": "SC13",
+        "ADM3_EN": "Takamaka",
+        "ADM3_PCODE": "SC1323TA"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Anse Boileau",
-        "ADM3_PCODE": "SC1402AB",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC14",
-        "ADM2_EN": "West Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -990,19 +1004,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "West Mahe",
+        "ADM2_PCODE": "SC14",
+        "ADM3_EN": "Anse Boileau",
+        "ADM3_PCODE": "SC1402AB"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Baie Lazare",
-        "ADM3_PCODE": "SC1406BL",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC14",
-        "ADM2_EN": "West Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1039,19 +1055,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "West Mahe",
+        "ADM2_PCODE": "SC14",
+        "ADM3_EN": "Baie Lazare",
+        "ADM3_PCODE": "SC1406BL"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Grand Anse Mahe",
-        "ADM3_PCODE": "SC1413GM",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC14",
-        "ADM2_EN": "West Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1084,19 +1102,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "West Mahe",
+        "ADM2_PCODE": "SC14",
+        "ADM3_EN": "Grand Anse Mahe",
+        "ADM3_PCODE": "SC1413GM"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Port Glaud",
-        "ADM3_PCODE": "SC1421PG",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC14",
-        "ADM2_EN": "West Mahe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1185,19 +1205,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "West Mahe",
+        "ADM2_PCODE": "SC14",
+        "ADM3_EN": "Port Glaud",
+        "ADM3_PCODE": "SC1421PG"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Anse Etoile",
-        "ADM3_PCODE": "SC1503AE",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC15",
-        "ADM2_EN": "North Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1226,19 +1248,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "North Mahe",
+        "ADM2_PCODE": "SC15",
+        "ADM3_EN": "Anse Etoile",
+        "ADM3_PCODE": "SC1503AE"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Beau Vallon",
-        "ADM3_PCODE": "SC1508BV",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC15",
-        "ADM2_EN": "North Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1267,19 +1291,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "North Mahe",
+        "ADM2_PCODE": "SC15",
+        "ADM3_EN": "Beau Vallon",
+        "ADM3_PCODE": "SC1508BV"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Belombre",
-        "ADM3_PCODE": "SC1510BO",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC15",
-        "ADM2_EN": "North Mahe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1308,19 +1334,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "North Mahe",
+        "ADM2_PCODE": "SC15",
+        "ADM3_EN": "Belombre",
+        "ADM3_PCODE": "SC1510BO"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Glacis",
-        "ADM3_PCODE": "SC1512GL",
-        "ADM1_PCODE": "SC1",
-        "ADM1_EN": "Mahe",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC15",
-        "ADM2_EN": "North Mahe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1373,19 +1401,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Mahe",
+        "ADM1_PCODE": "SC1",
+        "ADM2_EN": "North Mahe",
+        "ADM2_PCODE": "SC15",
+        "ADM3_EN": "Glacis",
+        "ADM3_PCODE": "SC1512GL"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Baie Sainte Anne",
-        "ADM3_PCODE": "SC2607BS",
-        "ADM1_PCODE": "SC2",
-        "ADM1_EN": "Praslin",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC26",
-        "ADM2_EN": "Praslin"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1522,19 +1552,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Praslin",
+        "ADM1_PCODE": "SC2",
+        "ADM2_EN": "Praslin",
+        "ADM2_PCODE": "SC26",
+        "ADM3_EN": "Baie Sainte Anne",
+        "ADM3_PCODE": "SC2607BS"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Grand Anse Praslin",
-        "ADM3_PCODE": "SC2614GP",
-        "ADM1_PCODE": "SC2",
-        "ADM1_EN": "Praslin",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC26",
-        "ADM2_EN": "Praslin"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1611,19 +1643,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Praslin",
+        "ADM1_PCODE": "SC2",
+        "ADM2_EN": "Praslin",
+        "ADM2_PCODE": "SC26",
+        "ADM3_EN": "Grand Anse Praslin",
+        "ADM3_PCODE": "SC2614GP"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "La Digue",
-        "ADM3_PCODE": "SC3615LD",
-        "ADM1_PCODE": "SC3",
-        "ADM1_EN": "La Digue",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC36",
-        "ADM2_EN": "La Digue"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1652,19 +1686,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "La Digue",
+        "ADM1_PCODE": "SC3",
+        "ADM2_EN": "La Digue",
+        "ADM2_PCODE": "SC36",
+        "ADM3_EN": "La Digue",
+        "ADM3_PCODE": "SC3615LD"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Other Islands",
-        "ADM3_PCODE": "SC4726OI",
-        "ADM1_PCODE": "SC4",
-        "ADM1_EN": "Other Islands",
-        "ADM0_PCODE": "SC",
-        "ADM2_PCODE": "SC47",
-        "ADM2_EN": "Other Islands"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -42153,6 +42189,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SC",
+        "ADM0_ISO_A2": "SC",
+        "ADM0_ISO_A3": "SYC",
+        "ADM1_EN": "Other Islands",
+        "ADM1_PCODE": "SC4",
+        "ADM2_EN": "Other Islands",
+        "ADM2_PCODE": "SC47",
+        "ADM3_EN": "Other Islands",
+        "ADM3_PCODE": "SC4726OI"
       }
     }
   ]

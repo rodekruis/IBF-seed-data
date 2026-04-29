@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "GNQ_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Annobón",
-        "ADM1_PCODE": "GQ198"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -890,14 +879,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Annobón",
+        "ADM1_PCODE": "GQ198"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bioko Norte",
-        "ADM1_PCODE": "GQ199"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1214,14 +1206,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Norte",
+        "ADM1_PCODE": "GQ199"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bioko Sur",
-        "ADM1_PCODE": "GQ200"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2266,14 +2261,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Bioko Sur",
+        "ADM1_PCODE": "GQ200"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Centro Sur",
-        "ADM1_PCODE": "GQ201"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2498,14 +2496,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Centro Sur",
+        "ADM1_PCODE": "GQ201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kié-Ntem",
-        "ADM1_PCODE": "GQ202"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2582,14 +2583,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Kié-Ntem",
+        "ADM1_PCODE": "GQ202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Litoral",
-        "ADM1_PCODE": "GQ203"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3010,14 +3014,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Litoral",
+        "ADM1_PCODE": "GQ203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Wele-Nzas",
-        "ADM1_PCODE": "GQ204"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3178,6 +3185,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GQ",
+        "ADM0_ISO_A2": "GQ",
+        "ADM0_ISO_A3": "GNQ",
+        "ADM1_EN": "Wele-Nzas",
+        "ADM1_PCODE": "GQ204"
       }
     }
   ]

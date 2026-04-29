@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "GHA_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asunafo North Municipal",
-        "ADM2_PCODE": "GH0101",
-        "ADM1_PCODE": "GH01",
-        "ADM1_EN": "Ahafo",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -141,17 +127,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ahafo",
+        "ADM1_PCODE": "GH01",
+        "ADM2_EN": "Asunafo North Municipal",
+        "ADM2_PCODE": "GH0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asunafo South",
-        "ADM2_PCODE": "GH0102",
-        "ADM1_PCODE": "GH01",
-        "ADM1_EN": "Ahafo",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -296,17 +284,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ahafo",
+        "ADM1_PCODE": "GH01",
+        "ADM2_EN": "Asunafo South",
+        "ADM2_PCODE": "GH0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asutifi North",
-        "ADM2_PCODE": "GH0103",
-        "ADM1_PCODE": "GH01",
-        "ADM1_EN": "Ahafo",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -427,17 +417,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ahafo",
+        "ADM1_PCODE": "GH01",
+        "ADM2_EN": "Asutifi North",
+        "ADM2_PCODE": "GH0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asutifi South",
-        "ADM2_PCODE": "GH0104",
-        "ADM1_PCODE": "GH01",
-        "ADM1_EN": "Ahafo",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -558,17 +550,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ahafo",
+        "ADM1_PCODE": "GH01",
+        "ADM2_EN": "Asutifi South",
+        "ADM2_PCODE": "GH0104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tano North Municipal",
-        "ADM2_PCODE": "GH0105",
-        "ADM1_PCODE": "GH01",
-        "ADM1_EN": "Ahafo",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -677,17 +671,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ahafo",
+        "ADM1_PCODE": "GH01",
+        "ADM2_EN": "Tano North Municipal",
+        "ADM2_PCODE": "GH0105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tano South Municipal",
-        "ADM2_PCODE": "GH0106",
-        "ADM1_PCODE": "GH01",
-        "ADM1_EN": "Ahafo",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -776,17 +772,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ahafo",
+        "ADM1_PCODE": "GH01",
+        "ADM2_EN": "Tano South Municipal",
+        "ADM2_PCODE": "GH0106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adansi Akrofuom",
-        "ADM2_PCODE": "GH0201",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -899,17 +897,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Adansi Akrofuom",
+        "ADM2_PCODE": "GH0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adansi Asokwa",
-        "ADM2_PCODE": "GH0202",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1038,17 +1038,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Adansi Asokwa",
+        "ADM2_PCODE": "GH0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adansi North",
-        "ADM2_PCODE": "GH0203",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1137,17 +1139,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Adansi North",
+        "ADM2_PCODE": "GH0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adansi South",
-        "ADM2_PCODE": "GH0204",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1308,17 +1312,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Adansi South",
+        "ADM2_PCODE": "GH0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Afigya Kwabre North",
-        "ADM2_PCODE": "GH0205",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1387,17 +1393,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Afigya Kwabre North",
+        "ADM2_PCODE": "GH0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Afigya Kwabre South",
-        "ADM2_PCODE": "GH0206",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1478,17 +1486,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Afigya Kwabre South",
+        "ADM2_PCODE": "GH0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ahafo Ano North",
-        "ADM2_PCODE": "GH0207",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1589,17 +1599,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Ahafo Ano North",
+        "ADM2_PCODE": "GH0207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ahafo Ano South East",
-        "ADM2_PCODE": "GH0208",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1708,17 +1720,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Ahafo Ano South East",
+        "ADM2_PCODE": "GH0208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ahafo Ano South West",
-        "ADM2_PCODE": "GH0209",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1815,17 +1829,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Ahafo Ano South West",
+        "ADM2_PCODE": "GH0209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Amansie Central",
-        "ADM2_PCODE": "GH0210",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1974,17 +1990,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Amansie Central",
+        "ADM2_PCODE": "GH0210"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Amansie South",
-        "ADM2_PCODE": "GH0211",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2081,17 +2099,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Amansie South",
+        "ADM2_PCODE": "GH0211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Amansie West",
-        "ADM2_PCODE": "GH0212",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2212,17 +2232,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Amansie West",
+        "ADM2_PCODE": "GH0212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asante Akim Central Municipal",
-        "ADM2_PCODE": "GH0213",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2303,17 +2325,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Asante Akim Central Municipal",
+        "ADM2_PCODE": "GH0213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asante Akim North",
-        "ADM2_PCODE": "GH0214",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2474,17 +2498,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Asante Akim North",
+        "ADM2_PCODE": "GH0214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asante Akim South",
-        "ADM2_PCODE": "GH0215",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2621,17 +2647,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Asante Akim South",
+        "ADM2_PCODE": "GH0215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asokore Mampong Municipal",
-        "ADM2_PCODE": "GH0216",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2660,17 +2688,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Asokore Mampong Municipal",
+        "ADM2_PCODE": "GH0216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asokwa  Municipal",
-        "ADM2_PCODE": "GH0217",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2707,17 +2737,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Asokwa  Municipal",
+        "ADM2_PCODE": "GH0217"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atwima Kwanwoma",
-        "ADM2_PCODE": "GH0218",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2806,17 +2838,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Atwima Kwanwoma",
+        "ADM2_PCODE": "GH0218"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atwima Mponua",
-        "ADM2_PCODE": "GH0219",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3021,17 +3055,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Atwima Mponua",
+        "ADM2_PCODE": "GH0219"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atwima Nwabiagya North",
-        "ADM2_PCODE": "GH0220",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3108,17 +3144,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Atwima Nwabiagya North",
+        "ADM2_PCODE": "GH0220"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atwima Nwabiagya South",
-        "ADM2_PCODE": "GH0221",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3199,17 +3237,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Atwima Nwabiagya South",
+        "ADM2_PCODE": "GH0221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bekwai Municipal",
-        "ADM2_PCODE": "GH0222",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3330,17 +3370,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Bekwai Municipal",
+        "ADM2_PCODE": "GH0222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bosome Freho",
-        "ADM2_PCODE": "GH0223",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3477,17 +3519,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Bosome Freho",
+        "ADM2_PCODE": "GH0223"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bosomtwe",
-        "ADM2_PCODE": "GH0224",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3580,17 +3624,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Bosomtwe",
+        "ADM2_PCODE": "GH0224"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ejisu Municipal",
-        "ADM2_PCODE": "GH0225",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3687,17 +3733,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Ejisu Municipal",
+        "ADM2_PCODE": "GH0225"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ejura-Sekyedumase",
-        "ADM2_PCODE": "GH0226",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3818,17 +3866,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Ejura-Sekyedumase",
+        "ADM2_PCODE": "GH0226"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Juaben Municipal",
-        "ADM2_PCODE": "GH0227",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3893,17 +3943,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Juaben Municipal",
+        "ADM2_PCODE": "GH0227"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kumasi Metropolitan",
-        "ADM2_PCODE": "GH0228",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3936,17 +3988,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Kumasi Metropolitan",
+        "ADM2_PCODE": "GH0228"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwabre East",
-        "ADM2_PCODE": "GH0229",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3991,17 +4045,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Kwabre East",
+        "ADM2_PCODE": "GH0229"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwadaso Municipal",
-        "ADM2_PCODE": "GH0230",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4050,17 +4106,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Kwadaso Municipal",
+        "ADM2_PCODE": "GH0230"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mampong Municipal",
-        "ADM2_PCODE": "GH0231",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4173,17 +4231,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Mampong Municipal",
+        "ADM2_PCODE": "GH0231"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Obuasi East",
-        "ADM2_PCODE": "GH0232",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4224,17 +4284,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Obuasi East",
+        "ADM2_PCODE": "GH0232"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Obuasi Municipal",
-        "ADM2_PCODE": "GH0233",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4287,17 +4349,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Obuasi Municipal",
+        "ADM2_PCODE": "GH0233"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Offinso Municipal",
-        "ADM2_PCODE": "GH0234",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4382,17 +4446,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Offinso Municipal",
+        "ADM2_PCODE": "GH0234"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Offinso North",
-        "ADM2_PCODE": "GH0235",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4549,17 +4615,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Offinso North",
+        "ADM2_PCODE": "GH0235"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Oforikrom Municipal",
-        "ADM2_PCODE": "GH0236",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4600,17 +4668,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Oforikrom Municipal",
+        "ADM2_PCODE": "GH0236"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Old Tafo Municipal",
-        "ADM2_PCODE": "GH0237",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4639,17 +4709,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Old Tafo Municipal",
+        "ADM2_PCODE": "GH0237"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sekyere Afram Plains North",
-        "ADM2_PCODE": "GH0238",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4890,17 +4962,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Sekyere Afram Plains North",
+        "ADM2_PCODE": "GH0238"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sekyere Central",
-        "ADM2_PCODE": "GH0239",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5057,17 +5131,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Sekyere Central",
+        "ADM2_PCODE": "GH0239"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sekyere East",
-        "ADM2_PCODE": "GH0240",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5124,17 +5200,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Sekyere East",
+        "ADM2_PCODE": "GH0240"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sekyere Kumawu",
-        "ADM2_PCODE": "GH0241",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5231,17 +5309,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Sekyere Kumawu",
+        "ADM2_PCODE": "GH0241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sekyere South",
-        "ADM2_PCODE": "GH0242",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5338,17 +5418,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Sekyere South",
+        "ADM2_PCODE": "GH0242"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Suame Municipal",
-        "ADM2_PCODE": "GH0243",
-        "ADM1_PCODE": "GH02",
-        "ADM1_EN": "Ashanti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5385,17 +5467,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Ashanti",
+        "ADM1_PCODE": "GH02",
+        "ADM2_EN": "Suame Municipal",
+        "ADM2_PCODE": "GH0243"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banda",
-        "ADM2_PCODE": "GH0301",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5560,17 +5644,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Banda",
+        "ADM2_PCODE": "GH0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Berekum East Municipal",
-        "ADM2_PCODE": "GH0302",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5667,17 +5753,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Berekum East Municipal",
+        "ADM2_PCODE": "GH0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Berekum West",
-        "ADM2_PCODE": "GH0303",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5746,17 +5834,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Berekum West",
+        "ADM2_PCODE": "GH0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dormaa East",
-        "ADM2_PCODE": "GH0304",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5825,17 +5915,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Dormaa East",
+        "ADM2_PCODE": "GH0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dormaa Municipal",
-        "ADM2_PCODE": "GH0305",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5936,17 +6028,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Dormaa Municipal",
+        "ADM2_PCODE": "GH0305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dormaa West",
-        "ADM2_PCODE": "GH0306",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6019,17 +6113,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Dormaa West",
+        "ADM2_PCODE": "GH0306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jaman North",
-        "ADM2_PCODE": "GH0307",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6138,17 +6234,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Jaman North",
+        "ADM2_PCODE": "GH0307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jaman South Municipal",
-        "ADM2_PCODE": "GH0308",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6221,17 +6319,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Jaman South Municipal",
+        "ADM2_PCODE": "GH0308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sunyani Municipal",
-        "ADM2_PCODE": "GH0309",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6332,17 +6432,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Sunyani Municipal",
+        "ADM2_PCODE": "GH0309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sunyani West",
-        "ADM2_PCODE": "GH0310",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6479,17 +6581,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Sunyani West",
+        "ADM2_PCODE": "GH0310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tain",
-        "ADM2_PCODE": "GH0311",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6646,17 +6750,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Tain",
+        "ADM2_PCODE": "GH0311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wenchi Municipal",
-        "ADM2_PCODE": "GH0312",
-        "ADM1_PCODE": "GH03",
-        "ADM1_EN": "Bono",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6825,17 +6931,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono",
+        "ADM1_PCODE": "GH03",
+        "ADM2_EN": "Wenchi Municipal",
+        "ADM2_PCODE": "GH0312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atebubu Amantin",
-        "ADM2_PCODE": "GH0401",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7020,17 +7128,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Atebubu Amantin",
+        "ADM2_PCODE": "GH0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kintampo North Municipal",
-        "ADM2_PCODE": "GH0402",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7255,17 +7365,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Kintampo North Municipal",
+        "ADM2_PCODE": "GH0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kintampo South",
-        "ADM2_PCODE": "GH0403",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7406,17 +7518,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Kintampo South",
+        "ADM2_PCODE": "GH0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkoranza North",
-        "ADM2_PCODE": "GH0404",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7541,17 +7655,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Nkoranza North",
+        "ADM2_PCODE": "GH0404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkoranza South",
-        "ADM2_PCODE": "GH0405",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7664,17 +7780,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Nkoranza South",
+        "ADM2_PCODE": "GH0405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pru East",
-        "ADM2_PCODE": "GH0406",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7799,17 +7917,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Pru East",
+        "ADM2_PCODE": "GH0406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pru West",
-        "ADM2_PCODE": "GH0407",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7946,17 +8066,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Pru West",
+        "ADM2_PCODE": "GH0407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sene East",
-        "ADM2_PCODE": "GH0408",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8149,17 +8271,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Sene East",
+        "ADM2_PCODE": "GH0408"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sene West",
-        "ADM2_PCODE": "GH0409",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8332,17 +8456,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Sene West",
+        "ADM2_PCODE": "GH0409"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Techiman Municipal",
-        "ADM2_PCODE": "GH0410",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8439,17 +8565,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Techiman Municipal",
+        "ADM2_PCODE": "GH0410"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Techiman North",
-        "ADM2_PCODE": "GH0411",
-        "ADM1_PCODE": "GH04",
-        "ADM1_EN": "Bono East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8538,17 +8666,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Bono East",
+        "ADM1_PCODE": "GH04",
+        "ADM2_EN": "Techiman North",
+        "ADM2_PCODE": "GH0411"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abura-Asebu-Kwamankese",
-        "ADM2_PCODE": "GH0501",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8665,17 +8795,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Abura-Asebu-Kwamankese",
+        "ADM2_PCODE": "GH0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agona East",
-        "ADM2_PCODE": "GH0502",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8752,17 +8884,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Agona East",
+        "ADM2_PCODE": "GH0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agona West Municipal",
-        "ADM2_PCODE": "GH0503",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8843,17 +8977,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Agona West Municipal",
+        "ADM2_PCODE": "GH0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ajumako-Enyan-Essiam",
-        "ADM2_PCODE": "GH0504",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8992,17 +9128,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Ajumako-Enyan-Essiam",
+        "ADM2_PCODE": "GH0504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asikuma-Odoben-Brakwa",
-        "ADM2_PCODE": "GH0505",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9111,17 +9249,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Asikuma-Odoben-Brakwa",
+        "ADM2_PCODE": "GH0505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Assin Fosu",
-        "ADM2_PCODE": "GH0506",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9202,17 +9342,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Assin Fosu",
+        "ADM2_PCODE": "GH0506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Assin North",
-        "ADM2_PCODE": "GH0507",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9345,17 +9487,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Assin North",
+        "ADM2_PCODE": "GH0507"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Assin South",
-        "ADM2_PCODE": "GH0508",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9524,17 +9668,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Assin South",
+        "ADM2_PCODE": "GH0508"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Awutu Senya",
-        "ADM2_PCODE": "GH0509",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9627,17 +9773,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Awutu Senya",
+        "ADM2_PCODE": "GH0509"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Awutu Senya East",
-        "ADM2_PCODE": "GH0510",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9710,17 +9858,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Awutu Senya East",
+        "ADM2_PCODE": "GH0510"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cape Coast Metropolitan",
-        "ADM2_PCODE": "GH0511",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9793,17 +9943,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Cape Coast Metropolitan",
+        "ADM2_PCODE": "GH0511"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Effutu Municipal",
-        "ADM2_PCODE": "GH0512",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9832,17 +9984,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Effutu Municipal",
+        "ADM2_PCODE": "GH0512"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ekumfi",
-        "ADM2_PCODE": "GH0513",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9895,17 +10049,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Ekumfi",
+        "ADM2_PCODE": "GH0513"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gomoa Central",
-        "ADM2_PCODE": "GH0514",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9962,17 +10118,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Gomoa Central",
+        "ADM2_PCODE": "GH0514"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gomoa East",
-        "ADM2_PCODE": "GH0515",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10093,17 +10251,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Gomoa East",
+        "ADM2_PCODE": "GH0515"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gomoa West",
-        "ADM2_PCODE": "GH0516",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10180,17 +10340,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Gomoa West",
+        "ADM2_PCODE": "GH0516"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Komenda-Edina-Eguafo-Abirem Municipal",
-        "ADM2_PCODE": "GH0517",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10251,17 +10413,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Komenda-Edina-Eguafo-Abirem Municipal",
+        "ADM2_PCODE": "GH0517"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mfantseman Municipal",
-        "ADM2_PCODE": "GH0518",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10366,17 +10530,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Mfantseman Municipal",
+        "ADM2_PCODE": "GH0518"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Twifo Atti-Morkwa",
-        "ADM2_PCODE": "GH0519",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10489,17 +10655,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Twifo Atti-Morkwa",
+        "ADM2_PCODE": "GH0519"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Twifo Hemang Lower Denkyira",
-        "ADM2_PCODE": "GH0520",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10620,17 +10788,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Twifo Hemang Lower Denkyira",
+        "ADM2_PCODE": "GH0520"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper Denkyira East Municipal",
-        "ADM2_PCODE": "GH0521",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10759,17 +10929,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Upper Denkyira East Municipal",
+        "ADM2_PCODE": "GH0521"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper Denkyira West",
-        "ADM2_PCODE": "GH0522",
-        "ADM1_PCODE": "GH05",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10886,17 +11058,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "GH05",
+        "ADM2_EN": "Upper Denkyira West",
+        "ADM2_PCODE": "GH0522"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abuakwa North",
-        "ADM2_PCODE": "GH0601",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10945,17 +11119,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Abuakwa North",
+        "ADM2_PCODE": "GH0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abuakwa South",
-        "ADM2_PCODE": "GH0602",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11040,17 +11216,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Abuakwa South",
+        "ADM2_PCODE": "GH0602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Achiase",
-        "ADM2_PCODE": "GH0603",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11127,17 +11305,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Achiase",
+        "ADM2_PCODE": "GH0603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akwapem North",
-        "ADM2_PCODE": "GH0604",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11234,17 +11414,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Akwapem North",
+        "ADM2_PCODE": "GH0604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akwapem South",
-        "ADM2_PCODE": "GH0605",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11341,17 +11523,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Akwapem South",
+        "ADM2_PCODE": "GH0605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akyem Mansa",
-        "ADM2_PCODE": "GH0606",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11468,17 +11652,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Akyem Mansa",
+        "ADM2_PCODE": "GH0606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asene Akroso Manso",
-        "ADM2_PCODE": "GH0607",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11555,17 +11741,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Asene Akroso Manso",
+        "ADM2_PCODE": "GH0607"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Asuogyaman",
-        "ADM2_PCODE": "GH0608",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11658,17 +11846,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Asuogyaman",
+        "ADM2_PCODE": "GH0608"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atiwa East",
-        "ADM2_PCODE": "GH0609",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11769,17 +11959,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Atiwa East",
+        "ADM2_PCODE": "GH0609"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Atiwa West",
-        "ADM2_PCODE": "GH0610",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11900,17 +12092,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Atiwa West",
+        "ADM2_PCODE": "GH0610"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ayensuano",
-        "ADM2_PCODE": "GH0611",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12039,17 +12233,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Ayensuano",
+        "ADM2_PCODE": "GH0611"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Birim Central Municipal",
-        "ADM2_PCODE": "GH0612",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12102,17 +12298,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Birim Central Municipal",
+        "ADM2_PCODE": "GH0612"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Birim North",
-        "ADM2_PCODE": "GH0613",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12241,17 +12439,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Birim North",
+        "ADM2_PCODE": "GH0613"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Birim South",
-        "ADM2_PCODE": "GH0614",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12340,17 +12540,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Birim South",
+        "ADM2_PCODE": "GH0614"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Denkyembour",
-        "ADM2_PCODE": "GH0615",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12463,17 +12665,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Denkyembour",
+        "ADM2_PCODE": "GH0615"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fanteakwa North",
-        "ADM2_PCODE": "GH0616",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12562,17 +12766,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Fanteakwa North",
+        "ADM2_PCODE": "GH0616"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fanteakwa South",
-        "ADM2_PCODE": "GH0617",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12661,17 +12867,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Fanteakwa South",
+        "ADM2_PCODE": "GH0617"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwaebibirem",
-        "ADM2_PCODE": "GH0618",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12808,17 +13016,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Kwaebibirem",
+        "ADM2_PCODE": "GH0618"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwahu Afram Plains North",
-        "ADM2_PCODE": "GH0619",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12967,17 +13177,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Kwahu Afram Plains North",
+        "ADM2_PCODE": "GH0619"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwahu Afram Plains South",
-        "ADM2_PCODE": "GH0620",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13170,17 +13382,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Kwahu Afram Plains South",
+        "ADM2_PCODE": "GH0620"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwahu East",
-        "ADM2_PCODE": "GH0621",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13297,17 +13511,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Kwahu East",
+        "ADM2_PCODE": "GH0621"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwahu South",
-        "ADM2_PCODE": "GH0622",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13412,17 +13628,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Kwahu South",
+        "ADM2_PCODE": "GH0622"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kwahu West",
-        "ADM2_PCODE": "GH0623",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13535,17 +13753,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Kwahu West",
+        "ADM2_PCODE": "GH0623"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lower Manya",
-        "ADM2_PCODE": "GH0624",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13646,17 +13866,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Lower Manya",
+        "ADM2_PCODE": "GH0624"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "New Juaben North Municipal",
-        "ADM2_PCODE": "GH0625",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13701,17 +13923,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "New Juaben North Municipal",
+        "ADM2_PCODE": "GH0625"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "New Juaben South Municipal",
-        "ADM2_PCODE": "GH0626",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13744,17 +13968,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "New Juaben South Municipal",
+        "ADM2_PCODE": "GH0626"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nsawam Adoagyiri",
-        "ADM2_PCODE": "GH0627",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13815,17 +14041,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Nsawam Adoagyiri",
+        "ADM2_PCODE": "GH0627"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Okere",
-        "ADM2_PCODE": "GH0628",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13890,17 +14118,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Okere",
+        "ADM2_PCODE": "GH0628"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Suhum Municipal",
-        "ADM2_PCODE": "GH0629",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13977,17 +14207,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Suhum Municipal",
+        "ADM2_PCODE": "GH0629"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper Manya",
-        "ADM2_PCODE": "GH0630",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14072,17 +14304,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Upper Manya",
+        "ADM2_PCODE": "GH0630"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Upper West Akim",
-        "ADM2_PCODE": "GH0631",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14175,17 +14409,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Upper West Akim",
+        "ADM2_PCODE": "GH0631"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "West Akim",
-        "ADM2_PCODE": "GH0632",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14270,17 +14506,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "West Akim",
+        "ADM2_PCODE": "GH0632"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yilo Krobo",
-        "ADM2_PCODE": "GH0633",
-        "ADM1_PCODE": "GH06",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14421,17 +14659,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "GH06",
+        "ADM2_EN": "Yilo Krobo",
+        "ADM2_PCODE": "GH0633"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ablekuma Central Municipal",
-        "ADM2_PCODE": "GH0701",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14464,17 +14704,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ablekuma Central Municipal",
+        "ADM2_PCODE": "GH0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ablekuma North Municipal",
-        "ADM2_PCODE": "GH0702",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14519,17 +14761,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ablekuma North Municipal",
+        "ADM2_PCODE": "GH0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ablekuma West Municipal",
-        "ADM2_PCODE": "GH0703",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14558,17 +14802,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ablekuma West Municipal",
+        "ADM2_PCODE": "GH0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Accra Metropolis",
-        "ADM2_PCODE": "GH0704",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14597,17 +14843,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Accra Metropolis",
+        "ADM2_PCODE": "GH0704"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ada East",
-        "ADM2_PCODE": "GH0705",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14688,17 +14936,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ada East",
+        "ADM2_PCODE": "GH0705"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ada West",
-        "ADM2_PCODE": "GH0706",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14775,17 +15025,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ada West",
+        "ADM2_PCODE": "GH0706"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adenta Municipal",
-        "ADM2_PCODE": "GH0707",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14830,17 +15082,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Adenta Municipal",
+        "ADM2_PCODE": "GH0707"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ashaiman Municipal",
-        "ADM2_PCODE": "GH0708",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14869,17 +15123,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ashaiman Municipal",
+        "ADM2_PCODE": "GH0708"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ayawaso Central Municipal",
-        "ADM2_PCODE": "GH0709",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14908,17 +15164,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ayawaso Central Municipal",
+        "ADM2_PCODE": "GH0709"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ayawaso East Municipal",
-        "ADM2_PCODE": "GH0710",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14951,17 +15209,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ayawaso East Municipal",
+        "ADM2_PCODE": "GH0710"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ayawaso North Municipal",
-        "ADM2_PCODE": "GH0711",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14990,17 +15250,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ayawaso North Municipal",
+        "ADM2_PCODE": "GH0711"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ayawaso West",
-        "ADM2_PCODE": "GH0712",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15053,17 +15315,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ayawaso West",
+        "ADM2_PCODE": "GH0712"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ga Central Municipal",
-        "ADM2_PCODE": "GH0713",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15104,17 +15368,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ga Central Municipal",
+        "ADM2_PCODE": "GH0713"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ga East",
-        "ADM2_PCODE": "GH0714",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15159,17 +15425,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ga East",
+        "ADM2_PCODE": "GH0714"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ga North Municipal",
-        "ADM2_PCODE": "GH0715",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15218,17 +15486,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ga North Municipal",
+        "ADM2_PCODE": "GH0715"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ga South Municipal",
-        "ADM2_PCODE": "GH0716",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15277,17 +15547,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ga South Municipal",
+        "ADM2_PCODE": "GH0716"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ga West Municipal",
-        "ADM2_PCODE": "GH0717",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15364,17 +15636,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ga West Municipal",
+        "ADM2_PCODE": "GH0717"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Korle Klottey Municipal",
-        "ADM2_PCODE": "GH0718",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15407,17 +15681,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Korle Klottey Municipal",
+        "ADM2_PCODE": "GH0718"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kpone Katamanso",
-        "ADM2_PCODE": "GH0719",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15502,17 +15778,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Kpone Katamanso",
+        "ADM2_PCODE": "GH0719"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Krowor Municipal",
-        "ADM2_PCODE": "GH0720",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15545,17 +15823,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Krowor Municipal",
+        "ADM2_PCODE": "GH0720"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "La Dade-Kotopon",
-        "ADM2_PCODE": "GH0721",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15592,17 +15872,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "La Dade-Kotopon",
+        "ADM2_PCODE": "GH0721"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "La-Nkwantanang-Madina",
-        "ADM2_PCODE": "GH0722",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15659,17 +15941,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "La-Nkwantanang-Madina",
+        "ADM2_PCODE": "GH0722"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ledzokuku Municipal",
-        "ADM2_PCODE": "GH0723",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15698,17 +15982,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ledzokuku Municipal",
+        "ADM2_PCODE": "GH0723"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ningo/Prampram",
-        "ADM2_PCODE": "GH0724",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15785,17 +16071,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Ningo/Prampram",
+        "ADM2_PCODE": "GH0724"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Okaikwei North Municipal",
-        "ADM2_PCODE": "GH0725",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15840,17 +16128,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Okaikwei North Municipal",
+        "ADM2_PCODE": "GH0725"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Shai Osudoku",
-        "ADM2_PCODE": "GH0726",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15959,17 +16249,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Shai Osudoku",
+        "ADM2_PCODE": "GH0726"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tema Metropolitan",
-        "ADM2_PCODE": "GH0727",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16042,17 +16334,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Tema Metropolitan",
+        "ADM2_PCODE": "GH0727"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tema West Municipal",
-        "ADM2_PCODE": "GH0728",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16089,17 +16383,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Tema West Municipal",
+        "ADM2_PCODE": "GH0728"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Weija Gbawe Municipal",
-        "ADM2_PCODE": "GH0729",
-        "ADM1_PCODE": "GH07",
-        "ADM1_EN": "Greater Accra",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16172,17 +16468,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Greater Accra",
+        "ADM1_PCODE": "GH07",
+        "ADM2_EN": "Weija Gbawe Municipal",
+        "ADM2_PCODE": "GH0729"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gushegu",
-        "ADM2_PCODE": "GH0801",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16407,17 +16705,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Gushegu",
+        "ADM2_PCODE": "GH0801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Karaga",
-        "ADM2_PCODE": "GH0802",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16686,17 +16986,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Karaga",
+        "ADM2_PCODE": "GH0802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kpandai",
-        "ADM2_PCODE": "GH0803",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16845,17 +17147,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Kpandai",
+        "ADM2_PCODE": "GH0803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kumbungu",
-        "ADM2_PCODE": "GH0804",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17040,17 +17344,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Kumbungu",
+        "ADM2_PCODE": "GH0804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mion",
-        "ADM2_PCODE": "GH0805",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17323,17 +17629,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Mion",
+        "ADM2_PCODE": "GH0805"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nanton",
-        "ADM2_PCODE": "GH0806",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17414,17 +17722,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Nanton",
+        "ADM2_PCODE": "GH0806"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nanumba North",
-        "ADM2_PCODE": "GH0807",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17729,17 +18039,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Nanumba North",
+        "ADM2_PCODE": "GH0807"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nanumba South",
-        "ADM2_PCODE": "GH0808",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18000,17 +18312,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Nanumba South",
+        "ADM2_PCODE": "GH0808"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Saboba",
-        "ADM2_PCODE": "GH0809",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18183,17 +18497,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Saboba",
+        "ADM2_PCODE": "GH0809"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sagnerigu",
-        "ADM2_PCODE": "GH0810",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18254,17 +18570,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Sagnerigu",
+        "ADM2_PCODE": "GH0810"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Savelugu",
-        "ADM2_PCODE": "GH0811",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18481,17 +18799,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Savelugu",
+        "ADM2_PCODE": "GH0811"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tamale Metropolitan",
-        "ADM2_PCODE": "GH0812",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18608,17 +18928,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Tamale Metropolitan",
+        "ADM2_PCODE": "GH0812"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tatale Sanguli",
-        "ADM2_PCODE": "GH0813",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18827,17 +19149,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Tatale Sanguli",
+        "ADM2_PCODE": "GH0813"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tolon",
-        "ADM2_PCODE": "GH0814",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18982,17 +19306,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Tolon",
+        "ADM2_PCODE": "GH0814"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yendi Municipal",
-        "ADM2_PCODE": "GH0815",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19157,17 +19483,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Yendi Municipal",
+        "ADM2_PCODE": "GH0815"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zabzugu",
-        "ADM2_PCODE": "GH0816",
-        "ADM1_PCODE": "GH08",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19348,17 +19676,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "GH08",
+        "ADM2_EN": "Zabzugu",
+        "ADM2_PCODE": "GH0816"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bunkpurugu Nakpanduri",
-        "ADM2_PCODE": "GH0901",
-        "ADM1_PCODE": "GH09",
-        "ADM1_EN": "Northern East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19451,17 +19781,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern East",
+        "ADM1_PCODE": "GH09",
+        "ADM2_EN": "Bunkpurugu Nakpanduri",
+        "ADM2_PCODE": "GH0901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Chereponi",
-        "ADM2_PCODE": "GH0902",
-        "ADM1_PCODE": "GH09",
-        "ADM1_EN": "Northern East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19610,17 +19942,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern East",
+        "ADM1_PCODE": "GH09",
+        "ADM2_EN": "Chereponi",
+        "ADM2_PCODE": "GH0902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "East Mamprusi",
-        "ADM2_PCODE": "GH0903",
-        "ADM1_PCODE": "GH09",
-        "ADM1_EN": "Northern East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19777,17 +20111,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern East",
+        "ADM1_PCODE": "GH09",
+        "ADM2_EN": "East Mamprusi",
+        "ADM2_PCODE": "GH0903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mamprugu Moagduri",
-        "ADM2_PCODE": "GH0904",
-        "ADM1_PCODE": "GH09",
-        "ADM1_EN": "Northern East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19972,17 +20308,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern East",
+        "ADM1_PCODE": "GH09",
+        "ADM2_EN": "Mamprugu Moagduri",
+        "ADM2_PCODE": "GH0904"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "West Mamprusi Municipal",
-        "ADM2_PCODE": "GH0905",
-        "ADM1_PCODE": "GH09",
-        "ADM1_EN": "Northern East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20299,17 +20637,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern East",
+        "ADM1_PCODE": "GH09",
+        "ADM2_EN": "West Mamprusi Municipal",
+        "ADM2_PCODE": "GH0905"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yunyoo-Nasuan",
-        "ADM2_PCODE": "GH0906",
-        "ADM1_PCODE": "GH09",
-        "ADM1_EN": "Northern East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20374,17 +20714,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Northern East",
+        "ADM1_PCODE": "GH09",
+        "ADM2_EN": "Yunyoo-Nasuan",
+        "ADM2_PCODE": "GH0906"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Biakoye",
-        "ADM2_PCODE": "GH1001",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20513,17 +20855,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Biakoye",
+        "ADM2_PCODE": "GH1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jasikan",
-        "ADM2_PCODE": "GH1002",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20632,17 +20976,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Jasikan",
+        "ADM2_PCODE": "GH1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kadjebi",
-        "ADM2_PCODE": "GH1003",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20735,17 +21081,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Kadjebi",
+        "ADM2_PCODE": "GH1003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Krachi East Municipal",
-        "ADM2_PCODE": "GH1004",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20918,17 +21266,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Krachi East Municipal",
+        "ADM2_PCODE": "GH1004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Krachi Nchumuru",
-        "ADM2_PCODE": "GH1005",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21065,17 +21415,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Krachi Nchumuru",
+        "ADM2_PCODE": "GH1005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Krachi West",
-        "ADM2_PCODE": "GH1006",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21184,17 +21536,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Krachi West",
+        "ADM2_PCODE": "GH1006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkwanta North",
-        "ADM2_PCODE": "GH1007",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21343,17 +21697,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Nkwanta North",
+        "ADM2_PCODE": "GH1007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nkwanta South Municipal",
-        "ADM2_PCODE": "GH1008",
-        "ADM1_PCODE": "GH10",
-        "ADM1_EN": "Oti",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21550,17 +21906,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Oti",
+        "ADM1_PCODE": "GH10",
+        "ADM2_EN": "Nkwanta South Municipal",
+        "ADM2_PCODE": "GH1008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bole",
-        "ADM2_PCODE": "GH1101",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21813,17 +22171,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "Bole",
+        "ADM2_PCODE": "GH1101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Central Gonja",
-        "ADM2_PCODE": "GH1102",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22144,17 +22504,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "Central Gonja",
+        "ADM2_PCODE": "GH1102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "East Gonja Municipal",
-        "ADM2_PCODE": "GH1103",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22283,17 +22645,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "East Gonja Municipal",
+        "ADM2_PCODE": "GH1103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "North East Gonja",
-        "ADM2_PCODE": "GH1104",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22706,17 +23070,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "North East Gonja",
+        "ADM2_PCODE": "GH1104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "North Gonja",
-        "ADM2_PCODE": "GH1105",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22973,17 +23339,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "North Gonja",
+        "ADM2_PCODE": "GH1105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sawla-Tuna-Kalba",
-        "ADM2_PCODE": "GH1106",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23180,17 +23548,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "Sawla-Tuna-Kalba",
+        "ADM2_PCODE": "GH1106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "West Gonja",
-        "ADM2_PCODE": "GH1107",
-        "ADM1_PCODE": "GH11",
-        "ADM1_EN": "Savannah",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23407,17 +23777,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Savannah",
+        "ADM1_PCODE": "GH11",
+        "ADM2_EN": "West Gonja",
+        "ADM2_PCODE": "GH1107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bawku Municipal",
-        "ADM2_PCODE": "GH1201",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23522,17 +23894,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Bawku Municipal",
+        "ADM2_PCODE": "GH1201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bawku West",
-        "ADM2_PCODE": "GH1202",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23685,17 +24059,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Bawku West",
+        "ADM2_PCODE": "GH1202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Binduri",
-        "ADM2_PCODE": "GH1203",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23784,17 +24160,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Binduri",
+        "ADM2_PCODE": "GH1203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bolga  East",
-        "ADM2_PCODE": "GH1204",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23839,17 +24217,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Bolga  East",
+        "ADM2_PCODE": "GH1204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bolgatanga Municipal",
-        "ADM2_PCODE": "GH1205",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23914,17 +24294,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Bolgatanga Municipal",
+        "ADM2_PCODE": "GH1205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bongo",
-        "ADM2_PCODE": "GH1206",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24025,17 +24407,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Bongo",
+        "ADM2_PCODE": "GH1206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Builsa North",
-        "ADM2_PCODE": "GH1207",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24168,17 +24552,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Builsa North",
+        "ADM2_PCODE": "GH1207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Builsa South",
-        "ADM2_PCODE": "GH1208",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24359,17 +24745,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Builsa South",
+        "ADM2_PCODE": "GH1208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Garu",
-        "ADM2_PCODE": "GH1209",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24454,17 +24842,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Garu",
+        "ADM2_PCODE": "GH1209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kasena Nankana East",
-        "ADM2_PCODE": "GH1210",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24633,17 +25023,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Kasena Nankana East",
+        "ADM2_PCODE": "GH1210"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kasena Nankana West",
-        "ADM2_PCODE": "GH1211",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24808,17 +25200,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Kasena Nankana West",
+        "ADM2_PCODE": "GH1211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nabdam",
-        "ADM2_PCODE": "GH1212",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24887,17 +25281,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Nabdam",
+        "ADM2_PCODE": "GH1212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pusiga",
-        "ADM2_PCODE": "GH1213",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24974,17 +25370,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Pusiga",
+        "ADM2_PCODE": "GH1213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Talensi",
-        "ADM2_PCODE": "GH1214",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25153,17 +25551,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Talensi",
+        "ADM2_PCODE": "GH1214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tempane",
-        "ADM2_PCODE": "GH1215",
-        "ADM1_PCODE": "GH12",
-        "ADM1_EN": "Upper East",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25236,17 +25636,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper East",
+        "ADM1_PCODE": "GH12",
+        "ADM2_EN": "Tempane",
+        "ADM2_PCODE": "GH1215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Daffiama Bussie Issa",
-        "ADM2_PCODE": "GH1301",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25391,17 +25793,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Daffiama Bussie Issa",
+        "ADM2_PCODE": "GH1301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jirapa",
-        "ADM2_PCODE": "GH1302",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25542,17 +25946,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Jirapa",
+        "ADM2_PCODE": "GH1302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lambussie-Karni",
-        "ADM2_PCODE": "GH1303",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25685,17 +26091,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Lambussie-Karni",
+        "ADM2_PCODE": "GH1303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lawra",
-        "ADM2_PCODE": "GH1304",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25816,17 +26224,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Lawra",
+        "ADM2_PCODE": "GH1304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nadowli-Kaleo",
-        "ADM2_PCODE": "GH1305",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25935,17 +26345,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Nadowli-Kaleo",
+        "ADM2_PCODE": "GH1305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nandom",
-        "ADM2_PCODE": "GH1306",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26050,17 +26462,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Nandom",
+        "ADM2_PCODE": "GH1306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sissala East",
-        "ADM2_PCODE": "GH1307",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26257,17 +26671,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Sissala East",
+        "ADM2_PCODE": "GH1307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sissala West",
-        "ADM2_PCODE": "GH1308",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26400,17 +26816,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Sissala West",
+        "ADM2_PCODE": "GH1308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wa East",
-        "ADM2_PCODE": "GH1309",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26615,17 +27033,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Wa East",
+        "ADM2_PCODE": "GH1309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wa Municipal",
-        "ADM2_PCODE": "GH1310",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26734,17 +27154,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Wa Municipal",
+        "ADM2_PCODE": "GH1310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wa West",
-        "ADM2_PCODE": "GH1311",
-        "ADM1_PCODE": "GH13",
-        "ADM1_EN": "Upper West",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26897,17 +27319,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Upper West",
+        "ADM1_PCODE": "GH13",
+        "ADM2_EN": "Wa West",
+        "ADM2_PCODE": "GH1311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adaklu",
-        "ADM2_PCODE": "GH1401",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27008,17 +27432,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Adaklu",
+        "ADM2_PCODE": "GH1401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Afadzato South",
-        "ADM2_PCODE": "GH1402",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27143,17 +27569,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Afadzato South",
+        "ADM2_PCODE": "GH1402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agotime Ziope",
-        "ADM2_PCODE": "GH1403",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27246,17 +27674,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Agotime Ziope",
+        "ADM2_PCODE": "GH1403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akatsi North",
-        "ADM2_PCODE": "GH1404",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27345,17 +27775,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Akatsi North",
+        "ADM2_PCODE": "GH1404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akatsi South",
-        "ADM2_PCODE": "GH1405",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27456,17 +27888,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Akatsi South",
+        "ADM2_PCODE": "GH1405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Anloga",
-        "ADM2_PCODE": "GH1406",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27519,17 +27953,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Anloga",
+        "ADM2_PCODE": "GH1406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Central Tongu",
-        "ADM2_PCODE": "GH1407",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27666,17 +28102,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Central Tongu",
+        "ADM2_PCODE": "GH1407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ho Municipal",
-        "ADM2_PCODE": "GH1408",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27813,17 +28251,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Ho Municipal",
+        "ADM2_PCODE": "GH1408"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ho West",
-        "ADM2_PCODE": "GH1409",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27996,17 +28436,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Ho West",
+        "ADM2_PCODE": "GH1409"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Hohoe Municipal",
-        "ADM2_PCODE": "GH1410",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28107,17 +28549,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Hohoe Municipal",
+        "ADM2_PCODE": "GH1410"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Keta Municipal",
-        "ADM2_PCODE": "GH1411",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28210,17 +28654,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Keta Municipal",
+        "ADM2_PCODE": "GH1411"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ketu North",
-        "ADM2_PCODE": "GH1412",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28305,17 +28751,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Ketu North",
+        "ADM2_PCODE": "GH1412"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ketu South",
-        "ADM2_PCODE": "GH1413",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28372,17 +28820,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Ketu South",
+        "ADM2_PCODE": "GH1413"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kpando Municipal",
-        "ADM2_PCODE": "GH1414",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28443,17 +28893,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "Kpando Municipal",
+        "ADM2_PCODE": "GH1414"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "North Dayi",
-        "ADM2_PCODE": "GH1415",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28558,17 +29010,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "North Dayi",
+        "ADM2_PCODE": "GH1415"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "North Tongu",
-        "ADM2_PCODE": "GH1416",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28705,17 +29159,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "North Tongu",
+        "ADM2_PCODE": "GH1416"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "South Dayi",
-        "ADM2_PCODE": "GH1417",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28796,17 +29252,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "South Dayi",
+        "ADM2_PCODE": "GH1417"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "South Tongu",
-        "ADM2_PCODE": "GH1418",
-        "ADM1_PCODE": "GH14",
-        "ADM1_EN": "Volta",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28935,17 +29393,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Volta",
+        "ADM1_PCODE": "GH14",
+        "ADM2_EN": "South Tongu",
+        "ADM2_PCODE": "GH1418"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ahanta West Municipal",
-        "ADM2_PCODE": "GH1501",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -29138,17 +29598,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Ahanta West Municipal",
+        "ADM2_PCODE": "GH1501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Effia Kwesimintsim Municipal",
-        "ADM2_PCODE": "GH1502",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29209,17 +29671,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Effia Kwesimintsim Municipal",
+        "ADM2_PCODE": "GH1502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ellembelle",
-        "ADM2_PCODE": "GH1503",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29312,17 +29776,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Ellembelle",
+        "ADM2_PCODE": "GH1503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jomoro",
-        "ADM2_PCODE": "GH1504",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29439,17 +29905,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Jomoro",
+        "ADM2_PCODE": "GH1504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mpohor",
-        "ADM2_PCODE": "GH1505",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29558,17 +30026,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Mpohor",
+        "ADM2_PCODE": "GH1505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nzema East",
-        "ADM2_PCODE": "GH1506",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -29797,17 +30267,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Nzema East",
+        "ADM2_PCODE": "GH1506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Prestea/Huni Valley",
-        "ADM2_PCODE": "GH1507",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29964,17 +30436,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Prestea/Huni Valley",
+        "ADM2_PCODE": "GH1507"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sekondi Takoradi Metropolis",
-        "ADM2_PCODE": "GH1508",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30031,17 +30505,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Sekondi Takoradi Metropolis",
+        "ADM2_PCODE": "GH1508"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Shama",
-        "ADM2_PCODE": "GH1509",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30098,17 +30574,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Shama",
+        "ADM2_PCODE": "GH1509"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tarkwa Nsuaem",
-        "ADM2_PCODE": "GH1510",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30245,17 +30723,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Tarkwa Nsuaem",
+        "ADM2_PCODE": "GH1510"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wassa Amenfi Central",
-        "ADM2_PCODE": "GH1511",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30400,17 +30880,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Wassa Amenfi Central",
+        "ADM2_PCODE": "GH1511"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wassa Amenfi East",
-        "ADM2_PCODE": "GH1512",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30555,17 +31037,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Wassa Amenfi East",
+        "ADM2_PCODE": "GH1512"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wassa Amenfi West",
-        "ADM2_PCODE": "GH1513",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30806,17 +31290,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Wassa Amenfi West",
+        "ADM2_PCODE": "GH1513"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Wassa East",
-        "ADM2_PCODE": "GH1514",
-        "ADM1_PCODE": "GH15",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30945,17 +31431,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "GH15",
+        "ADM2_EN": "Wassa East",
+        "ADM2_PCODE": "GH1514"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aowin",
-        "ADM2_PCODE": "GH1601",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31180,17 +31668,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Aowin",
+        "ADM2_PCODE": "GH1601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bia East",
-        "ADM2_PCODE": "GH1602",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31279,17 +31769,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Bia East",
+        "ADM2_PCODE": "GH1602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bia West",
-        "ADM2_PCODE": "GH1603",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31410,17 +31902,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Bia West",
+        "ADM2_PCODE": "GH1603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bibiani-Anhwiaso-Bekwai Municipal",
-        "ADM2_PCODE": "GH1604",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31541,17 +32035,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Bibiani-Anhwiaso-Bekwai Municipal",
+        "ADM2_PCODE": "GH1604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bodi",
-        "ADM2_PCODE": "GH1605",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31660,17 +32156,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Bodi",
+        "ADM2_PCODE": "GH1605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Juaboso",
-        "ADM2_PCODE": "GH1606",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31827,17 +32325,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Juaboso",
+        "ADM2_PCODE": "GH1606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sefwi Akontombra",
-        "ADM2_PCODE": "GH1607",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31982,17 +32482,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Sefwi Akontombra",
+        "ADM2_PCODE": "GH1607"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sefwi-Wiawso",
-        "ADM2_PCODE": "GH1608",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32149,17 +32651,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Sefwi-Wiawso",
+        "ADM2_PCODE": "GH1608"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Suaman",
-        "ADM2_PCODE": "GH1609",
-        "ADM1_PCODE": "GH16",
-        "ADM1_EN": "Western North",
-        "ADM0_PCODE": "GH"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32216,6 +32720,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "GH",
+        "ADM0_ISO_A2": "GH",
+        "ADM0_ISO_A3": "GHA",
+        "ADM1_EN": "Western North",
+        "ADM1_PCODE": "GH16",
+        "ADM2_EN": "Suaman",
+        "ADM2_PCODE": "GH1609"
       }
     }
   ]

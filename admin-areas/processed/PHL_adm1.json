@@ -1205,17 +1205,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1,
-        "REGION": "1",
-        "SHAPE_LENG": 14.5704895667,
-        "SHAPE_AREA": 1.06350120643,
-        "PCODE": "010000000",
-        "PCODE_SHOR": "01",
-        "ADM1_PCODE": "PH010000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Ilocos Region",
-        "HRNAME": "Ilocos Region",
-        "HRPCODE": "PH010000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH010000000"
       }
     },
     {
@@ -2334,17 +2328,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2,
-        "REGION": "10",
-        "SHAPE_LENG": 11.7443799193,
-        "SHAPE_AREA": 1.42863994515,
-        "PCODE": "100000000",
-        "PCODE_SHOR": "10",
-        "ADM1_PCODE": "PH100000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Northern Mindanao",
-        "HRNAME": "Northern Mindanao",
-        "HRPCODE": "PH100000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH100000000"
       }
     },
     {
@@ -3775,17 +3763,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3,
-        "REGION": "11",
-        "SHAPE_LENG": 15.1340790628,
-        "SHAPE_AREA": 1.54819794721,
-        "PCODE": "110000000",
-        "PCODE_SHOR": "11",
-        "ADM1_PCODE": "PH110000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Davao Region",
-        "HRNAME": "Davao Region",
-        "HRPCODE": "PH110000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH110000000"
       }
     },
     {
@@ -4856,17 +4838,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 4,
-        "REGION": "12",
-        "SHAPE_LENG": 11.4294494644,
-        "SHAPE_AREA": 1.50450280781,
-        "PCODE": "120000000",
-        "PCODE_SHOR": "12",
-        "ADM1_PCODE": "PH120000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "SOCCSKSARGEN",
-        "HRNAME": "SOCCSKSARGEN",
-        "HRPCODE": "PH120000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH120000000"
       }
     },
     {
@@ -6249,17 +6225,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 5,
-        "REGION": "2",
-        "SHAPE_LENG": 17.4948852393,
-        "SHAPE_AREA": 2.23683847666,
-        "PCODE": "020000000",
-        "PCODE_SHOR": "02",
-        "ADM1_PCODE": "PH020000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Cagayan Valley",
-        "HRNAME": "Cagayan Valley",
-        "HRPCODE": "PH020000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH020000000"
       }
     },
     {
@@ -7490,17 +7460,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 6,
-        "REGION": "3",
-        "SHAPE_LENG": 14.7409528191,
-        "SHAPE_AREA": 1.79414479804,
-        "PCODE": "030000000",
-        "PCODE_SHOR": "03",
-        "ADM1_PCODE": "PH030000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Central Luzon",
-        "HRNAME": "Central Luzon",
-        "HRPCODE": "PH030000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH030000000"
       }
     },
     {
@@ -9657,17 +9621,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 7,
-        "REGION": "4A",
-        "SHAPE_LENG": 20.6415735252,
-        "SHAPE_AREA": 1.40574365295,
-        "PCODE": "040000000",
-        "PCODE_SHOR": "04",
-        "ADM1_PCODE": "PH040000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "CALABARZON",
-        "HRNAME": "CALABARZON",
-        "HRPCODE": "PH040000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH040000000"
       }
     },
     {
@@ -14096,17 +14054,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 8,
-        "REGION": "4B",
-        "SHAPE_LENG": 65.3557616832,
-        "SHAPE_AREA": 2.23285666904,
-        "PCODE": "170000000",
-        "PCODE_SHOR": "17",
-        "ADM1_PCODE": "PH170000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "MIMAROPA",
-        "HRNAME": "MIMAROPA",
-        "HRPCODE": "PH170000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH170000000"
       }
     },
     {
@@ -16677,17 +16629,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 9,
-        "REGION": "5",
-        "SHAPE_LENG": 38.0521677122,
-        "SHAPE_AREA": 1.45083513715,
-        "PCODE": "050000000",
-        "PCODE_SHOR": "05",
-        "ADM1_PCODE": "PH050000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Bicol Region",
-        "HRNAME": "Bicol Region",
-        "HRPCODE": "PH050000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH050000000"
       }
     },
     {
@@ -18350,17 +18296,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 10,
-        "REGION": "6",
-        "SHAPE_LENG": 24.6641201866,
-        "SHAPE_AREA": 1.66866026795,
-        "PCODE": "060000000",
-        "PCODE_SHOR": "06",
-        "ADM1_PCODE": "PH060000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Western Visayas",
-        "HRNAME": "Western Visayas",
-        "HRPCODE": "PH060000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH060000000"
       }
     },
     {
@@ -20119,17 +20059,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 11,
-        "REGION": "7",
-        "SHAPE_LENG": 21.6888934346,
-        "SHAPE_AREA": 1.16901490926,
-        "PCODE": "070000000",
-        "PCODE_SHOR": "07",
-        "ADM1_PCODE": "PH070000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Central Visayas",
-        "HRNAME": "Central Visayas",
-        "HRPCODE": "PH070000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH070000000"
       }
     },
     {
@@ -22600,17 +22534,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 12,
-        "REGION": "8",
-        "SHAPE_LENG": 33.1413030695,
-        "SHAPE_AREA": 1.7316909278,
-        "PCODE": "080000000",
-        "PCODE_SHOR": "08",
-        "ADM1_PCODE": "PH080000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Eastern Visayas",
-        "HRNAME": "Eastern Visayas",
-        "HRPCODE": "PH080000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH080000000"
       }
     },
     {
@@ -23835,17 +23763,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 13,
-        "REGION": "9",
-        "SHAPE_LENG": 15.7570393074,
-        "SHAPE_AREA": 1.18077675018,
-        "PCODE": "090000000",
-        "PCODE_SHOR": "09",
-        "ADM1_PCODE": "PH090000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Zamboanga Peninsula",
-        "HRNAME": "Zamboanga Peninsula",
-        "HRPCODE": "PH090000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH090000000"
       }
     },
     {
@@ -26864,17 +26786,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 14,
-        "REGION": "ARMM",
-        "SHAPE_LENG": 37.4584897932,
-        "SHAPE_AREA": 1.04492919146,
-        "PCODE": "150000000",
-        "PCODE_SHOR": "15",
-        "ADM1_PCODE": "PH150000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Autonomous Region in Muslim Mindanao",
-        "HRNAME": "Autonomous Region in Muslim Mindanao",
-        "HRPCODE": "PH150000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH150000000"
       }
     },
     {
@@ -27497,17 +27413,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 15,
-        "REGION": "CAR",
-        "SHAPE_LENG": 7.3681348392,
-        "SHAPE_AREA": 1.53496856464,
-        "PCODE": "140000000",
-        "PCODE_SHOR": "14",
-        "ADM1_PCODE": "PH140000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Cordillera Administrative Region",
-        "HRNAME": "Cordillera Administrative Region",
-        "HRPCODE": "PH140000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH140000000"
       }
     },
     {
@@ -29116,17 +29026,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 16,
-        "REGION": "Caraga",
-        "SHAPE_LENG": 22.7048804253,
-        "SHAPE_AREA": 1.54443512326,
-        "PCODE": "160000000",
-        "PCODE_SHOR": "16",
-        "ADM1_PCODE": "PH160000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "Caraga",
-        "HRNAME": "Caraga",
-        "HRPCODE": "PH160000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH160000000"
       }
     },
     {
@@ -29625,17 +29529,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 17,
-        "REGION": "NCR",
-        "SHAPE_LENG": 2.04567005207,
-        "SHAPE_AREA": 0.0467674669,
-        "PCODE": "130000000",
-        "PCODE_SHOR": "13",
-        "ADM1_PCODE": "PH130000000",
+        "ADM0_PCODE": "PH",
+        "ADM0_ISO_A2": "PH",
+        "ADM0_ISO_A3": "PHL",
         "ADM1_EN": "National Capital Region",
-        "HRNAME": "National Capital Region",
-        "HRPCODE": "PH130000000",
-        "ADM0_PCODE": "PH"
+        "ADM1_PCODE": "PH130000000"
       }
     }
   ]

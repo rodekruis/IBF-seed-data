@@ -1,30 +1,8 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.640966997,
-        "Shape_Area": 0.334223107507,
-        "ADM2_EN": "Abra",
-        "ADM2_PCODE": "PH140100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Cordillera Administrative Region",
-        "ADM1_PCODE": "PH140000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -469,26 +447,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Cordillera Administrative Region",
+        "ADM1_PCODE": "PH140000000",
+        "ADM2_EN": "Abra",
+        "ADM2_PCODE": "PH140100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.67495452609,
-        "Shape_Area": 0.220064641101,
-        "ADM2_EN": "Agusan del Norte",
-        "ADM2_PCODE": "PH160200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XIII",
-        "ADM1_PCODE": "PH160000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1001,26 +971,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XIII",
+        "ADM1_PCODE": "PH160000000",
+        "ADM2_EN": "Agusan del Norte",
+        "ADM2_PCODE": "PH160200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.22263614057,
-        "Shape_Area": 0.693968208926,
-        "ADM2_EN": "Agusan del Sur",
-        "ADM2_PCODE": "PH160300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XIII",
-        "ADM1_PCODE": "PH160000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1689,26 +1651,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XIII",
+        "ADM1_PCODE": "PH160000000",
+        "ADM2_EN": "Agusan del Sur",
+        "ADM2_PCODE": "PH160300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.62609120117,
-        "Shape_Area": 0.139664072433,
-        "ADM2_EN": "Aklan",
-        "ADM2_PCODE": "PH060400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VI",
-        "ADM1_PCODE": "PH060000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2301,26 +2255,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VI",
+        "ADM1_PCODE": "PH060000000",
+        "ADM2_EN": "Aklan",
+        "ADM2_PCODE": "PH060400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.5076652235,
-        "Shape_Area": 0.205938518976,
-        "ADM2_EN": "Albay",
-        "ADM2_PCODE": "PH050500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region V",
-        "ADM1_PCODE": "PH050000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3297,26 +3243,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region V",
+        "ADM1_PCODE": "PH050000000",
+        "ADM2_EN": "Albay",
+        "ADM2_PCODE": "PH050500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.0454775899,
-        "Shape_Area": 0.226466725242,
-        "ADM2_EN": "Antique",
-        "ADM2_PCODE": "PH060600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VI",
-        "ADM1_PCODE": "PH060000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4189,26 +4127,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VI",
+        "ADM1_PCODE": "PH060000000",
+        "ADM2_EN": "Antique",
+        "ADM2_PCODE": "PH060600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.20701038057,
-        "Shape_Area": 0.340498298936,
-        "ADM2_EN": "Apayao",
-        "ADM2_PCODE": "PH148100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Cordillera Administrative Region",
-        "ADM1_PCODE": "PH140000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4673,26 +4603,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Cordillera Administrative Region",
+        "ADM1_PCODE": "PH140000000",
+        "ADM2_EN": "Apayao",
+        "ADM2_PCODE": "PH148100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.75566023732,
-        "Shape_Area": 0.255766526306,
-        "ADM2_EN": "Aurora",
-        "ADM2_PCODE": "PH037700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5565,26 +5487,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Aurora",
+        "ADM2_PCODE": "PH037700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.92580257911,
-        "Shape_Area": 0.0927296177615,
-        "ADM2_EN": "Basilan",
-        "ADM2_PCODE": "PH150700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
-        "ADM1_PCODE": "PH150000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6409,26 +6323,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
+        "ADM1_PCODE": "PH150000000",
+        "ADM2_EN": "Basilan",
+        "ADM2_PCODE": "PH150700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.66116833553,
-        "Shape_Area": 0.104455461105,
-        "ADM2_EN": "Bataan",
-        "ADM2_PCODE": "PH030800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6769,26 +6675,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Bataan",
+        "ADM2_PCODE": "PH030800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.14056424281,
-        "Shape_Area": 0.0174432278468,
-        "ADM2_EN": "Batanes",
-        "ADM2_PCODE": "PH020900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region II",
-        "ADM1_PCODE": "PH020000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7101,26 +6999,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region II",
+        "ADM1_PCODE": "PH020000000",
+        "ADM2_EN": "Batanes",
+        "ADM2_PCODE": "PH020900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.9894733456,
-        "Shape_Area": 0.267317304905,
-        "ADM2_EN": "Batangas",
-        "ADM2_PCODE": "PH041000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-A",
-        "ADM1_PCODE": "PH040000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7981,26 +7871,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-A",
+        "ADM1_PCODE": "PH040000000",
+        "ADM2_EN": "Batangas",
+        "ADM2_PCODE": "PH041000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.19497850073,
-        "Shape_Area": 0.239829289459,
-        "ADM2_EN": "Benguet",
-        "ADM2_PCODE": "PH141100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Cordillera Administrative Region",
-        "ADM1_PCODE": "PH140000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8329,26 +8211,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Cordillera Administrative Region",
+        "ADM1_PCODE": "PH140000000",
+        "ADM2_EN": "Benguet",
+        "ADM2_PCODE": "PH141100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 1.77704713763,
-        "Shape_Area": 0.0440826997787,
-        "ADM2_EN": "Biliran",
-        "ADM2_PCODE": "PH087800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VIII",
-        "ADM1_PCODE": "PH080000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8633,26 +8507,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VIII",
+        "ADM1_PCODE": "PH080000000",
+        "ADM2_EN": "Biliran",
+        "ADM2_PCODE": "PH087800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 9.71369915299,
-        "Shape_Area": 0.327235382601,
-        "ADM2_EN": "Bohol",
-        "ADM2_PCODE": "PH071200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VII",
-        "ADM1_PCODE": "PH070000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9573,26 +9439,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VII",
+        "ADM1_PCODE": "PH070000000",
+        "ADM2_EN": "Bohol",
+        "ADM2_PCODE": "PH071200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.01905061761,
-        "Shape_Area": 0.767606756075,
-        "ADM2_EN": "Bukidnon",
-        "ADM2_PCODE": "PH101300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region X",
-        "ADM1_PCODE": "PH100000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10325,26 +10183,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region X",
+        "ADM1_PCODE": "PH100000000",
+        "ADM2_EN": "Bukidnon",
+        "ADM2_PCODE": "PH101300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.27627565881,
-        "Shape_Area": 0.22770200258,
-        "ADM2_EN": "Bulacan",
-        "ADM2_PCODE": "PH031400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10817,26 +10667,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Bulacan",
+        "ADM2_PCODE": "PH031400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 10.5183352783,
-        "Shape_Area": 0.750946379433,
-        "ADM2_EN": "Cagayan",
-        "ADM2_PCODE": "PH021500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region II",
-        "ADM1_PCODE": "PH020000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12293,26 +12135,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region II",
+        "ADM1_PCODE": "PH020000000",
+        "ADM2_EN": "Cagayan",
+        "ADM2_PCODE": "PH021500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.14392031161,
-        "Shape_Area": 0.177587770083,
-        "ADM2_EN": "Camarines Norte",
-        "ADM2_PCODE": "PH051600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region V",
-        "ADM1_PCODE": "PH050000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12929,26 +12763,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region V",
+        "ADM1_PCODE": "PH050000000",
+        "ADM2_EN": "Camarines Norte",
+        "ADM2_PCODE": "PH051600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 12.5387964881,
-        "Shape_Area": 0.441585483185,
-        "ADM2_EN": "Camarines Sur",
-        "ADM2_PCODE": "PH051700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region V",
-        "ADM1_PCODE": "PH050000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14229,26 +14055,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region V",
+        "ADM1_PCODE": "PH050000000",
+        "ADM2_EN": "Camarines Sur",
+        "ADM2_PCODE": "PH051700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 0.701327915638,
-        "Shape_Area": 0.0199520081387,
-        "ADM2_EN": "Camiguin",
-        "ADM2_PCODE": "PH101800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region X",
-        "ADM1_PCODE": "PH100000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14373,26 +14191,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region X",
+        "ADM1_PCODE": "PH100000000",
+        "ADM2_EN": "Camiguin",
+        "ADM2_PCODE": "PH101800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.8976681326,
-        "Shape_Area": 0.219569656736,
-        "ADM2_EN": "Capiz",
-        "ADM2_PCODE": "PH061900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VI",
-        "ADM1_PCODE": "PH060000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14989,26 +14799,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VI",
+        "ADM1_PCODE": "PH060000000",
+        "ADM2_EN": "Capiz",
+        "ADM2_PCODE": "PH061900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.38779781523,
-        "Shape_Area": 0.12208236106,
-        "ADM2_EN": "Catanduanes",
-        "ADM2_PCODE": "PH052000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region V",
-        "ADM1_PCODE": "PH050000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15513,26 +15315,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region V",
+        "ADM1_PCODE": "PH050000000",
+        "ADM2_EN": "Catanduanes",
+        "ADM2_PCODE": "PH052000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.70204451399,
-        "Shape_Area": 0.104288756851,
-        "ADM2_EN": "Cavite",
-        "ADM2_PCODE": "PH042100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-A",
-        "ADM1_PCODE": "PH040000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15909,26 +15703,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-A",
+        "ADM1_PCODE": "PH040000000",
+        "ADM2_EN": "Cavite",
+        "ADM2_PCODE": "PH042100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 13.0224884252,
-        "Shape_Area": 0.402044071967,
-        "ADM2_EN": "Cebu",
-        "ADM2_PCODE": "PH072200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VII",
-        "ADM1_PCODE": "PH070000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17513,26 +17299,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VII",
+        "ADM1_PCODE": "PH070000000",
+        "ADM2_EN": "Cebu",
+        "ADM2_PCODE": "PH072200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 1.23103306429,
-        "Shape_Area": 0.0179801989504,
-        "ADM2_EN": "City of Isabela",
-        "ADM2_PCODE": "PH099700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IX",
-        "ADM1_PCODE": "PH090000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17713,26 +17491,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IX",
+        "ADM1_PCODE": "PH090000000",
+        "ADM2_EN": "City of Isabela",
+        "ADM2_PCODE": "PH099700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.0597157052,
-        "Shape_Area": 0.356550177194,
-        "ADM2_EN": "Compostela Valley",
-        "ADM2_PCODE": "PH118200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XI",
-        "ADM1_PCODE": "PH110000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18261,26 +18031,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XI",
+        "ADM1_PCODE": "PH110000000",
+        "ADM2_EN": "Compostela Valley",
+        "ADM2_PCODE": "PH118200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.11987630292,
-        "Shape_Area": 0.479736347563,
-        "ADM2_EN": "Cotabato",
-        "ADM2_PCODE": "PH124700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XII",
-        "ADM1_PCODE": "PH120000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19069,26 +18831,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XII",
+        "ADM1_PCODE": "PH120000000",
+        "ADM2_EN": "Cotabato",
+        "ADM2_PCODE": "PH124700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 0.649199752637,
-        "Shape_Area": 0.00704968544553,
-        "ADM2_EN": "Cotabato City",
-        "ADM2_PCODE": "PH129800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XII",
-        "ADM1_PCODE": "PH120000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19209,26 +18963,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XII",
+        "ADM1_PCODE": "PH120000000",
+        "ADM2_EN": "Cotabato City",
+        "ADM2_PCODE": "PH129800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.87759876314,
-        "Shape_Area": 0.265921215917,
-        "ADM2_EN": "Davao del Norte",
-        "ADM2_PCODE": "PH112300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XI",
-        "ADM1_PCODE": "PH110000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19841,26 +19587,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XI",
+        "ADM1_PCODE": "PH110000000",
+        "ADM2_EN": "Davao del Norte",
+        "ADM2_PCODE": "PH112300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.85420281922,
-        "Shape_Area": 0.348840074605,
-        "ADM2_EN": "Davao del Sur",
-        "ADM2_PCODE": "PH112400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XI",
-        "ADM1_PCODE": "PH110000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20581,26 +20319,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XI",
+        "ADM1_PCODE": "PH110000000",
+        "ADM2_EN": "Davao del Sur",
+        "ADM2_PCODE": "PH112400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.37557370184,
-        "Shape_Area": 0.160156852643,
-        "ADM2_EN": "Davao Occidental",
-        "ADM2_PCODE": "PH118600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XI",
-        "ADM1_PCODE": "PH110000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21281,26 +21011,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XI",
+        "ADM1_PCODE": "PH110000000",
+        "ADM2_EN": "Davao Occidental",
+        "ADM2_PCODE": "PH118600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 7.21379738222,
-        "Shape_Area": 0.408503173781,
-        "ADM2_EN": "Davao Oriental",
-        "ADM2_PCODE": "PH112500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XI",
-        "ADM1_PCODE": "PH110000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22301,26 +22023,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XI",
+        "ADM1_PCODE": "PH110000000",
+        "ADM2_EN": "Davao Oriental",
+        "ADM2_PCODE": "PH112500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.24709731913,
-        "Shape_Area": 0.0664176552495,
-        "ADM2_EN": "Dinagat Islands",
-        "ADM2_PCODE": "PH168500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XIII",
-        "ADM1_PCODE": "PH160000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22809,26 +22523,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XIII",
+        "ADM1_PCODE": "PH160000000",
+        "ADM2_EN": "Dinagat Islands",
+        "ADM2_PCODE": "PH168500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 11.0968780991,
-        "Shape_Area": 0.352328736906,
-        "ADM2_EN": "Eastern Samar",
-        "ADM2_PCODE": "PH082600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VIII",
-        "ADM1_PCODE": "PH080000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24077,26 +23783,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VIII",
+        "ADM1_PCODE": "PH080000000",
+        "ADM2_EN": "Eastern Samar",
+        "ADM2_PCODE": "PH082600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.37680143635,
-        "Shape_Area": 0.0492504354264,
-        "ADM2_EN": "Guimaras",
-        "ADM2_PCODE": "PH067900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VI",
-        "ADM1_PCODE": "PH060000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24401,26 +24099,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VI",
+        "ADM1_PCODE": "PH060000000",
+        "ADM2_EN": "Guimaras",
+        "ADM2_PCODE": "PH067900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.22523668735,
-        "Shape_Area": 0.212537728327,
-        "ADM2_EN": "Ifugao",
-        "ADM2_PCODE": "PH142700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Cordillera Administrative Region",
-        "ADM1_PCODE": "PH140000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24761,26 +24451,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Cordillera Administrative Region",
+        "ADM1_PCODE": "PH140000000",
+        "ADM2_EN": "Ifugao",
+        "ADM2_PCODE": "PH142700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.85013875853,
-        "Shape_Area": 0.279709346466,
-        "ADM2_EN": "Ilocos Norte",
-        "ADM2_PCODE": "PH012800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region I",
-        "ADM1_PCODE": "PH010000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -25205,26 +24887,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region I",
+        "ADM1_PCODE": "PH010000000",
+        "ADM2_EN": "Ilocos Norte",
+        "ADM2_PCODE": "PH012800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.15263236704,
-        "Shape_Area": 0.209467240433,
-        "ADM2_EN": "Ilocos Sur",
-        "ADM2_PCODE": "PH012900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region I",
-        "ADM1_PCODE": "PH010000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -25905,26 +25579,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region I",
+        "ADM1_PCODE": "PH010000000",
+        "ADM2_EN": "Ilocos Sur",
+        "ADM2_PCODE": "PH012900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.80332324451,
-        "Shape_Area": 0.390018203618,
-        "ADM2_EN": "Iloilo",
-        "ADM2_PCODE": "PH063000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VI",
-        "ADM1_PCODE": "PH060000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -27185,26 +26851,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VI",
+        "ADM1_PCODE": "PH060000000",
+        "ADM2_EN": "Iloilo",
+        "ADM2_PCODE": "PH063000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.58893444923,
-        "Shape_Area": 0.890507201107,
-        "ADM2_EN": "Isabela",
-        "ADM2_PCODE": "PH023100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region II",
-        "ADM1_PCODE": "PH020000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -27945,26 +27603,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region II",
+        "ADM1_PCODE": "PH020000000",
+        "ADM2_EN": "Isabela",
+        "ADM2_PCODE": "PH023100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.51189190423,
-        "Shape_Area": 0.240271095482,
-        "ADM2_EN": "Kalinga",
-        "ADM2_PCODE": "PH143200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Cordillera Administrative Region",
-        "ADM1_PCODE": "PH140000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -28421,26 +28071,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Cordillera Administrative Region",
+        "ADM1_PCODE": "PH140000000",
+        "ADM2_EN": "Kalinga",
+        "ADM2_PCODE": "PH143200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.40331713672,
-        "Shape_Area": 0.119607381331,
-        "ADM2_EN": "La Union",
-        "ADM2_PCODE": "PH013300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region I",
-        "ADM1_PCODE": "PH010000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -28853,26 +28495,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region I",
+        "ADM1_PCODE": "PH010000000",
+        "ADM2_EN": "La Union",
+        "ADM2_PCODE": "PH013300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.82393998683,
-        "Shape_Area": 0.150938310154,
-        "ADM2_EN": "Laguna",
-        "ADM2_PCODE": "PH043400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-A",
-        "ADM1_PCODE": "PH040000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -29437,26 +29071,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-A",
+        "ADM1_PCODE": "PH040000000",
+        "ADM2_EN": "Laguna",
+        "ADM2_PCODE": "PH043400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.15387682916,
-        "Shape_Area": 0.216439476969,
-        "ADM2_EN": "Lanao del Norte",
-        "ADM2_PCODE": "PH103500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region X",
-        "ADM1_PCODE": "PH100000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -30069,26 +29695,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region X",
+        "ADM1_PCODE": "PH100000000",
+        "ADM2_EN": "Lanao del Norte",
+        "ADM2_PCODE": "PH103500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.21588058332,
-        "Shape_Area": 0.336480861596,
-        "ADM2_EN": "Lanao del Sur",
-        "ADM2_PCODE": "PH153600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
-        "ADM1_PCODE": "PH150000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -30701,26 +30319,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
+        "ADM1_PCODE": "PH150000000",
+        "ADM2_EN": "Lanao del Sur",
+        "ADM2_PCODE": "PH153600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.72722381344,
-        "Shape_Area": 0.461200581046,
-        "ADM2_EN": "Leyte",
-        "ADM2_PCODE": "PH083700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VIII",
-        "ADM1_PCODE": "PH080000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -31809,26 +31419,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VIII",
+        "ADM1_PCODE": "PH080000000",
+        "ADM2_EN": "Leyte",
+        "ADM2_PCODE": "PH083700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 7.31177931089,
-        "Shape_Area": 0.403083758425,
-        "ADM2_EN": "Maguindanao",
-        "ADM2_PCODE": "PH153800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
-        "ADM1_PCODE": "PH150000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -32881,26 +32483,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
+        "ADM1_PCODE": "PH150000000",
+        "ADM2_EN": "Maguindanao",
+        "ADM2_PCODE": "PH153800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.86079707791,
-        "Shape_Area": 0.0769905975443,
-        "ADM2_EN": "Marinduque",
-        "ADM2_PCODE": "PH174000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-B",
-        "ADM1_PCODE": "PH170000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -33317,26 +32911,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-B",
+        "ADM1_PCODE": "PH170000000",
+        "ADM2_EN": "Marinduque",
+        "ADM2_PCODE": "PH174000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 12.6075228199,
-        "Shape_Area": 0.331499786092,
-        "ADM2_EN": "Masbate",
-        "ADM2_PCODE": "PH054100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region V",
-        "ADM1_PCODE": "PH050000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -34957,26 +34543,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region V",
+        "ADM1_PCODE": "PH050000000",
+        "ADM2_EN": "Masbate",
+        "ADM2_PCODE": "PH054100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.21750237951,
-        "Shape_Area": 0.153581897576,
-        "ADM2_EN": "Misamis Occidental",
-        "ADM2_PCODE": "PH104200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region X",
-        "ADM1_PCODE": "PH100000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -35309,26 +34887,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region X",
+        "ADM1_PCODE": "PH100000000",
+        "ADM2_EN": "Misamis Occidental",
+        "ADM2_PCODE": "PH104200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.51396271974,
-        "Shape_Area": 0.277534665465,
-        "ADM2_EN": "Misamis Oriental",
-        "ADM2_PCODE": "PH104300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region X",
-        "ADM1_PCODE": "PH100000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36097,26 +35667,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region X",
+        "ADM1_PCODE": "PH100000000",
+        "ADM2_EN": "Misamis Oriental",
+        "ADM2_PCODE": "PH104300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.40802562921,
-        "Shape_Area": 0.179352578596,
-        "ADM2_EN": "Mountain Province",
-        "ADM2_PCODE": "PH144400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Cordillera Administrative Region",
-        "ADM1_PCODE": "PH140000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36473,26 +36035,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Cordillera Administrative Region",
+        "ADM1_PCODE": "PH140000000",
+        "ADM2_EN": "Mountain Province",
+        "ADM2_PCODE": "PH144400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 0.613780831236,
-        "Shape_Area": 0.00351989619461,
-        "ADM2_EN": "NCR, City of Manila, First District",
-        "ADM2_PCODE": "PH133900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "National Capital Region",
-        "ADM1_PCODE": "PH130000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36565,26 +36119,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "National Capital Region",
+        "ADM1_PCODE": "PH130000000",
+        "ADM2_EN": "NCR, City of Manila, First District",
+        "ADM2_PCODE": "PH133900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 0.950456572649,
-        "Shape_Area": 0.0165016799658,
-        "ADM2_EN": "NCR, Fourth District",
-        "ADM2_PCODE": "PH137600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "National Capital Region",
-        "ADM1_PCODE": "PH130000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36729,26 +36275,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "National Capital Region",
+        "ADM1_PCODE": "PH130000000",
+        "ADM2_EN": "NCR, Fourth District",
+        "ADM2_PCODE": "PH137600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 0.94828501275,
-        "Shape_Area": 0.0196134438129,
-        "ADM2_EN": "NCR, Second District",
-        "ADM2_PCODE": "PH137400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "National Capital Region",
-        "ADM1_PCODE": "PH130000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36913,26 +36451,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "National Capital Region",
+        "ADM1_PCODE": "PH130000000",
+        "ADM2_EN": "NCR, Second District",
+        "ADM2_PCODE": "PH137400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 0.935943901048,
-        "Shape_Area": 0.0105814535929,
-        "ADM2_EN": "NCR, Third District",
-        "ADM2_PCODE": "PH137500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "National Capital Region",
-        "ADM1_PCODE": "PH130000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -37073,26 +36603,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "National Capital Region",
+        "ADM1_PCODE": "PH130000000",
+        "ADM2_EN": "NCR, Third District",
+        "ADM2_PCODE": "PH137500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.95208336323,
-        "Shape_Area": 0.632166246974,
-        "ADM2_EN": "Negros Occidental",
-        "ADM2_PCODE": "PH064500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VI",
-        "ADM1_PCODE": "PH060000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -38069,26 +37591,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VI",
+        "ADM1_PCODE": "PH060000000",
+        "ADM2_EN": "Negros Occidental",
+        "ADM2_PCODE": "PH064500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.31949358012,
-        "Shape_Area": 0.422860892517,
-        "ADM2_EN": "Negros Oriental",
-        "ADM2_PCODE": "PH074600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VII",
-        "ADM1_PCODE": "PH070000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -38725,26 +38239,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VII",
+        "ADM1_PCODE": "PH070000000",
+        "ADM2_EN": "Negros Oriental",
+        "ADM2_PCODE": "PH074600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 10.3897965707,
-        "Shape_Area": 0.28602253952,
-        "ADM2_EN": "Northern Samar",
-        "ADM2_PCODE": "PH084800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VIII",
-        "ADM1_PCODE": "PH080000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -40073,26 +39579,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VIII",
+        "ADM1_PCODE": "PH080000000",
+        "ADM2_EN": "Northern Samar",
+        "ADM2_PCODE": "PH084800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.82785926606,
-        "Shape_Area": 0.46390650117,
-        "ADM2_EN": "Nueva Ecija",
-        "ADM2_PCODE": "PH034900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -40649,26 +40147,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Nueva Ecija",
+        "ADM2_PCODE": "PH034900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.71248122143,
-        "Shape_Area": 0.34887435534,
-        "ADM2_EN": "Nueva Vizcaya",
-        "ADM2_PCODE": "PH025000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region II",
-        "ADM1_PCODE": "PH020000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -41213,26 +40703,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region II",
+        "ADM1_PCODE": "PH020000000",
+        "ADM2_EN": "Nueva Vizcaya",
+        "ADM2_PCODE": "PH025000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 7.76328399102,
-        "Shape_Area": 0.497574829674,
-        "ADM2_EN": "Occidental Mindoro",
-        "ADM2_PCODE": "PH175100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-B",
-        "ADM1_PCODE": "PH170000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -42313,26 +41795,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-B",
+        "ADM1_PCODE": "PH170000000",
+        "ADM2_EN": "Occidental Mindoro",
+        "ADM2_PCODE": "PH175100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.52402909668,
-        "Shape_Area": 0.349788203435,
-        "ADM2_EN": "Oriental Mindoro",
-        "ADM2_PCODE": "PH175200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-B",
-        "ADM1_PCODE": "PH170000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -42969,26 +42443,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-B",
+        "ADM1_PCODE": "PH170000000",
+        "ADM2_EN": "Oriental Mindoro",
+        "ADM2_PCODE": "PH175200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 60.1623815435,
-        "Shape_Area": 1.18713212515,
-        "ADM2_EN": "Palawan",
-        "ADM2_PCODE": "PH175300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-B",
-        "ADM1_PCODE": "PH170000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -49577,26 +49043,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-B",
+        "ADM1_PCODE": "PH170000000",
+        "ADM2_EN": "Palawan",
+        "ADM2_PCODE": "PH175300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.67365538659,
-        "Shape_Area": 0.177710130743,
-        "ADM2_EN": "Pampanga",
-        "ADM2_PCODE": "PH035400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -50033,26 +49491,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Pampanga",
+        "ADM2_PCODE": "PH035400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 7.24619195545,
-        "Shape_Area": 0.435199185478,
-        "ADM2_EN": "Pangasinan",
-        "ADM2_PCODE": "PH015500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region I",
-        "ADM1_PCODE": "PH010000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -50997,26 +50447,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region I",
+        "ADM1_PCODE": "PH010000000",
+        "ADM2_EN": "Pangasinan",
+        "ADM2_PCODE": "PH015500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 19.8169720757,
-        "Shape_Area": 0.703479798447,
-        "ADM2_EN": "Quezon",
-        "ADM2_PCODE": "PH045600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-A",
-        "ADM1_PCODE": "PH040000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -53737,26 +53179,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-A",
+        "ADM1_PCODE": "PH040000000",
+        "ADM2_EN": "Quezon",
+        "ADM2_PCODE": "PH045600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.97678080951,
-        "Shape_Area": 0.234040521164,
-        "ADM2_EN": "Quirino",
-        "ADM2_PCODE": "PH025700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region II",
-        "ADM1_PCODE": "PH020000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54133,26 +53567,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region II",
+        "ADM1_PCODE": "PH020000000",
+        "ADM2_EN": "Quirino",
+        "ADM2_PCODE": "PH025700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.98063956919,
-        "Shape_Area": 0.100686264831,
-        "ADM2_EN": "Rizal",
-        "ADM2_PCODE": "PH045800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-A",
-        "ADM1_PCODE": "PH040000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54673,26 +54099,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-A",
+        "ADM1_PCODE": "PH040000000",
+        "ADM2_EN": "Rizal",
+        "ADM2_PCODE": "PH045800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.70244268433,
-        "Shape_Area": 0.108888641084,
-        "ADM2_EN": "Romblon",
-        "ADM2_PCODE": "PH175900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IV-B",
-        "ADM1_PCODE": "PH170000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -55601,26 +55019,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IV-B",
+        "ADM1_PCODE": "PH170000000",
+        "ADM2_EN": "Romblon",
+        "ADM2_PCODE": "PH175900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 13.2998840476,
-        "Shape_Area": 0.44653894656,
-        "ADM2_EN": "Samar",
-        "ADM2_PCODE": "PH086000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VIII",
-        "ADM1_PCODE": "PH080000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -56917,26 +56327,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VIII",
+        "ADM1_PCODE": "PH080000000",
+        "ADM2_EN": "Samar",
+        "ADM2_PCODE": "PH086000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.17236114779,
-        "Shape_Area": 0.302230724679,
-        "ADM2_EN": "Sarangani",
-        "ADM2_PCODE": "PH128000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XII",
-        "ADM1_PCODE": "PH120000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -57717,26 +57119,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XII",
+        "ADM1_PCODE": "PH120000000",
+        "ADM2_EN": "Sarangani",
+        "ADM2_PCODE": "PH128000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 1.05742407824,
-        "Shape_Area": 0.0262910479789,
-        "ADM2_EN": "Siquijor",
-        "ADM2_PCODE": "PH076100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VII",
-        "ADM1_PCODE": "PH070000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -57929,26 +57323,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VII",
+        "ADM1_PCODE": "PH070000000",
+        "ADM2_EN": "Siquijor",
+        "ADM2_PCODE": "PH076100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.46104864016,
-        "Shape_Area": 0.165416909358,
-        "ADM2_EN": "Sorsogon",
-        "ADM2_PCODE": "PH056200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region V",
-        "ADM1_PCODE": "PH050000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -58753,26 +58139,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region V",
+        "ADM1_PCODE": "PH050000000",
+        "ADM2_EN": "Sorsogon",
+        "ADM2_PCODE": "PH056200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.60989602652,
-        "Shape_Area": 0.336634926742,
-        "ADM2_EN": "South Cotabato",
-        "ADM2_PCODE": "PH126300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XII",
-        "ADM1_PCODE": "PH120000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -59249,26 +58627,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XII",
+        "ADM1_PCODE": "PH120000000",
+        "ADM2_EN": "South Cotabato",
+        "ADM2_PCODE": "PH126300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.21464357072,
-        "Shape_Area": 0.136630639847,
-        "ADM2_EN": "Southern Leyte",
-        "ADM2_PCODE": "PH086400000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region VIII",
-        "ADM1_PCODE": "PH080000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -59945,26 +59315,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region VIII",
+        "ADM1_PCODE": "PH080000000",
+        "ADM2_EN": "Southern Leyte",
+        "ADM2_PCODE": "PH086400000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.02088657891,
-        "Shape_Area": 0.345415910578,
-        "ADM2_EN": "Sultan Kudarat",
-        "ADM2_PCODE": "PH126500000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XII",
-        "ADM1_PCODE": "PH120000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -60681,26 +60043,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XII",
+        "ADM1_PCODE": "PH120000000",
+        "ADM2_EN": "Sultan Kudarat",
+        "ADM2_PCODE": "PH126500000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 20.2603515979,
-        "Shape_Area": 0.123791719962,
-        "ADM2_EN": "Sulu",
-        "ADM2_PCODE": "PH156600000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
-        "ADM1_PCODE": "PH150000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -62501,26 +61855,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
+        "ADM1_PCODE": "PH150000000",
+        "ADM2_EN": "Sulu",
+        "ADM2_PCODE": "PH156600000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 12.8735956981,
-        "Shape_Area": 0.162573571775,
-        "ADM2_EN": "Surigao del Norte",
-        "ADM2_PCODE": "PH166700000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XIII",
-        "ADM1_PCODE": "PH160000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63845,26 +63191,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XIII",
+        "ADM1_PCODE": "PH160000000",
+        "ADM2_EN": "Surigao del Norte",
+        "ADM2_PCODE": "PH166700000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.88043030462,
-        "Shape_Area": 0.386100258994,
-        "ADM2_EN": "Surigao del Sur",
-        "ADM2_PCODE": "PH166800000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region XIII",
-        "ADM1_PCODE": "PH160000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -64901,26 +64239,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region XIII",
+        "ADM1_PCODE": "PH160000000",
+        "ADM2_EN": "Surigao del Sur",
+        "ADM2_PCODE": "PH166800000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.521633136,
-        "Shape_Area": 0.250266569922,
-        "ADM2_EN": "Tarlac",
-        "ADM2_PCODE": "PH036900000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -65317,26 +64647,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Tarlac",
+        "ADM2_PCODE": "PH036900000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 15.9714385468,
-        "Shape_Area": 0.0941855950463,
-        "ADM2_EN": "Tawi-Tawi",
-        "ADM2_PCODE": "PH157000000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
-        "ADM1_PCODE": "PH150000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -66809,26 +66131,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Autonomous Region in Muslim Mindanao",
+        "ADM1_PCODE": "PH150000000",
+        "ADM2_EN": "Tawi-Tawi",
+        "ADM2_PCODE": "PH157000000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.32977026042,
-        "Shape_Area": 0.313705492748,
-        "ADM2_EN": "Zambales",
-        "ADM2_PCODE": "PH037100000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region III",
-        "ADM1_PCODE": "PH030000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -67569,26 +66883,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region III",
+        "ADM1_PCODE": "PH030000000",
+        "ADM2_EN": "Zambales",
+        "ADM2_PCODE": "PH037100000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.17092129858,
-        "Shape_Area": 0.51548208504,
-        "ADM2_EN": "Zamboanga del Norte",
-        "ADM2_PCODE": "PH097200000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IX",
-        "ADM1_PCODE": "PH090000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -68717,26 +68023,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IX",
+        "ADM1_PCODE": "PH090000000",
+        "ADM2_EN": "Zamboanga del Norte",
+        "ADM2_PCODE": "PH097200000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 11.8113466205,
-        "Shape_Area": 0.439806885107,
-        "ADM2_EN": "Zamboanga del Sur",
-        "ADM2_PCODE": "PH097300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IX",
-        "ADM1_PCODE": "PH090000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -70077,26 +69375,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IX",
+        "ADM1_PCODE": "PH090000000",
+        "ADM2_EN": "Zamboanga del Sur",
+        "ADM2_PCODE": "PH097300000"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.99725152418,
-        "Shape_Area": 0.223408062377,
-        "ADM2_EN": "Zamboanga Sibugay",
-        "ADM2_PCODE": "PH098300000",
-        "ADM2_REF": "",
-        "ADM2ALT1EN": "",
-        "ADM2ALT2EN": "",
-        "ADM1_EN": "Region IX",
-        "ADM1_PCODE": "PH090000000",
-        "ADM0_EN": "Philippines (the)",
-        "ADM0_PCODE": "PH",
-        "date": "2016-06-30T00:00:00",
-        "validOn": "2020-05-29T00:00:00",
-        "validTo": "1899-11-30T00:00:00"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -71041,6 +70331,14 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Philippines (the)",
+        "ADM0_PCODE": "PH",
+        "ADM1_EN": "Region IX",
+        "ADM1_PCODE": "PH090000000",
+        "ADM2_EN": "Zamboanga Sibugay",
+        "ADM2_PCODE": "PH098300000"
       }
     }
   ]

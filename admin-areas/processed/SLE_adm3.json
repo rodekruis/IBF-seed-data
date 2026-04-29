@@ -1,24 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SLE_adm3",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dea",
-        "ADM3_PCODE": "SL010101",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67,19 +51,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Dea",
+        "ADM3_PCODE": "SL010101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jawie",
-        "ADM3_PCODE": "SL010102",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -144,19 +130,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Jawie",
+        "ADM3_PCODE": "SL010102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kissi Kama",
-        "ADM3_PCODE": "SL010103",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -217,19 +205,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Kissi Kama",
+        "ADM3_PCODE": "SL010103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kissi Teng",
-        "ADM3_PCODE": "SL010104",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -290,19 +280,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Kissi Teng",
+        "ADM3_PCODE": "SL010104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kissi Tongi",
-        "ADM3_PCODE": "SL010105",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -371,19 +363,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Kissi Tongi",
+        "ADM3_PCODE": "SL010105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kpeje Bongre",
-        "ADM3_PCODE": "SL010106",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -448,19 +442,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Kpeje Bongre",
+        "ADM3_PCODE": "SL010106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kpeje West",
-        "ADM3_PCODE": "SL010107",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -517,19 +513,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Kpeje West",
+        "ADM3_PCODE": "SL010107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Luawa",
-        "ADM3_PCODE": "SL010108",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -626,19 +624,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Luawa",
+        "ADM3_PCODE": "SL010108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Malema",
-        "ADM3_PCODE": "SL010109",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -711,19 +711,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Malema",
+        "ADM3_PCODE": "SL010109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mandu",
-        "ADM3_PCODE": "SL010110",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -792,19 +794,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Mandu",
+        "ADM3_PCODE": "SL010110"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Njaluahun",
-        "ADM3_PCODE": "SL010111",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -873,19 +877,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Njaluahun",
+        "ADM3_PCODE": "SL010111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Penguia",
-        "ADM3_PCODE": "SL010112",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -958,19 +964,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Penguia",
+        "ADM3_PCODE": "SL010112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Upper Bambara",
-        "ADM3_PCODE": "SL010113",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1043,19 +1051,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Upper Bambara",
+        "ADM3_PCODE": "SL010113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yawei",
-        "ADM3_PCODE": "SL010114",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0101",
-        "ADM2_EN": "Kailahun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1112,19 +1122,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kailahun",
+        "ADM2_PCODE": "SL0101",
+        "ADM3_EN": "Yawei",
+        "ADM3_PCODE": "SL010114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dama",
-        "ADM3_PCODE": "SL010201",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1181,19 +1193,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Dama",
+        "ADM3_PCODE": "SL010201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dodo",
-        "ADM3_PCODE": "SL010202",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1274,19 +1288,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Dodo",
+        "ADM3_PCODE": "SL010202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gaura",
-        "ADM3_PCODE": "SL010203",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1359,19 +1375,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Gaura",
+        "ADM3_PCODE": "SL010203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gorama Mende",
-        "ADM3_PCODE": "SL010204",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1460,19 +1478,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Gorama Mende",
+        "ADM3_PCODE": "SL010204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kandu Leppiama",
-        "ADM3_PCODE": "SL010205",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1537,19 +1557,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Kandu Leppiama",
+        "ADM3_PCODE": "SL010205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koya",
-        "ADM3_PCODE": "SL010206",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1630,19 +1652,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Koya",
+        "ADM3_PCODE": "SL010206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Langrama",
-        "ADM3_PCODE": "SL010207",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1675,19 +1699,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Langrama",
+        "ADM3_PCODE": "SL010207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lower Bambara",
-        "ADM3_PCODE": "SL010208",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1804,19 +1830,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Lower Bambara",
+        "ADM3_PCODE": "SL010208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Malegohun",
-        "ADM3_PCODE": "SL010209",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1905,19 +1933,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Malegohun",
+        "ADM3_PCODE": "SL010209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Niawa",
-        "ADM3_PCODE": "SL010210",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1966,19 +1996,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Niawa",
+        "ADM3_PCODE": "SL010210"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nomo",
-        "ADM3_PCODE": "SL010211",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2027,19 +2059,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Nomo",
+        "ADM3_PCODE": "SL010211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nongowa",
-        "ADM3_PCODE": "SL010212",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2154,19 +2188,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Nongowa",
+        "ADM3_PCODE": "SL010212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Simbaru",
-        "ADM3_PCODE": "SL010213",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2235,19 +2271,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Simbaru",
+        "ADM3_PCODE": "SL010213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Small Bo",
-        "ADM3_PCODE": "SL010214",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2348,19 +2386,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Small Bo",
+        "ADM3_PCODE": "SL010214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tunkia",
-        "ADM3_PCODE": "SL010215",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2433,19 +2473,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Tunkia",
+        "ADM3_PCODE": "SL010215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Wandor",
-        "ADM3_PCODE": "SL010216",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2514,19 +2556,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Wandor",
+        "ADM3_PCODE": "SL010216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kenema Town",
-        "ADM3_PCODE": "SL010291",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0102",
-        "ADM2_EN": "Kenema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2555,19 +2599,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kenema",
+        "ADM2_PCODE": "SL0102",
+        "ADM3_EN": "Kenema Town",
+        "ADM3_PCODE": "SL010291"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Fiama",
-        "ADM3_PCODE": "SL010301",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2620,19 +2666,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Fiama",
+        "ADM3_PCODE": "SL010301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbane",
-        "ADM3_PCODE": "SL010302",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2705,19 +2753,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Gbane",
+        "ADM3_PCODE": "SL010302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbane Kandor",
-        "ADM3_PCODE": "SL010303",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2762,19 +2812,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Gbane Kandor",
+        "ADM3_PCODE": "SL010303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbense",
-        "ADM3_PCODE": "SL010304",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2839,19 +2891,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Gbense",
+        "ADM3_PCODE": "SL010304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gorama Kono",
-        "ADM3_PCODE": "SL010305",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2940,19 +2994,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Gorama Kono",
+        "ADM3_PCODE": "SL010305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kamara",
-        "ADM3_PCODE": "SL010306",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3001,19 +3057,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Kamara",
+        "ADM3_PCODE": "SL010306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lei",
-        "ADM3_PCODE": "SL010307",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3082,19 +3140,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Lei",
+        "ADM3_PCODE": "SL010307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mafindor",
-        "ADM3_PCODE": "SL010308",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3135,19 +3195,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Mafindor",
+        "ADM3_PCODE": "SL010308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nimikoro",
-        "ADM3_PCODE": "SL010309",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3232,19 +3294,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Nimikoro",
+        "ADM3_PCODE": "SL010309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nimiyama",
-        "ADM3_PCODE": "SL010310",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3321,19 +3385,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Nimiyama",
+        "ADM3_PCODE": "SL010310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sandor",
-        "ADM3_PCODE": "SL010311",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3498,19 +3564,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Sandor",
+        "ADM3_PCODE": "SL010311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Soa",
-        "ADM3_PCODE": "SL010312",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3591,19 +3659,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Soa",
+        "ADM3_PCODE": "SL010312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tankoro",
-        "ADM3_PCODE": "SL010313",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3648,19 +3718,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Tankoro",
+        "ADM3_PCODE": "SL010313"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Toli",
-        "ADM3_PCODE": "SL010314",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3697,19 +3769,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Toli",
+        "ADM3_PCODE": "SL010314"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koidu Town",
-        "ADM3_PCODE": "SL010391",
-        "ADM1_PCODE": "SL01",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0103",
-        "ADM2_EN": "Kono"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3742,19 +3816,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "SL01",
+        "ADM2_EN": "Kono",
+        "ADM2_PCODE": "SL0103",
+        "ADM3_EN": "Koidu Town",
+        "ADM3_PCODE": "SL010391"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Biriwa",
-        "ADM3_PCODE": "SL020101",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3911,19 +3987,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Biriwa",
+        "ADM3_PCODE": "SL020101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bombali Sebora",
-        "ADM3_PCODE": "SL020102",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4004,19 +4082,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Bombali Sebora",
+        "ADM3_PCODE": "SL020102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbanti Kamarank",
-        "ADM3_PCODE": "SL020103",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4113,19 +4193,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Gbanti Kamarank",
+        "ADM3_PCODE": "SL020103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbendembu Ngowa",
-        "ADM3_PCODE": "SL020104",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4254,19 +4336,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Gbendembu Ngowa",
+        "ADM3_PCODE": "SL020104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Magbaimba Ndorh",
-        "ADM3_PCODE": "SL020106",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4367,19 +4451,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Magbaimba Ndorh",
+        "ADM3_PCODE": "SL020106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makari Gbanti",
-        "ADM3_PCODE": "SL020107",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4564,19 +4650,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Makari Gbanti",
+        "ADM3_PCODE": "SL020107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Paki Masabong",
-        "ADM3_PCODE": "SL020108",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4649,19 +4737,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Paki Masabong",
+        "ADM3_PCODE": "SL020108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Safroko Limba",
-        "ADM3_PCODE": "SL020109",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4786,19 +4876,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Safroko Limba",
+        "ADM3_PCODE": "SL020109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makeni Town",
-        "ADM3_PCODE": "SL020191",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0201",
-        "ADM2_EN": "Bombali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4831,19 +4923,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Bombali",
+        "ADM2_PCODE": "SL0201",
+        "ADM3_EN": "Makeni Town",
+        "ADM3_PCODE": "SL020191"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Diang",
-        "ADM3_PCODE": "SL020302",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0203",
-        "ADM2_EN": "Koinadugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4944,19 +5038,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203",
+        "ADM3_EN": "Diang",
+        "ADM3_PCODE": "SL020302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kasunko",
-        "ADM3_PCODE": "SL020304",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0203",
-        "ADM2_EN": "Koinadugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5113,19 +5209,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203",
+        "ADM3_EN": "Kasunko",
+        "ADM3_PCODE": "SL020304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nieni",
-        "ADM3_PCODE": "SL020307",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0203",
-        "ADM2_EN": "Koinadugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5306,19 +5404,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203",
+        "ADM3_EN": "Nieni",
+        "ADM3_PCODE": "SL020307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sengbe",
-        "ADM3_PCODE": "SL020308",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0203",
-        "ADM2_EN": "Koinadugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5383,19 +5483,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203",
+        "ADM3_EN": "Sengbe",
+        "ADM3_PCODE": "SL020308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Wara Wara Bafod",
-        "ADM3_PCODE": "SL020310",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0203",
-        "ADM2_EN": "Koinadugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5488,19 +5590,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203",
+        "ADM3_EN": "Wara Wara Bafod",
+        "ADM3_PCODE": "SL020310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Wara Wara Yagal",
-        "ADM3_PCODE": "SL020311",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0203",
-        "ADM2_EN": "Koinadugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5569,19 +5673,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Koinadugu",
+        "ADM2_PCODE": "SL0203",
+        "ADM3_EN": "Wara Wara Yagal",
+        "ADM3_PCODE": "SL020311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbonkolenken",
-        "ADM3_PCODE": "SL020501",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5678,19 +5784,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Gbonkolenken",
+        "ADM3_PCODE": "SL020501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kafe Simiria",
-        "ADM3_PCODE": "SL020502",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5783,19 +5891,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Kafe Simiria",
+        "ADM3_PCODE": "SL020502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kalansogoia",
-        "ADM3_PCODE": "SL020503",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5884,19 +5994,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Kalansogoia",
+        "ADM3_PCODE": "SL020503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kholifa Mabang",
-        "ADM3_PCODE": "SL020504",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5993,19 +6105,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Kholifa Mabang",
+        "ADM3_PCODE": "SL020504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kholifa Rowala",
-        "ADM3_PCODE": "SL020505",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6126,19 +6240,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Kholifa Rowala",
+        "ADM3_PCODE": "SL020505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kunike Barina",
-        "ADM3_PCODE": "SL020506",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6207,19 +6323,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Kunike Barina",
+        "ADM3_PCODE": "SL020506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kunike",
-        "ADM3_PCODE": "SL020507",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6316,19 +6434,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Kunike",
+        "ADM3_PCODE": "SL020507"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Malal Mara",
-        "ADM3_PCODE": "SL020508",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6457,19 +6577,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Malal Mara",
+        "ADM3_PCODE": "SL020508"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sambaya",
-        "ADM3_PCODE": "SL020509",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6554,19 +6676,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Sambaya",
+        "ADM3_PCODE": "SL020509"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tane",
-        "ADM3_PCODE": "SL020510",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6655,19 +6779,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Tane",
+        "ADM3_PCODE": "SL020510"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yoni",
-        "ADM3_PCODE": "SL020511",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0205",
-        "ADM2_EN": "Tonkolili"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6820,19 +6946,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Tonkolili",
+        "ADM2_PCODE": "SL0205",
+        "ADM3_EN": "Yoni",
+        "ADM3_PCODE": "SL020511"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dembelia - Sink",
-        "ADM3_PCODE": "SL020601",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0206",
-        "ADM2_EN": "Fabala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6921,19 +7049,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Fabala",
+        "ADM2_PCODE": "SL0206",
+        "ADM3_EN": "Dembelia - Sink",
+        "ADM3_PCODE": "SL020601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Folosaba Dembel",
-        "ADM3_PCODE": "SL020602",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0206",
-        "ADM2_EN": "Fabala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7034,19 +7164,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Fabala",
+        "ADM2_PCODE": "SL0206",
+        "ADM3_EN": "Folosaba Dembel",
+        "ADM3_PCODE": "SL020602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mongo",
-        "ADM3_PCODE": "SL020603",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0206",
-        "ADM2_EN": "Fabala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7307,19 +7439,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Fabala",
+        "ADM2_PCODE": "SL0206",
+        "ADM3_EN": "Mongo",
+        "ADM3_PCODE": "SL020603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Neya",
-        "ADM3_PCODE": "SL020604",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0206",
-        "ADM2_EN": "Fabala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7452,19 +7586,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Fabala",
+        "ADM2_PCODE": "SL0206",
+        "ADM3_EN": "Neya",
+        "ADM3_PCODE": "SL020604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sulima",
-        "ADM3_PCODE": "SL020606",
-        "ADM1_PCODE": "SL02",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0206",
-        "ADM2_EN": "Fabala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7601,19 +7737,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "SL02",
+        "ADM2_EN": "Fabala",
+        "ADM2_PCODE": "SL0206",
+        "ADM3_EN": "Sulima",
+        "ADM3_PCODE": "SL020606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Badjia",
-        "ADM3_PCODE": "SL030101",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7686,19 +7824,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Badjia",
+        "ADM3_PCODE": "SL030101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bagbo",
-        "ADM3_PCODE": "SL030102",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7795,19 +7935,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Bagbo",
+        "ADM3_PCODE": "SL030102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bagbwe(Bagbe)",
-        "ADM3_PCODE": "SL030103",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7872,19 +8014,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Bagbwe(Bagbe)",
+        "ADM3_PCODE": "SL030103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Boama",
-        "ADM3_PCODE": "SL030104",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7977,19 +8121,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Boama",
+        "ADM3_PCODE": "SL030104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bumpe Ngao",
-        "ADM3_PCODE": "SL030105",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8070,19 +8216,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Bumpe Ngao",
+        "ADM3_PCODE": "SL030105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbo",
-        "ADM3_PCODE": "SL030106",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8139,19 +8287,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Gbo",
+        "ADM3_PCODE": "SL030106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jaiama Bongor",
-        "ADM3_PCODE": "SL030107",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8216,19 +8366,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Jaiama Bongor",
+        "ADM3_PCODE": "SL030107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kakua",
-        "ADM3_PCODE": "SL030108",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8329,19 +8481,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Kakua",
+        "ADM3_PCODE": "SL030108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Komboya",
-        "ADM3_PCODE": "SL030109",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8410,19 +8564,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Komboya",
+        "ADM3_PCODE": "SL030109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lugbu",
-        "ADM3_PCODE": "SL030110",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8495,19 +8651,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Lugbu",
+        "ADM3_PCODE": "SL030110"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Niawa Lenga",
-        "ADM3_PCODE": "SL030111",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8580,19 +8738,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Niawa Lenga",
+        "ADM3_PCODE": "SL030111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Selenga",
-        "ADM3_PCODE": "SL030112",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8629,19 +8789,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Selenga",
+        "ADM3_PCODE": "SL030112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tikonko",
-        "ADM3_PCODE": "SL030113",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8722,19 +8884,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Tikonko",
+        "ADM3_PCODE": "SL030113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Valunia",
-        "ADM3_PCODE": "SL030114",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8839,19 +9003,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Valunia",
+        "ADM3_PCODE": "SL030114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Wonde",
-        "ADM3_PCODE": "SL030115",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8932,19 +9098,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Wonde",
+        "ADM3_PCODE": "SL030115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bo Town",
-        "ADM3_PCODE": "SL030191",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0301",
-        "ADM2_EN": "Bo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8981,19 +9149,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bo",
+        "ADM2_PCODE": "SL0301",
+        "ADM3_EN": "Bo Town",
+        "ADM3_PCODE": "SL030191"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bendu-Cha",
-        "ADM3_PCODE": "SL030201",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9154,19 +9324,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Bendu-Cha",
+        "ADM3_PCODE": "SL030201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bum",
-        "ADM3_PCODE": "SL030202",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9235,19 +9407,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Bum",
+        "ADM3_PCODE": "SL030202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dema",
-        "ADM3_PCODE": "SL030203",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9616,19 +9790,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Dema",
+        "ADM3_PCODE": "SL030203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Imperri",
-        "ADM3_PCODE": "SL030204",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10193,19 +10369,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Imperri",
+        "ADM3_PCODE": "SL030204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jong",
-        "ADM3_PCODE": "SL030205",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10298,19 +10476,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Jong",
+        "ADM3_PCODE": "SL030205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kpanda Kemo",
-        "ADM3_PCODE": "SL030206",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10395,19 +10575,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Kpanda Kemo",
+        "ADM3_PCODE": "SL030206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kwamebai Krim",
-        "ADM3_PCODE": "SL030207",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10460,19 +10642,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Kwamebai Krim",
+        "ADM3_PCODE": "SL030207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nongoba Bullom",
-        "ADM3_PCODE": "SL030208",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10921,19 +11105,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Nongoba Bullom",
+        "ADM3_PCODE": "SL030208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sittia",
-        "ADM3_PCODE": "SL030209",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11306,19 +11492,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Sittia",
+        "ADM3_PCODE": "SL030209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sogbeni",
-        "ADM3_PCODE": "SL030210",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11375,19 +11563,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Sogbeni",
+        "ADM3_PCODE": "SL030210"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yawbeko",
-        "ADM3_PCODE": "SL030211",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11472,19 +11662,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Yawbeko",
+        "ADM3_PCODE": "SL030211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bonthe Urban",
-        "ADM3_PCODE": "SL030291",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0302",
-        "ADM2_EN": "Bonthe"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11681,19 +11873,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Bonthe",
+        "ADM2_PCODE": "SL0302",
+        "ADM3_EN": "Bonthe Urban",
+        "ADM3_PCODE": "SL030291"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bagruwa",
-        "ADM3_PCODE": "SL030301",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11830,19 +12024,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Bagruwa",
+        "ADM3_PCODE": "SL030301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bumpeh",
-        "ADM3_PCODE": "SL030302",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11951,19 +12147,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Bumpeh",
+        "ADM3_PCODE": "SL030302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dasse",
-        "ADM3_PCODE": "SL030303",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12032,19 +12230,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Dasse",
+        "ADM3_PCODE": "SL030303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Fakunya",
-        "ADM3_PCODE": "SL030304",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12145,19 +12345,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Fakunya",
+        "ADM3_PCODE": "SL030304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kagboro",
-        "ADM3_PCODE": "SL030305",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12398,19 +12600,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Kagboro",
+        "ADM3_PCODE": "SL030305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kaiyamba",
-        "ADM3_PCODE": "SL030306",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12507,19 +12711,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Kaiyamba",
+        "ADM3_PCODE": "SL030306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kamajei",
-        "ADM3_PCODE": "SL030307",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12604,19 +12810,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Kamajei",
+        "ADM3_PCODE": "SL030307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kongbora",
-        "ADM3_PCODE": "SL030308",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12705,19 +12913,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Kongbora",
+        "ADM3_PCODE": "SL030308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kori",
-        "ADM3_PCODE": "SL030309",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12826,19 +13036,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Kori",
+        "ADM3_PCODE": "SL030309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kowa",
-        "ADM3_PCODE": "SL030310",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12895,19 +13107,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Kowa",
+        "ADM3_PCODE": "SL030310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lower Banta",
-        "ADM3_PCODE": "SL030311",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13000,19 +13214,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Lower Banta",
+        "ADM3_PCODE": "SL030311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ribbi",
-        "ADM3_PCODE": "SL030312",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13137,19 +13353,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Ribbi",
+        "ADM3_PCODE": "SL030312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Timdale",
-        "ADM3_PCODE": "SL030313",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13242,19 +13460,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Timdale",
+        "ADM3_PCODE": "SL030313"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Upper Banta",
-        "ADM3_PCODE": "SL030314",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0303",
-        "ADM2_EN": "Moyamba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13303,19 +13523,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Moyamba",
+        "ADM2_PCODE": "SL0303",
+        "ADM3_EN": "Upper Banta",
+        "ADM3_PCODE": "SL030314"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Barri",
-        "ADM3_PCODE": "SL030401",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13408,19 +13630,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Barri",
+        "ADM3_PCODE": "SL030401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Galliness Perri",
-        "ADM3_PCODE": "SL030402",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13549,19 +13773,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Galliness Perri",
+        "ADM3_PCODE": "SL030402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kpaka",
-        "ADM3_PCODE": "SL030403",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13722,19 +13948,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Kpaka",
+        "ADM3_PCODE": "SL030403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Panga Kabonde",
-        "ADM3_PCODE": "SL030404",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13883,19 +14111,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Panga Kabonde",
+        "ADM3_PCODE": "SL030404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makpele",
-        "ADM3_PCODE": "SL030405",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13980,19 +14210,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Makpele",
+        "ADM3_PCODE": "SL030405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Malen",
-        "ADM3_PCODE": "SL030406",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14081,19 +14313,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Malen",
+        "ADM3_PCODE": "SL030406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mono Sakrim",
-        "ADM3_PCODE": "SL030407",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14174,19 +14408,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Mono Sakrim",
+        "ADM3_PCODE": "SL030407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Panga krim",
-        "ADM3_PCODE": "SL030408",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14263,19 +14499,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Panga krim",
+        "ADM3_PCODE": "SL030408"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pejeh(Futa peje",
-        "ADM3_PCODE": "SL030409",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14324,19 +14562,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Pejeh(Futa peje",
+        "ADM3_PCODE": "SL030409"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Soro Gbema",
-        "ADM3_PCODE": "SL030410",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14461,19 +14701,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Soro Gbema",
+        "ADM3_PCODE": "SL030410"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sowa",
-        "ADM3_PCODE": "SL030411",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14542,19 +14784,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Sowa",
+        "ADM3_PCODE": "SL030411"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yakemu Kpukumu",
-        "ADM3_PCODE": "SL030412",
-        "ADM1_PCODE": "SL03",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0304",
-        "ADM2_EN": "Pujehun"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14663,19 +14907,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "SL03",
+        "ADM2_EN": "Pujehun",
+        "ADM2_PCODE": "SL0304",
+        "ADM3_EN": "Yakemu Kpukumu",
+        "ADM3_PCODE": "SL030412"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koya Rural",
-        "ADM3_PCODE": "SL040101",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0401",
-        "ADM2_EN": "Western Area Rural"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14736,19 +14982,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Rural",
+        "ADM2_PCODE": "SL0401",
+        "ADM3_EN": "Koya Rural",
+        "ADM3_PCODE": "SL040101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mountain Rural",
-        "ADM3_PCODE": "SL040102",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0401",
-        "ADM2_EN": "Western Area Rural"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14785,19 +15033,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Rural",
+        "ADM2_PCODE": "SL0401",
+        "ADM3_EN": "Mountain Rural",
+        "ADM3_PCODE": "SL040102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Waterloo Rural",
-        "ADM3_PCODE": "SL040103",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0401",
-        "ADM2_EN": "Western Area Rural"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14886,19 +15136,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Rural",
+        "ADM2_PCODE": "SL0401",
+        "ADM3_EN": "Waterloo Rural",
+        "ADM3_PCODE": "SL040103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "York Rural",
-        "ADM3_PCODE": "SL040104",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0401",
-        "ADM2_EN": "Western Area Rural"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15287,19 +15539,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Rural",
+        "ADM2_PCODE": "SL0401",
+        "ADM3_EN": "York Rural",
+        "ADM3_PCODE": "SL040104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Central I",
-        "ADM3_PCODE": "SL040201",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15328,19 +15582,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "Central I",
+        "ADM3_PCODE": "SL040201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Central II",
-        "ADM3_PCODE": "SL040202",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15369,19 +15625,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "Central II",
+        "ADM3_PCODE": "SL040202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "East I",
-        "ADM3_PCODE": "SL040203",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15410,19 +15668,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "East I",
+        "ADM3_PCODE": "SL040203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "East II",
-        "ADM3_PCODE": "SL040204",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15451,19 +15711,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "East II",
+        "ADM3_PCODE": "SL040204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "East III",
-        "ADM3_PCODE": "SL040205",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15496,19 +15758,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "East III",
+        "ADM3_PCODE": "SL040205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "West I",
-        "ADM3_PCODE": "SL040206",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15541,19 +15805,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "West I",
+        "ADM3_PCODE": "SL040206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "West II",
-        "ADM3_PCODE": "SL040207",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15590,19 +15856,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "West II",
+        "ADM3_PCODE": "SL040207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "West III",
-        "ADM3_PCODE": "SL040208",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15659,19 +15927,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "West III",
+        "ADM3_PCODE": "SL040208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tasso Island",
-        "ADM3_PCODE": "SL040209",
-        "ADM1_PCODE": "SL04",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0402",
-        "ADM2_EN": "Western Area Urban"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15724,19 +15994,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "SL04",
+        "ADM2_EN": "Western Area Urban",
+        "ADM2_PCODE": "SL0402",
+        "ADM3_EN": "Tasso Island",
+        "ADM3_PCODE": "SL040209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bramaia",
-        "ADM3_PCODE": "SL050101",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15845,19 +16117,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Bramaia",
+        "ADM3_PCODE": "SL050101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gbinle Dixing",
-        "ADM3_PCODE": "SL050102",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15934,19 +16208,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Gbinle Dixing",
+        "ADM3_PCODE": "SL050102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Magbema",
-        "ADM3_PCODE": "SL050103",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16011,19 +16287,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Magbema",
+        "ADM3_PCODE": "SL050103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mambolo",
-        "ADM3_PCODE": "SL050104",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16072,19 +16350,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Mambolo",
+        "ADM3_PCODE": "SL050104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Masungbala",
-        "ADM3_PCODE": "SL050105",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16157,19 +16437,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Masungbala",
+        "ADM3_PCODE": "SL050105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Samu",
-        "ADM3_PCODE": "SL050106",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16302,19 +16584,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Samu",
+        "ADM3_PCODE": "SL050106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tonko Limba",
-        "ADM3_PCODE": "SL050107",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0501",
-        "ADM2_EN": "Kambia"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16479,19 +16763,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Kambia",
+        "ADM2_PCODE": "SL0501",
+        "ADM3_EN": "Tonko Limba",
+        "ADM3_PCODE": "SL050107"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buya Romende",
-        "ADM3_PCODE": "SL050201",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16600,19 +16886,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Buya Romende",
+        "ADM3_PCODE": "SL050201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dibia",
-        "ADM3_PCODE": "SL050202",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16669,19 +16957,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Dibia",
+        "ADM3_PCODE": "SL050202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sanda Magbolont",
-        "ADM3_PCODE": "SL050203",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16842,19 +17132,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Sanda Magbolont",
+        "ADM3_PCODE": "SL050203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Libeisaygahun",
-        "ADM3_PCODE": "SL050206",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16975,19 +17267,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Libeisaygahun",
+        "ADM3_PCODE": "SL050206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sanda Loko",
-        "ADM3_PCODE": "SL050207",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17088,19 +17382,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Sanda Loko",
+        "ADM3_PCODE": "SL050207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sanda Tendaran",
-        "ADM3_PCODE": "SL050208",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17169,19 +17465,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Sanda Tendaran",
+        "ADM3_PCODE": "SL050208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sella Limba",
-        "ADM3_PCODE": "SL050209",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17274,19 +17572,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Sella Limba",
+        "ADM3_PCODE": "SL050209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tambakha",
-        "ADM3_PCODE": "SL050210",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0502",
-        "ADM2_EN": "Karene"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17427,19 +17727,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Karene",
+        "ADM2_PCODE": "SL0502",
+        "ADM3_EN": "Tambakha",
+        "ADM3_PCODE": "SL050210"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bureh Kasseh Ma",
-        "ADM3_PCODE": "SL050301",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17556,19 +17858,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Bureh Kasseh Ma",
+        "ADM3_PCODE": "SL050301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kaffu Bullom",
-        "ADM3_PCODE": "SL050302",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17769,19 +18073,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Kaffu Bullom",
+        "ADM3_PCODE": "SL050302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koya",
-        "ADM3_PCODE": "SL050303",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17954,19 +18260,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Koya",
+        "ADM3_PCODE": "SL050303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lokomasama",
-        "ADM3_PCODE": "SL050304",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18079,19 +18387,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Lokomasama",
+        "ADM3_PCODE": "SL050304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maforki",
-        "ADM3_PCODE": "SL050305",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18208,19 +18518,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Maforki",
+        "ADM3_PCODE": "SL050305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Marampa",
-        "ADM3_PCODE": "SL050306",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18329,19 +18641,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Marampa",
+        "ADM3_PCODE": "SL050306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Masimera",
-        "ADM3_PCODE": "SL050307",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18438,19 +18752,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "Masimera",
+        "ADM3_PCODE": "SL050307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "TMS",
-        "ADM3_PCODE": "SL050308",
-        "ADM1_PCODE": "SL05",
-        "ADM1_EN": "North Western",
-        "ADM0_PCODE": "SL",
-        "ADM2_PCODE": "SL0503",
-        "ADM2_EN": "Port Loko"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18515,6 +18831,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SL",
+        "ADM0_ISO_A2": "SL",
+        "ADM0_ISO_A3": "SLE",
+        "ADM1_EN": "North Western",
+        "ADM1_PCODE": "SL05",
+        "ADM2_EN": "Port Loko",
+        "ADM2_PCODE": "SL0503",
+        "ADM3_EN": "TMS",
+        "ADM3_PCODE": "SL050308"
       }
     }
   ]

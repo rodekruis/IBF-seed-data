@@ -1,26 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "uga_adm3_multipolygon",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kotido Municipality",
-        "ADM3_PCODE": "UG308002",
-        "ADM2_EN": "Kotido",
-        "ADM2_PCODE": "UG3080",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -737,21 +719,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kotido",
+        "ADM2_PCODE": "UG3080",
+        "ADM3_EN": "Kotido Municipality",
+        "ADM3_PCODE": "UG308002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mukono",
-        "ADM3_PCODE": "UG102102",
-        "ADM2_EN": "Mukono",
-        "ADM2_PCODE": "UG1021",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1688,21 +1671,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mukono",
+        "ADM2_PCODE": "UG1021",
+        "ADM3_EN": "Mukono",
+        "ADM3_PCODE": "UG102102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buhweju",
-        "ADM3_PCODE": "UG410101",
-        "ADM2_EN": "Buhweju",
-        "ADM2_PCODE": "UG4101",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2651,21 +2635,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Buhweju",
+        "ADM2_PCODE": "UG4101",
+        "ADM3_EN": "Buhweju",
+        "ADM3_PCODE": "UG410101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buruuli",
-        "ADM3_PCODE": "UG412502",
-        "ADM2_EN": "Masindi",
-        "ADM2_PCODE": "UG4125",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4282,21 +4267,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Masindi",
+        "ADM2_PCODE": "UG4125",
+        "ADM3_EN": "Buruuli",
+        "ADM3_PCODE": "UG412502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buliisa",
-        "ADM3_PCODE": "UG410201",
-        "ADM2_EN": "Buliisa",
-        "ADM2_PCODE": "UG4102",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5317,21 +5303,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Buliisa",
+        "ADM2_PCODE": "UG4102",
+        "ADM3_EN": "Buliisa",
+        "ADM3_PCODE": "UG410201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ayivu",
-        "ADM3_PCODE": "UG307202",
-        "ADM2_EN": "Arua",
-        "ADM2_PCODE": "UG3072",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6482,21 +6469,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Arua",
+        "ADM2_PCODE": "UG3072",
+        "ADM3_EN": "Ayivu",
+        "ADM3_PCODE": "UG307202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moyo",
-        "ADM3_PCODE": "UG308701",
-        "ADM2_EN": "Moyo",
-        "ADM2_PCODE": "UG3087",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7477,21 +7465,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Moyo",
+        "ADM2_PCODE": "UG3087",
+        "ADM3_EN": "Moyo",
+        "ADM3_PCODE": "UG308701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jonam",
-        "ADM3_PCODE": "UG309801",
-        "ADM2_EN": "Pakwach",
-        "ADM2_PCODE": "UG3098",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8432,21 +8421,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Pakwach",
+        "ADM2_PCODE": "UG3098",
+        "ADM3_EN": "Jonam",
+        "ADM3_PCODE": "UG309801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bubulo",
-        "ADM3_PCODE": "UG205201",
-        "ADM2_EN": "Manafwa",
-        "ADM2_PCODE": "UG2052",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9091,21 +9081,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Manafwa",
+        "ADM2_PCODE": "UG2052",
+        "ADM3_EN": "Bubulo",
+        "ADM3_PCODE": "UG205201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bujumba",
-        "ADM3_PCODE": "UG100601",
-        "ADM2_EN": "Kalangala",
-        "ADM2_PCODE": "UG1006",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9582,21 +9573,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kalangala",
+        "ADM2_PCODE": "UG1006",
+        "ADM3_EN": "Bujumba",
+        "ADM3_PCODE": "UG100601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ndorwa",
-        "ADM3_PCODE": "UG410902",
-        "ADM2_EN": "Kabale",
-        "ADM2_PCODE": "UG4109",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10533,21 +10525,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kabale",
+        "ADM2_PCODE": "UG4109",
+        "ADM3_EN": "Ndorwa",
+        "ADM3_PCODE": "UG410902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tororo",
-        "ADM3_PCODE": "UG206301",
-        "ADM2_EN": "Tororo",
-        "ADM2_PCODE": "UG2063",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11704,21 +11697,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Tororo",
+        "ADM2_PCODE": "UG2063",
+        "ADM3_EN": "Tororo",
+        "ADM3_PCODE": "UG206301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buruli",
-        "ADM3_PCODE": "UG102301",
-        "ADM2_EN": "Nakasongola",
-        "ADM2_PCODE": "UG1023",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13443,21 +13437,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Nakasongola",
+        "ADM2_PCODE": "UG1023",
+        "ADM3_EN": "Buruli",
+        "ADM3_PCODE": "UG102301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bunyangabu",
-        "ADM3_PCODE": "UG410401",
-        "ADM2_EN": "Bunyangabu",
-        "ADM2_PCODE": "UG4104",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14498,21 +14493,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Bunyangabu",
+        "ADM2_PCODE": "UG4104",
+        "ADM3_EN": "Bunyangabu",
+        "ADM3_PCODE": "UG410401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bugabula",
-        "ADM3_PCODE": "UG204401",
-        "ADM2_EN": "Kamuli",
-        "ADM2_PCODE": "UG2044",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15897,21 +15893,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kamuli",
+        "ADM2_PCODE": "UG2044",
+        "ADM3_EN": "Bugabula",
+        "ADM3_PCODE": "UG204401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kween",
-        "ADM3_PCODE": "UG205001",
-        "ADM2_EN": "Kween",
-        "ADM2_PCODE": "UG2050",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17228,21 +17225,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kween",
+        "ADM2_PCODE": "UG2050",
+        "ADM3_EN": "Kween",
+        "ADM3_PCODE": "UG205001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "KCCA",
-        "ADM3_PCODE": "UG100801",
-        "ADM2_EN": "Kampala",
-        "ADM2_PCODE": "UG1008",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17643,21 +17641,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kampala",
+        "ADM2_PCODE": "UG1008",
+        "ADM3_EN": "KCCA",
+        "ADM3_PCODE": "UG100801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Masaka Municipality",
-        "ADM3_PCODE": "UG101702",
-        "ADM2_EN": "Masaka",
-        "ADM2_PCODE": "UG1017",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17874,21 +17873,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Masaka",
+        "ADM2_PCODE": "UG1017",
+        "ADM3_EN": "Masaka Municipality",
+        "ADM3_PCODE": "UG101702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tingey",
-        "ADM3_PCODE": "UG204502",
-        "ADM2_EN": "Kapchorwa",
-        "ADM2_PCODE": "UG2045",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18737,21 +18737,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kapchorwa",
+        "ADM2_PCODE": "UG2045",
+        "ADM3_EN": "Tingey",
+        "ADM3_PCODE": "UG204502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Butembe",
-        "ADM3_PCODE": "UG204001",
-        "ADM2_EN": "Jinja",
-        "ADM2_PCODE": "UG2040",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19380,21 +19381,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Jinja",
+        "ADM2_PCODE": "UG2040",
+        "ADM3_EN": "Butembe",
+        "ADM3_PCODE": "UG204001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bugweri",
-        "ADM3_PCODE": "UG203101",
-        "ADM2_EN": "Bugweri",
-        "ADM2_PCODE": "UG2031",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20119,21 +20121,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bugweri",
+        "ADM2_PCODE": "UG2031",
+        "ADM3_EN": "Bugweri",
+        "ADM3_PCODE": "UG203101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Katakwi",
-        "ADM3_PCODE": "UG204701",
-        "ADM2_EN": "Katakwi",
-        "ADM2_PCODE": "UG2047",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21422,21 +21425,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Katakwi",
+        "ADM2_PCODE": "UG2047",
+        "ADM3_EN": "Katakwi",
+        "ADM3_PCODE": "UG204701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bunyole",
-        "ADM3_PCODE": "UG203601",
-        "ADM2_EN": "Butaleja",
-        "ADM2_PCODE": "UG2036",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22169,21 +22173,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Butaleja",
+        "ADM2_PCODE": "UG2036",
+        "ADM3_EN": "Bunyole",
+        "ADM3_PCODE": "UG203601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mwenge",
-        "ADM3_PCODE": "UG412401",
-        "ADM2_EN": "Kyenjojo",
-        "ADM2_PCODE": "UG4124",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24112,21 +24117,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kyenjojo",
+        "ADM2_PCODE": "UG4124",
+        "ADM3_EN": "Mwenge",
+        "ADM3_PCODE": "UG412401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tororo Municipality",
-        "ADM3_PCODE": "UG206302",
-        "ADM2_EN": "Tororo",
-        "ADM2_PCODE": "UG2063",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24279,21 +24285,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Tororo",
+        "ADM2_PCODE": "UG2063",
+        "ADM3_EN": "Tororo Municipality",
+        "ADM3_PCODE": "UG206302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kazo",
-        "ADM3_PCODE": "UG411601",
-        "ADM2_EN": "Kazo",
-        "ADM2_PCODE": "UG4116",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -25690,21 +25697,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kazo",
+        "ADM2_PCODE": "UG4116",
+        "ADM3_EN": "Kazo",
+        "ADM3_PCODE": "UG411601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bujumbura",
-        "ADM3_PCODE": "UG413301",
-        "ADM2_EN": "Rukungiri",
-        "ADM2_PCODE": "UG4133",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -27273,21 +27281,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rukungiri",
+        "ADM2_PCODE": "UG4133",
+        "ADM3_EN": "Bujumbura",
+        "ADM3_PCODE": "UG413301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kalaki",
-        "ADM3_PCODE": "UG204201",
-        "ADM2_EN": "Kalaki",
-        "ADM2_PCODE": "UG2042",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -28048,21 +28057,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kalaki",
+        "ADM2_PCODE": "UG2042",
+        "ADM3_EN": "Kalaki",
+        "ADM3_PCODE": "UG204201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Butebo",
-        "ADM3_PCODE": "UG203701",
-        "ADM2_EN": "Butebo",
-        "ADM2_PCODE": "UG2037",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -28671,21 +28681,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Butebo",
+        "ADM2_PCODE": "UG2037",
+        "ADM3_EN": "Butebo",
+        "ADM3_PCODE": "UG203701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nebbi Municipality",
-        "ADM3_PCODE": "UG309101",
-        "ADM2_EN": "Nebbi",
-        "ADM2_PCODE": "UG3091",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -28986,21 +28997,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Nebbi",
+        "ADM2_PCODE": "UG3091",
+        "ADM3_EN": "Nebbi Municipality",
+        "ADM3_PCODE": "UG309101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mityana Municipality",
-        "ADM3_PCODE": "UG101804",
-        "ADM2_EN": "Mityana",
-        "ADM2_PCODE": "UG1018",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -29605,21 +29617,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mityana",
+        "ADM2_PCODE": "UG1018",
+        "ADM3_EN": "Mityana Municipality",
+        "ADM3_PCODE": "UG101804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Omoro",
-        "ADM3_PCODE": "UG309401",
-        "ADM2_EN": "Omoro",
-        "ADM2_PCODE": "UG3094",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -31256,21 +31269,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Omoro",
+        "ADM2_PCODE": "UG3094",
+        "ADM3_EN": "Omoro",
+        "ADM3_PCODE": "UG309401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moroto Municipality",
-        "ADM3_PCODE": "UG308602",
-        "ADM2_EN": "Moroto",
-        "ADM2_PCODE": "UG3086",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -31347,21 +31361,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Moroto",
+        "ADM2_PCODE": "UG3086",
+        "ADM3_EN": "Moroto Municipality",
+        "ADM3_PCODE": "UG308602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyabushozi",
-        "ADM3_PCODE": "UG411901",
-        "ADM2_EN": "Kiruhura",
-        "ADM2_PCODE": "UG4119",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -33038,21 +33053,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kiruhura",
+        "ADM2_PCODE": "UG4119",
+        "ADM3_EN": "Nyabushozi",
+        "ADM3_PCODE": "UG411901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kibuku",
-        "ADM3_PCODE": "UG204801",
-        "ADM2_EN": "Kibuku",
-        "ADM2_PCODE": "UG2048",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -33653,21 +33669,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kibuku",
+        "ADM2_PCODE": "UG2048",
+        "ADM3_EN": "Kibuku",
+        "ADM3_PCODE": "UG204801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bughendera",
-        "ADM3_PCODE": "UG410301",
-        "ADM2_EN": "Bundibugyo",
-        "ADM2_PCODE": "UG4103",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -34932,21 +34949,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Bundibugyo",
+        "ADM2_PCODE": "UG4103",
+        "ADM3_EN": "Bughendera",
+        "ADM3_PCODE": "UG410301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bunya",
-        "ADM3_PCODE": "UG205301",
-        "ADM2_EN": "Mayuge",
-        "ADM2_PCODE": "UG2053",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36175,21 +36193,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Mayuge",
+        "ADM2_PCODE": "UG2053",
+        "ADM3_EN": "Bunya",
+        "ADM3_PCODE": "UG205301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bufumbira",
-        "ADM3_PCODE": "UG412101",
-        "ADM2_EN": "Kisoro",
-        "ADM2_PCODE": "UG4121",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -37292,21 +37311,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kisoro",
+        "ADM2_PCODE": "UG4121",
+        "ADM3_EN": "Bufumbira",
+        "ADM3_PCODE": "UG412101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bujenje",
-        "ADM3_PCODE": "UG412501",
-        "ADM2_EN": "Masindi",
-        "ADM2_PCODE": "UG4125",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -39623,21 +39643,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Masindi",
+        "ADM2_PCODE": "UG4125",
+        "ADM3_EN": "Bujenje",
+        "ADM3_PCODE": "UG412501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bokora",
-        "ADM3_PCODE": "UG309001",
-        "ADM2_EN": "Napak",
-        "ADM2_PCODE": "UG3090",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -40830,21 +40851,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Napak",
+        "ADM2_PCODE": "UG3090",
+        "ADM3_EN": "Bokora",
+        "ADM3_PCODE": "UG309001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buvuma Island",
-        "ADM3_PCODE": "UG100401",
-        "ADM2_EN": "Buvuma",
-        "ADM2_PCODE": "UG1004",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -41441,21 +41463,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Buvuma",
+        "ADM2_PCODE": "UG1004",
+        "ADM3_EN": "Buvuma Island",
+        "ADM3_PCODE": "UG100401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Aswa",
-        "ADM3_PCODE": "UG307401",
-        "ADM2_EN": "Gulu",
-        "ADM2_PCODE": "UG3074",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -43148,21 +43171,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Gulu",
+        "ADM2_PCODE": "UG3074",
+        "ADM3_EN": "Aswa",
+        "ADM3_PCODE": "UG307401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lwemiyaga",
-        "ADM3_PCODE": "UG102501",
-        "ADM2_EN": "Ssembabule",
-        "ADM2_PCODE": "UG1025",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -44059,21 +44083,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Ssembabule",
+        "ADM2_PCODE": "UG1025",
+        "ADM3_EN": "Lwemiyaga",
+        "ADM3_PCODE": "UG102501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Manjiya",
-        "ADM3_PCODE": "UG202901",
-        "ADM2_EN": "Bududa",
-        "ADM2_PCODE": "UG2029",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -44774,21 +44799,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bududa",
+        "ADM2_PCODE": "UG2029",
+        "ADM3_EN": "Manjiya",
+        "ADM3_PCODE": "UG202901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Samia-Bugwe",
-        "ADM3_PCODE": "UG203502",
-        "ADM2_EN": "Busia",
-        "ADM2_PCODE": "UG2035",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -45745,21 +45771,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Busia",
+        "ADM2_PCODE": "UG2035",
+        "ADM3_EN": "Samia-Bugwe",
+        "ADM3_PCODE": "UG203502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kira Municipality",
-        "ADM3_PCODE": "UG102603",
-        "ADM2_EN": "Wakiso",
-        "ADM2_PCODE": "UG1026",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -46164,21 +46191,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Wakiso",
+        "ADM2_PCODE": "UG1026",
+        "ADM3_EN": "Kira Municipality",
+        "ADM3_PCODE": "UG102603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bungokho",
-        "ADM3_PCODE": "UG205401",
-        "ADM2_EN": "Mbale",
-        "ADM2_PCODE": "UG2054",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -47281,21 +47309,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Mbale",
+        "ADM2_PCODE": "UG2054",
+        "ADM3_EN": "Bungokho",
+        "ADM3_PCODE": "UG205401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ntoroko",
-        "ADM3_PCODE": "UG412801",
-        "ADM2_EN": "Ntoroko",
-        "ADM2_PCODE": "UG4128",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -48848,21 +48877,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ntoroko",
+        "ADM2_PCODE": "UG4128",
+        "ADM3_EN": "Ntoroko",
+        "ADM3_PCODE": "UG412801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lamwo",
-        "ADM3_PCODE": "UG308201",
-        "ADM2_EN": "Lamwo",
-        "ADM2_PCODE": "UG3082",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -50579,21 +50609,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Lamwo",
+        "ADM2_PCODE": "UG3082",
+        "ADM3_EN": "Lamwo",
+        "ADM3_PCODE": "UG308201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukooli",
-        "ADM3_PCODE": "UG205501",
-        "ADM2_EN": "Namayingo",
-        "ADM2_PCODE": "UG2055",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -51298,21 +51329,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Namayingo",
+        "ADM2_PCODE": "UG2055",
+        "ADM3_EN": "Bukooli",
+        "ADM3_PCODE": "UG205501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukonjo",
-        "ADM3_PCODE": "UG411501",
-        "ADM2_EN": "Kasese",
-        "ADM2_PCODE": "UG4115",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -52357,21 +52389,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kasese",
+        "ADM2_PCODE": "UG4115",
+        "ADM3_EN": "Bukonjo",
+        "ADM3_PCODE": "UG411501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngora",
-        "ADM3_PCODE": "UG205801",
-        "ADM2_EN": "Ngora",
-        "ADM2_PCODE": "UG2058",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -53088,21 +53121,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Ngora",
+        "ADM2_PCODE": "UG2058",
+        "ADM3_EN": "Ngora",
+        "ADM3_PCODE": "UG205801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ruhinda",
-        "ADM3_PCODE": "UG412701",
-        "ADM2_EN": "Mitooma",
-        "ADM2_PCODE": "UG4127",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54159,21 +54193,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Mitooma",
+        "ADM2_PCODE": "UG4127",
+        "ADM3_EN": "Ruhinda",
+        "ADM3_PCODE": "UG412701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jinja Municipality",
-        "ADM3_PCODE": "UG204002",
-        "ADM2_EN": "Jinja",
-        "ADM2_PCODE": "UG2040",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54370,21 +54405,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Jinja",
+        "ADM2_PCODE": "UG2040",
+        "ADM3_EN": "Jinja Municipality",
+        "ADM3_PCODE": "UG204002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukooli",
-        "ADM3_PCODE": "UG203002",
-        "ADM2_EN": "Bugiri",
-        "ADM2_PCODE": "UG2030",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -55655,21 +55691,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bugiri",
+        "ADM2_PCODE": "UG2030",
+        "ADM3_EN": "Bukooli",
+        "ADM3_PCODE": "UG203002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nwoya",
-        "ADM3_PCODE": "UG309201",
-        "ADM2_EN": "Nwoya",
-        "ADM2_PCODE": "UG3092",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -58406,21 +58443,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Nwoya",
+        "ADM2_PCODE": "UG3092",
+        "ADM3_EN": "Nwoya",
+        "ADM3_PCODE": "UG309201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Budaka",
-        "ADM3_PCODE": "UG202801",
-        "ADM2_EN": "Budaka",
-        "ADM2_PCODE": "UG2028",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -58853,21 +58891,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Budaka",
+        "ADM2_PCODE": "UG2028",
+        "ADM3_EN": "Budaka",
+        "ADM3_PCODE": "UG202801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Labwor",
-        "ADM3_PCODE": "UG306401",
-        "ADM2_EN": "Abim",
-        "ADM2_PCODE": "UG3064",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -60372,21 +60411,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Abim",
+        "ADM2_PCODE": "UG3064",
+        "ADM3_EN": "Labwor",
+        "ADM3_PCODE": "UG306401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Soroti",
-        "ADM3_PCODE": "UG206201",
-        "ADM2_EN": "Soroti",
-        "ADM2_PCODE": "UG2062",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -61605,21 +61645,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Soroti",
+        "ADM2_PCODE": "UG2062",
+        "ADM3_EN": "Soroti",
+        "ADM3_PCODE": "UG206201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbarara Municipality",
-        "ADM3_PCODE": "UG412602",
-        "ADM2_EN": "Mbarara",
-        "ADM2_PCODE": "UG4126",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -61848,21 +61889,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Mbarara",
+        "ADM2_PCODE": "UG4126",
+        "ADM3_EN": "Mbarara Municipality",
+        "ADM3_PCODE": "UG412602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Njeru Municipality",
-        "ADM3_PCODE": "UG100104",
-        "ADM2_EN": "Buikwe",
-        "ADM2_PCODE": "UG1001",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -62579,21 +62621,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Buikwe",
+        "ADM2_PCODE": "UG1001",
+        "ADM3_EN": "Njeru Municipality",
+        "ADM3_PCODE": "UG100104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kigulu",
-        "ADM3_PCODE": "UG203902",
-        "ADM2_EN": "Iganga",
-        "ADM2_PCODE": "UG2039",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63480,21 +63523,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Iganga",
+        "ADM2_PCODE": "UG2039",
+        "ADM3_EN": "Kigulu",
+        "ADM3_PCODE": "UG203902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kitgum Municipality",
-        "ADM3_PCODE": "UG307702",
-        "ADM2_EN": "Kitgum",
-        "ADM2_PCODE": "UG3077",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63671,21 +63715,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kitgum",
+        "ADM2_PCODE": "UG3077",
+        "ADM3_EN": "Kitgum Municipality",
+        "ADM3_PCODE": "UG307702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bugiri Municipality",
-        "ADM3_PCODE": "UG203001",
-        "ADM2_EN": "Bugiri",
-        "ADM2_PCODE": "UG2030",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63786,21 +63831,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bugiri",
+        "ADM2_PCODE": "UG2030",
+        "ADM3_EN": "Bugiri Municipality",
+        "ADM3_PCODE": "UG203001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makindye Ssabagabo Municipality",
-        "ADM3_PCODE": "UG102605",
-        "ADM2_EN": "Wakiso",
-        "ADM2_PCODE": "UG1026",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63997,21 +64043,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Wakiso",
+        "ADM2_PCODE": "UG1026",
+        "ADM3_EN": "Makindye Ssabagabo Municipality",
+        "ADM3_PCODE": "UG102605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kabula",
-        "ADM3_PCODE": "UG101601",
-        "ADM2_EN": "Lyantonde",
-        "ADM2_PCODE": "UG1016",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -64656,21 +64703,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Lyantonde",
+        "ADM2_PCODE": "UG1016",
+        "ADM3_EN": "Kabula",
+        "ADM3_PCODE": "UG101601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kilak",
-        "ADM3_PCODE": "UG307001",
-        "ADM2_EN": "Amuru",
-        "ADM2_PCODE": "UG3070",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -68047,21 +68095,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Amuru",
+        "ADM2_PCODE": "UG3070",
+        "ADM3_EN": "Kilak",
+        "ADM3_PCODE": "UG307001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pian",
-        "ADM3_PCODE": "UG308801",
-        "ADM2_EN": "Nabilatuk",
-        "ADM2_PCODE": "UG3088",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -69374,21 +69423,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Nabilatuk",
+        "ADM2_PCODE": "UG3088",
+        "ADM3_EN": "Pian",
+        "ADM3_PCODE": "UG308801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kyaka",
-        "ADM3_PCODE": "UG412301",
-        "ADM2_EN": "Kyegegwa",
-        "ADM2_PCODE": "UG4123",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -70881,21 +70931,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kyegegwa",
+        "ADM2_PCODE": "UG4123",
+        "ADM3_EN": "Kyaka",
+        "ADM3_PCODE": "UG412301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kasese Municipality",
-        "ADM3_PCODE": "UG411503",
-        "ADM2_EN": "Kasese",
-        "ADM2_PCODE": "UG4115",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -71668,21 +71719,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kasese",
+        "ADM2_PCODE": "UG4115",
+        "ADM3_EN": "Kasese Municipality",
+        "ADM3_PCODE": "UG411503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Fort Portal Municipality",
-        "ADM3_PCODE": "UG411002",
-        "ADM2_EN": "Kabarole",
-        "ADM2_PCODE": "UG4110",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -72023,21 +72075,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kabarole",
+        "ADM2_PCODE": "UG4110",
+        "ADM3_EN": "Fort Portal Municipality",
+        "ADM3_PCODE": "UG411002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Aruu",
-        "ADM3_PCODE": "UG309701",
-        "ADM2_EN": "Pader",
-        "ADM2_PCODE": "UG3097",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -74610,21 +74663,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Pader",
+        "ADM2_PCODE": "UG3097",
+        "ADM3_EN": "Aruu",
+        "ADM3_PCODE": "UG309701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maruzi",
-        "ADM3_PCODE": "UG307102",
-        "ADM2_EN": "Apac",
-        "ADM2_PCODE": "UG3071",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -76329,21 +76383,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Apac",
+        "ADM2_PCODE": "UG3071",
+        "ADM3_EN": "Maruzi",
+        "ADM3_PCODE": "UG307102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arua Municipality",
-        "ADM3_PCODE": "UG307201",
-        "ADM2_EN": "Arua",
-        "ADM2_PCODE": "UG3072",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -76460,21 +76515,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Arua",
+        "ADM2_PCODE": "UG3072",
+        "ADM3_EN": "Arua Municipality",
+        "ADM3_PCODE": "UG307201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kyadondo",
-        "ADM3_PCODE": "UG102604",
-        "ADM2_EN": "Wakiso",
-        "ADM2_PCODE": "UG1026",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -76903,21 +76959,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Wakiso",
+        "ADM2_PCODE": "UG1026",
+        "ADM3_EN": "Kyadondo",
+        "ADM3_PCODE": "UG102604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Busiki",
-        "ADM3_PCODE": "UG205701",
-        "ADM2_EN": "Namutumba",
-        "ADM2_PCODE": "UG2057",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -77602,21 +77659,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Namutumba",
+        "ADM2_PCODE": "UG2057",
+        "ADM3_EN": "Busiki",
+        "ADM3_PCODE": "UG205701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buhaguzi",
-        "ADM3_PCODE": "UG411801",
-        "ADM2_EN": "Kikuube",
-        "ADM2_PCODE": "UG4118",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -79393,21 +79451,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kikuube",
+        "ADM2_PCODE": "UG4118",
+        "ADM3_EN": "Buhaguzi",
+        "ADM3_PCODE": "UG411801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kole",
-        "ADM3_PCODE": "UG307901",
-        "ADM2_EN": "Kole",
-        "ADM2_PCODE": "UG3079",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -80708,21 +80767,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kole",
+        "ADM2_PCODE": "UG3079",
+        "ADM3_EN": "Kole",
+        "ADM3_PCODE": "UG307901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kalungu",
-        "ADM3_PCODE": "UG100701",
-        "ADM2_EN": "Kalungu",
-        "ADM2_PCODE": "UG1007",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -81367,21 +81427,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kalungu",
+        "ADM2_PCODE": "UG1007",
+        "ADM3_EN": "Kalungu",
+        "ADM3_PCODE": "UG100701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Iganga Municipality",
-        "ADM3_PCODE": "UG203901",
-        "ADM2_EN": "Iganga",
-        "ADM2_PCODE": "UG2039",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -81478,21 +81539,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Iganga",
+        "ADM2_PCODE": "UG2039",
+        "ADM3_EN": "Iganga Municipality",
+        "ADM3_PCODE": "UG203901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kitagwenda",
-        "ADM3_PCODE": "UG412201",
-        "ADM2_EN": "Kitagwenda",
-        "ADM2_PCODE": "UG4122",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -82497,21 +82559,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kitagwenda",
+        "ADM2_PCODE": "UG4122",
+        "ADM3_EN": "Kitagwenda",
+        "ADM3_PCODE": "UG412201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Luuka",
-        "ADM3_PCODE": "UG205101",
-        "ADM2_EN": "Luuka",
-        "ADM2_PCODE": "UG2051",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -83500,21 +83563,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Luuka",
+        "ADM2_PCODE": "UG2051",
+        "ADM3_EN": "Luuka",
+        "ADM3_PCODE": "UG205101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bubulo",
-        "ADM3_PCODE": "UG205601",
-        "ADM2_EN": "Namisindwa",
-        "ADM2_PCODE": "UG2056",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -84175,21 +84239,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Namisindwa",
+        "ADM2_PCODE": "UG2056",
+        "ADM3_EN": "Bubulo",
+        "ADM3_PCODE": "UG205601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kongasis",
-        "ADM3_PCODE": "UG203301",
-        "ADM2_EN": "Bukwo",
-        "ADM2_PCODE": "UG2033",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -84946,21 +85011,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bukwo",
+        "ADM2_PCODE": "UG2033",
+        "ADM3_EN": "Kongasis",
+        "ADM3_PCODE": "UG203301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rukungiri Municipality",
-        "ADM3_PCODE": "UG413303",
-        "ADM2_EN": "Rukungiri",
-        "ADM2_PCODE": "UG4133",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -85341,21 +85407,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rukungiri",
+        "ADM2_PCODE": "UG4133",
+        "ADM3_EN": "Rukungiri Municipality",
+        "ADM3_PCODE": "UG413303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "East Moyo",
-        "ADM3_PCODE": "UG306501",
-        "ADM2_EN": "Adjumani",
-        "ADM2_PCODE": "UG3065",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -87168,21 +87235,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Adjumani",
+        "ADM2_PCODE": "UG3065",
+        "ADM3_EN": "East Moyo",
+        "ADM3_PCODE": "UG306501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kyamuswa",
-        "ADM3_PCODE": "UG100602",
-        "ADM2_EN": "Kalangala",
-        "ADM2_PCODE": "UG1006",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -87703,21 +87771,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kalangala",
+        "ADM2_PCODE": "UG1006",
+        "ADM3_EN": "Kyamuswa",
+        "ADM3_PCODE": "UG100602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kapelebyong",
-        "ADM3_PCODE": "UG204601",
-        "ADM2_EN": "Kapelebyong",
-        "ADM2_PCODE": "UG2046",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -89298,21 +89367,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kapelebyong",
+        "ADM2_PCODE": "UG2046",
+        "ADM3_EN": "Kapelebyong",
+        "ADM3_PCODE": "UG204601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ntenjeru",
-        "ADM3_PCODE": "UG101002",
-        "ADM2_EN": "Kayunga",
-        "ADM2_PCODE": "UG1010",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -90093,21 +90163,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kayunga",
+        "ADM2_PCODE": "UG1010",
+        "ADM3_EN": "Ntenjeru",
+        "ADM3_PCODE": "UG101002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Budiope",
-        "ADM3_PCODE": "UG203801",
-        "ADM2_EN": "Buyende",
-        "ADM2_PCODE": "UG2038",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -90888,21 +90959,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Buyende",
+        "ADM2_PCODE": "UG2038",
+        "ADM3_EN": "Budiope",
+        "ADM3_PCODE": "UG203801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mukono Municipality",
-        "ADM3_PCODE": "UG102103",
-        "ADM2_EN": "Mukono",
-        "ADM2_PCODE": "UG1021",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -91283,21 +91355,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mukono",
+        "ADM2_PCODE": "UG1021",
+        "ADM3_EN": "Mukono Municipality",
+        "ADM3_PCODE": "UG102103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Chekwi",
-        "ADM3_PCODE": "UG308901",
-        "ADM2_EN": "Nakapiripirit",
-        "ADM2_PCODE": "UG3089",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -93398,21 +93471,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Nakapiripirit",
+        "ADM2_PCODE": "UG3089",
+        "ADM3_EN": "Chekwi",
+        "ADM3_PCODE": "UG308901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bbaale",
-        "ADM3_PCODE": "UG101001",
-        "ADM2_EN": "Kayunga",
-        "ADM2_PCODE": "UG1010",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -94201,21 +94275,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kayunga",
+        "ADM2_PCODE": "UG1010",
+        "ADM3_EN": "Bbaale",
+        "ADM3_PCODE": "UG101001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rushenyi",
-        "ADM3_PCODE": "UG412904",
-        "ADM2_EN": "Ntungamo",
-        "ADM2_PCODE": "UG4129",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -95200,21 +95275,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ntungamo",
+        "ADM2_PCODE": "UG4129",
+        "ADM3_EN": "Rushenyi",
+        "ADM3_PCODE": "UG412904"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ruhaama",
-        "ADM3_PCODE": "UG412903",
-        "ADM2_EN": "Ntungamo",
-        "ADM2_PCODE": "UG4129",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -96569,21 +96645,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ntungamo",
+        "ADM2_PCODE": "UG4129",
+        "ADM3_EN": "Ruhaama",
+        "ADM3_PCODE": "UG412903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mawokota",
-        "ADM3_PCODE": "UG101901",
-        "ADM2_EN": "Mpigi",
-        "ADM2_PCODE": "UG1019",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -97700,21 +97777,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mpigi",
+        "ADM2_PCODE": "UG1019",
+        "ADM3_EN": "Mawokota",
+        "ADM3_PCODE": "UG101901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbale Municipality",
-        "ADM3_PCODE": "UG205402",
-        "ADM2_EN": "Mbale",
-        "ADM2_PCODE": "UG2054",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -97891,21 +97969,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Mbale",
+        "ADM2_PCODE": "UG2054",
+        "ADM3_EN": "Mbale Municipality",
+        "ADM3_PCODE": "UG205402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Matheniko",
-        "ADM3_PCODE": "UG308601",
-        "ADM2_EN": "Moroto",
-        "ADM2_PCODE": "UG3086",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -99408,21 +99487,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Moroto",
+        "ADM2_PCODE": "UG3086",
+        "ADM3_EN": "Matheniko",
+        "ADM3_PCODE": "UG308601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moroto",
-        "ADM3_PCODE": "UG306701",
-        "ADM2_EN": "Alebtong",
-        "ADM2_PCODE": "UG3067",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -101647,21 +101727,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Alebtong",
+        "ADM2_PCODE": "UG3067",
+        "ADM3_EN": "Moroto",
+        "ADM3_PCODE": "UG306701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kyotera",
-        "ADM3_PCODE": "UG101301",
-        "ADM2_EN": "Kyotera",
-        "ADM2_PCODE": "UG1013",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -102542,21 +102623,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kyotera",
+        "ADM2_PCODE": "UG1013",
+        "ADM3_EN": "Kyotera",
+        "ADM3_PCODE": "UG101301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rukiga",
-        "ADM3_PCODE": "UG413201",
-        "ADM2_EN": "Rukiga",
-        "ADM2_PCODE": "UG4132",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -103501,21 +103583,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rukiga",
+        "ADM2_PCODE": "UG4132",
+        "ADM3_EN": "Rukiga",
+        "ADM3_PCODE": "UG413201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kajara",
-        "ADM3_PCODE": "UG412901",
-        "ADM2_EN": "Ntungamo",
-        "ADM2_PCODE": "UG4129",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -104096,21 +104179,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ntungamo",
+        "ADM2_PCODE": "UG4129",
+        "ADM3_EN": "Kajara",
+        "ADM3_PCODE": "UG412901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kaberamaido",
-        "ADM3_PCODE": "UG204101",
-        "ADM2_EN": "Kaberamaido",
-        "ADM2_PCODE": "UG2041",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -104731,21 +104815,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kaberamaido",
+        "ADM2_PCODE": "UG2041",
+        "ADM3_EN": "Kaberamaido",
+        "ADM3_PCODE": "UG204101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jie",
-        "ADM3_PCODE": "UG308001",
-        "ADM2_EN": "Kotido",
-        "ADM2_PCODE": "UG3080",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -106864,21 +106949,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kotido",
+        "ADM2_PCODE": "UG3080",
+        "ADM3_EN": "Jie",
+        "ADM3_PCODE": "UG308001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Okoro",
-        "ADM3_PCODE": "UG310001",
-        "ADM2_EN": "Zombo",
-        "ADM2_PCODE": "UG3100",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -108107,21 +108193,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Zombo",
+        "ADM2_PCODE": "UG3100",
+        "ADM3_EN": "Okoro",
+        "ADM3_PCODE": "UG310001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Hoima Municipality",
-        "ADM3_PCODE": "UG410602",
-        "ADM2_EN": "Hoima",
-        "ADM2_PCODE": "UG4106",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -108706,21 +108793,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Hoima",
+        "ADM2_PCODE": "UG4106",
+        "ADM3_EN": "Hoima Municipality",
+        "ADM3_PCODE": "UG410602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Busujju",
-        "ADM3_PCODE": "UG101801",
-        "ADM2_EN": "Mityana",
-        "ADM2_PCODE": "UG1018",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -109589,21 +109677,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mityana",
+        "ADM2_PCODE": "UG1018",
+        "ADM3_EN": "Busujju",
+        "ADM3_PCODE": "UG101801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gulu Municipality",
-        "ADM3_PCODE": "UG307402",
-        "ADM2_EN": "Gulu",
-        "ADM2_PCODE": "UG3074",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -109864,21 +109953,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Gulu",
+        "ADM2_PCODE": "UG3074",
+        "ADM3_EN": "Gulu Municipality",
+        "ADM3_PCODE": "UG307402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rubabo",
-        "ADM3_PCODE": "UG413302",
-        "ADM2_EN": "Rukungiri",
-        "ADM2_PCODE": "UG4133",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -110819,21 +110909,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rukungiri",
+        "ADM2_PCODE": "UG4133",
+        "ADM3_EN": "Rubabo",
+        "ADM3_PCODE": "UG413302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ibanda Municipality",
-        "ADM3_PCODE": "UG410702",
-        "ADM2_EN": "Ibanda",
-        "ADM2_PCODE": "UG4107",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -111538,21 +111629,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ibanda",
+        "ADM2_PCODE": "UG4107",
+        "ADM3_EN": "Ibanda Municipality",
+        "ADM3_PCODE": "UG410702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dokolo",
-        "ADM3_PCODE": "UG307301",
-        "ADM2_EN": "Dokolo",
-        "ADM2_PCODE": "UG3073",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -112629,21 +112721,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Dokolo",
+        "ADM2_PCODE": "UG3073",
+        "ADM3_EN": "Dokolo",
+        "ADM3_PCODE": "UG307301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koboko",
-        "ADM3_PCODE": "UG307801",
-        "ADM2_EN": "Koboko",
-        "ADM2_PCODE": "UG3078",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -113708,21 +113801,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Koboko",
+        "ADM2_PCODE": "UG3078",
+        "ADM3_EN": "Koboko",
+        "ADM3_PCODE": "UG307801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Busia Municipality",
-        "ADM3_PCODE": "UG203501",
-        "ADM2_EN": "Busia",
-        "ADM2_PCODE": "UG2035",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -113827,21 +113921,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Busia",
+        "ADM2_PCODE": "UG2035",
+        "ADM3_EN": "Busia Municipality",
+        "ADM3_PCODE": "UG203501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maracha",
-        "ADM3_PCODE": "UG308501",
-        "ADM2_EN": "Maracha",
-        "ADM2_PCODE": "UG3085",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -114670,21 +114765,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Maracha",
+        "ADM2_PCODE": "UG3085",
+        "ADM3_EN": "Maracha",
+        "ADM3_PCODE": "UG308501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Soroti Municipality",
-        "ADM3_PCODE": "UG206202",
-        "ADM2_EN": "Soroti",
-        "ADM2_PCODE": "UG2062",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -114825,21 +114921,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Soroti",
+        "ADM2_PCODE": "UG2062",
+        "ADM3_EN": "Soroti Municipality",
+        "ADM3_PCODE": "UG206202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kamuli Municipality",
-        "ADM3_PCODE": "UG204403",
-        "ADM2_EN": "Kamuli",
-        "ADM2_PCODE": "UG2044",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -115220,21 +115317,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kamuli",
+        "ADM2_PCODE": "UG2044",
+        "ADM3_EN": "Kamuli Municipality",
+        "ADM3_PCODE": "UG204403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nakaseke",
-        "ADM3_PCODE": "UG102201",
-        "ADM2_EN": "Nakaseke",
-        "ADM2_PCODE": "UG1022",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -117215,21 +117313,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Nakaseke",
+        "ADM2_PCODE": "UG1022",
+        "ADM3_EN": "Nakaseke",
+        "ADM3_PCODE": "UG102201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "KCCA",
-        "ADM3_PCODE": "UG101802",
-        "ADM2_EN": "Mityana",
-        "ADM2_PCODE": "UG1018",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -117514,21 +117613,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mityana",
+        "ADM2_PCODE": "UG1018",
+        "ADM3_EN": "KCCA",
+        "ADM3_PCODE": "UG101802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Entebbe Municipality",
-        "ADM3_PCODE": "UG102602",
-        "ADM2_EN": "Wakiso",
-        "ADM2_PCODE": "UG1026",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -117685,21 +117785,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Wakiso",
+        "ADM2_PCODE": "UG1026",
+        "ADM3_EN": "Entebbe Municipality",
+        "ADM3_PCODE": "UG102602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Butambala",
-        "ADM3_PCODE": "UG100301",
-        "ADM2_EN": "Butambala",
-        "ADM2_PCODE": "UG1003",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -118764,21 +118865,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Butambala",
+        "ADM2_PCODE": "UG1003",
+        "ADM3_EN": "Butambala",
+        "ADM3_PCODE": "UG100301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Otuke",
-        "ADM3_PCODE": "UG309501",
-        "ADM2_EN": "Otuke",
-        "ADM2_PCODE": "UG3095",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -120955,21 +121057,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Otuke",
+        "ADM2_PCODE": "UG3095",
+        "ADM3_EN": "Otuke",
+        "ADM3_PCODE": "UG309501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kisoro Municipality",
-        "ADM3_PCODE": "UG412102",
-        "ADM2_EN": "Kisoro",
-        "ADM2_PCODE": "UG4121",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -121094,21 +121197,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kisoro",
+        "ADM2_PCODE": "UG4121",
+        "ADM3_EN": "Kisoro Municipality",
+        "ADM3_PCODE": "UG412102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nakifuma",
-        "ADM3_PCODE": "UG102104",
-        "ADM2_EN": "Mukono",
-        "ADM2_PCODE": "UG1021",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -121885,21 +121989,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mukono",
+        "ADM2_PCODE": "UG1021",
+        "ADM3_EN": "Nakifuma",
+        "ADM3_PCODE": "UG102104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ntungamo Municipality",
-        "ADM3_PCODE": "UG412902",
-        "ADM2_EN": "Ntungamo",
-        "ADM2_PCODE": "UG4129",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -122144,21 +122249,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ntungamo",
+        "ADM2_PCODE": "UG4129",
+        "ADM3_EN": "Ntungamo Municipality",
+        "ADM3_PCODE": "UG412902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sheema",
-        "ADM3_PCODE": "UG413501",
-        "ADM2_EN": "Sheema",
-        "ADM2_PCODE": "UG4135",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -123179,21 +123285,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Sheema",
+        "ADM2_PCODE": "UG4135",
+        "ADM3_EN": "Sheema",
+        "ADM3_PCODE": "UG413501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kumi Municipality",
-        "ADM3_PCODE": "UG204902",
-        "ADM2_EN": "Kumi",
-        "ADM2_PCODE": "UG2049",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -123558,21 +123665,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kumi",
+        "ADM2_PCODE": "UG2049",
+        "ADM3_EN": "Kumi Municipality",
+        "ADM3_PCODE": "UG204902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kassanda",
-        "ADM3_PCODE": "UG100901",
-        "ADM2_EN": "Kassanda",
-        "ADM2_PCODE": "UG1009",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -124809,21 +124917,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kassanda",
+        "ADM2_PCODE": "UG1009",
+        "ADM3_EN": "Kassanda",
+        "ADM3_PCODE": "UG100901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kumi",
-        "ADM3_PCODE": "UG204901",
-        "ADM2_EN": "Kumi",
-        "ADM2_PCODE": "UG2049",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -125954,21 +126063,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kumi",
+        "ADM2_PCODE": "UG2049",
+        "ADM3_EN": "Kumi",
+        "ADM3_PCODE": "UG204901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Budadiri",
-        "ADM3_PCODE": "UG206101",
-        "ADM2_EN": "Sironko",
-        "ADM2_PCODE": "UG2061",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -126881,21 +126991,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Sironko",
+        "ADM2_PCODE": "UG2061",
+        "ADM3_EN": "Budadiri",
+        "ADM3_PCODE": "UG206101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Toroma",
-        "ADM3_PCODE": "UG204702",
-        "ADM2_EN": "Katakwi",
-        "ADM2_PCODE": "UG2047",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -127508,21 +127619,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Katakwi",
+        "ADM2_PCODE": "UG2047",
+        "ADM3_EN": "Toroma",
+        "ADM3_PCODE": "UG204702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pokot",
-        "ADM3_PCODE": "UG306901",
-        "ADM2_EN": "Amudat",
-        "ADM2_PCODE": "UG3069",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -129155,21 +129267,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Amudat",
+        "ADM2_PCODE": "UG3069",
+        "ADM3_EN": "Pokot",
+        "ADM3_PCODE": "UG306901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Amuria",
-        "ADM3_PCODE": "UG202701",
-        "ADM2_EN": "Amuria",
-        "ADM2_PCODE": "UG2027",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -131030,21 +131143,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Amuria",
+        "ADM2_PCODE": "UG2027",
+        "ADM3_EN": "Amuria",
+        "ADM3_PCODE": "UG202701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Apac Municipality",
-        "ADM3_PCODE": "UG307101",
-        "ADM2_EN": "Apac",
-        "ADM2_PCODE": "UG3071",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -131493,21 +131607,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Apac",
+        "ADM2_PCODE": "UG3071",
+        "ADM3_EN": "Apac Municipality",
+        "ADM3_PCODE": "UG307101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukanga",
-        "ADM3_PCODE": "UG410801",
-        "ADM2_EN": "Isingiro",
-        "ADM2_PCODE": "UG4108",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -132244,21 +132359,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Isingiro",
+        "ADM2_PCODE": "UG4108",
+        "ADM3_EN": "Bukanga",
+        "ADM3_PCODE": "UG410801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rwampara",
-        "ADM3_PCODE": "UG413401",
-        "ADM2_EN": "Rwampara",
-        "ADM2_PCODE": "UG4134",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -133059,21 +133175,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rwampara",
+        "ADM2_PCODE": "UG4134",
+        "ADM3_EN": "Rwampara",
+        "ADM3_PCODE": "UG413401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Terego",
-        "ADM3_PCODE": "UG307203",
-        "ADM2_EN": "Arua",
-        "ADM2_PCODE": "UG3072",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -134730,21 +134847,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Arua",
+        "ADM2_PCODE": "UG3072",
+        "ADM3_EN": "Terego",
+        "ADM3_PCODE": "UG307203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rubanda",
-        "ADM3_PCODE": "UG413001",
-        "ADM2_EN": "Rubanda",
-        "ADM2_PCODE": "UG4130",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -135917,21 +136035,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rubanda",
+        "ADM2_PCODE": "UG4130",
+        "ADM3_EN": "Rubanda",
+        "ADM3_PCODE": "UG413001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Erute",
-        "ADM3_PCODE": "UG308301",
-        "ADM2_EN": "Lira",
-        "ADM2_PCODE": "UG3083",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -138178,21 +138297,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Lira",
+        "ADM2_PCODE": "UG3083",
+        "ADM3_EN": "Erute",
+        "ADM3_PCODE": "UG308301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kagoma",
-        "ADM3_PCODE": "UG204003",
-        "ADM2_EN": "Jinja",
-        "ADM2_PCODE": "UG2040",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -138853,21 +138973,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Jinja",
+        "ADM2_PCODE": "UG2040",
+        "ADM3_EN": "Kagoma",
+        "ADM3_PCODE": "UG204003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sheema Municipality",
-        "ADM3_PCODE": "UG413502",
-        "ADM2_EN": "Sheema",
-        "ADM2_PCODE": "UG4135",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -139332,21 +139453,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Sheema",
+        "ADM2_PCODE": "UG4135",
+        "ADM3_EN": "Sheema Municipality",
+        "ADM3_PCODE": "UG413502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bushenyi  Municipality",
-        "ADM3_PCODE": "UG410501",
-        "ADM2_EN": "Bushenyi",
-        "ADM2_PCODE": "UG4105",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -139831,21 +139953,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Bushenyi",
+        "ADM2_PCODE": "UG4105",
+        "ADM3_EN": "Bushenyi  Municipality",
+        "ADM3_PCODE": "UG410501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Isingiro",
-        "ADM3_PCODE": "UG410802",
-        "ADM2_EN": "Isingiro",
-        "ADM2_PCODE": "UG4108",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -141162,21 +141285,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Isingiro",
+        "ADM2_PCODE": "UG4108",
+        "ADM3_EN": "Isingiro",
+        "ADM3_PCODE": "UG410802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kashari",
-        "ADM3_PCODE": "UG412601",
-        "ADM2_EN": "Mbarara",
-        "ADM2_PCODE": "UG4126",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -142573,21 +142697,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Mbarara",
+        "ADM2_PCODE": "UG4126",
+        "ADM3_EN": "Kashari",
+        "ADM3_PCODE": "UG412601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kiboga",
-        "ADM3_PCODE": "UG101201",
-        "ADM2_EN": "Kyankwanzi",
-        "ADM2_PCODE": "UG1012",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -144156,21 +144281,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kyankwanzi",
+        "ADM2_PCODE": "UG1012",
+        "ADM3_EN": "Kiboga",
+        "ADM3_PCODE": "UG101201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Chua",
-        "ADM3_PCODE": "UG307701",
-        "ADM2_EN": "Kitgum",
-        "ADM2_PCODE": "UG3077",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -146605,21 +146731,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kitgum",
+        "ADM2_PCODE": "UG3077",
+        "ADM3_EN": "Chua",
+        "ADM3_PCODE": "UG307701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Busongora",
-        "ADM3_PCODE": "UG411502",
-        "ADM2_EN": "Kasese",
-        "ADM2_PCODE": "UG4115",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -149084,21 +149211,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kasese",
+        "ADM2_PCODE": "UG4115",
+        "ADM3_EN": "Busongora",
+        "ADM3_PCODE": "UG411502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Serere",
-        "ADM3_PCODE": "UG206002",
-        "ADM2_EN": "Serere",
-        "ADM2_PCODE": "UG2060",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -149839,21 +149967,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Serere",
+        "ADM2_PCODE": "UG2060",
+        "ADM3_EN": "Serere",
+        "ADM3_PCODE": "UG206002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Igara",
-        "ADM3_PCODE": "UG410502",
-        "ADM2_EN": "Bushenyi",
-        "ADM2_PCODE": "UG4105",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -151652,21 +151781,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Bushenyi",
+        "ADM2_PCODE": "UG4105",
+        "ADM3_EN": "Igara",
+        "ADM3_PCODE": "UG410502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Vurra",
-        "ADM3_PCODE": "UG307204",
-        "ADM2_EN": "Arua",
-        "ADM2_PCODE": "UG3072",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -153011,21 +153141,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Arua",
+        "ADM2_PCODE": "UG3072",
+        "ADM3_EN": "Vurra",
+        "ADM3_PCODE": "UG307204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Aringa",
-        "ADM3_PCODE": "UG309901",
-        "ADM2_EN": "Yumbe",
-        "ADM2_PCODE": "UG3099",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -154298,21 +154429,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Yumbe",
+        "ADM2_PCODE": "UG3099",
+        "ADM3_EN": "Aringa",
+        "ADM3_PCODE": "UG309901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Agago",
-        "ADM3_PCODE": "UG306601",
-        "ADM2_EN": "Agago",
-        "ADM2_PCODE": "UG3066",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -156201,21 +156333,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Agago",
+        "ADM2_PCODE": "UG3066",
+        "ADM3_EN": "Agago",
+        "ADM3_PCODE": "UG306601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dodoth",
-        "ADM3_PCODE": "UG307601",
-        "ADM2_EN": "Karenga",
-        "ADM2_PCODE": "UG3076",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -157220,21 +157353,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Karenga",
+        "ADM2_PCODE": "UG3076",
+        "ADM3_EN": "Dodoth",
+        "ADM3_PCODE": "UG307601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukedea",
-        "ADM3_PCODE": "UG203201",
-        "ADM2_EN": "Bukedea",
-        "ADM2_PCODE": "UG2032",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -158099,21 +158233,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bukedea",
+        "ADM2_PCODE": "UG2032",
+        "ADM3_EN": "Bukedea",
+        "ADM3_PCODE": "UG203201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ibanda",
-        "ADM3_PCODE": "UG410701",
-        "ADM2_EN": "Ibanda",
-        "ADM2_PCODE": "UG4107",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -160022,21 +160157,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Ibanda",
+        "ADM2_PCODE": "UG4107",
+        "ADM3_EN": "Ibanda",
+        "ADM3_PCODE": "UG410701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "KCCA",
-        "ADM3_PCODE": "UG100102",
-        "ADM2_EN": "Buikwe",
-        "ADM2_PCODE": "UG1001",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -160205,21 +160341,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Buikwe",
+        "ADM2_PCODE": "UG1001",
+        "ADM3_EN": "KCCA",
+        "ADM3_PCODE": "UG100102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kibale",
-        "ADM3_PCODE": "UG411301",
-        "ADM2_EN": "Kamwenge",
-        "ADM2_PCODE": "UG4113",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -162232,21 +162369,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kamwenge",
+        "ADM2_PCODE": "UG4113",
+        "ADM3_EN": "Kibale",
+        "ADM3_PCODE": "UG411301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukoto",
-        "ADM3_PCODE": "UG101701",
-        "ADM2_EN": "Masaka",
-        "ADM2_PCODE": "UG1017",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -163283,21 +163421,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Masaka",
+        "ADM2_PCODE": "UG1017",
+        "ADM3_EN": "Bukoto",
+        "ADM3_PCODE": "UG101701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buyaga",
-        "ADM3_PCODE": "UG411101",
-        "ADM2_EN": "Kagadi",
-        "ADM2_PCODE": "UG4111",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -164778,21 +164917,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kagadi",
+        "ADM2_PCODE": "UG4111",
+        "ADM3_EN": "Buyaga",
+        "ADM3_PCODE": "UG411101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Masindi Municipality",
-        "ADM3_PCODE": "UG412503",
-        "ADM2_EN": "Masindi",
-        "ADM2_PCODE": "UG4125",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -165573,21 +165713,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Masindi",
+        "ADM2_PCODE": "UG4125",
+        "ADM3_EN": "Masindi Municipality",
+        "ADM3_PCODE": "UG412503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Burahya",
-        "ADM3_PCODE": "UG411001",
-        "ADM2_EN": "Kabarole",
-        "ADM2_PCODE": "UG4110",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -167970,21 +168111,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kabarole",
+        "ADM2_PCODE": "UG4110",
+        "ADM3_EN": "Burahya",
+        "ADM3_PCODE": "UG411001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kasilo",
-        "ADM3_PCODE": "UG206001",
-        "ADM2_EN": "Serere",
-        "ADM2_PCODE": "UG2060",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -168549,21 +168691,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Serere",
+        "ADM2_PCODE": "UG2060",
+        "ADM3_EN": "Kasilo",
+        "ADM3_PCODE": "UG206001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bwamba",
-        "ADM3_PCODE": "UG410302",
-        "ADM2_EN": "Bundibugyo",
-        "ADM2_PCODE": "UG4103",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -169200,21 +169343,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Bundibugyo",
+        "ADM2_PCODE": "UG4103",
+        "ADM3_EN": "Bwamba",
+        "ADM3_PCODE": "UG410302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mityana",
-        "ADM3_PCODE": "UG101803",
-        "ADM2_EN": "Mityana",
-        "ADM2_PCODE": "UG1018",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -170287,21 +170431,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mityana",
+        "ADM2_PCODE": "UG1018",
+        "ADM3_EN": "Mityana",
+        "ADM3_PCODE": "UG101803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lugazi Municipality",
-        "ADM3_PCODE": "UG100103",
-        "ADM2_EN": "Buikwe",
-        "ADM2_PCODE": "UG1001",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -171090,21 +171235,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Buikwe",
+        "ADM2_PCODE": "UG1001",
+        "ADM3_EN": "Lugazi Municipality",
+        "ADM3_PCODE": "UG100103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Busiro",
-        "ADM3_PCODE": "UG102601",
-        "ADM2_EN": "Wakiso",
-        "ADM2_PCODE": "UG1026",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -172361,21 +172507,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Wakiso",
+        "ADM2_PCODE": "UG1026",
+        "ADM3_EN": "Busiro",
+        "ADM3_PCODE": "UG102601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukomansimbi",
-        "ADM3_PCODE": "UG100201",
-        "ADM2_EN": "Bukomansimbi",
-        "ADM2_PCODE": "UG1002",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -172936,21 +173083,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Bukomansimbi",
+        "ADM2_PCODE": "UG1002",
+        "ADM3_EN": "Bukomansimbi",
+        "ADM3_PCODE": "UG100201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kinkizi",
-        "ADM3_PCODE": "UG411401",
-        "ADM2_EN": "Kanungu",
-        "ADM2_PCODE": "UG4114",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -174935,21 +175083,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kanungu",
+        "ADM2_PCODE": "UG4114",
+        "ADM3_EN": "Kinkizi",
+        "ADM3_PCODE": "UG411401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bugangaizi",
-        "ADM3_PCODE": "UG411201",
-        "ADM2_EN": "Kakumiro",
-        "ADM2_PCODE": "UG4112",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -176286,21 +176435,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kakumiro",
+        "ADM2_PCODE": "UG4112",
+        "ADM3_EN": "Bugangaizi",
+        "ADM3_PCODE": "UG411201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kooki",
-        "ADM3_PCODE": "UG102401",
-        "ADM2_EN": "Rakai",
-        "ADM2_PCODE": "UG1024",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -177065,21 +177215,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Rakai",
+        "ADM2_PCODE": "UG1024",
+        "ADM3_EN": "Kooki",
+        "ADM3_PCODE": "UG102401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nansana Municipality",
-        "ADM3_PCODE": "UG102606",
-        "ADM2_EN": "Wakiso",
-        "ADM2_PCODE": "UG1026",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -177856,21 +178007,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Wakiso",
+        "ADM2_PCODE": "UG1026",
+        "ADM3_EN": "Nansana Municipality",
+        "ADM3_PCODE": "UG102606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buyanja",
-        "ADM3_PCODE": "UG411701",
-        "ADM2_EN": "Kibaale",
-        "ADM2_PCODE": "UG4117",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -179043,21 +179195,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kibaale",
+        "ADM2_PCODE": "UG4117",
+        "ADM3_EN": "Buyanja",
+        "ADM3_PCODE": "UG411701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kwania",
-        "ADM3_PCODE": "UG308101",
-        "ADM2_EN": "Kwania",
-        "ADM2_PCODE": "UG3081",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -180138,21 +180291,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kwania",
+        "ADM2_PCODE": "UG3081",
+        "ADM3_EN": "Kwania",
+        "ADM3_PCODE": "UG308101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gomba",
-        "ADM3_PCODE": "UG100501",
-        "ADM2_EN": "Gomba",
-        "ADM2_PCODE": "UG1005",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -181565,21 +181719,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Gomba",
+        "ADM2_PCODE": "UG1005",
+        "ADM3_EN": "Gomba",
+        "ADM3_PCODE": "UG100501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buzaaya",
-        "ADM3_PCODE": "UG204402",
-        "ADM2_EN": "Kamuli",
-        "ADM2_PCODE": "UG2044",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -182372,21 +182527,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kamuli",
+        "ADM2_PCODE": "UG2044",
+        "ADM3_EN": "Buzaaya",
+        "ADM3_PCODE": "UG204402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bunyaruguru",
-        "ADM3_PCODE": "UG413101",
-        "ADM2_EN": "Rubirizi",
-        "ADM2_PCODE": "UG4131",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -183435,21 +183591,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Rubirizi",
+        "ADM2_PCODE": "UG4131",
+        "ADM3_EN": "Bunyaruguru",
+        "ADM3_PCODE": "UG413101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bugahya",
-        "ADM3_PCODE": "UG410601",
-        "ADM2_EN": "Hoima",
-        "ADM2_PCODE": "UG4106",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -185326,21 +185483,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Hoima",
+        "ADM2_PCODE": "UG4106",
+        "ADM3_EN": "Bugahya",
+        "ADM3_PCODE": "UG410601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koboko Municipality",
-        "ADM3_PCODE": "UG307802",
-        "ADM2_EN": "Koboko",
-        "ADM2_PCODE": "UG3078",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -185545,21 +185703,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Koboko",
+        "ADM2_PCODE": "UG3078",
+        "ADM3_EN": "Koboko Municipality",
+        "ADM3_PCODE": "UG307802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kiboga",
-        "ADM3_PCODE": "UG101101",
-        "ADM2_EN": "Kiboga",
-        "ADM2_PCODE": "UG1011",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -186876,21 +187035,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Kiboga",
+        "ADM2_PCODE": "UG1011",
+        "ADM3_EN": "Kiboga",
+        "ADM3_PCODE": "UG101101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Iki-Iki",
-        "ADM3_PCODE": "UG202802",
-        "ADM2_EN": "Budaka",
-        "ADM2_PCODE": "UG2028",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -187375,21 +187535,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Budaka",
+        "ADM2_PCODE": "UG2028",
+        "ADM3_EN": "Iki-Iki",
+        "ADM3_PCODE": "UG202802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mawogola",
-        "ADM3_PCODE": "UG102502",
-        "ADM2_EN": "Ssembabule",
-        "ADM2_PCODE": "UG1025",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -188642,21 +188803,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Ssembabule",
+        "ADM2_PCODE": "UG1025",
+        "ADM3_EN": "Mawogola",
+        "ADM3_PCODE": "UG102502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Obongi",
-        "ADM3_PCODE": "UG309301",
-        "ADM2_EN": "Obongi",
-        "ADM2_PCODE": "UG3093",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -189257,21 +189419,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Obongi",
+        "ADM2_PCODE": "UG3093",
+        "ADM3_EN": "Obongi",
+        "ADM3_PCODE": "UG309301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bukoto",
-        "ADM3_PCODE": "UG101501",
-        "ADM2_EN": "Lwengo",
-        "ADM2_PCODE": "UG1015",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -190200,21 +190363,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Lwengo",
+        "ADM2_PCODE": "UG1015",
+        "ADM3_EN": "Bukoto",
+        "ADM3_PCODE": "UG101501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kabale Municipality",
-        "ADM3_PCODE": "UG410901",
-        "ADM2_EN": "Kabale",
-        "ADM2_PCODE": "UG4109",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -190447,21 +190611,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kabale",
+        "ADM2_PCODE": "UG4109",
+        "ADM3_EN": "Kabale Municipality",
+        "ADM3_PCODE": "UG410901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mubende Municipality",
-        "ADM3_PCODE": "UG102003",
-        "ADM2_EN": "Mubende",
-        "ADM2_PCODE": "UG1020",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -191030,21 +191195,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mubende",
+        "ADM2_PCODE": "UG1020",
+        "ADM3_EN": "Mubende Municipality",
+        "ADM3_PCODE": "UG102003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kioga",
-        "ADM3_PCODE": "UG306801",
-        "ADM2_EN": "Amolatar",
-        "ADM2_PCODE": "UG3068",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -191701,21 +191867,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Amolatar",
+        "ADM2_PCODE": "UG3068",
+        "ADM3_EN": "Kioga",
+        "ADM3_PCODE": "UG306801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bulambuli",
-        "ADM3_PCODE": "UG203401",
-        "ADM2_EN": "Bulambuli",
-        "ADM2_PCODE": "UG2034",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -193044,21 +193211,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Bulambuli",
+        "ADM2_PCODE": "UG2034",
+        "ADM3_EN": "Bulambuli",
+        "ADM3_PCODE": "UG203401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Butebo",
-        "ADM3_PCODE": "UG205901",
-        "ADM2_EN": "Pallisa",
-        "ADM2_PCODE": "UG2059",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -193351,21 +193519,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Pallisa",
+        "ADM2_PCODE": "UG2059",
+        "ADM3_EN": "Butebo",
+        "ADM3_PCODE": "UG205901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kapchorwa Municipality",
-        "ADM3_PCODE": "UG204501",
-        "ADM2_EN": "Kapchorwa",
-        "ADM2_PCODE": "UG2045",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -194138,21 +194307,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kapchorwa",
+        "ADM2_PCODE": "UG2045",
+        "ADM3_EN": "Kapchorwa Municipality",
+        "ADM3_PCODE": "UG204501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buikwe",
-        "ADM3_PCODE": "UG100101",
-        "ADM2_EN": "Buikwe",
-        "ADM2_PCODE": "UG1001",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -194701,21 +194871,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Buikwe",
+        "ADM2_PCODE": "UG1001",
+        "ADM3_EN": "Buikwe",
+        "ADM3_PCODE": "UG100101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "KCCA",
-        "ADM3_PCODE": "UG102101",
-        "ADM2_EN": "Mukono",
-        "ADM2_PCODE": "UG1021",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -194980,21 +195151,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mukono",
+        "ADM2_PCODE": "UG1021",
+        "ADM3_EN": "KCCA",
+        "ADM3_PCODE": "UG102101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kasambya",
-        "ADM3_PCODE": "UG102002",
-        "ADM2_EN": "Mubende",
-        "ADM2_PCODE": "UG1020",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -196175,21 +196347,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mubende",
+        "ADM2_PCODE": "UG1020",
+        "ADM3_EN": "Kasambya",
+        "ADM3_PCODE": "UG102002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kibanda",
-        "ADM3_PCODE": "UG412001",
-        "ADM2_EN": "Kiryandongo",
-        "ADM2_PCODE": "UG4120",
-        "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -197854,21 +198027,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "UG4",
+        "ADM2_EN": "Kiryandongo",
+        "ADM2_PCODE": "UG4120",
+        "ADM3_EN": "Kibanda",
+        "ADM3_PCODE": "UG412001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Oyam",
-        "ADM3_PCODE": "UG309601",
-        "ADM2_EN": "Oyam",
-        "ADM2_PCODE": "UG3096",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -199257,21 +199431,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Oyam",
+        "ADM2_PCODE": "UG3096",
+        "ADM3_EN": "Oyam",
+        "ADM3_PCODE": "UG309601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pallisa",
-        "ADM3_PCODE": "UG205902",
-        "ADM2_EN": "Pallisa",
-        "ADM2_PCODE": "UG2059",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -200192,21 +200367,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Pallisa",
+        "ADM2_PCODE": "UG2059",
+        "ADM3_EN": "Pallisa",
+        "ADM3_PCODE": "UG205902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bulamogi",
-        "ADM3_PCODE": "UG204301",
-        "ADM2_EN": "Kaliro",
-        "ADM2_PCODE": "UG2043",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -200887,21 +201063,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Kaliro",
+        "ADM2_PCODE": "UG2043",
+        "ADM3_EN": "Bulamogi",
+        "ADM3_PCODE": "UG204301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "West Budama (Kisolo)",
-        "ADM3_PCODE": "UG206303",
-        "ADM2_EN": "Tororo",
-        "ADM2_PCODE": "UG2063",
-        "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -201938,21 +202115,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "UG2",
+        "ADM2_EN": "Tororo",
+        "ADM2_PCODE": "UG2063",
+        "ADM3_EN": "West Budama (Kisolo)",
+        "ADM3_PCODE": "UG206303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Katikamu",
-        "ADM3_PCODE": "UG101402",
-        "ADM2_EN": "Luwero",
-        "ADM2_PCODE": "UG1014",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -203365,21 +203543,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Luwero",
+        "ADM2_PCODE": "UG1014",
+        "ADM3_EN": "Katikamu",
+        "ADM3_PCODE": "UG101402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lira Municipality",
-        "ADM3_PCODE": "UG308302",
-        "ADM2_EN": "Lira",
-        "ADM2_PCODE": "UG3083",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -203596,21 +203775,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Lira",
+        "ADM2_PCODE": "UG3083",
+        "ADM3_EN": "Lira Municipality",
+        "ADM3_PCODE": "UG308302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Madi Okollo",
-        "ADM3_PCODE": "UG308401",
-        "ADM2_EN": "Madi Okollo",
-        "ADM2_PCODE": "UG3084",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -205143,21 +205323,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Madi Okollo",
+        "ADM2_PCODE": "UG3084",
+        "ADM3_EN": "Madi Okollo",
+        "ADM3_PCODE": "UG308401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dodoth",
-        "ADM3_PCODE": "UG307501",
-        "ADM2_EN": "Kaabong",
-        "ADM2_PCODE": "UG3075",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -206790,21 +206971,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Kaabong",
+        "ADM2_PCODE": "UG3075",
+        "ADM3_EN": "Dodoth",
+        "ADM3_PCODE": "UG307501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bamunanika",
-        "ADM3_PCODE": "UG101401",
-        "ADM2_EN": "Luwero",
-        "ADM2_PCODE": "UG1014",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -207765,21 +207947,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Luwero",
+        "ADM2_PCODE": "UG1014",
+        "ADM3_EN": "Bamunanika",
+        "ADM3_PCODE": "UG101401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buwekula",
-        "ADM3_PCODE": "UG102001",
-        "ADM2_EN": "Mubende",
-        "ADM2_PCODE": "UG1020",
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -209268,21 +209451,22 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "UG1",
+        "ADM2_EN": "Mubende",
+        "ADM2_PCODE": "UG1020",
+        "ADM3_EN": "Buwekula",
+        "ADM3_PCODE": "UG102001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Padyere",
-        "ADM3_PCODE": "UG309102",
-        "ADM2_EN": "Nebbi",
-        "ADM2_PCODE": "UG3091",
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3",
-        "ADM0_EN": "Uganda",
-        "ADM0_PCODE": "UG",
-        "date": "2020-06-11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -210615,6 +210799,18 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "Uganda",
+        "ADM0_PCODE": "UG",
+        "ADM0_ISO_A2": "UG",
+        "ADM0_ISO_A3": "UGA",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "UG3",
+        "ADM2_EN": "Nebbi",
+        "ADM2_PCODE": "UG3091",
+        "ADM3_EN": "Padyere",
+        "ADM3_PCODE": "UG309102"
       }
     }
   ]

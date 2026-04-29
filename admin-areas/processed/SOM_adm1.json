@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SOM_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Awdal",
-        "ADM1_PCODE": "SO11"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -914,14 +903,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Awdal",
+        "ADM1_PCODE": "SO11"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Woqooyi Galbeed",
-        "ADM1_PCODE": "SO12"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1154,14 +1146,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Woqooyi Galbeed",
+        "ADM1_PCODE": "SO12"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Togdheer",
-        "ADM1_PCODE": "SO13"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1234,14 +1229,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Togdheer",
+        "ADM1_PCODE": "SO13"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sool",
-        "ADM1_PCODE": "SO14"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1322,14 +1320,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Sool",
+        "ADM1_PCODE": "SO14"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sanaag",
-        "ADM1_PCODE": "SO15"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1550,14 +1551,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Sanaag",
+        "ADM1_PCODE": "SO15"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bari",
-        "ADM1_PCODE": "SO16"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2198,14 +2202,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Bari",
+        "ADM1_PCODE": "SO16"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Nugaal",
-        "ADM1_PCODE": "SO17"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2378,14 +2385,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Nugaal",
+        "ADM1_PCODE": "SO17"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mudug",
-        "ADM1_PCODE": "SO18"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2658,14 +2668,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Mudug",
+        "ADM1_PCODE": "SO18"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Galgaduud",
-        "ADM1_PCODE": "SO19"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2754,14 +2767,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Galgaduud",
+        "ADM1_PCODE": "SO19"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Hiraan",
-        "ADM1_PCODE": "SO20"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2858,14 +2874,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Hiraan",
+        "ADM1_PCODE": "SO20"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Middle Shabelle",
-        "ADM1_PCODE": "SO21"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3030,14 +3049,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Middle Shabelle",
+        "ADM1_PCODE": "SO21"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Banadir",
-        "ADM1_PCODE": "SO22"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3078,14 +3100,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Banadir",
+        "ADM1_PCODE": "SO22"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Lower Shabelle",
-        "ADM1_PCODE": "SO23"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3454,14 +3479,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Lower Shabelle",
+        "ADM1_PCODE": "SO23"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bay",
-        "ADM1_PCODE": "SO24"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3582,14 +3610,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Bay",
+        "ADM1_PCODE": "SO24"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bakool",
-        "ADM1_PCODE": "SO25"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3714,14 +3745,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Bakool",
+        "ADM1_PCODE": "SO25"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gedo",
-        "ADM1_PCODE": "SO26"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3834,14 +3868,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Gedo",
+        "ADM1_PCODE": "SO26"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Middle Juba",
-        "ADM1_PCODE": "SO27"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3898,14 +3935,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Middle Juba",
+        "ADM1_PCODE": "SO27"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Lower Juba",
-        "ADM1_PCODE": "SO28"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9366,6 +9406,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "SO",
+        "ADM0_ISO_A2": "SO",
+        "ADM0_ISO_A3": "SOM",
+        "ADM1_EN": "Lower Juba",
+        "ADM1_PCODE": "SO28"
       }
     }
   ]

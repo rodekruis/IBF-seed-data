@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "CMR_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Adamaoua",
-        "ADM1_PCODE": "CM001"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -850,14 +839,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Adamaoua",
+        "ADM1_PCODE": "CM001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Centre",
-        "ADM1_PCODE": "CM002"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1894,14 +1886,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Centre",
+        "ADM1_PCODE": "CM002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Est",
-        "ADM1_PCODE": "CM003"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2958,14 +2953,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Est",
+        "ADM1_PCODE": "CM003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Extrême-Nord",
-        "ADM1_PCODE": "CM004"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3746,14 +3744,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Extrême-Nord",
+        "ADM1_PCODE": "CM004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Littoral",
-        "ADM1_PCODE": "CM005"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4642,14 +4643,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Littoral",
+        "ADM1_PCODE": "CM005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Nord",
-        "ADM1_PCODE": "CM006"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5474,14 +5478,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Nord",
+        "ADM1_PCODE": "CM006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Nord-Ouest",
-        "ADM1_PCODE": "CM007"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5922,14 +5929,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Nord-Ouest",
+        "ADM1_PCODE": "CM007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ouest",
-        "ADM1_PCODE": "CM008"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6418,14 +6428,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Ouest",
+        "ADM1_PCODE": "CM008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sud",
-        "ADM1_PCODE": "CM009"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7134,14 +7147,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Sud",
+        "ADM1_PCODE": "CM009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sud-Ouest",
-        "ADM1_PCODE": "CM010"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8802,6 +8818,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CM",
+        "ADM0_ISO_A2": "CM",
+        "ADM0_ISO_A3": "CMR",
+        "ADM1_EN": "Sud-Ouest",
+        "ADM1_PCODE": "CM010"
       }
     }
   ]

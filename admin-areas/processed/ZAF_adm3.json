@@ -1,24 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "ZAF_adm3",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Matzikama",
-        "ADM3_PCODE": "ZA1011",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA101",
-        "ADM2_EN": "West Coast"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -475,19 +459,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "West Coast",
+        "ADM2_PCODE": "ZA101",
+        "ADM3_EN": "Matzikama",
+        "ADM3_PCODE": "ZA1011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cederberg",
-        "ADM3_PCODE": "ZA1012",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA101",
-        "ADM2_EN": "West Coast"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -864,19 +850,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "West Coast",
+        "ADM2_PCODE": "ZA101",
+        "ADM3_EN": "Cederberg",
+        "ADM3_PCODE": "ZA1012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bergrivier",
-        "ADM3_PCODE": "ZA1013",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA101",
-        "ADM2_EN": "West Coast"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1157,19 +1145,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "West Coast",
+        "ADM2_PCODE": "ZA101",
+        "ADM3_EN": "Bergrivier",
+        "ADM3_PCODE": "ZA1013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Saldanha Bay",
-        "ADM3_PCODE": "ZA1014",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA101",
-        "ADM2_EN": "West Coast"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2042,19 +2032,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "West Coast",
+        "ADM2_PCODE": "ZA101",
+        "ADM3_EN": "Saldanha Bay",
+        "ADM3_PCODE": "ZA1014"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Swartland",
-        "ADM3_PCODE": "ZA1015",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA101",
-        "ADM2_EN": "West Coast"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2451,19 +2443,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "West Coast",
+        "ADM2_PCODE": "ZA101",
+        "ADM3_EN": "Swartland",
+        "ADM3_PCODE": "ZA1015"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Witzenberg",
-        "ADM3_PCODE": "ZA1022",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA102",
-        "ADM2_EN": "Cape Winelands"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2844,19 +2838,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Cape Winelands",
+        "ADM2_PCODE": "ZA102",
+        "ADM3_EN": "Witzenberg",
+        "ADM3_PCODE": "ZA1022"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Drakenstein",
-        "ADM3_PCODE": "ZA1023",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA102",
-        "ADM2_EN": "Cape Winelands"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3073,19 +3069,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Cape Winelands",
+        "ADM2_PCODE": "ZA102",
+        "ADM3_EN": "Drakenstein",
+        "ADM3_PCODE": "ZA1023"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Stellenbosch",
-        "ADM3_PCODE": "ZA1024",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA102",
-        "ADM2_EN": "Cape Winelands"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3234,19 +3232,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Cape Winelands",
+        "ADM2_PCODE": "ZA102",
+        "ADM3_EN": "Stellenbosch",
+        "ADM3_PCODE": "ZA1024"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Breede Valley",
-        "ADM3_PCODE": "ZA1025",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA102",
-        "ADM2_EN": "Cape Winelands"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3563,19 +3563,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Cape Winelands",
+        "ADM2_PCODE": "ZA102",
+        "ADM3_EN": "Breede Valley",
+        "ADM3_PCODE": "ZA1025"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Langeberg",
-        "ADM3_PCODE": "ZA1026",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA102",
-        "ADM2_EN": "Cape Winelands"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3892,19 +3894,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Cape Winelands",
+        "ADM2_PCODE": "ZA102",
+        "ADM3_EN": "Langeberg",
+        "ADM3_PCODE": "ZA1026"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Theewaterskloof",
-        "ADM3_PCODE": "ZA1031",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA103",
-        "ADM2_EN": "Overberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4165,19 +4169,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Overberg",
+        "ADM2_PCODE": "ZA103",
+        "ADM3_EN": "Theewaterskloof",
+        "ADM3_PCODE": "ZA1031"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Overstrand",
-        "ADM3_PCODE": "ZA1032",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA103",
-        "ADM2_EN": "Overberg"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4494,19 +4500,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Overberg",
+        "ADM2_PCODE": "ZA103",
+        "ADM3_EN": "Overstrand",
+        "ADM3_PCODE": "ZA1032"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cape Agulhas",
-        "ADM3_PCODE": "ZA1033",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA103",
-        "ADM2_EN": "Overberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4779,19 +4787,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Overberg",
+        "ADM2_PCODE": "ZA103",
+        "ADM3_EN": "Cape Agulhas",
+        "ADM3_PCODE": "ZA1033"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Swellendam",
-        "ADM3_PCODE": "ZA1034",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA103",
-        "ADM2_EN": "Overberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5252,19 +5262,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Overberg",
+        "ADM2_PCODE": "ZA103",
+        "ADM3_EN": "Swellendam",
+        "ADM3_PCODE": "ZA1034"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kannaland",
-        "ADM3_PCODE": "ZA1041",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5501,19 +5513,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "Kannaland",
+        "ADM3_PCODE": "ZA1041"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Hessequa",
-        "ADM3_PCODE": "ZA1042",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5818,19 +5832,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "Hessequa",
+        "ADM3_PCODE": "ZA1042"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mossel Bay",
-        "ADM3_PCODE": "ZA1043",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6111,19 +6127,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "Mossel Bay",
+        "ADM3_PCODE": "ZA1043"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "George",
-        "ADM3_PCODE": "ZA1044",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6400,19 +6418,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "George",
+        "ADM3_PCODE": "ZA1044"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Oudtshoorn",
-        "ADM3_PCODE": "ZA1045",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6629,19 +6649,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "Oudtshoorn",
+        "ADM3_PCODE": "ZA1045"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bitou",
-        "ADM3_PCODE": "ZA1047",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6766,19 +6788,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "Bitou",
+        "ADM3_PCODE": "ZA1047"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Knysna",
-        "ADM3_PCODE": "ZA1048",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA104",
-        "ADM2_EN": "Eden"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6887,19 +6911,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Eden",
+        "ADM2_PCODE": "ZA104",
+        "ADM3_EN": "Knysna",
+        "ADM3_PCODE": "ZA1048"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Laingsburg",
-        "ADM3_PCODE": "ZA1051",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA105",
-        "ADM2_EN": "Central Karoo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7200,19 +7226,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Central Karoo",
+        "ADM2_PCODE": "ZA105",
+        "ADM3_EN": "Laingsburg",
+        "ADM3_PCODE": "ZA1051"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Prince Albert",
-        "ADM3_PCODE": "ZA1052",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA105",
-        "ADM2_EN": "Central Karoo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7505,19 +7533,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Central Karoo",
+        "ADM2_PCODE": "ZA105",
+        "ADM3_EN": "Prince Albert",
+        "ADM3_PCODE": "ZA1052"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Beaufort West",
-        "ADM3_PCODE": "ZA1053",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA105",
-        "ADM2_EN": "Central Karoo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8222,19 +8252,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "Central Karoo",
+        "ADM2_PCODE": "ZA105",
+        "ADM3_EN": "Beaufort West",
+        "ADM3_PCODE": "ZA1053"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "City of Cape Town",
-        "ADM3_PCODE": "ZA1910",
-        "ADM1_PCODE": "ZA1",
-        "ADM1_EN": "Western Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA191",
-        "ADM2_EN": "City of Cape Town"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9219,19 +9251,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1",
+        "ADM2_EN": "City of Cape Town",
+        "ADM2_PCODE": "ZA191",
+        "ADM3_EN": "City of Cape Town",
+        "ADM3_PCODE": "ZA1910"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dr Beyers Naude",
-        "ADM3_PCODE": "ZA2101",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10016,19 +10050,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Dr Beyers Naude",
+        "ADM3_PCODE": "ZA2101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Blue Crane Route",
-        "ADM3_PCODE": "ZA2102",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10497,19 +10533,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Blue Crane Route",
+        "ADM3_PCODE": "ZA2102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makana",
-        "ADM3_PCODE": "ZA2104",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10918,19 +10956,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Makana",
+        "ADM3_PCODE": "ZA2104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ndlambe",
-        "ADM3_PCODE": "ZA2105",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11135,19 +11175,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Ndlambe",
+        "ADM3_PCODE": "ZA2105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sundays River Valley",
-        "ADM3_PCODE": "ZA2106",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11584,19 +11626,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Sundays River Valley",
+        "ADM3_PCODE": "ZA2106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kouga",
-        "ADM3_PCODE": "ZA2108",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11833,19 +11877,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Kouga",
+        "ADM3_PCODE": "ZA2108"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kou-Kamma",
-        "ADM3_PCODE": "ZA2109",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA210",
-        "ADM2_EN": "Cacadu"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12150,19 +12196,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Cacadu",
+        "ADM2_PCODE": "ZA210",
+        "ADM3_EN": "Kou-Kamma",
+        "ADM3_PCODE": "ZA2109"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbhashe",
-        "ADM3_PCODE": "ZA2121",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA212",
-        "ADM2_EN": "Amathole"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12571,19 +12619,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Amathole",
+        "ADM2_PCODE": "ZA212",
+        "ADM3_EN": "Mbhashe",
+        "ADM3_PCODE": "ZA2121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mnquma",
-        "ADM3_PCODE": "ZA2122",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA212",
-        "ADM2_EN": "Amathole"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12972,19 +13022,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Amathole",
+        "ADM2_PCODE": "ZA212",
+        "ADM3_EN": "Mnquma",
+        "ADM3_PCODE": "ZA2122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Great Kei",
-        "ADM3_PCODE": "ZA2123",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA212",
-        "ADM2_EN": "Amathole"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13261,19 +13313,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Amathole",
+        "ADM2_PCODE": "ZA212",
+        "ADM3_EN": "Great Kei",
+        "ADM3_PCODE": "ZA2123"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Amahlathi",
-        "ADM3_PCODE": "ZA2124",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA212",
-        "ADM2_EN": "Amathole"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13806,19 +13860,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Amathole",
+        "ADM2_PCODE": "ZA212",
+        "ADM3_EN": "Amahlathi",
+        "ADM3_PCODE": "ZA2124"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngqushwa",
-        "ADM3_PCODE": "ZA2126",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA212",
-        "ADM2_EN": "Amathole"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14115,19 +14171,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Amathole",
+        "ADM2_PCODE": "ZA212",
+        "ADM3_EN": "Ngqushwa",
+        "ADM3_PCODE": "ZA2126"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Raymond Mhlaba",
-        "ADM3_PCODE": "ZA2129",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA212",
-        "ADM2_EN": "Amathole"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14656,19 +14714,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Amathole",
+        "ADM2_PCODE": "ZA212",
+        "ADM3_EN": "Raymond Mhlaba",
+        "ADM3_PCODE": "ZA2129"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Inxuba Yethemba",
-        "ADM3_PCODE": "ZA2131",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA213",
-        "ADM2_EN": "Chris Hani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15225,19 +15285,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Chris Hani",
+        "ADM2_PCODE": "ZA213",
+        "ADM3_EN": "Inxuba Yethemba",
+        "ADM3_PCODE": "ZA2131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Intsika Yethu",
-        "ADM3_PCODE": "ZA2135",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA213",
-        "ADM2_EN": "Chris Hani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15638,19 +15700,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Chris Hani",
+        "ADM2_PCODE": "ZA213",
+        "ADM3_EN": "Intsika Yethu",
+        "ADM3_PCODE": "ZA2135"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Emalahleni",
-        "ADM3_PCODE": "ZA2136",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA213",
-        "ADM2_EN": "Chris Hani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15995,19 +16059,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Chris Hani",
+        "ADM2_PCODE": "ZA213",
+        "ADM3_EN": "Emalahleni",
+        "ADM3_PCODE": "ZA2136"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Engcobo",
-        "ADM3_PCODE": "ZA2137",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA213",
-        "ADM2_EN": "Chris Hani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16240,19 +16306,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Chris Hani",
+        "ADM2_PCODE": "ZA213",
+        "ADM3_EN": "Engcobo",
+        "ADM3_PCODE": "ZA2137"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sakhisizwe",
-        "ADM3_PCODE": "ZA2138",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA213",
-        "ADM2_EN": "Chris Hani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16501,19 +16569,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Chris Hani",
+        "ADM2_PCODE": "ZA213",
+        "ADM3_EN": "Sakhisizwe",
+        "ADM3_PCODE": "ZA2138"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Enoch Mgijima",
-        "ADM3_PCODE": "ZA2139",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA213",
-        "ADM2_EN": "Chris Hani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17162,19 +17232,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Chris Hani",
+        "ADM2_PCODE": "ZA213",
+        "ADM3_EN": "Enoch Mgijima",
+        "ADM3_PCODE": "ZA2139"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Elundini",
-        "ADM3_PCODE": "ZA2141",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA214",
-        "ADM2_EN": "Joe Gqabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17563,19 +17635,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Joe Gqabi",
+        "ADM2_PCODE": "ZA214",
+        "ADM3_EN": "Elundini",
+        "ADM3_PCODE": "ZA2141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Senqu",
-        "ADM3_PCODE": "ZA2142",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA214",
-        "ADM2_EN": "Joe Gqabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18000,19 +18074,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Joe Gqabi",
+        "ADM2_PCODE": "ZA214",
+        "ADM3_EN": "Senqu",
+        "ADM3_PCODE": "ZA2142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Walter Sisulu",
-        "ADM3_PCODE": "ZA2145",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA214",
-        "ADM2_EN": "Joe Gqabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18633,19 +18709,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Joe Gqabi",
+        "ADM2_PCODE": "ZA214",
+        "ADM3_EN": "Walter Sisulu",
+        "ADM3_PCODE": "ZA2145"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngquza Hill",
-        "ADM3_PCODE": "ZA2153",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA215",
-        "ADM2_EN": "O.R.Tambo"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18986,19 +19064,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "O.R.Tambo",
+        "ADM2_PCODE": "ZA215",
+        "ADM3_EN": "Ngquza Hill",
+        "ADM3_PCODE": "ZA2153"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Port St Johns",
-        "ADM3_PCODE": "ZA2154",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA215",
-        "ADM2_EN": "O.R.Tambo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19191,19 +19271,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "O.R.Tambo",
+        "ADM2_PCODE": "ZA215",
+        "ADM3_EN": "Port St Johns",
+        "ADM3_PCODE": "ZA2154"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyandeni",
-        "ADM3_PCODE": "ZA2155",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA215",
-        "ADM2_EN": "O.R.Tambo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19580,19 +19662,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "O.R.Tambo",
+        "ADM2_PCODE": "ZA215",
+        "ADM3_EN": "Nyandeni",
+        "ADM3_PCODE": "ZA2155"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mhlontlo",
-        "ADM3_PCODE": "ZA2156",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA215",
-        "ADM2_EN": "O.R.Tambo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20069,19 +20153,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "O.R.Tambo",
+        "ADM2_PCODE": "ZA215",
+        "ADM3_EN": "Mhlontlo",
+        "ADM3_PCODE": "ZA2156"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "King Sabata Dalindyebo",
-        "ADM3_PCODE": "ZA2157",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA215",
-        "ADM2_EN": "O.R.Tambo"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20646,19 +20732,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "O.R.Tambo",
+        "ADM2_PCODE": "ZA215",
+        "ADM3_EN": "King Sabata Dalindyebo",
+        "ADM3_PCODE": "ZA2157"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Matatiele",
-        "ADM3_PCODE": "ZA2441",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA244",
-        "ADM2_EN": "Alfred Nzo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20987,19 +21075,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Alfred Nzo",
+        "ADM2_PCODE": "ZA244",
+        "ADM3_EN": "Matatiele",
+        "ADM3_PCODE": "ZA2441"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umzimvubu",
-        "ADM3_PCODE": "ZA2442",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA244",
-        "ADM2_EN": "Alfred Nzo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21412,19 +21502,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Alfred Nzo",
+        "ADM2_PCODE": "ZA244",
+        "ADM3_EN": "Umzimvubu",
+        "ADM3_PCODE": "ZA2442"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbizana",
-        "ADM3_PCODE": "ZA2443",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA244",
-        "ADM2_EN": "Alfred Nzo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21749,19 +21841,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Alfred Nzo",
+        "ADM2_PCODE": "ZA244",
+        "ADM3_EN": "Mbizana",
+        "ADM3_PCODE": "ZA2443"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ntabankulu",
-        "ADM3_PCODE": "ZA2444",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA244",
-        "ADM2_EN": "Alfred Nzo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22046,19 +22140,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Alfred Nzo",
+        "ADM2_PCODE": "ZA244",
+        "ADM3_EN": "Ntabankulu",
+        "ADM3_PCODE": "ZA2444"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Buffalo City",
-        "ADM3_PCODE": "ZA2920",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA292",
-        "ADM2_EN": "Buffalo City"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22391,19 +22487,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Buffalo City",
+        "ADM2_PCODE": "ZA292",
+        "ADM3_EN": "Buffalo City",
+        "ADM3_PCODE": "ZA2920"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nelson Mandela Bay",
-        "ADM3_PCODE": "ZA2930",
-        "ADM1_PCODE": "ZA2",
-        "ADM1_EN": "Eastern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA293",
-        "ADM2_EN": "Nelson Mandela Bay"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22720,19 +22818,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2",
+        "ADM2_EN": "Nelson Mandela Bay",
+        "ADM2_PCODE": "ZA293",
+        "ADM3_EN": "Nelson Mandela Bay",
+        "ADM3_PCODE": "ZA2930"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Richtersveld",
-        "ADM3_PCODE": "ZA3061",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA306",
-        "ADM2_EN": "Namakwa"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -23049,19 +23149,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Namakwa",
+        "ADM2_PCODE": "ZA306",
+        "ADM3_EN": "Richtersveld",
+        "ADM3_PCODE": "ZA3061"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nama Khoi",
-        "ADM3_PCODE": "ZA3062",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA306",
-        "ADM2_EN": "Namakwa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23398,19 +23500,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Namakwa",
+        "ADM2_PCODE": "ZA306",
+        "ADM3_EN": "Nama Khoi",
+        "ADM3_PCODE": "ZA3062"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kamiesberg",
-        "ADM3_PCODE": "ZA3064",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA306",
-        "ADM2_EN": "Namakwa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23687,19 +23791,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Namakwa",
+        "ADM2_PCODE": "ZA306",
+        "ADM3_EN": "Kamiesberg",
+        "ADM3_PCODE": "ZA3064"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Hantam",
-        "ADM3_PCODE": "ZA3065",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA306",
-        "ADM2_EN": "Namakwa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24468,19 +24574,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Namakwa",
+        "ADM2_PCODE": "ZA306",
+        "ADM3_EN": "Hantam",
+        "ADM3_PCODE": "ZA3065"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Karoo Hoogland",
-        "ADM3_PCODE": "ZA3066",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA306",
-        "ADM2_EN": "Namakwa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25193,19 +25301,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Namakwa",
+        "ADM2_PCODE": "ZA306",
+        "ADM3_EN": "Karoo Hoogland",
+        "ADM3_PCODE": "ZA3066"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Khâi-Ma",
-        "ADM3_PCODE": "ZA3067",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA306",
-        "ADM2_EN": "Namakwa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25534,19 +25644,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Namakwa",
+        "ADM2_PCODE": "ZA306",
+        "ADM3_EN": "Khâi-Ma",
+        "ADM3_PCODE": "ZA3067"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ubuntu",
-        "ADM3_PCODE": "ZA3071",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26167,19 +26279,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Ubuntu",
+        "ADM3_PCODE": "ZA3071"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umsobomvu",
-        "ADM3_PCODE": "ZA3072",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26556,19 +26670,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Umsobomvu",
+        "ADM3_PCODE": "ZA3072"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Emthanjeni",
-        "ADM3_PCODE": "ZA3073",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27101,19 +27217,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Emthanjeni",
+        "ADM3_PCODE": "ZA3073"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kareeberg",
-        "ADM3_PCODE": "ZA3074",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27570,19 +27688,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Kareeberg",
+        "ADM3_PCODE": "ZA3074"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Renosterberg",
-        "ADM3_PCODE": "ZA3075",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27871,19 +27991,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Renosterberg",
+        "ADM3_PCODE": "ZA3075"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Thembelihle",
-        "ADM3_PCODE": "ZA3076",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28248,19 +28370,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Thembelihle",
+        "ADM3_PCODE": "ZA3076"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Siyathemba",
-        "ADM3_PCODE": "ZA3077",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28641,19 +28765,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Siyathemba",
+        "ADM3_PCODE": "ZA3077"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Siyancuma",
-        "ADM3_PCODE": "ZA3078",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA307",
-        "ADM2_EN": "Pixley ka Seme"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29186,19 +29312,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Pixley ka Seme",
+        "ADM2_PCODE": "ZA307",
+        "ADM3_EN": "Siyancuma",
+        "ADM3_PCODE": "ZA3078"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kai Garib",
-        "ADM3_PCODE": "ZA3082",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA308",
-        "ADM2_EN": "Z F Mgcawu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29543,19 +29671,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Z F Mgcawu",
+        "ADM2_PCODE": "ZA308",
+        "ADM3_EN": "Kai Garib",
+        "ADM3_PCODE": "ZA3082"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kheis",
-        "ADM3_PCODE": "ZA3084",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA308",
-        "ADM2_EN": "Z F Mgcawu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29868,19 +29998,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Z F Mgcawu",
+        "ADM2_PCODE": "ZA308",
+        "ADM3_EN": "Kheis",
+        "ADM3_PCODE": "ZA3084"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tsantsabane",
-        "ADM3_PCODE": "ZA3085",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA308",
-        "ADM2_EN": "Z F Mgcawu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30253,19 +30385,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Z F Mgcawu",
+        "ADM2_PCODE": "ZA308",
+        "ADM3_EN": "Tsantsabane",
+        "ADM3_PCODE": "ZA3085"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kgatelopele",
-        "ADM3_PCODE": "ZA3086",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA308",
-        "ADM2_EN": "Z F Mgcawu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30374,19 +30508,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Z F Mgcawu",
+        "ADM2_PCODE": "ZA308",
+        "ADM3_EN": "Kgatelopele",
+        "ADM3_PCODE": "ZA3086"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dawid Kruiper",
-        "ADM3_PCODE": "ZA3087",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA308",
-        "ADM2_EN": "Z F Mgcawu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30983,19 +31119,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Z F Mgcawu",
+        "ADM2_PCODE": "ZA308",
+        "ADM3_EN": "Dawid Kruiper",
+        "ADM3_PCODE": "ZA3087"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sol Plaatjie",
-        "ADM3_PCODE": "ZA3091",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA309",
-        "ADM2_EN": "Frances Baard"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31188,19 +31326,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Frances Baard",
+        "ADM2_PCODE": "ZA309",
+        "ADM3_EN": "Sol Plaatjie",
+        "ADM3_PCODE": "ZA3091"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dikgatlong",
-        "ADM3_PCODE": "ZA3092",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA309",
-        "ADM2_EN": "Frances Baard"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31441,19 +31581,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Frances Baard",
+        "ADM2_PCODE": "ZA309",
+        "ADM3_EN": "Dikgatlong",
+        "ADM3_PCODE": "ZA3092"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Magareng",
-        "ADM3_PCODE": "ZA3093",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA309",
-        "ADM2_EN": "Frances Baard"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31618,19 +31760,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Frances Baard",
+        "ADM2_PCODE": "ZA309",
+        "ADM3_EN": "Magareng",
+        "ADM3_PCODE": "ZA3093"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Phokwane",
-        "ADM3_PCODE": "ZA3094",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA309",
-        "ADM2_EN": "Frances Baard"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31755,19 +31899,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "Frances Baard",
+        "ADM2_PCODE": "ZA309",
+        "ADM3_EN": "Phokwane",
+        "ADM3_PCODE": "ZA3094"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Joe Morolong",
-        "ADM3_PCODE": "ZA3451",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA345",
-        "ADM2_EN": "John Taolo Gaetsewe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32248,19 +32394,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "John Taolo Gaetsewe",
+        "ADM2_PCODE": "ZA345",
+        "ADM3_EN": "Joe Morolong",
+        "ADM3_PCODE": "ZA3451"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ga-Segonyana",
-        "ADM3_PCODE": "ZA3452",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA345",
-        "ADM2_EN": "John Taolo Gaetsewe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32469,19 +32617,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "John Taolo Gaetsewe",
+        "ADM2_PCODE": "ZA345",
+        "ADM3_EN": "Ga-Segonyana",
+        "ADM3_PCODE": "ZA3452"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gamagara",
-        "ADM3_PCODE": "ZA3453",
-        "ADM1_PCODE": "ZA3",
-        "ADM1_EN": "Nothern Cape",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA345",
-        "ADM2_EN": "John Taolo Gaetsewe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32638,19 +32788,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3",
+        "ADM2_EN": "John Taolo Gaetsewe",
+        "ADM2_PCODE": "ZA345",
+        "ADM3_EN": "Gamagara",
+        "ADM3_PCODE": "ZA3453"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Letsemeng",
-        "ADM3_PCODE": "ZA4161",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA416",
-        "ADM2_EN": "Xhariep"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33067,19 +33219,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Xhariep",
+        "ADM2_PCODE": "ZA416",
+        "ADM3_EN": "Letsemeng",
+        "ADM3_PCODE": "ZA4161"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kopanong",
-        "ADM3_PCODE": "ZA4162",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA416",
-        "ADM2_EN": "Xhariep"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33700,19 +33854,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Xhariep",
+        "ADM2_PCODE": "ZA416",
+        "ADM3_EN": "Kopanong",
+        "ADM3_PCODE": "ZA4162"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mohokare",
-        "ADM3_PCODE": "ZA4163",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA416",
-        "ADM2_EN": "Xhariep"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34229,19 +34385,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Xhariep",
+        "ADM2_PCODE": "ZA416",
+        "ADM3_EN": "Mohokare",
+        "ADM3_PCODE": "ZA4163"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Masilonyana",
-        "ADM3_PCODE": "ZA4181",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA418",
-        "ADM2_EN": "Lejweleputswa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34746,19 +34904,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Lejweleputswa",
+        "ADM2_PCODE": "ZA418",
+        "ADM3_EN": "Masilonyana",
+        "ADM3_PCODE": "ZA4181"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tokologo",
-        "ADM3_PCODE": "ZA4182",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA418",
-        "ADM2_EN": "Lejweleputswa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35091,19 +35251,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Lejweleputswa",
+        "ADM2_PCODE": "ZA418",
+        "ADM3_EN": "Tokologo",
+        "ADM3_PCODE": "ZA4182"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tswelopele",
-        "ADM3_PCODE": "ZA4183",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA418",
-        "ADM2_EN": "Lejweleputswa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35524,19 +35686,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Lejweleputswa",
+        "ADM2_PCODE": "ZA418",
+        "ADM3_EN": "Tswelopele",
+        "ADM3_PCODE": "ZA4183"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Matjhabeng",
-        "ADM3_PCODE": "ZA4184",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA418",
-        "ADM2_EN": "Lejweleputswa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35997,19 +36161,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Lejweleputswa",
+        "ADM2_PCODE": "ZA418",
+        "ADM3_EN": "Matjhabeng",
+        "ADM3_PCODE": "ZA4184"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nala",
-        "ADM3_PCODE": "ZA4185",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA418",
-        "ADM2_EN": "Lejweleputswa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -36350,19 +36516,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Lejweleputswa",
+        "ADM2_PCODE": "ZA418",
+        "ADM3_EN": "Nala",
+        "ADM3_PCODE": "ZA4185"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Setsoto",
-        "ADM3_PCODE": "ZA4191",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA419",
-        "ADM2_EN": "Thabo Mofutsanyane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -36847,19 +37015,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Thabo Mofutsanyane",
+        "ADM2_PCODE": "ZA419",
+        "ADM3_EN": "Setsoto",
+        "ADM3_PCODE": "ZA4191"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dihlabeng",
-        "ADM3_PCODE": "ZA4192",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA419",
-        "ADM2_EN": "Thabo Mofutsanyane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37228,19 +37398,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Thabo Mofutsanyane",
+        "ADM2_PCODE": "ZA419",
+        "ADM3_EN": "Dihlabeng",
+        "ADM3_PCODE": "ZA4192"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nketoana",
-        "ADM3_PCODE": "ZA4193",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA419",
-        "ADM2_EN": "Thabo Mofutsanyane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37633,19 +37805,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Thabo Mofutsanyane",
+        "ADM2_PCODE": "ZA419",
+        "ADM3_EN": "Nketoana",
+        "ADM3_PCODE": "ZA4193"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maluti a Phofung",
-        "ADM3_PCODE": "ZA4194",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA419",
-        "ADM2_EN": "Thabo Mofutsanyane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37914,19 +38088,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Thabo Mofutsanyane",
+        "ADM2_PCODE": "ZA419",
+        "ADM3_EN": "Maluti a Phofung",
+        "ADM3_PCODE": "ZA4194"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Phumelela",
-        "ADM3_PCODE": "ZA4195",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA419",
-        "ADM2_EN": "Thabo Mofutsanyane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38447,19 +38623,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Thabo Mofutsanyane",
+        "ADM2_PCODE": "ZA419",
+        "ADM3_EN": "Phumelela",
+        "ADM3_PCODE": "ZA4195"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mantsopa",
-        "ADM3_PCODE": "ZA4196",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA419",
-        "ADM2_EN": "Thabo Mofutsanyane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38848,19 +39026,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Thabo Mofutsanyane",
+        "ADM2_PCODE": "ZA419",
+        "ADM3_EN": "Mantsopa",
+        "ADM3_PCODE": "ZA4196"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moqhaka",
-        "ADM3_PCODE": "ZA4201",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA420",
-        "ADM2_EN": "Fezile Dabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39489,19 +39669,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Fezile Dabi",
+        "ADM2_PCODE": "ZA420",
+        "ADM3_EN": "Moqhaka",
+        "ADM3_PCODE": "ZA4201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngwathe",
-        "ADM3_PCODE": "ZA4203",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA420",
-        "ADM2_EN": "Fezile Dabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39890,19 +40072,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Fezile Dabi",
+        "ADM2_PCODE": "ZA420",
+        "ADM3_EN": "Ngwathe",
+        "ADM3_PCODE": "ZA4203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Metsimaholo",
-        "ADM3_PCODE": "ZA4204",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA420",
-        "ADM2_EN": "Fezile Dabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40115,19 +40299,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Fezile Dabi",
+        "ADM2_PCODE": "ZA420",
+        "ADM3_EN": "Metsimaholo",
+        "ADM3_PCODE": "ZA4204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mafube",
-        "ADM3_PCODE": "ZA4205",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA420",
-        "ADM2_EN": "Fezile Dabi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40476,19 +40662,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Fezile Dabi",
+        "ADM2_PCODE": "ZA420",
+        "ADM3_EN": "Mafube",
+        "ADM3_PCODE": "ZA4205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mangaung",
-        "ADM3_PCODE": "ZA4940",
-        "ADM1_PCODE": "ZA4",
-        "ADM1_EN": "Free State",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA494",
-        "ADM2_EN": "Mangaung"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41145,19 +41333,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4",
+        "ADM2_EN": "Mangaung",
+        "ADM2_PCODE": "ZA494",
+        "ADM3_EN": "Mangaung",
+        "ADM3_PCODE": "ZA4940"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umdoni",
-        "ADM3_PCODE": "ZA5212",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA521",
-        "ADM2_EN": "Ugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41314,19 +41504,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Ugu",
+        "ADM2_PCODE": "ZA521",
+        "ADM3_EN": "Umdoni",
+        "ADM3_PCODE": "ZA5212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umzumbe",
-        "ADM3_PCODE": "ZA5213",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA521",
-        "ADM2_EN": "Ugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41595,19 +41787,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Ugu",
+        "ADM2_PCODE": "ZA521",
+        "ADM3_EN": "Umzumbe",
+        "ADM3_PCODE": "ZA5213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "uMuziwabantu",
-        "ADM3_PCODE": "ZA5214",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA521",
-        "ADM2_EN": "Ugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41888,19 +42082,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Ugu",
+        "ADM2_PCODE": "ZA521",
+        "ADM3_EN": "uMuziwabantu",
+        "ADM3_PCODE": "ZA5214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ray Nkonyeni",
-        "ADM3_PCODE": "ZA5216",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA521",
-        "ADM2_EN": "Ugu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42149,19 +42345,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Ugu",
+        "ADM2_PCODE": "ZA521",
+        "ADM3_EN": "Ray Nkonyeni",
+        "ADM3_PCODE": "ZA5216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "uMshwathi",
-        "ADM3_PCODE": "ZA5221",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42446,19 +42644,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "uMshwathi",
+        "ADM3_PCODE": "ZA5221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "uMngeni",
-        "ADM3_PCODE": "ZA5222",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42651,19 +42851,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "uMngeni",
+        "ADM3_PCODE": "ZA5222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mpofana",
-        "ADM3_PCODE": "ZA5223",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42924,19 +43126,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "Mpofana",
+        "ADM3_PCODE": "ZA5223"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Impendle",
-        "ADM3_PCODE": "ZA5224",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43181,19 +43385,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "Impendle",
+        "ADM3_PCODE": "ZA5224"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "The Msunduzi",
-        "ADM3_PCODE": "ZA5225",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43354,19 +43560,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "The Msunduzi",
+        "ADM3_PCODE": "ZA5225"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mkhambathini",
-        "ADM3_PCODE": "ZA5226",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43603,19 +43811,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "Mkhambathini",
+        "ADM3_PCODE": "ZA5226"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Richmond",
-        "ADM3_PCODE": "ZA5227",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA522",
-        "ADM2_EN": "Umgungundlovu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -43824,19 +44034,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umgungundlovu",
+        "ADM2_PCODE": "ZA522",
+        "ADM3_EN": "Richmond",
+        "ADM3_PCODE": "ZA5227"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Okhahlamba",
-        "ADM3_PCODE": "ZA5235",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA523",
-        "ADM2_EN": "Uthukela"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -44157,19 +44369,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthukela",
+        "ADM2_PCODE": "ZA523",
+        "ADM3_EN": "Okhahlamba",
+        "ADM3_PCODE": "ZA5235"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Inkosi Langalibalele",
-        "ADM3_PCODE": "ZA5237",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA523",
-        "ADM2_EN": "Uthukela"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -44478,19 +44692,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthukela",
+        "ADM2_PCODE": "ZA523",
+        "ADM3_EN": "Inkosi Langalibalele",
+        "ADM3_PCODE": "ZA5237"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Alfred Duma",
-        "ADM3_PCODE": "ZA5238",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA523",
-        "ADM2_EN": "Uthukela"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -44847,19 +45063,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthukela",
+        "ADM2_PCODE": "ZA523",
+        "ADM3_EN": "Alfred Duma",
+        "ADM3_PCODE": "ZA5238"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Endumeni",
-        "ADM3_PCODE": "ZA5241",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA524",
-        "ADM2_EN": "Umzinyathi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -45056,19 +45274,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umzinyathi",
+        "ADM2_PCODE": "ZA524",
+        "ADM3_EN": "Endumeni",
+        "ADM3_PCODE": "ZA5241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nqutu",
-        "ADM3_PCODE": "ZA5242",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA524",
-        "ADM2_EN": "Umzinyathi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -45369,19 +45589,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umzinyathi",
+        "ADM2_PCODE": "ZA524",
+        "ADM3_EN": "Nqutu",
+        "ADM3_PCODE": "ZA5242"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Msinga",
-        "ADM3_PCODE": "ZA5244",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA524",
-        "ADM2_EN": "Umzinyathi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -45662,19 +45884,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umzinyathi",
+        "ADM2_PCODE": "ZA524",
+        "ADM3_EN": "Msinga",
+        "ADM3_PCODE": "ZA5244"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umvoti",
-        "ADM3_PCODE": "ZA5245",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA524",
-        "ADM2_EN": "Umzinyathi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -46047,19 +46271,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umzinyathi",
+        "ADM2_PCODE": "ZA524",
+        "ADM3_EN": "Umvoti",
+        "ADM3_PCODE": "ZA5245"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Newcastle",
-        "ADM3_PCODE": "ZA5252",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA525",
-        "ADM2_EN": "Amajuba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -46320,19 +46546,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Amajuba",
+        "ADM2_PCODE": "ZA525",
+        "ADM3_EN": "Newcastle",
+        "ADM3_PCODE": "ZA5252"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Emadlangeni",
-        "ADM3_PCODE": "ZA5253",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA525",
-        "ADM2_EN": "Amajuba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -46609,19 +46837,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Amajuba",
+        "ADM2_PCODE": "ZA525",
+        "ADM3_EN": "Emadlangeni",
+        "ADM3_PCODE": "ZA5253"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dannhauser",
-        "ADM3_PCODE": "ZA5254",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA525",
-        "ADM2_EN": "Amajuba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -46842,19 +47072,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Amajuba",
+        "ADM2_PCODE": "ZA525",
+        "ADM3_EN": "Dannhauser",
+        "ADM3_PCODE": "ZA5254"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "eDumbe",
-        "ADM3_PCODE": "ZA5261",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA526",
-        "ADM2_EN": "Zululand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -47091,19 +47323,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Zululand",
+        "ADM2_PCODE": "ZA526",
+        "ADM3_EN": "eDumbe",
+        "ADM3_PCODE": "ZA5261"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "uPhongolo",
-        "ADM3_PCODE": "ZA5262",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA526",
-        "ADM2_EN": "Zululand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -47372,19 +47606,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Zululand",
+        "ADM2_PCODE": "ZA526",
+        "ADM3_EN": "uPhongolo",
+        "ADM3_PCODE": "ZA5262"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Abaqulusi",
-        "ADM3_PCODE": "ZA5263",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA526",
-        "ADM2_EN": "Zululand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -47693,19 +47929,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Zululand",
+        "ADM2_PCODE": "ZA526",
+        "ADM3_EN": "Abaqulusi",
+        "ADM3_PCODE": "ZA5263"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nongoma",
-        "ADM3_PCODE": "ZA5265",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA526",
-        "ADM2_EN": "Zululand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -47974,19 +48212,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Zululand",
+        "ADM2_PCODE": "ZA526",
+        "ADM3_EN": "Nongoma",
+        "ADM3_PCODE": "ZA5265"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ulundi",
-        "ADM3_PCODE": "ZA5266",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA526",
-        "ADM2_EN": "Zululand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48351,19 +48591,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Zululand",
+        "ADM2_PCODE": "ZA526",
+        "ADM3_EN": "Ulundi",
+        "ADM3_PCODE": "ZA5266"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umhlabuyalingana",
-        "ADM3_PCODE": "ZA5271",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA527",
-        "ADM2_EN": "Umkhanyakude"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48552,19 +48794,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umkhanyakude",
+        "ADM2_PCODE": "ZA527",
+        "ADM3_EN": "Umhlabuyalingana",
+        "ADM3_PCODE": "ZA5271"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jozini",
-        "ADM3_PCODE": "ZA5272",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA527",
-        "ADM2_EN": "Umkhanyakude"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48833,19 +49077,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umkhanyakude",
+        "ADM2_PCODE": "ZA527",
+        "ADM3_EN": "Jozini",
+        "ADM3_PCODE": "ZA5272"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mtubatuba",
-        "ADM3_PCODE": "ZA5275",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA527",
-        "ADM2_EN": "Umkhanyakude"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -49030,19 +49276,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umkhanyakude",
+        "ADM2_PCODE": "ZA527",
+        "ADM3_EN": "Mtubatuba",
+        "ADM3_PCODE": "ZA5275"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Big Five Hlabisa",
-        "ADM3_PCODE": "ZA5276",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA527",
-        "ADM2_EN": "Umkhanyakude"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -49327,19 +49575,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Umkhanyakude",
+        "ADM2_PCODE": "ZA527",
+        "ADM3_EN": "Big Five Hlabisa",
+        "ADM3_PCODE": "ZA5276"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mfolozi",
-        "ADM3_PCODE": "ZA5281",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA528",
-        "ADM2_EN": "Uthungulu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -49528,19 +49778,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthungulu",
+        "ADM2_PCODE": "ZA528",
+        "ADM3_EN": "Mfolozi",
+        "ADM3_PCODE": "ZA5281"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "uMhlathuze",
-        "ADM3_PCODE": "ZA5282",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA528",
-        "ADM2_EN": "Uthungulu"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -49793,19 +50045,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthungulu",
+        "ADM2_PCODE": "ZA528",
+        "ADM3_EN": "uMhlathuze",
+        "ADM3_PCODE": "ZA5282"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "uMlalazi",
-        "ADM3_PCODE": "ZA5284",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA528",
-        "ADM2_EN": "Uthungulu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50090,19 +50344,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthungulu",
+        "ADM2_PCODE": "ZA528",
+        "ADM3_EN": "uMlalazi",
+        "ADM3_PCODE": "ZA5284"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mthonjaneni",
-        "ADM3_PCODE": "ZA5285",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA528",
-        "ADM2_EN": "Uthungulu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50339,19 +50595,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthungulu",
+        "ADM2_PCODE": "ZA528",
+        "ADM3_EN": "Mthonjaneni",
+        "ADM3_PCODE": "ZA5285"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nkandla",
-        "ADM3_PCODE": "ZA5286",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA528",
-        "ADM2_EN": "Uthungulu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50628,19 +50886,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Uthungulu",
+        "ADM2_PCODE": "ZA528",
+        "ADM3_EN": "Nkandla",
+        "ADM3_PCODE": "ZA5286"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mandeni",
-        "ADM3_PCODE": "ZA5291",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA529",
-        "ADM2_EN": "iLembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50789,19 +51049,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "iLembe",
+        "ADM2_PCODE": "ZA529",
+        "ADM3_EN": "Mandeni",
+        "ADM3_PCODE": "ZA5291"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "KwaDukuza",
-        "ADM3_PCODE": "ZA5292",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA529",
-        "ADM2_EN": "iLembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50974,19 +51236,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "iLembe",
+        "ADM2_PCODE": "ZA529",
+        "ADM3_EN": "KwaDukuza",
+        "ADM3_PCODE": "ZA5292"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ndwedwe",
-        "ADM3_PCODE": "ZA5293",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA529",
-        "ADM2_EN": "iLembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -51187,19 +51451,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "iLembe",
+        "ADM2_PCODE": "ZA529",
+        "ADM3_EN": "Ndwedwe",
+        "ADM3_PCODE": "ZA5293"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maphumulo",
-        "ADM3_PCODE": "ZA5294",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA529",
-        "ADM2_EN": "iLembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -51396,19 +51662,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "iLembe",
+        "ADM2_PCODE": "ZA529",
+        "ADM3_EN": "Maphumulo",
+        "ADM3_PCODE": "ZA5294"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Greater Kokstad",
-        "ADM3_PCODE": "ZA5433",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA543",
-        "ADM2_EN": "Sisonke"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -51685,19 +51953,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Sisonke",
+        "ADM2_PCODE": "ZA543",
+        "ADM3_EN": "Greater Kokstad",
+        "ADM3_PCODE": "ZA5433"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ubuhlebezwe",
-        "ADM3_PCODE": "ZA5434",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA543",
-        "ADM2_EN": "Sisonke"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -51974,19 +52244,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Sisonke",
+        "ADM2_PCODE": "ZA543",
+        "ADM3_EN": "Ubuhlebezwe",
+        "ADM3_PCODE": "ZA5434"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Umzimkhulu",
-        "ADM3_PCODE": "ZA5435",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA543",
-        "ADM2_EN": "Sisonke"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -52283,19 +52555,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Sisonke",
+        "ADM2_PCODE": "ZA543",
+        "ADM3_EN": "Umzimkhulu",
+        "ADM3_PCODE": "ZA5435"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dr Nkosazana Dlamini Zuma",
-        "ADM3_PCODE": "ZA5436",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA543",
-        "ADM2_EN": "Sisonke"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -52616,19 +52890,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "Sisonke",
+        "ADM2_PCODE": "ZA543",
+        "ADM3_EN": "Dr Nkosazana Dlamini Zuma",
+        "ADM3_PCODE": "ZA5436"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "eThekwini",
-        "ADM3_PCODE": "ZA5950",
-        "ADM1_PCODE": "ZA5",
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA595",
-        "ADM2_EN": "eThekwini"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -52877,19 +53153,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5",
+        "ADM2_EN": "eThekwini",
+        "ADM2_PCODE": "ZA595",
+        "ADM3_EN": "eThekwini",
+        "ADM3_PCODE": "ZA5950"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moretele",
-        "ADM3_PCODE": "ZA6371",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA637",
-        "ADM2_EN": "Bojanala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -53058,19 +53336,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Bojanala",
+        "ADM2_PCODE": "ZA637",
+        "ADM3_EN": "Moretele",
+        "ADM3_PCODE": "ZA6371"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Local Municipality of Madibeng",
-        "ADM3_PCODE": "ZA6372",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA637",
-        "ADM2_EN": "Bojanala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -53359,19 +53639,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Bojanala",
+        "ADM2_PCODE": "ZA637",
+        "ADM3_EN": "Local Municipality of Madibeng",
+        "ADM3_PCODE": "ZA6372"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rustenburg",
-        "ADM3_PCODE": "ZA6373",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA637",
-        "ADM2_EN": "Bojanala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -53552,19 +53834,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Bojanala",
+        "ADM2_PCODE": "ZA637",
+        "ADM3_EN": "Rustenburg",
+        "ADM3_PCODE": "ZA6373"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kgetlengrivier",
-        "ADM3_PCODE": "ZA6374",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA637",
-        "ADM2_EN": "Bojanala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -53797,19 +54081,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Bojanala",
+        "ADM2_PCODE": "ZA637",
+        "ADM3_EN": "Kgetlengrivier",
+        "ADM3_PCODE": "ZA6374"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moses Kotane",
-        "ADM3_PCODE": "ZA6375",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA637",
-        "ADM2_EN": "Bojanala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -54102,19 +54388,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Bojanala",
+        "ADM2_PCODE": "ZA637",
+        "ADM3_EN": "Moses Kotane",
+        "ADM3_PCODE": "ZA6375"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ratlou",
-        "ADM3_PCODE": "ZA6381",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA638",
-        "ADM2_EN": "Ngaka Modiri Molema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -54323,19 +54611,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Ngaka Modiri Molema",
+        "ADM2_PCODE": "ZA638",
+        "ADM3_EN": "Ratlou",
+        "ADM3_PCODE": "ZA6381"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tswaing",
-        "ADM3_PCODE": "ZA6382",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA638",
-        "ADM2_EN": "Ngaka Modiri Molema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -54604,19 +54894,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Ngaka Modiri Molema",
+        "ADM2_PCODE": "ZA638",
+        "ADM3_EN": "Tswaing",
+        "ADM3_PCODE": "ZA6382"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mafikeng",
-        "ADM3_PCODE": "ZA6383",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA638",
-        "ADM2_EN": "Ngaka Modiri Molema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -54833,19 +55125,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Ngaka Modiri Molema",
+        "ADM2_PCODE": "ZA638",
+        "ADM3_EN": "Mafikeng",
+        "ADM3_PCODE": "ZA6383"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ditsobotla",
-        "ADM3_PCODE": "ZA6384",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA638",
-        "ADM2_EN": "Ngaka Modiri Molema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -55166,19 +55460,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Ngaka Modiri Molema",
+        "ADM2_PCODE": "ZA638",
+        "ADM3_EN": "Ditsobotla",
+        "ADM3_PCODE": "ZA6384"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ramotshere Moiloa",
-        "ADM3_PCODE": "ZA6385",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA638",
-        "ADM2_EN": "Ngaka Modiri Molema"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -55463,19 +55759,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Ngaka Modiri Molema",
+        "ADM2_PCODE": "ZA638",
+        "ADM3_EN": "Ramotshere Moiloa",
+        "ADM3_PCODE": "ZA6385"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Naledi",
-        "ADM3_PCODE": "ZA6392",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA639",
-        "ADM2_EN": "Dr Ruth Segomotsi Mompati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -55756,19 +56054,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Ruth Segomotsi Mompati",
+        "ADM2_PCODE": "ZA639",
+        "ADM3_EN": "Naledi",
+        "ADM3_PCODE": "ZA6392"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mamusa",
-        "ADM3_PCODE": "ZA6393",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA639",
-        "ADM2_EN": "Dr Ruth Segomotsi Mompati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -56009,19 +56309,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Ruth Segomotsi Mompati",
+        "ADM2_PCODE": "ZA639",
+        "ADM3_EN": "Mamusa",
+        "ADM3_PCODE": "ZA6393"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Greater Taung",
-        "ADM3_PCODE": "ZA6394",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA639",
-        "ADM2_EN": "Dr Ruth Segomotsi Mompati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -56298,19 +56600,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Ruth Segomotsi Mompati",
+        "ADM2_PCODE": "ZA639",
+        "ADM3_EN": "Greater Taung",
+        "ADM3_PCODE": "ZA6394"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lekwa-Teemane",
-        "ADM3_PCODE": "ZA6396",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA639",
-        "ADM2_EN": "Dr Ruth Segomotsi Mompati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -56531,19 +56835,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Ruth Segomotsi Mompati",
+        "ADM2_PCODE": "ZA639",
+        "ADM3_EN": "Lekwa-Teemane",
+        "ADM3_PCODE": "ZA6396"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kagisano/Molopo",
-        "ADM3_PCODE": "ZA6397",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA639",
-        "ADM2_EN": "Dr Ruth Segomotsi Mompati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -57144,19 +57450,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Ruth Segomotsi Mompati",
+        "ADM2_PCODE": "ZA639",
+        "ADM3_EN": "Kagisano/Molopo",
+        "ADM3_PCODE": "ZA6397"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "City of Matlosana",
-        "ADM3_PCODE": "ZA6403",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA640",
-        "ADM2_EN": "Dr Kenneth Kaunda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -57377,19 +57685,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Kenneth Kaunda",
+        "ADM2_PCODE": "ZA640",
+        "ADM3_EN": "City of Matlosana",
+        "ADM3_PCODE": "ZA6403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maquassi Hills",
-        "ADM3_PCODE": "ZA6404",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA640",
-        "ADM2_EN": "Dr Kenneth Kaunda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -57706,19 +58016,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Kenneth Kaunda",
+        "ADM2_PCODE": "ZA640",
+        "ADM3_EN": "Maquassi Hills",
+        "ADM3_PCODE": "ZA6404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ventersdorp/Tlokwe",
-        "ADM3_PCODE": "ZA6405",
-        "ADM1_PCODE": "ZA6",
-        "ADM1_EN": "North West",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA640",
-        "ADM2_EN": "Dr Kenneth Kaunda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -58055,19 +58367,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6",
+        "ADM2_EN": "Dr Kenneth Kaunda",
+        "ADM2_PCODE": "ZA640",
+        "ADM3_EN": "Ventersdorp/Tlokwe",
+        "ADM3_PCODE": "ZA6405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Emfuleni",
-        "ADM3_PCODE": "ZA7421",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA742",
-        "ADM2_EN": "Sedibeng"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -58240,19 +58554,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "Sedibeng",
+        "ADM2_PCODE": "ZA742",
+        "ADM3_EN": "Emfuleni",
+        "ADM3_PCODE": "ZA7421"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Midvaal",
-        "ADM3_PCODE": "ZA7422",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA742",
-        "ADM2_EN": "Sedibeng"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -58565,19 +58881,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "Sedibeng",
+        "ADM2_PCODE": "ZA742",
+        "ADM3_EN": "Midvaal",
+        "ADM3_PCODE": "ZA7422"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lesedi",
-        "ADM3_PCODE": "ZA7423",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA742",
-        "ADM2_EN": "Sedibeng"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -58822,19 +59140,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "Sedibeng",
+        "ADM2_PCODE": "ZA742",
+        "ADM3_EN": "Lesedi",
+        "ADM3_PCODE": "ZA7423"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mogale City",
-        "ADM3_PCODE": "ZA7481",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA748",
-        "ADM2_EN": "West Rand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -59023,19 +59343,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "West Rand",
+        "ADM2_PCODE": "ZA748",
+        "ADM3_EN": "Mogale City",
+        "ADM3_PCODE": "ZA7481"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Merafong City",
-        "ADM3_PCODE": "ZA7484",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA748",
-        "ADM2_EN": "West Rand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -59200,19 +59522,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "West Rand",
+        "ADM2_PCODE": "ZA748",
+        "ADM3_EN": "Merafong City",
+        "ADM3_PCODE": "ZA7484"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rand West City",
-        "ADM3_PCODE": "ZA7485",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA748",
-        "ADM2_EN": "West Rand"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -59413,19 +59737,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "West Rand",
+        "ADM2_PCODE": "ZA748",
+        "ADM3_EN": "Rand West City",
+        "ADM3_PCODE": "ZA7485"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ekurhuleni",
-        "ADM3_PCODE": "ZA7970",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA797",
-        "ADM2_EN": "Ekurhuleni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -59698,19 +60024,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "Ekurhuleni",
+        "ADM2_PCODE": "ZA797",
+        "ADM3_EN": "Ekurhuleni",
+        "ADM3_PCODE": "ZA7970"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "City of Johannesburg",
-        "ADM3_PCODE": "ZA7980",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA798",
-        "ADM2_EN": "City of Johannesburg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60019,19 +60347,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "City of Johannesburg",
+        "ADM2_PCODE": "ZA798",
+        "ADM3_EN": "City of Johannesburg",
+        "ADM3_PCODE": "ZA7980"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "City of Tshwane",
-        "ADM3_PCODE": "ZA7990",
-        "ADM1_PCODE": "ZA7",
-        "ADM1_EN": "Gauteng",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA799",
-        "ADM2_EN": "City of Tshwane"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60552,19 +60882,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7",
+        "ADM2_EN": "City of Tshwane",
+        "ADM2_PCODE": "ZA799",
+        "ADM3_EN": "City of Tshwane",
+        "ADM3_PCODE": "ZA7990"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Chief Albert Luthuli",
-        "ADM3_PCODE": "ZA8301",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60865,19 +61197,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Chief Albert Luthuli",
+        "ADM3_PCODE": "ZA8301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Msukaligwa",
-        "ADM3_PCODE": "ZA8302",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61210,19 +61544,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Msukaligwa",
+        "ADM3_PCODE": "ZA8302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mkhondo",
-        "ADM3_PCODE": "ZA8303",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61479,19 +61815,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Mkhondo",
+        "ADM3_PCODE": "ZA8303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dr Pixley Ka Isaka Seme",
-        "ADM3_PCODE": "ZA8304",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61848,19 +62186,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Dr Pixley Ka Isaka Seme",
+        "ADM3_PCODE": "ZA8304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lekwa",
-        "ADM3_PCODE": "ZA8305",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62217,19 +62557,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Lekwa",
+        "ADM3_PCODE": "ZA8305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dipaleseng",
-        "ADM3_PCODE": "ZA8306",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62570,19 +62912,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Dipaleseng",
+        "ADM3_PCODE": "ZA8306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Govan Mbeki",
-        "ADM3_PCODE": "ZA8307",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA830",
-        "ADM2_EN": "Gert Sibande"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62847,19 +63191,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Gert Sibande",
+        "ADM2_PCODE": "ZA830",
+        "ADM3_EN": "Govan Mbeki",
+        "ADM3_PCODE": "ZA8307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Victor Khanye",
-        "ADM3_PCODE": "ZA8311",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA831",
-        "ADM2_EN": "Nkangala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63044,19 +63390,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Nkangala",
+        "ADM2_PCODE": "ZA831",
+        "ADM3_EN": "Victor Khanye",
+        "ADM3_PCODE": "ZA8311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Emalahleni",
-        "ADM3_PCODE": "ZA8312",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA831",
-        "ADM2_EN": "Nkangala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63309,19 +63657,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Nkangala",
+        "ADM2_PCODE": "ZA831",
+        "ADM3_EN": "Emalahleni",
+        "ADM3_PCODE": "ZA8312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Steve Tshwete",
-        "ADM3_PCODE": "ZA8313",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA831",
-        "ADM2_EN": "Nkangala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63658,19 +64008,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Nkangala",
+        "ADM2_PCODE": "ZA831",
+        "ADM3_EN": "Steve Tshwete",
+        "ADM3_PCODE": "ZA8313"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Emakhazeni",
-        "ADM3_PCODE": "ZA8314",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA831",
-        "ADM2_EN": "Nkangala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64019,19 +64371,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Nkangala",
+        "ADM2_PCODE": "ZA831",
+        "ADM3_EN": "Emakhazeni",
+        "ADM3_PCODE": "ZA8314"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Thembisile",
-        "ADM3_PCODE": "ZA8315",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA831",
-        "ADM2_EN": "Nkangala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64424,19 +64778,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Nkangala",
+        "ADM2_PCODE": "ZA831",
+        "ADM3_EN": "Thembisile",
+        "ADM3_PCODE": "ZA8315"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dr JS Moroka",
-        "ADM3_PCODE": "ZA8316",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA831",
-        "ADM2_EN": "Nkangala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64609,19 +64965,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Nkangala",
+        "ADM2_PCODE": "ZA831",
+        "ADM3_EN": "Dr JS Moroka",
+        "ADM3_PCODE": "ZA8316"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Thaba Chweu",
-        "ADM3_PCODE": "ZA8321",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA832",
-        "ADM2_EN": "Ehlanzeni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64986,19 +65344,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Ehlanzeni",
+        "ADM2_PCODE": "ZA832",
+        "ADM3_EN": "Thaba Chweu",
+        "ADM3_PCODE": "ZA8321"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nkomazi",
-        "ADM3_PCODE": "ZA8324",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA832",
-        "ADM2_EN": "Ehlanzeni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65167,19 +65527,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Ehlanzeni",
+        "ADM2_PCODE": "ZA832",
+        "ADM3_EN": "Nkomazi",
+        "ADM3_PCODE": "ZA8324"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bushbuckridge",
-        "ADM3_PCODE": "ZA8325",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA832",
-        "ADM2_EN": "Ehlanzeni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65500,19 +65862,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Ehlanzeni",
+        "ADM2_PCODE": "ZA832",
+        "ADM3_EN": "Bushbuckridge",
+        "ADM3_PCODE": "ZA8325"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbombela",
-        "ADM3_PCODE": "ZA8326",
-        "ADM1_PCODE": "ZA8",
-        "ADM1_EN": "Mpumalanga",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA832",
-        "ADM2_EN": "Ehlanzeni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65853,19 +66217,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8",
+        "ADM2_EN": "Ehlanzeni",
+        "ADM2_PCODE": "ZA832",
+        "ADM3_EN": "Mbombela",
+        "ADM3_PCODE": "ZA8326"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Greater Giyani",
-        "ADM3_PCODE": "ZA9331",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA933",
-        "ADM2_EN": "Mopani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66194,19 +66560,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Mopani",
+        "ADM2_PCODE": "ZA933",
+        "ADM3_EN": "Greater Giyani",
+        "ADM3_PCODE": "ZA9331"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Greater Letaba",
-        "ADM3_PCODE": "ZA9332",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA933",
-        "ADM2_EN": "Mopani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66423,19 +66791,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Mopani",
+        "ADM2_PCODE": "ZA933",
+        "ADM3_EN": "Greater Letaba",
+        "ADM3_PCODE": "ZA9332"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Greater Tzaneen",
-        "ADM3_PCODE": "ZA9333",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA933",
-        "ADM2_EN": "Mopani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66680,19 +67050,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Mopani",
+        "ADM2_PCODE": "ZA933",
+        "ADM3_EN": "Greater Tzaneen",
+        "ADM3_PCODE": "ZA9333"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ba-Phalaborwa",
-        "ADM3_PCODE": "ZA9334",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA933",
-        "ADM2_EN": "Mopani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67037,19 +67409,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Mopani",
+        "ADM2_PCODE": "ZA933",
+        "ADM3_EN": "Ba-Phalaborwa",
+        "ADM3_PCODE": "ZA9334"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Maruleng",
-        "ADM3_PCODE": "ZA9335",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA933",
-        "ADM2_EN": "Mopani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67250,19 +67624,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Mopani",
+        "ADM2_PCODE": "ZA933",
+        "ADM3_EN": "Maruleng",
+        "ADM3_PCODE": "ZA9335"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Musina",
-        "ADM3_PCODE": "ZA9341",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA934",
-        "ADM2_EN": "Vhembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67695,19 +68071,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Vhembe",
+        "ADM2_PCODE": "ZA934",
+        "ADM3_EN": "Musina",
+        "ADM3_PCODE": "ZA9341"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Thulamela",
-        "ADM3_PCODE": "ZA9343",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA934",
-        "ADM2_EN": "Vhembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67948,19 +68326,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Vhembe",
+        "ADM2_PCODE": "ZA934",
+        "ADM3_EN": "Thulamela",
+        "ADM3_PCODE": "ZA9343"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makhado",
-        "ADM3_PCODE": "ZA9344",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA934",
-        "ADM2_EN": "Vhembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68357,19 +68737,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Vhembe",
+        "ADM2_PCODE": "ZA934",
+        "ADM3_EN": "Makhado",
+        "ADM3_PCODE": "ZA9344"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Collins Chabane",
-        "ADM3_PCODE": "ZA9345",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA934",
-        "ADM2_EN": "Vhembe"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68678,19 +69060,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Vhembe",
+        "ADM2_PCODE": "ZA934",
+        "ADM3_EN": "Collins Chabane",
+        "ADM3_PCODE": "ZA9345"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Blouberg",
-        "ADM3_PCODE": "ZA9351",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA935",
-        "ADM2_EN": "Capricorn"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69035,19 +69419,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Capricorn",
+        "ADM2_PCODE": "ZA935",
+        "ADM3_EN": "Blouberg",
+        "ADM3_PCODE": "ZA9351"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Molemole",
-        "ADM3_PCODE": "ZA9353",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA935",
-        "ADM2_EN": "Capricorn"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69336,19 +69722,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Capricorn",
+        "ADM2_PCODE": "ZA935",
+        "ADM3_EN": "Molemole",
+        "ADM3_PCODE": "ZA9353"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Polokwane",
-        "ADM3_PCODE": "ZA9354",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA935",
-        "ADM2_EN": "Capricorn"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69633,19 +70021,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Capricorn",
+        "ADM2_PCODE": "ZA935",
+        "ADM3_EN": "Polokwane",
+        "ADM3_PCODE": "ZA9354"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lepele-Nkumpi",
-        "ADM3_PCODE": "ZA9355",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA935",
-        "ADM2_EN": "Capricorn"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69938,19 +70328,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Capricorn",
+        "ADM2_PCODE": "ZA935",
+        "ADM3_EN": "Lepele-Nkumpi",
+        "ADM3_PCODE": "ZA9355"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Thabazimbi",
-        "ADM3_PCODE": "ZA9361",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA936",
-        "ADM2_EN": "Waterberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70347,19 +70739,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Waterberg",
+        "ADM2_PCODE": "ZA936",
+        "ADM3_EN": "Thabazimbi",
+        "ADM3_PCODE": "ZA9361"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lephalale",
-        "ADM3_PCODE": "ZA9362",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA936",
-        "ADM2_EN": "Waterberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70964,19 +71358,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Waterberg",
+        "ADM2_PCODE": "ZA936",
+        "ADM3_EN": "Lephalale",
+        "ADM3_PCODE": "ZA9362"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bela-Bela",
-        "ADM3_PCODE": "ZA9366",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA936",
-        "ADM2_EN": "Waterberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71253,19 +71649,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Waterberg",
+        "ADM2_PCODE": "ZA936",
+        "ADM3_EN": "Bela-Bela",
+        "ADM3_PCODE": "ZA9366"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mogalakwena",
-        "ADM3_PCODE": "ZA9367",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA936",
-        "ADM2_EN": "Waterberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71646,19 +72044,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Waterberg",
+        "ADM2_PCODE": "ZA936",
+        "ADM3_EN": "Mogalakwena",
+        "ADM3_PCODE": "ZA9367"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Modimolle/Mookgophong",
-        "ADM3_PCODE": "ZA9368",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA936",
-        "ADM2_EN": "Waterberg"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72083,19 +72483,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Waterberg",
+        "ADM2_PCODE": "ZA936",
+        "ADM3_EN": "Modimolle/Mookgophong",
+        "ADM3_PCODE": "ZA9368"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ephraim Mogale",
-        "ADM3_PCODE": "ZA9471",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA947",
-        "ADM2_EN": "Sekhukhune"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72336,19 +72738,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Sekhukhune",
+        "ADM2_PCODE": "ZA947",
+        "ADM3_EN": "Ephraim Mogale",
+        "ADM3_PCODE": "ZA9471"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Elias Motsoaledi",
-        "ADM3_PCODE": "ZA9472",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA947",
-        "ADM2_EN": "Sekhukhune"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72597,19 +73001,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Sekhukhune",
+        "ADM2_PCODE": "ZA947",
+        "ADM3_EN": "Elias Motsoaledi",
+        "ADM3_PCODE": "ZA9472"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Makhuduthamaga",
-        "ADM3_PCODE": "ZA9473",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA947",
-        "ADM2_EN": "Sekhukhune"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72818,19 +73224,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Sekhukhune",
+        "ADM2_PCODE": "ZA947",
+        "ADM3_EN": "Makhuduthamaga",
+        "ADM3_PCODE": "ZA9473"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Greater Tubatse/Fetakgomo",
-        "ADM3_PCODE": "ZA9476",
-        "ADM1_PCODE": "ZA9",
-        "ADM1_EN": "Limpopo",
-        "ADM0_PCODE": "ZA",
-        "ADM2_PCODE": "ZA947",
-        "ADM2_EN": "Sekhukhune"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73215,6 +73623,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9",
+        "ADM2_EN": "Sekhukhune",
+        "ADM2_PCODE": "ZA947",
+        "ADM3_EN": "Greater Tubatse/Fetakgomo",
+        "ADM3_PCODE": "ZA9476"
       }
     }
   ]

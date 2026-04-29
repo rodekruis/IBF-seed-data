@@ -1,24 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "COM_adm3",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bambao Mtsanga",
-        "ADM3_PCODE": "KM111",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM11",
-        "ADM2_EN": "Domoni"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -99,19 +83,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Domoni",
+        "ADM2_PCODE": "KM11",
+        "ADM3_EN": "Bambao Mtsanga",
+        "ADM3_PCODE": "KM111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Domoni",
-        "ADM3_PCODE": "KM112",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM11",
-        "ADM2_EN": "Domoni"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -196,19 +182,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Domoni",
+        "ADM2_PCODE": "KM11",
+        "ADM3_EN": "Domoni",
+        "ADM3_PCODE": "KM112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Jimlimé",
-        "ADM3_PCODE": "KM113",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM11",
-        "ADM2_EN": "Domoni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -249,19 +237,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Domoni",
+        "ADM2_PCODE": "KM11",
+        "ADM3_EN": "Jimlimé",
+        "ADM3_PCODE": "KM113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koni",
-        "ADM3_PCODE": "KM114",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM11",
-        "ADM2_EN": "Domoni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -294,19 +284,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Domoni",
+        "ADM2_PCODE": "KM11",
+        "ADM3_EN": "Koni",
+        "ADM3_PCODE": "KM114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngandzalé",
-        "ADM3_PCODE": "KM115",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM11",
-        "ADM2_EN": "Domoni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -335,19 +327,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Domoni",
+        "ADM2_PCODE": "KM11",
+        "ADM3_EN": "Ngandzalé",
+        "ADM3_PCODE": "KM115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Adda",
-        "ADM3_PCODE": "KM121",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM12",
-        "ADM2_EN": "Mrémani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -388,19 +382,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mrémani",
+        "ADM2_PCODE": "KM12",
+        "ADM3_EN": "Adda",
+        "ADM3_PCODE": "KM121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Chaweni",
-        "ADM3_PCODE": "KM122",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM12",
-        "ADM2_EN": "Mrémani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -429,19 +425,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mrémani",
+        "ADM2_PCODE": "KM12",
+        "ADM3_EN": "Chaweni",
+        "ADM3_PCODE": "KM122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mramani",
-        "ADM3_PCODE": "KM123",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM12",
-        "ADM2_EN": "Mrémani"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -518,19 +516,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mrémani",
+        "ADM2_PCODE": "KM12",
+        "ADM3_EN": "Mramani",
+        "ADM3_PCODE": "KM123"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mrémani",
-        "ADM3_PCODE": "KM124",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM12",
-        "ADM2_EN": "Mrémani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -563,19 +563,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mrémani",
+        "ADM2_PCODE": "KM12",
+        "ADM3_EN": "Mrémani",
+        "ADM3_PCODE": "KM124"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ongojou",
-        "ADM3_PCODE": "KM125",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM12",
-        "ADM2_EN": "Mrémani"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -632,19 +634,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mrémani",
+        "ADM2_PCODE": "KM12",
+        "ADM3_EN": "Ongojou",
+        "ADM3_PCODE": "KM125"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bandrani Ya Chironkamba",
-        "ADM3_PCODE": "KM131",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM13",
-        "ADM2_EN": "Mutsamudu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -673,19 +677,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mutsamudu",
+        "ADM2_PCODE": "KM13",
+        "ADM3_EN": "Bandrani Ya Chironkamba",
+        "ADM3_PCODE": "KM131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bandrani Ya Mtsangani",
-        "ADM3_PCODE": "KM132",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM13",
-        "ADM2_EN": "Mutsamudu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -714,19 +720,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mutsamudu",
+        "ADM2_PCODE": "KM13",
+        "ADM3_EN": "Bandrani Ya Mtsangani",
+        "ADM3_PCODE": "KM132"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mirontsi",
-        "ADM3_PCODE": "KM133",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM13",
-        "ADM2_EN": "Mutsamudu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -755,19 +763,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mutsamudu",
+        "ADM2_PCODE": "KM13",
+        "ADM3_EN": "Mirontsi",
+        "ADM3_PCODE": "KM133"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mutsamudu",
-        "ADM3_PCODE": "KM134",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM13",
-        "ADM2_EN": "Mutsamudu"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -796,19 +806,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Mutsamudu",
+        "ADM2_PCODE": "KM13",
+        "ADM3_EN": "Mutsamudu",
+        "ADM3_PCODE": "KM134"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bambao Mtrouni",
-        "ADM3_PCODE": "KM141",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM14",
-        "ADM2_EN": "Ouani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -837,19 +849,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Ouani",
+        "ADM2_PCODE": "KM14",
+        "ADM3_EN": "Bambao Mtrouni",
+        "ADM3_PCODE": "KM141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bazimini",
-        "ADM3_PCODE": "KM142",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM14",
-        "ADM2_EN": "Ouani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -878,19 +892,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Ouani",
+        "ADM2_PCODE": "KM14",
+        "ADM3_EN": "Bazimini",
+        "ADM3_PCODE": "KM142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouani",
-        "ADM3_PCODE": "KM143",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM14",
-        "ADM2_EN": "Ouani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -923,19 +939,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Ouani",
+        "ADM2_PCODE": "KM14",
+        "ADM3_EN": "Ouani",
+        "ADM3_PCODE": "KM143"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moya",
-        "ADM3_PCODE": "KM151",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM15",
-        "ADM2_EN": "Sima"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -988,19 +1006,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Sima",
+        "ADM2_PCODE": "KM15",
+        "ADM3_EN": "Moya",
+        "ADM3_PCODE": "KM151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sima",
-        "ADM3_PCODE": "KM152",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM15",
-        "ADM2_EN": "Sima"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1057,19 +1077,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Sima",
+        "ADM2_PCODE": "KM15",
+        "ADM3_EN": "Sima",
+        "ADM3_PCODE": "KM152"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Vouani",
-        "ADM3_PCODE": "KM153",
-        "ADM1_PCODE": "KM1",
-        "ADM1_EN": "Anjouan (Ndzouani)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM15",
-        "ADM2_EN": "Sima"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1110,19 +1132,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Anjouan (Ndzouani)",
+        "ADM1_PCODE": "KM1",
+        "ADM2_EN": "Sima",
+        "ADM2_PCODE": "KM15",
+        "ADM3_EN": "Vouani",
+        "ADM3_PCODE": "KM153"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mboinkou",
-        "ADM3_PCODE": "KM211",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM21",
-        "ADM2_EN": "Hamahamet-Mboinkou"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1175,19 +1199,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Hamahamet-Mboinkou",
+        "ADM2_PCODE": "KM21",
+        "ADM3_EN": "Mboinkou",
+        "ADM3_PCODE": "KM211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyuma Mro",
-        "ADM3_PCODE": "KM212",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM21",
-        "ADM2_EN": "Hamahamet-Mboinkou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1216,19 +1242,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Hamahamet-Mboinkou",
+        "ADM2_PCODE": "KM21",
+        "ADM3_EN": "Nyuma Mro",
+        "ADM3_PCODE": "KM212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyuma Msiru",
-        "ADM3_PCODE": "KM213",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM21",
-        "ADM2_EN": "Hamahamet-Mboinkou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1261,19 +1289,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Hamahamet-Mboinkou",
+        "ADM2_PCODE": "KM21",
+        "ADM3_EN": "Nyuma Msiru",
+        "ADM3_PCODE": "KM213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Djoumoipangua",
-        "ADM3_PCODE": "KM221",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM22",
-        "ADM2_EN": "Hambou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1302,19 +1332,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Hambou",
+        "ADM2_PCODE": "KM22",
+        "ADM3_EN": "Djoumoipangua",
+        "ADM3_PCODE": "KM221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tsinimoipangua",
-        "ADM3_PCODE": "KM222",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM22",
-        "ADM2_EN": "Hambou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1343,19 +1375,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Hambou",
+        "ADM2_PCODE": "KM22",
+        "ADM3_EN": "Tsinimoipangua",
+        "ADM3_PCODE": "KM222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bangaani",
-        "ADM3_PCODE": "KM231",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM23",
-        "ADM2_EN": "Itsandra-Hamanvou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1392,19 +1426,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Itsandra-Hamanvou",
+        "ADM2_PCODE": "KM23",
+        "ADM3_EN": "Bangaani",
+        "ADM3_PCODE": "KM231"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Djoumoichongo",
-        "ADM3_PCODE": "KM232",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM23",
-        "ADM2_EN": "Itsandra-Hamanvou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1433,19 +1469,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Itsandra-Hamanvou",
+        "ADM2_PCODE": "KM23",
+        "ADM3_EN": "Djoumoichongo",
+        "ADM3_PCODE": "KM232"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Hamanvou",
-        "ADM3_PCODE": "KM233",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM23",
-        "ADM2_EN": "Itsandra-Hamanvou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1486,19 +1524,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Itsandra-Hamanvou",
+        "ADM2_PCODE": "KM23",
+        "ADM3_EN": "Hamanvou",
+        "ADM3_PCODE": "KM233"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Isahari",
-        "ADM3_PCODE": "KM234",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM23",
-        "ADM2_EN": "Itsandra-Hamanvou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1527,19 +1567,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Itsandra-Hamanvou",
+        "ADM2_PCODE": "KM23",
+        "ADM3_EN": "Isahari",
+        "ADM3_PCODE": "KM234"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbadani",
-        "ADM3_PCODE": "KM235",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM23",
-        "ADM2_EN": "Itsandra-Hamanvou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1576,19 +1618,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Itsandra-Hamanvou",
+        "ADM2_PCODE": "KM23",
+        "ADM3_EN": "Mbadani",
+        "ADM3_PCODE": "KM235"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Domba",
-        "ADM3_PCODE": "KM241",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM24",
-        "ADM2_EN": "Mbadjini Est"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1621,19 +1665,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mbadjini Est",
+        "ADM2_PCODE": "KM24",
+        "ADM3_EN": "Domba",
+        "ADM3_PCODE": "KM241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Itsahidi",
-        "ADM3_PCODE": "KM242",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM24",
-        "ADM2_EN": "Mbadjini Est"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1698,19 +1744,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mbadjini Est",
+        "ADM2_PCODE": "KM24",
+        "ADM3_EN": "Itsahidi",
+        "ADM3_PCODE": "KM242"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pimba",
-        "ADM3_PCODE": "KM243",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM24",
-        "ADM2_EN": "Mbadjini Est"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1751,19 +1799,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mbadjini Est",
+        "ADM2_PCODE": "KM24",
+        "ADM3_EN": "Pimba",
+        "ADM3_PCODE": "KM243"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngouengoe",
-        "ADM3_PCODE": "KM251",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM25",
-        "ADM2_EN": "Mbadjini Ouest"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1792,19 +1842,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mbadjini Ouest",
+        "ADM2_PCODE": "KM25",
+        "ADM3_EN": "Ngouengoe",
+        "ADM3_PCODE": "KM251"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nioumagama",
-        "ADM3_PCODE": "KM252",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM25",
-        "ADM2_EN": "Mbadjini Ouest"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1837,19 +1889,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mbadjini Ouest",
+        "ADM2_PCODE": "KM25",
+        "ADM3_EN": "Nioumagama",
+        "ADM3_PCODE": "KM252"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cembenoi Lac Salé",
-        "ADM3_PCODE": "KM261",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM26",
-        "ADM2_EN": "Mitsamiouli-Mboudé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1882,19 +1936,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mitsamiouli-Mboudé",
+        "ADM2_PCODE": "KM26",
+        "ADM3_EN": "Cembenoi Lac Salé",
+        "ADM3_PCODE": "KM261"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cembenoi Sada Djoulamlima",
-        "ADM3_PCODE": "KM262",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM26",
-        "ADM2_EN": "Mitsamiouli-Mboudé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1927,19 +1983,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mitsamiouli-Mboudé",
+        "ADM2_PCODE": "KM26",
+        "ADM3_EN": "Cembenoi Sada Djoulamlima",
+        "ADM3_PCODE": "KM262"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mitsamiouli",
-        "ADM3_PCODE": "KM263",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM26",
-        "ADM2_EN": "Mitsamiouli-Mboudé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1976,19 +2034,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mitsamiouli-Mboudé",
+        "ADM2_PCODE": "KM26",
+        "ADM3_EN": "Mitsamiouli",
+        "ADM3_PCODE": "KM263"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyuma Komo",
-        "ADM3_PCODE": "KM264",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM26",
-        "ADM2_EN": "Mitsamiouli-Mboudé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2017,19 +2077,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mitsamiouli-Mboudé",
+        "ADM2_PCODE": "KM26",
+        "ADM3_EN": "Nyuma Komo",
+        "ADM3_PCODE": "KM264"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyumamro Kiblani",
-        "ADM3_PCODE": "KM265",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM26",
-        "ADM2_EN": "Mitsamiouli-Mboudé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2062,19 +2124,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mitsamiouli-Mboudé",
+        "ADM2_PCODE": "KM26",
+        "ADM3_EN": "Nyumamro Kiblani",
+        "ADM3_PCODE": "KM265"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nyumamro Souheili",
-        "ADM3_PCODE": "KM266",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM26",
-        "ADM2_EN": "Mitsamiouli-Mboudé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2111,19 +2175,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Mitsamiouli-Mboudé",
+        "ADM2_PCODE": "KM26",
+        "ADM3_EN": "Nyumamro Souheili",
+        "ADM3_PCODE": "KM266"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bambao Ya Hari",
-        "ADM3_PCODE": "KM271",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM27",
-        "ADM2_EN": "Moroni-Bambao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2156,19 +2222,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Moroni-Bambao",
+        "ADM2_PCODE": "KM27",
+        "ADM3_EN": "Bambao Ya Hari",
+        "ADM3_PCODE": "KM271"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bambao Ya Mboini",
-        "ADM3_PCODE": "KM272",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM27",
-        "ADM2_EN": "Moroni-Bambao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2201,19 +2269,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Moroni-Bambao",
+        "ADM2_PCODE": "KM27",
+        "ADM3_EN": "Bambao Ya Mboini",
+        "ADM3_PCODE": "KM272"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bambao Yadjou",
-        "ADM3_PCODE": "KM273",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM27",
-        "ADM2_EN": "Moroni-Bambao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2246,19 +2316,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Moroni-Bambao",
+        "ADM2_PCODE": "KM27",
+        "ADM3_EN": "Bambao Yadjou",
+        "ADM3_PCODE": "KM273"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moroni",
-        "ADM3_PCODE": "KM274",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM27",
-        "ADM2_EN": "Moroni-Bambao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2287,19 +2359,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Moroni-Bambao",
+        "ADM2_PCODE": "KM27",
+        "ADM3_EN": "Moroni",
+        "ADM3_PCODE": "KM274"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dimani",
-        "ADM3_PCODE": "KM281",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM28",
-        "ADM2_EN": "Oichili-Dimani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2332,19 +2406,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Oichili-Dimani",
+        "ADM2_PCODE": "KM28",
+        "ADM3_EN": "Dimani",
+        "ADM3_PCODE": "KM281"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Oichili Yadjou",
-        "ADM3_PCODE": "KM282",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM28",
-        "ADM2_EN": "Oichili-Dimani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2385,19 +2461,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Oichili-Dimani",
+        "ADM2_PCODE": "KM28",
+        "ADM3_EN": "Oichili Yadjou",
+        "ADM3_PCODE": "KM282"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Oichili Yamboini",
-        "ADM3_PCODE": "KM283",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM28",
-        "ADM2_EN": "Oichili-Dimani"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2430,19 +2508,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Oichili-Dimani",
+        "ADM2_PCODE": "KM28",
+        "ADM3_EN": "Oichili Yamboini",
+        "ADM3_PCODE": "KM283"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cratère du Karthala",
-        "ADM3_PCODE": "KM291",
-        "ADM1_PCODE": "KM2",
-        "ADM1_EN": "Grande Comore (Ngazidja)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM29",
-        "ADM2_EN": "Kartala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2471,19 +2551,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Grande Comore (Ngazidja)",
+        "ADM1_PCODE": "KM2",
+        "ADM2_EN": "Kartala",
+        "ADM2_PCODE": "KM29",
+        "ADM3_EN": "Cratère du Karthala",
+        "ADM3_PCODE": "KM291"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Djando",
-        "ADM3_PCODE": "KM311",
-        "ADM1_PCODE": "KM3",
-        "ADM1_EN": "Mohéli (Mwali)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM31",
-        "ADM2_EN": "Djando"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2752,19 +2834,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Mohéli (Mwali)",
+        "ADM1_PCODE": "KM3",
+        "ADM2_EN": "Djando",
+        "ADM2_PCODE": "KM31",
+        "ADM3_EN": "Djando",
+        "ADM3_PCODE": "KM311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Fomboni",
-        "ADM3_PCODE": "KM321",
-        "ADM1_PCODE": "KM3",
-        "ADM1_EN": "Mohéli (Mwali)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM32",
-        "ADM2_EN": "Fomboni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2801,19 +2885,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Mohéli (Mwali)",
+        "ADM1_PCODE": "KM3",
+        "ADM2_EN": "Fomboni",
+        "ADM2_PCODE": "KM32",
+        "ADM3_EN": "Fomboni",
+        "ADM3_PCODE": "KM321"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moili Mdjini",
-        "ADM3_PCODE": "KM322",
-        "ADM1_PCODE": "KM3",
-        "ADM1_EN": "Mohéli (Mwali)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM32",
-        "ADM2_EN": "Fomboni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2842,19 +2928,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Mohéli (Mwali)",
+        "ADM1_PCODE": "KM3",
+        "ADM2_EN": "Fomboni",
+        "ADM2_PCODE": "KM32",
+        "ADM3_EN": "Moili Mdjini",
+        "ADM3_PCODE": "KM322"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moimbassa",
-        "ADM3_PCODE": "KM323",
-        "ADM1_PCODE": "KM3",
-        "ADM1_EN": "Mohéli (Mwali)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM32",
-        "ADM2_EN": "Fomboni"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2891,19 +2979,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Mohéli (Mwali)",
+        "ADM1_PCODE": "KM3",
+        "ADM2_EN": "Fomboni",
+        "ADM2_PCODE": "KM32",
+        "ADM3_EN": "Moimbassa",
+        "ADM3_PCODE": "KM323"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mlédjélé",
-        "ADM3_PCODE": "KM331",
-        "ADM1_PCODE": "KM3",
-        "ADM1_EN": "Mohéli (Mwali)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM33",
-        "ADM2_EN": "Nioumachioi"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3352,19 +3442,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Mohéli (Mwali)",
+        "ADM1_PCODE": "KM3",
+        "ADM2_EN": "Nioumachioi",
+        "ADM2_PCODE": "KM33",
+        "ADM3_EN": "Mlédjélé",
+        "ADM3_PCODE": "KM331"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moimbao",
-        "ADM3_PCODE": "KM332",
-        "ADM1_PCODE": "KM3",
-        "ADM1_EN": "Mohéli (Mwali)",
-        "ADM0_PCODE": "KM",
-        "ADM2_PCODE": "KM33",
-        "ADM2_EN": "Nioumachioi"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3421,6 +3513,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "KM",
+        "ADM0_ISO_A2": "KM",
+        "ADM0_ISO_A3": "COM",
+        "ADM1_EN": "Mohéli (Mwali)",
+        "ADM1_PCODE": "KM3",
+        "ADM2_EN": "Nioumachioi",
+        "ADM2_PCODE": "KM33",
+        "ADM3_EN": "Moimbao",
+        "ADM3_PCODE": "KM332"
       }
     }
   ]

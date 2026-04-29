@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MDG_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Analamanga",
-        "ADM1_PCODE": "MG11"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -566,14 +555,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Analamanga",
+        "ADM1_PCODE": "MG11"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Vakinankaratra",
-        "ADM1_PCODE": "MG12"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1202,14 +1194,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Vakinankaratra",
+        "ADM1_PCODE": "MG12"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Itasy",
-        "ADM1_PCODE": "MG13"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1638,14 +1633,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Itasy",
+        "ADM1_PCODE": "MG13"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bongolava",
-        "ADM1_PCODE": "MG14"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2246,14 +2244,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Bongolava",
+        "ADM1_PCODE": "MG14"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Haute Matsiatra",
-        "ADM1_PCODE": "MG21"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2890,14 +2891,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Haute Matsiatra",
+        "ADM1_PCODE": "MG21"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Amoron I Mania",
-        "ADM1_PCODE": "MG22"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3598,14 +3602,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Amoron I Mania",
+        "ADM1_PCODE": "MG22"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Vatovavy Fitovinany",
-        "ADM1_PCODE": "MG23"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4170,14 +4177,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Vatovavy Fitovinany",
+        "ADM1_PCODE": "MG23"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ihorombe",
-        "ADM1_PCODE": "MG24"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5058,14 +5068,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Ihorombe",
+        "ADM1_PCODE": "MG24"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Atsimo Atsinanana",
-        "ADM1_PCODE": "MG25"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5706,14 +5719,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Atsimo Atsinanana",
+        "ADM1_PCODE": "MG25"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Atsinanana",
-        "ADM1_PCODE": "MG31"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6666,14 +6682,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Atsinanana",
+        "ADM1_PCODE": "MG31"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Analanjirofo",
-        "ADM1_PCODE": "MG32"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8562,14 +8581,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Analanjirofo",
+        "ADM1_PCODE": "MG32"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Alaotra Mangoro",
-        "ADM1_PCODE": "MG33"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9526,14 +9548,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Alaotra Mangoro",
+        "ADM1_PCODE": "MG33"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Boeny",
-        "ADM1_PCODE": "MG41"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11130,14 +11155,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Boeny",
+        "ADM1_PCODE": "MG41"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sofia",
-        "ADM1_PCODE": "MG42"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13162,14 +13190,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Sofia",
+        "ADM1_PCODE": "MG42"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Betsiboka",
-        "ADM1_PCODE": "MG43"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14046,14 +14077,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Betsiboka",
+        "ADM1_PCODE": "MG43"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Melaky",
-        "ADM1_PCODE": "MG44"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15102,14 +15136,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Melaky",
+        "ADM1_PCODE": "MG44"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Atsimo Andrefana",
-        "ADM1_PCODE": "MG51"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17750,14 +17787,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Atsimo Andrefana",
+        "ADM1_PCODE": "MG51"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Androy",
-        "ADM1_PCODE": "MG52"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18186,14 +18226,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Androy",
+        "ADM1_PCODE": "MG52"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Anosy",
-        "ADM1_PCODE": "MG53"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20526,14 +20569,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Anosy",
+        "ADM1_PCODE": "MG53"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Menabe",
-        "ADM1_PCODE": "MG54"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22122,14 +22168,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Menabe",
+        "ADM1_PCODE": "MG54"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Diana",
-        "ADM1_PCODE": "MG71"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -30418,14 +30467,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Diana",
+        "ADM1_PCODE": "MG71"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sava",
-        "ADM1_PCODE": "MG72"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -32838,6 +32890,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "MG",
+        "ADM0_ISO_A2": "MG",
+        "ADM0_ISO_A3": "MDG",
+        "ADM1_EN": "Sava",
+        "ADM1_PCODE": "MG72"
       }
     }
   ]

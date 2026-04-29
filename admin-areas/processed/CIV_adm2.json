@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "CIV_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abidjan",
-        "ADM2_PCODE": "CI0101",
-        "ADM1_PCODE": "CI01",
-        "ADM1_EN": "District Autonome D'Abidjan",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -149,17 +135,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "District Autonome D'Abidjan",
+        "ADM1_PCODE": "CI01",
+        "ADM2_EN": "Abidjan",
+        "ADM2_PCODE": "CI0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Attiégouakro",
-        "ADM2_PCODE": "CI0201",
-        "ADM1_PCODE": "CI02",
-        "ADM1_EN": "District Autonome De Yamoussoukro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -264,17 +252,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "District Autonome De Yamoussoukro",
+        "ADM1_PCODE": "CI02",
+        "ADM2_EN": "Attiégouakro",
+        "ADM2_PCODE": "CI0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yamoussoukro",
-        "ADM2_PCODE": "CI0202",
-        "ADM1_PCODE": "CI02",
-        "ADM1_EN": "District Autonome De Yamoussoukro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -375,17 +365,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "District Autonome De Yamoussoukro",
+        "ADM1_PCODE": "CI02",
+        "ADM2_EN": "Yamoussoukro",
+        "ADM2_PCODE": "CI0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agboville",
-        "ADM2_PCODE": "CI0301",
-        "ADM1_PCODE": "CI03",
-        "ADM1_EN": "Agneby-Tiassa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -530,17 +522,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Agneby-Tiassa",
+        "ADM1_PCODE": "CI03",
+        "ADM2_EN": "Agboville",
+        "ADM2_PCODE": "CI0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sikensi",
-        "ADM2_PCODE": "CI0302",
-        "ADM1_PCODE": "CI03",
-        "ADM1_EN": "Agneby-Tiassa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -605,17 +599,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Agneby-Tiassa",
+        "ADM1_PCODE": "CI03",
+        "ADM2_EN": "Sikensi",
+        "ADM2_PCODE": "CI0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Taabo",
-        "ADM2_PCODE": "CI0303",
-        "ADM1_PCODE": "CI03",
-        "ADM1_EN": "Agneby-Tiassa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -724,17 +720,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Agneby-Tiassa",
+        "ADM1_PCODE": "CI03",
+        "ADM2_EN": "Taabo",
+        "ADM2_PCODE": "CI0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tiassalé",
-        "ADM2_PCODE": "CI0304",
-        "ADM1_PCODE": "CI03",
-        "ADM1_EN": "Agneby-Tiassa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -899,17 +897,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Agneby-Tiassa",
+        "ADM1_PCODE": "CI03",
+        "ADM2_EN": "Tiassalé",
+        "ADM2_PCODE": "CI0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Koro",
-        "ADM2_PCODE": "CI0401",
-        "ADM1_PCODE": "CI04",
-        "ADM1_EN": "Bafing",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1166,17 +1166,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bafing",
+        "ADM1_PCODE": "CI04",
+        "ADM2_EN": "Koro",
+        "ADM2_PCODE": "CI0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouaninou",
-        "ADM2_PCODE": "CI0402",
-        "ADM1_PCODE": "CI04",
-        "ADM1_EN": "Bafing",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1397,17 +1399,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bafing",
+        "ADM1_PCODE": "CI04",
+        "ADM2_EN": "Ouaninou",
+        "ADM2_PCODE": "CI0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Touba",
-        "ADM2_PCODE": "CI0403",
-        "ADM1_PCODE": "CI04",
-        "ADM1_EN": "Bafing",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1692,17 +1696,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bafing",
+        "ADM1_PCODE": "CI04",
+        "ADM2_EN": "Touba",
+        "ADM2_PCODE": "CI0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boundiali",
-        "ADM2_PCODE": "CI0501",
-        "ADM1_PCODE": "CI05",
-        "ADM1_EN": "Bagoue",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2031,17 +2037,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bagoue",
+        "ADM1_PCODE": "CI05",
+        "ADM2_EN": "Boundiali",
+        "ADM2_PCODE": "CI0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kouto",
-        "ADM2_PCODE": "CI0502",
-        "ADM1_PCODE": "CI05",
-        "ADM1_EN": "Bagoue",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2326,17 +2334,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bagoue",
+        "ADM1_PCODE": "CI05",
+        "ADM2_EN": "Kouto",
+        "ADM2_PCODE": "CI0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tengrela",
-        "ADM2_PCODE": "CI0503",
-        "ADM1_PCODE": "CI05",
-        "ADM1_EN": "Bagoue",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2577,17 +2587,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bagoue",
+        "ADM1_PCODE": "CI05",
+        "ADM2_EN": "Tengrela",
+        "ADM2_PCODE": "CI0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Didievi",
-        "ADM2_PCODE": "CI0601",
-        "ADM1_PCODE": "CI06",
-        "ADM1_EN": "Belier",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2728,17 +2740,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Belier",
+        "ADM1_PCODE": "CI06",
+        "ADM2_EN": "Didievi",
+        "ADM2_PCODE": "CI0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Djekanou",
-        "ADM2_PCODE": "CI0602",
-        "ADM1_PCODE": "CI06",
-        "ADM1_EN": "Belier",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2811,17 +2825,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Belier",
+        "ADM1_PCODE": "CI06",
+        "ADM2_EN": "Djekanou",
+        "ADM2_PCODE": "CI0602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tiébissou",
-        "ADM2_PCODE": "CI0603",
-        "ADM1_PCODE": "CI06",
-        "ADM1_EN": "Belier",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2986,17 +3002,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Belier",
+        "ADM1_PCODE": "CI06",
+        "ADM2_EN": "Tiébissou",
+        "ADM2_PCODE": "CI0603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Toumodi",
-        "ADM2_PCODE": "CI0604",
-        "ADM1_PCODE": "CI06",
-        "ADM1_EN": "Belier",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3265,17 +3283,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Belier",
+        "ADM1_PCODE": "CI06",
+        "ADM2_EN": "Toumodi",
+        "ADM2_PCODE": "CI0604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dianra",
-        "ADM2_PCODE": "CI0701",
-        "ADM1_PCODE": "CI07",
-        "ADM1_EN": "Bere",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3528,17 +3548,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bere",
+        "ADM1_PCODE": "CI07",
+        "ADM2_EN": "Dianra",
+        "ADM2_PCODE": "CI0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kounahiri",
-        "ADM2_PCODE": "CI0702",
-        "ADM1_PCODE": "CI07",
-        "ADM1_EN": "Bere",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3695,17 +3717,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bere",
+        "ADM1_PCODE": "CI07",
+        "ADM2_EN": "Kounahiri",
+        "ADM2_PCODE": "CI0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Mankono",
-        "ADM2_PCODE": "CI0703",
-        "ADM1_PCODE": "CI07",
-        "ADM1_EN": "Bere",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3998,17 +4022,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bere",
+        "ADM1_PCODE": "CI07",
+        "ADM2_EN": "Mankono",
+        "ADM2_PCODE": "CI0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bouna",
-        "ADM2_PCODE": "CI0801",
-        "ADM1_PCODE": "CI08",
-        "ADM1_EN": "Bounkani",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4401,17 +4427,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bounkani",
+        "ADM1_PCODE": "CI08",
+        "ADM2_EN": "Bouna",
+        "ADM2_PCODE": "CI0801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Doropo",
-        "ADM2_PCODE": "CI0802",
-        "ADM1_PCODE": "CI08",
-        "ADM1_EN": "Bounkani",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4548,17 +4576,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bounkani",
+        "ADM1_PCODE": "CI08",
+        "ADM2_EN": "Doropo",
+        "ADM2_PCODE": "CI0802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nassian",
-        "ADM2_PCODE": "CI0803",
-        "ADM1_PCODE": "CI08",
-        "ADM1_EN": "Bounkani",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4763,17 +4793,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bounkani",
+        "ADM1_PCODE": "CI08",
+        "ADM2_EN": "Nassian",
+        "ADM2_PCODE": "CI0803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Téhini",
-        "ADM2_PCODE": "CI0804",
-        "ADM1_PCODE": "CI08",
-        "ADM1_EN": "Bounkani",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4926,17 +4958,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Bounkani",
+        "ADM1_PCODE": "CI08",
+        "ADM2_EN": "Téhini",
+        "ADM2_PCODE": "CI0804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bloléquin",
-        "ADM2_PCODE": "CI0901",
-        "ADM1_PCODE": "CI09",
-        "ADM1_EN": "Cavally",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5169,17 +5203,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Cavally",
+        "ADM1_PCODE": "CI09",
+        "ADM2_EN": "Bloléquin",
+        "ADM2_PCODE": "CI0901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guiglo",
-        "ADM2_PCODE": "CI0902",
-        "ADM1_PCODE": "CI09",
-        "ADM1_EN": "Cavally",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5328,17 +5364,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Cavally",
+        "ADM1_PCODE": "CI09",
+        "ADM2_EN": "Guiglo",
+        "ADM2_PCODE": "CI0902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Taï",
-        "ADM2_PCODE": "CI0903",
-        "ADM1_PCODE": "CI09",
-        "ADM1_EN": "Cavally",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5551,17 +5589,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Cavally",
+        "ADM1_PCODE": "CI09",
+        "ADM2_EN": "Taï",
+        "ADM2_PCODE": "CI0903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Toulepleu",
-        "ADM2_PCODE": "CI0904",
-        "ADM1_PCODE": "CI09",
-        "ADM1_EN": "Cavally",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5730,17 +5770,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Cavally",
+        "ADM1_PCODE": "CI09",
+        "ADM2_EN": "Toulepleu",
+        "ADM2_PCODE": "CI0904"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kaniasso",
-        "ADM2_PCODE": "CI1001",
-        "ADM1_PCODE": "CI10",
-        "ADM1_EN": "Folon",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5993,17 +6035,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Folon",
+        "ADM1_PCODE": "CI10",
+        "ADM2_EN": "Kaniasso",
+        "ADM2_PCODE": "CI1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Minignan",
-        "ADM2_PCODE": "CI1002",
-        "ADM1_PCODE": "CI10",
-        "ADM1_EN": "Folon",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6292,17 +6336,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Folon",
+        "ADM1_PCODE": "CI10",
+        "ADM2_EN": "Minignan",
+        "ADM2_PCODE": "CI1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Béoumi",
-        "ADM2_PCODE": "CI1101",
-        "ADM1_PCODE": "CI11",
-        "ADM1_EN": "Gbeke",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6459,17 +6505,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gbeke",
+        "ADM1_PCODE": "CI11",
+        "ADM2_EN": "Béoumi",
+        "ADM2_PCODE": "CI1101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Botro",
-        "ADM2_PCODE": "CI1102",
-        "ADM1_PCODE": "CI11",
-        "ADM1_EN": "Gbeke",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6602,17 +6650,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gbeke",
+        "ADM1_PCODE": "CI11",
+        "ADM2_EN": "Botro",
+        "ADM2_PCODE": "CI1102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bouaké",
-        "ADM2_PCODE": "CI1103",
-        "ADM1_PCODE": "CI11",
-        "ADM1_EN": "Gbeke",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6821,17 +6871,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gbeke",
+        "ADM1_PCODE": "CI11",
+        "ADM2_EN": "Bouaké",
+        "ADM2_PCODE": "CI1103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sakassou",
-        "ADM2_PCODE": "CI1104",
-        "ADM1_PCODE": "CI11",
-        "ADM1_EN": "Gbeke",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6984,17 +7036,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gbeke",
+        "ADM1_PCODE": "CI11",
+        "ADM2_EN": "Sakassou",
+        "ADM2_PCODE": "CI1104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Fresco",
-        "ADM2_PCODE": "CI1201",
-        "ADM1_PCODE": "CI12",
-        "ADM1_EN": "Gbokle",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7119,17 +7173,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gbokle",
+        "ADM1_PCODE": "CI12",
+        "ADM2_EN": "Fresco",
+        "ADM2_PCODE": "CI1201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sassandra",
-        "ADM2_PCODE": "CI1202",
-        "ADM1_PCODE": "CI12",
-        "ADM1_EN": "Gbokle",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7346,17 +7402,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gbokle",
+        "ADM1_PCODE": "CI12",
+        "ADM2_EN": "Sassandra",
+        "ADM2_PCODE": "CI1202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gagnoa",
-        "ADM2_PCODE": "CI1301",
-        "ADM1_PCODE": "CI13",
-        "ADM1_EN": "Goh",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7505,17 +7563,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Goh",
+        "ADM1_PCODE": "CI13",
+        "ADM2_EN": "Gagnoa",
+        "ADM2_PCODE": "CI1301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Oumé",
-        "ADM2_PCODE": "CI1302",
-        "ADM1_PCODE": "CI13",
-        "ADM1_EN": "Goh",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7688,17 +7748,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Goh",
+        "ADM1_PCODE": "CI13",
+        "ADM2_EN": "Oumé",
+        "ADM2_PCODE": "CI1302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bondoukou",
-        "ADM2_PCODE": "CI1401",
-        "ADM1_PCODE": "CI14",
-        "ADM1_EN": "Gontougo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7899,17 +7961,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gontougo",
+        "ADM1_PCODE": "CI14",
+        "ADM2_EN": "Bondoukou",
+        "ADM2_PCODE": "CI1401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Koun Fao",
-        "ADM2_PCODE": "CI1402",
-        "ADM1_PCODE": "CI14",
-        "ADM1_EN": "Gontougo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8150,17 +8214,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gontougo",
+        "ADM1_PCODE": "CI14",
+        "ADM2_EN": "Koun Fao",
+        "ADM2_PCODE": "CI1402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sandegue",
-        "ADM2_PCODE": "CI1403",
-        "ADM1_PCODE": "CI14",
-        "ADM1_EN": "Gontougo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8377,17 +8443,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gontougo",
+        "ADM1_PCODE": "CI14",
+        "ADM2_EN": "Sandegue",
+        "ADM2_PCODE": "CI1403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tanda",
-        "ADM2_PCODE": "CI1404",
-        "ADM1_PCODE": "CI14",
-        "ADM1_EN": "Gontougo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8516,17 +8584,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gontougo",
+        "ADM1_PCODE": "CI14",
+        "ADM2_EN": "Tanda",
+        "ADM2_PCODE": "CI1404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Transua",
-        "ADM2_PCODE": "CI1405",
-        "ADM1_PCODE": "CI14",
-        "ADM1_EN": "Gontougo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8647,17 +8717,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Gontougo",
+        "ADM1_PCODE": "CI14",
+        "ADM2_EN": "Transua",
+        "ADM2_PCODE": "CI1405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dabou",
-        "ADM2_PCODE": "CI1501",
-        "ADM1_PCODE": "CI15",
-        "ADM1_EN": "Grands Ponts",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8762,17 +8834,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Grands Ponts",
+        "ADM1_PCODE": "CI15",
+        "ADM2_EN": "Dabou",
+        "ADM2_PCODE": "CI1501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Grand-Lahou",
-        "ADM2_PCODE": "CI1502",
-        "ADM1_PCODE": "CI15",
-        "ADM1_EN": "Grands Ponts",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8969,17 +9043,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Grands Ponts",
+        "ADM1_PCODE": "CI15",
+        "ADM2_EN": "Grand-Lahou",
+        "ADM2_PCODE": "CI1502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Jacqueville",
-        "ADM2_PCODE": "CI1503",
-        "ADM1_PCODE": "CI15",
-        "ADM1_EN": "Grands Ponts",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9068,17 +9144,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Grands Ponts",
+        "ADM1_PCODE": "CI15",
+        "ADM2_EN": "Jacqueville",
+        "ADM2_PCODE": "CI1503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bangolo",
-        "ADM2_PCODE": "CI1601",
-        "ADM1_PCODE": "CI16",
-        "ADM1_EN": "Guemon",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9215,17 +9293,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Guemon",
+        "ADM1_PCODE": "CI16",
+        "ADM2_EN": "Bangolo",
+        "ADM2_PCODE": "CI1601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Duékoué",
-        "ADM2_PCODE": "CI1602",
-        "ADM1_PCODE": "CI16",
-        "ADM1_EN": "Guemon",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9366,17 +9446,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Guemon",
+        "ADM1_PCODE": "CI16",
+        "ADM2_EN": "Duékoué",
+        "ADM2_PCODE": "CI1602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Facobly",
-        "ADM2_PCODE": "CI1603",
-        "ADM1_PCODE": "CI16",
-        "ADM1_EN": "Guemon",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9497,17 +9579,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Guemon",
+        "ADM1_PCODE": "CI16",
+        "ADM2_EN": "Facobly",
+        "ADM2_PCODE": "CI1603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kouibly",
-        "ADM2_PCODE": "CI1604",
-        "ADM1_PCODE": "CI16",
-        "ADM1_EN": "Guemon",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9628,17 +9712,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Guemon",
+        "ADM1_PCODE": "CI16",
+        "ADM2_EN": "Kouibly",
+        "ADM2_PCODE": "CI1604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dabakala",
-        "ADM2_PCODE": "CI1701",
-        "ADM1_PCODE": "CI17",
-        "ADM1_EN": "Hambol",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10035,17 +10121,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Hambol",
+        "ADM1_PCODE": "CI17",
+        "ADM2_EN": "Dabakala",
+        "ADM2_PCODE": "CI1701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Katiola",
-        "ADM2_PCODE": "CI1702",
-        "ADM1_PCODE": "CI17",
-        "ADM1_EN": "Hambol",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10210,17 +10298,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Hambol",
+        "ADM1_PCODE": "CI17",
+        "ADM2_EN": "Katiola",
+        "ADM2_PCODE": "CI1702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Niakaramandougou",
-        "ADM2_PCODE": "CI1703",
-        "ADM1_PCODE": "CI17",
-        "ADM1_EN": "Hambol",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10625,17 +10715,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Hambol",
+        "ADM1_PCODE": "CI17",
+        "ADM2_EN": "Niakaramandougou",
+        "ADM2_PCODE": "CI1703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Daloa",
-        "ADM2_PCODE": "CI1801",
-        "ADM1_PCODE": "CI18",
-        "ADM1_EN": "Haut-Sassandra",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10844,17 +10936,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Haut-Sassandra",
+        "ADM1_PCODE": "CI18",
+        "ADM2_EN": "Daloa",
+        "ADM2_PCODE": "CI1801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Issia",
-        "ADM2_PCODE": "CI1802",
-        "ADM1_PCODE": "CI18",
-        "ADM1_EN": "Haut-Sassandra",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10967,17 +11061,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Haut-Sassandra",
+        "ADM1_PCODE": "CI18",
+        "ADM2_EN": "Issia",
+        "ADM2_PCODE": "CI1802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Vavoua",
-        "ADM2_PCODE": "CI1803",
-        "ADM1_PCODE": "CI18",
-        "ADM1_EN": "Haut-Sassandra",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11122,17 +11218,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Haut-Sassandra",
+        "ADM1_PCODE": "CI18",
+        "ADM2_EN": "Vavoua",
+        "ADM2_PCODE": "CI1803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zoukougbeu",
-        "ADM2_PCODE": "CI1804",
-        "ADM1_PCODE": "CI18",
-        "ADM1_EN": "Haut-Sassandra",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11289,17 +11387,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Haut-Sassandra",
+        "ADM1_PCODE": "CI18",
+        "ADM2_EN": "Zoukougbeu",
+        "ADM2_PCODE": "CI1804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Daoukro",
-        "ADM2_PCODE": "CI1901",
-        "ADM1_PCODE": "CI19",
-        "ADM1_EN": "Iffou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11572,17 +11672,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Iffou",
+        "ADM1_PCODE": "CI19",
+        "ADM2_EN": "Daoukro",
+        "ADM2_PCODE": "CI1901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "M'Bahiakro",
-        "ADM2_PCODE": "CI1902",
-        "ADM1_PCODE": "CI19",
-        "ADM1_EN": "Iffou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11727,17 +11829,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Iffou",
+        "ADM1_PCODE": "CI19",
+        "ADM2_EN": "M'Bahiakro",
+        "ADM2_PCODE": "CI1902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Prikro",
-        "ADM2_PCODE": "CI1903",
-        "ADM1_PCODE": "CI19",
-        "ADM1_EN": "Iffou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11942,17 +12046,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Iffou",
+        "ADM1_PCODE": "CI19",
+        "ADM2_EN": "Prikro",
+        "ADM2_PCODE": "CI1903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abengourou",
-        "ADM2_PCODE": "CI2001",
-        "ADM1_PCODE": "CI20",
-        "ADM1_EN": "Indenie-Djuablin",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12181,17 +12287,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Indenie-Djuablin",
+        "ADM1_PCODE": "CI20",
+        "ADM2_EN": "Abengourou",
+        "ADM2_PCODE": "CI2001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agnibilékrou",
-        "ADM2_PCODE": "CI2002",
-        "ADM1_PCODE": "CI20",
-        "ADM1_EN": "Indenie-Djuablin",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12348,17 +12456,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Indenie-Djuablin",
+        "ADM1_PCODE": "CI20",
+        "ADM2_EN": "Agnibilékrou",
+        "ADM2_PCODE": "CI2002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Béttié",
-        "ADM2_PCODE": "CI2003",
-        "ADM1_PCODE": "CI20",
-        "ADM1_EN": "Indenie-Djuablin",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12499,17 +12609,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Indenie-Djuablin",
+        "ADM1_PCODE": "CI20",
+        "ADM2_EN": "Béttié",
+        "ADM2_PCODE": "CI2003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gbeleban",
-        "ADM2_PCODE": "CI2101",
-        "ADM1_PCODE": "CI21",
-        "ADM1_EN": "Kabadougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -12674,17 +12786,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Kabadougou",
+        "ADM1_PCODE": "CI21",
+        "ADM2_EN": "Gbeleban",
+        "ADM2_PCODE": "CI2101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Madinani",
-        "ADM2_PCODE": "CI2102",
-        "ADM1_PCODE": "CI21",
-        "ADM1_EN": "Kabadougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12825,17 +12939,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Kabadougou",
+        "ADM1_PCODE": "CI21",
+        "ADM2_EN": "Madinani",
+        "ADM2_PCODE": "CI2102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Odienne",
-        "ADM2_PCODE": "CI2103",
-        "ADM1_PCODE": "CI21",
-        "ADM1_EN": "Kabadougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13148,17 +13264,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Kabadougou",
+        "ADM1_PCODE": "CI21",
+        "ADM2_EN": "Odienne",
+        "ADM2_PCODE": "CI2103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Samatiguila",
-        "ADM2_PCODE": "CI2104",
-        "ADM1_PCODE": "CI21",
-        "ADM1_EN": "Kabadougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13247,17 +13365,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Kabadougou",
+        "ADM1_PCODE": "CI21",
+        "ADM2_EN": "Samatiguila",
+        "ADM2_PCODE": "CI2104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Séguélon",
-        "ADM2_PCODE": "CI2105",
-        "ADM1_PCODE": "CI21",
-        "ADM1_EN": "Kabadougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13410,17 +13530,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Kabadougou",
+        "ADM1_PCODE": "CI21",
+        "ADM2_EN": "Séguélon",
+        "ADM2_PCODE": "CI2105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Divo",
-        "ADM2_PCODE": "CI2201",
-        "ADM1_PCODE": "CI22",
-        "ADM1_EN": "Loh-Djiboua",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13537,17 +13659,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Loh-Djiboua",
+        "ADM1_PCODE": "CI22",
+        "ADM2_EN": "Divo",
+        "ADM2_PCODE": "CI2201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guitry",
-        "ADM2_PCODE": "CI2202",
-        "ADM1_PCODE": "CI22",
-        "ADM1_EN": "Loh-Djiboua",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13692,17 +13816,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Loh-Djiboua",
+        "ADM1_PCODE": "CI22",
+        "ADM2_EN": "Guitry",
+        "ADM2_PCODE": "CI2202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lakota",
-        "ADM2_PCODE": "CI2203",
-        "ADM1_PCODE": "CI22",
-        "ADM1_EN": "Loh-Djiboua",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13827,17 +13953,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Loh-Djiboua",
+        "ADM1_PCODE": "CI22",
+        "ADM2_EN": "Lakota",
+        "ADM2_PCODE": "CI2203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bouaflé",
-        "ADM2_PCODE": "CI2301",
-        "ADM1_PCODE": "CI23",
-        "ADM1_EN": "Marahoue",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14010,17 +14138,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Marahoue",
+        "ADM1_PCODE": "CI23",
+        "ADM2_EN": "Bouaflé",
+        "ADM2_PCODE": "CI2301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sinfra",
-        "ADM2_PCODE": "CI2302",
-        "ADM1_PCODE": "CI23",
-        "ADM1_EN": "Marahoue",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14109,17 +14239,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Marahoue",
+        "ADM1_PCODE": "CI23",
+        "ADM2_EN": "Sinfra",
+        "ADM2_PCODE": "CI2302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zuénoula",
-        "ADM2_PCODE": "CI2303",
-        "ADM1_PCODE": "CI23",
-        "ADM1_EN": "Marahoue",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14248,17 +14380,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Marahoue",
+        "ADM1_PCODE": "CI23",
+        "ADM2_EN": "Zuénoula",
+        "ADM2_PCODE": "CI2303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adzopé",
-        "ADM2_PCODE": "CI2401",
-        "ADM1_PCODE": "CI24",
-        "ADM1_EN": "Me",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14407,17 +14541,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Me",
+        "ADM1_PCODE": "CI24",
+        "ADM2_EN": "Adzopé",
+        "ADM2_PCODE": "CI2401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akoupé",
-        "ADM2_PCODE": "CI2402",
-        "ADM1_PCODE": "CI24",
-        "ADM1_EN": "Me",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14526,17 +14662,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Me",
+        "ADM1_PCODE": "CI24",
+        "ADM2_EN": "Akoupé",
+        "ADM2_PCODE": "CI2402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Alépé",
-        "ADM2_PCODE": "CI2403",
-        "ADM1_PCODE": "CI24",
-        "ADM1_EN": "Me",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14761,17 +14899,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Me",
+        "ADM1_PCODE": "CI24",
+        "ADM2_EN": "Alépé",
+        "ADM2_PCODE": "CI2403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Yakassé-Attobrou",
-        "ADM2_PCODE": "CI2404",
-        "ADM1_PCODE": "CI24",
-        "ADM1_EN": "Me",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14904,17 +15044,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Me",
+        "ADM1_PCODE": "CI24",
+        "ADM2_EN": "Yakassé-Attobrou",
+        "ADM2_PCODE": "CI2404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Arrah",
-        "ADM2_PCODE": "CI2501",
-        "ADM1_PCODE": "CI25",
-        "ADM1_EN": "Moronou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15039,17 +15181,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Moronou",
+        "ADM1_PCODE": "CI25",
+        "ADM2_EN": "Arrah",
+        "ADM2_PCODE": "CI2501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bongouanou",
-        "ADM2_PCODE": "CI2502",
-        "ADM1_PCODE": "CI25",
-        "ADM1_EN": "Moronou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15146,17 +15290,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Moronou",
+        "ADM1_PCODE": "CI25",
+        "ADM2_EN": "Bongouanou",
+        "ADM2_PCODE": "CI2502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "M'Batto",
-        "ADM2_PCODE": "CI2503",
-        "ADM1_PCODE": "CI25",
-        "ADM1_EN": "Moronou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15345,17 +15491,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Moronou",
+        "ADM1_PCODE": "CI25",
+        "ADM2_EN": "M'Batto",
+        "ADM2_PCODE": "CI2503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Buyo",
-        "ADM2_PCODE": "CI2601",
-        "ADM1_PCODE": "CI26",
-        "ADM1_EN": "Nawa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15540,17 +15688,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Nawa",
+        "ADM1_PCODE": "CI26",
+        "ADM2_EN": "Buyo",
+        "ADM2_PCODE": "CI2601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Guéyo",
-        "ADM2_PCODE": "CI2602",
-        "ADM1_PCODE": "CI26",
-        "ADM1_EN": "Nawa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15659,17 +15809,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Nawa",
+        "ADM1_PCODE": "CI26",
+        "ADM2_EN": "Guéyo",
+        "ADM2_PCODE": "CI2602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Méagui",
-        "ADM2_PCODE": "CI2603",
-        "ADM1_PCODE": "CI26",
-        "ADM1_EN": "Nawa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15850,17 +16002,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Nawa",
+        "ADM1_PCODE": "CI26",
+        "ADM2_EN": "Méagui",
+        "ADM2_PCODE": "CI2603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Soubré",
-        "ADM2_PCODE": "CI2604",
-        "ADM1_PCODE": "CI26",
-        "ADM1_EN": "Nawa",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16133,17 +16287,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Nawa",
+        "ADM1_PCODE": "CI26",
+        "ADM2_EN": "Soubré",
+        "ADM2_PCODE": "CI2604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bocanda",
-        "ADM2_PCODE": "CI2701",
-        "ADM1_PCODE": "CI27",
-        "ADM1_EN": "N'Zi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16320,17 +16476,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "N'Zi",
+        "ADM1_PCODE": "CI27",
+        "ADM2_EN": "Bocanda",
+        "ADM2_PCODE": "CI2701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dimbokro",
-        "ADM2_PCODE": "CI2702",
-        "ADM1_PCODE": "CI27",
-        "ADM1_EN": "N'Zi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16499,17 +16657,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "N'Zi",
+        "ADM1_PCODE": "CI27",
+        "ADM2_EN": "Dimbokro",
+        "ADM2_PCODE": "CI2702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kouassi-Kouassikro",
-        "ADM2_PCODE": "CI2703",
-        "ADM1_PCODE": "CI27",
-        "ADM1_EN": "N'Zi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16578,17 +16738,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "N'Zi",
+        "ADM1_PCODE": "CI27",
+        "ADM2_EN": "Kouassi-Kouassikro",
+        "ADM2_PCODE": "CI2703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dikodougou",
-        "ADM2_PCODE": "CI2801",
-        "ADM1_PCODE": "CI28",
-        "ADM1_EN": "Poro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16833,17 +16995,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Poro",
+        "ADM1_PCODE": "CI28",
+        "ADM2_EN": "Dikodougou",
+        "ADM2_PCODE": "CI2801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Korhogo",
-        "ADM2_PCODE": "CI2802",
-        "ADM1_PCODE": "CI28",
-        "ADM1_EN": "Poro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17368,17 +17532,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Poro",
+        "ADM1_PCODE": "CI28",
+        "ADM2_EN": "Korhogo",
+        "ADM2_PCODE": "CI2802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "M'Bengué",
-        "ADM2_PCODE": "CI2803",
-        "ADM1_PCODE": "CI28",
-        "ADM1_EN": "Poro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17639,17 +17805,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Poro",
+        "ADM1_PCODE": "CI28",
+        "ADM2_EN": "M'Bengué",
+        "ADM2_PCODE": "CI2803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sinématiali",
-        "ADM2_PCODE": "CI2804",
-        "ADM1_PCODE": "CI28",
-        "ADM1_EN": "Poro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17798,17 +17966,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Poro",
+        "ADM1_PCODE": "CI28",
+        "ADM2_EN": "Sinématiali",
+        "ADM2_PCODE": "CI2804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "San Pédro",
-        "ADM2_PCODE": "CI2901",
-        "ADM1_PCODE": "CI29",
-        "ADM1_EN": "San Pedro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18173,17 +18343,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "San Pedro",
+        "ADM1_PCODE": "CI29",
+        "ADM2_EN": "San Pédro",
+        "ADM2_PCODE": "CI2901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tabou",
-        "ADM2_PCODE": "CI2902",
-        "ADM1_PCODE": "CI29",
-        "ADM1_EN": "San Pedro",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18480,17 +18652,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "San Pedro",
+        "ADM1_PCODE": "CI29",
+        "ADM2_EN": "Tabou",
+        "ADM2_PCODE": "CI2902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aboisso",
-        "ADM2_PCODE": "CI3001",
-        "ADM1_PCODE": "CI30",
-        "ADM1_EN": "Sud-Comoe",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18691,17 +18865,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Sud-Comoe",
+        "ADM1_PCODE": "CI30",
+        "ADM2_EN": "Aboisso",
+        "ADM2_PCODE": "CI3001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adiaké",
-        "ADM2_PCODE": "CI3002",
-        "ADM1_PCODE": "CI30",
-        "ADM1_EN": "Sud-Comoe",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18770,17 +18946,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Sud-Comoe",
+        "ADM1_PCODE": "CI30",
+        "ADM2_EN": "Adiaké",
+        "ADM2_PCODE": "CI3002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Grand-Bassam",
-        "ADM2_PCODE": "CI3003",
-        "ADM1_PCODE": "CI30",
-        "ADM1_EN": "Sud-Comoe",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18901,17 +19079,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Sud-Comoe",
+        "ADM1_PCODE": "CI30",
+        "ADM2_EN": "Grand-Bassam",
+        "ADM2_PCODE": "CI3003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tiapoum",
-        "ADM2_PCODE": "CI3004",
-        "ADM1_PCODE": "CI30",
-        "ADM1_EN": "Sud-Comoe",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19024,17 +19204,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Sud-Comoe",
+        "ADM1_PCODE": "CI30",
+        "ADM2_EN": "Tiapoum",
+        "ADM2_PCODE": "CI3004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ferkessédougou",
-        "ADM2_PCODE": "CI3101",
-        "ADM1_PCODE": "CI31",
-        "ADM1_EN": "Tchologo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19283,17 +19465,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tchologo",
+        "ADM1_PCODE": "CI31",
+        "ADM2_EN": "Ferkessédougou",
+        "ADM2_PCODE": "CI3101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kong",
-        "ADM2_PCODE": "CI3102",
-        "ADM1_PCODE": "CI31",
-        "ADM1_EN": "Tchologo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19642,17 +19826,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tchologo",
+        "ADM1_PCODE": "CI31",
+        "ADM2_EN": "Kong",
+        "ADM2_PCODE": "CI3102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouangolodougou",
-        "ADM2_PCODE": "CI3103",
-        "ADM1_PCODE": "CI31",
-        "ADM1_EN": "Tchologo",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19977,17 +20163,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tchologo",
+        "ADM1_PCODE": "CI31",
+        "ADM2_EN": "Ouangolodougou",
+        "ADM2_PCODE": "CI3103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Biankouma",
-        "ADM2_PCODE": "CI3201",
-        "ADM1_PCODE": "CI32",
-        "ADM1_EN": "Tonkpi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20244,17 +20432,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tonkpi",
+        "ADM1_PCODE": "CI32",
+        "ADM2_EN": "Biankouma",
+        "ADM2_PCODE": "CI3201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Danané",
-        "ADM2_PCODE": "CI3202",
-        "ADM1_PCODE": "CI32",
-        "ADM1_EN": "Tonkpi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20435,17 +20625,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tonkpi",
+        "ADM1_PCODE": "CI32",
+        "ADM2_EN": "Danané",
+        "ADM2_PCODE": "CI3202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Man",
-        "ADM2_PCODE": "CI3203",
-        "ADM1_PCODE": "CI32",
-        "ADM1_EN": "Tonkpi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20590,17 +20782,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tonkpi",
+        "ADM1_PCODE": "CI32",
+        "ADM2_EN": "Man",
+        "ADM2_PCODE": "CI3203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sipilou",
-        "ADM2_PCODE": "CI3204",
-        "ADM1_PCODE": "CI32",
-        "ADM1_EN": "Tonkpi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20733,17 +20927,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tonkpi",
+        "ADM1_PCODE": "CI32",
+        "ADM2_EN": "Sipilou",
+        "ADM2_PCODE": "CI3204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zouan-Hounien",
-        "ADM2_PCODE": "CI3205",
-        "ADM1_PCODE": "CI32",
-        "ADM1_EN": "Tonkpi",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20980,17 +21176,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Tonkpi",
+        "ADM1_PCODE": "CI32",
+        "ADM2_EN": "Zouan-Hounien",
+        "ADM2_PCODE": "CI3205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kani",
-        "ADM2_PCODE": "CI3301",
-        "ADM1_PCODE": "CI33",
-        "ADM1_EN": "Worodougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21343,17 +21541,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Worodougou",
+        "ADM1_PCODE": "CI33",
+        "ADM2_EN": "Kani",
+        "ADM2_PCODE": "CI3301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Séguéla",
-        "ADM2_PCODE": "CI3302",
-        "ADM1_PCODE": "CI33",
-        "ADM1_EN": "Worodougou",
-        "ADM0_PCODE": "CI"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21550,6 +21750,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CI",
+        "ADM0_ISO_A2": "CI",
+        "ADM0_ISO_A3": "CIV",
+        "ADM1_EN": "Worodougou",
+        "ADM1_PCODE": "CI33",
+        "ADM2_EN": "Séguéla",
+        "ADM2_PCODE": "CI3302"
       }
     }
   ]

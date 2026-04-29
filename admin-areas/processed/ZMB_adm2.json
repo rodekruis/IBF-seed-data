@@ -1,31 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "ZMB_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "City",
-        "CODE": 0,
-        "ADM2_EN": "Livingstone",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 0,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8006",
-        "zmb_adm__6": "City",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -158,26 +135,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Livingstone",
+        "ADM2_PCODE": "ZM8006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Sinazongwe",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 1,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -434,26 +404,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Sinazongwe",
+        "ADM2_PCODE": "ZM8011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Gwembe",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 2,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -782,26 +745,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Gwembe",
+        "ADM2_PCODE": "ZM8002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kalomo",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 3,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8004",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1290,26 +1246,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Kalomo",
+        "ADM2_PCODE": "ZM8004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Choma",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 4,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8001",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1862,26 +1811,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Choma",
+        "ADM2_PCODE": "ZM8001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kazungula",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 5,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -2738,26 +2680,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Kazungula",
+        "ADM2_PCODE": "ZM8005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Siavonga",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 6,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8010",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3030,26 +2965,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Siavonga",
+        "ADM2_PCODE": "ZM8010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Monze",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 7,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3378,26 +3306,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Monze",
+        "ADM2_PCODE": "ZM8008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Namwala",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 8,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3750,26 +3671,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Namwala",
+        "ADM2_PCODE": "ZM8009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mulobezi",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 9,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9010",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4634,26 +4548,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Mulobezi",
+        "ADM2_PCODE": "ZM9010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Senanga",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 10,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5546,26 +5453,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Senanga",
+        "ADM2_PCODE": "ZM9005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Itezhi-tezhi",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 11,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6162,26 +6062,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Itezhi-tezhi",
+        "ADM2_PCODE": "ZM1009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Luangwa",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 12,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6438,26 +6331,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Luangwa",
+        "ADM2_PCODE": "ZM5003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Rufunsa",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 13,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6838,26 +6724,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Rufunsa",
+        "ADM2_PCODE": "ZM5007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Mongu",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 14,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9004",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7098,26 +6977,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Mongu",
+        "ADM2_PCODE": "ZM9004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Kabwe",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 15,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1002",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7402,26 +7274,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Kabwe",
+        "ADM2_PCODE": "ZM1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chadiza",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 16,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -7590,26 +7455,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Chadiza",
+        "ADM2_PCODE": "ZM3001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Nyimba",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 17,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8102,26 +7960,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Nyimba",
+        "ADM2_PCODE": "ZM3007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Katete",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 18,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3004",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8482,26 +8333,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Katete",
+        "ADM2_PCODE": "ZM3004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Petauke",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 19,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8994,26 +8838,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Petauke",
+        "ADM2_PCODE": "ZM3008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Luano",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 20,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1010",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9762,26 +9599,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Luano",
+        "ADM2_PCODE": "ZM1010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mpongwe",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 21,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10758,26 +10588,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Mpongwe",
+        "ADM2_PCODE": "ZM2008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Kasenengwa",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 22,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3010",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11054,26 +10877,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Kasenengwa",
+        "ADM2_PCODE": "ZM3010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chavuma",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 23,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11210,26 +11026,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Chavuma",
+        "ADM2_PCODE": "ZM7001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mambwe",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 24,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11678,26 +11487,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Mambwe",
+        "ADM2_PCODE": "ZM3006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kasempa",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 25,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13718,26 +13520,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Kasempa",
+        "ADM2_PCODE": "ZM7003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "City",
-        "CODE": 0,
-        "ADM2_EN": "Kitwe",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 26,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2004",
-        "zmb_adm__6": "City",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13918,26 +13713,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Kitwe",
+        "ADM2_PCODE": "ZM2004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kalulushi",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 27,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14114,26 +13902,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Kalulushi",
+        "ADM2_PCODE": "ZM2003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mufulira",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 28,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14334,26 +14115,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Mufulira",
+        "ADM2_PCODE": "ZM2009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chitambo",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 29,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -15238,26 +15012,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Chitambo",
+        "ADM2_PCODE": "ZM1008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lumezi",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 30,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16162,26 +15929,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Lumezi",
+        "ADM2_PCODE": "ZM3011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Solwezi",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 31,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7006",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17326,26 +17086,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Solwezi",
+        "ADM2_PCODE": "ZM7006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Milengi",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 32,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4004",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17798,26 +17551,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Milengi",
+        "ADM2_PCODE": "ZM4004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mwinilunga",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 33,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19054,26 +18800,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Mwinilunga",
+        "ADM2_PCODE": "ZM7005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Samfya",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 34,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19482,26 +19221,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Samfya",
+        "ADM2_PCODE": "ZM4007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chilubi",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 35,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -19814,26 +19546,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Chilubi",
+        "ADM2_PCODE": "ZM6001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Mansa",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 36,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4003",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -20466,26 +20191,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Mansa",
+        "ADM2_PCODE": "ZM4003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chama",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 37,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1112",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21358,26 +21076,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Chama",
+        "ADM2_PCODE": "ZM1112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Luwingu",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 38,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -22446,26 +22157,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Luwingu",
+        "ADM2_PCODE": "ZM6006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Shiwamg'andu",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 39,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1119",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -23214,26 +22918,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Shiwamg'andu",
+        "ADM2_PCODE": "ZM1119"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Kasama",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 40,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6005",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -37046,26 +36743,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Kasama",
+        "ADM2_PCODE": "ZM6005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mungwi",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 41,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -37774,26 +37464,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Mungwi",
+        "ADM2_PCODE": "ZM6011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kawambwa",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 42,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -38866,26 +38549,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Kawambwa",
+        "ADM2_PCODE": "ZM4002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mporokoso",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 43,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -41130,26 +40806,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Mporokoso",
+        "ADM2_PCODE": "ZM6009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Nakonde",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 44,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1111",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -41550,26 +41219,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Nakonde",
+        "ADM2_PCODE": "ZM1111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Nchelenge",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 45,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -41946,26 +41608,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Nchelenge",
+        "ADM2_PCODE": "ZM4006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mpulungu",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 46,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6010",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -42862,26 +42517,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Mpulungu",
+        "ADM2_PCODE": "ZM6010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Nsama",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 47,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -43410,26 +43058,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Nsama",
+        "ADM2_PCODE": "ZM6008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chiengi",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 48,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -43658,26 +43299,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Chiengi",
+        "ADM2_PCODE": "ZM4001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Masaiti",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 49,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -44346,26 +43980,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Masaiti",
+        "ADM2_PCODE": "ZM2007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Luanshya",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 50,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -44558,26 +44185,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Luanshya",
+        "ADM2_PCODE": "ZM2005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "City",
-        "CODE": 0,
-        "ADM2_EN": "Ndola",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 51,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2010",
-        "zmb_adm__6": "City",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -44806,26 +44426,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Ndola",
+        "ADM2_PCODE": "ZM2010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chirundu",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 52,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -45014,26 +44627,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Chirundu",
+        "ADM2_PCODE": "ZM5006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chembe",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 53,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -45274,26 +44880,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Chembe",
+        "ADM2_PCODE": "ZM4008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Chinsali",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 54,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1114",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -46022,26 +45621,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Chinsali",
+        "ADM2_PCODE": "ZM1114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mkushi",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 55,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1004",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -47114,26 +46706,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Mkushi",
+        "ADM2_PCODE": "ZM1004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chongwe",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 56,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -47374,26 +46959,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Chongwe",
+        "ADM2_PCODE": "ZM5001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chisamba",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 57,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -47838,26 +47416,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Chisamba",
+        "ADM2_PCODE": "ZM1007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mwandi",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 58,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -48178,26 +47749,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Mwandi",
+        "ADM2_PCODE": "ZM9011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Sikongo",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 59,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9015",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -48478,26 +48042,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Sikongo",
+        "ADM2_PCODE": "ZM9015"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Luampa",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 60,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -48938,26 +48495,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Luampa",
+        "ADM2_PCODE": "ZM9008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kaputa",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 61,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6004",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -49430,26 +48980,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Kaputa",
+        "ADM2_PCODE": "ZM6004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lunga",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 62,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -49606,26 +49149,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Lunga",
+        "ADM2_PCODE": "ZM4011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Zimba",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 63,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8013",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -50042,26 +49578,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Zimba",
+        "ADM2_PCODE": "ZM8013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Vubwi",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 64,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3013",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -50250,26 +49779,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Vubwi",
+        "ADM2_PCODE": "ZM3013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Limulunga",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 65,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -50590,26 +50112,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Limulunga",
+        "ADM2_PCODE": "ZM9006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Serenje",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 66,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -51150,26 +50665,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Serenje",
+        "ADM2_PCODE": "ZM1006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Manyinga",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 67,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7010",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -51602,26 +51110,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Manyinga",
+        "ADM2_PCODE": "ZM7010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mwansabombwe",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 68,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4012",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -51870,26 +51371,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Mwansabombwe",
+        "ADM2_PCODE": "ZM4012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chikankanta",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 69,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -52186,26 +51680,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Chikankanta",
+        "ADM2_PCODE": "ZM8003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Pemba",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 70,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8012",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -52594,26 +52081,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Pemba",
+        "ADM2_PCODE": "ZM8012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "City",
-        "CODE": 0,
-        "ADM2_EN": "Lusaka",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 71,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5004",
-        "zmb_adm__6": "City",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -52726,26 +52206,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Lusaka",
+        "ADM2_PCODE": "ZM5004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Shibuyunji",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 72,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -53174,26 +52647,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Shibuyunji",
+        "ADM2_PCODE": "ZM5008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chibombo",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 73,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -53622,26 +53088,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Chibombo",
+        "ADM2_PCODE": "ZM1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Shang'ombo",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 74,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54086,26 +53545,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Shang'ombo",
+        "ADM2_PCODE": "ZM9007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Zambezi",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 75,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54638,26 +54090,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Zambezi",
+        "ADM2_PCODE": "ZM7007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Kabompo",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 76,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7002",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -55070,26 +54515,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Kabompo",
+        "ADM2_PCODE": "ZM7002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Ikelenge",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 77,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7008",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -55434,26 +54872,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Ikelenge",
+        "ADM2_PCODE": "ZM7008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kalumbila",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 78,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -56526,26 +55957,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Kalumbila",
+        "ADM2_PCODE": "ZM7009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mushindano",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 79,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -57170,26 +56594,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Mushindano",
+        "ADM2_PCODE": "ZM7011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chingola",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 80,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -57538,26 +56955,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Chingola",
+        "ADM2_PCODE": "ZM2002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lufwanyama",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 81,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2006",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -58146,26 +57556,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Lufwanyama",
+        "ADM2_PCODE": "ZM2006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chililabombwe",
-        "PROVINCE": "Copperbelt",
-        "zmb_adm_gz": 82,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "ADM2_PCODE": "ZM2001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Copperbelt",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -58510,26 +57913,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Copperbelt",
+        "ADM1_PCODE": "ZM20",
+        "ADM2_EN": "Chililabombwe",
+        "ADM2_PCODE": "ZM2001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mufumbwe",
-        "PROVINCE": "North-Western",
-        "zmb_adm_gz": 83,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "North-Western",
-        "ADM1_PCODE": "ZM70",
-        "ADM2_PCODE": "ZM7004",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northwestern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -60126,26 +59522,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northwestern",
+        "ADM1_PCODE": "ZM70",
+        "ADM2_EN": "Mufumbwe",
+        "ADM2_PCODE": "ZM7004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mitete",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 84,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -60558,26 +59947,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Mitete",
+        "ADM2_PCODE": "ZM9009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lukulu",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 85,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -61250,26 +60632,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Lukulu",
+        "ADM2_PCODE": "ZM9003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kafue",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 86,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -61798,26 +61173,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Kafue",
+        "ADM2_PCODE": "ZM5002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Isoka",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 87,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1113",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -62374,26 +61742,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Isoka",
+        "ADM2_PCODE": "ZM1113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mafinga",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 88,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1115",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -62834,26 +62195,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Mafinga",
+        "ADM2_PCODE": "ZM1115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mwense",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 89,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63206,26 +62560,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Mwense",
+        "ADM2_PCODE": "ZM4005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chipili",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 90,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4010",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63666,26 +63013,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Chipili",
+        "ADM2_PCODE": "ZM4010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Sinda",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 91,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3012",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63938,26 +63278,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Sinda",
+        "ADM2_PCODE": "ZM3012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kalabo",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 92,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9001",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -64482,26 +63815,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Kalabo",
+        "ADM2_PCODE": "ZM9001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mwandi",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 58,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9012",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -64798,26 +64124,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Mwandi",
+        "ADM2_PCODE": "ZM9012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Sioma",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 94,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9016",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -65222,26 +64541,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Sioma",
+        "ADM2_PCODE": "ZM9016"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Nalolo",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 95,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9013",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -65542,26 +64854,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Nalolo",
+        "ADM2_PCODE": "ZM9013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kaoma",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 96,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -66066,26 +65371,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Kaoma",
+        "ADM2_PCODE": "ZM9002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Nkeyema",
-        "PROVINCE": "Western",
-        "zmb_adm_gz": 97,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Western",
-        "ADM1_PCODE": "ZM90",
-        "ADM2_PCODE": "ZM9014",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Western",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -66334,26 +65632,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Western",
+        "ADM1_PCODE": "ZM90",
+        "ADM2_EN": "Nkeyema",
+        "ADM2_PCODE": "ZM9014"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mumbwa",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 98,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -67094,26 +66385,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Mumbwa",
+        "ADM2_PCODE": "ZM1005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kapiri Mposhi",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 99,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -68702,26 +67986,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Kapiri Mposhi",
+        "ADM2_PCODE": "ZM1003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Ngabwe",
-        "PROVINCE": "Central",
-        "zmb_adm_gz": 100,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Central",
-        "ADM1_PCODE": "ZM10",
-        "ADM2_PCODE": "ZM1011",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Central",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -69130,26 +68407,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "ZM10",
+        "ADM2_EN": "Ngabwe",
+        "ADM2_PCODE": "ZM1011"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mazabuka",
-        "PROVINCE": "Southern",
-        "zmb_adm_gz": 101,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "ADM2_PCODE": "ZM8007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Southern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -69666,26 +68936,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "ZM80",
+        "ADM2_EN": "Mazabuka",
+        "ADM2_PCODE": "ZM8007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chilanga",
-        "PROVINCE": "Lusaka",
-        "zmb_adm_gz": 102,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "ADM2_PCODE": "ZM5005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Lusaka",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -69922,26 +69185,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Lusaka",
+        "ADM1_PCODE": "ZM50",
+        "ADM2_EN": "Chilanga",
+        "ADM2_PCODE": "ZM5005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mpika",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 103,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1118",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -71322,26 +70578,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Mpika",
+        "ADM2_PCODE": "ZM1118"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lavushimanda",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 104,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1117",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -72342,26 +71591,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Lavushimanda",
+        "ADM2_PCODE": "ZM1117"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Kanchibiya",
-        "PROVINCE": "Muchiga",
-        "zmb_adm_gz": 105,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "ADM2_PCODE": "ZM1116",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Muchinga",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -72994,26 +72236,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Muchinga",
+        "ADM1_PCODE": "ZM11",
+        "ADM2_EN": "Kanchibiya",
+        "ADM2_PCODE": "ZM1116"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lunte District",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 106,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -89530,26 +88765,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Lunte District",
+        "ADM2_PCODE": "ZM6002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Senga Hill",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 107,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6012",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -91094,26 +90322,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Senga Hill",
+        "ADM2_PCODE": "ZM6012"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Mbala",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 108,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6007",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -92178,26 +91399,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Mbala",
+        "ADM2_PCODE": "ZM6007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lupososhi",
-        "PROVINCE": "Northern",
-        "zmb_adm_gz": 109,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "ADM2_PCODE": "ZM6003",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Northern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -92682,26 +91896,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "ZM60",
+        "ADM2_EN": "Lupososhi",
+        "ADM2_PCODE": "ZM6003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chifunabuli",
-        "PROVINCE": "Luapula",
-        "zmb_adm_gz": 110,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "ADM2_PCODE": "ZM4009",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Luapula",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -92946,26 +92153,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Luapula",
+        "ADM1_PCODE": "ZM40",
+        "ADM2_EN": "Chifunabuli",
+        "ADM2_PCODE": "ZM4009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Chipata",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 111,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3003",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -93210,26 +92410,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Chipata",
+        "ADM2_PCODE": "ZM3003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "Provincial Town",
-        "CODE": 0,
-        "ADM2_EN": "Chipangali",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 112,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3009",
-        "zmb_adm__6": "Provincial Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -93518,26 +92711,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Chipangali",
+        "ADM2_PCODE": "ZM3009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Lundazi",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 114,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3005",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -93774,26 +92960,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Lundazi",
+        "ADM2_PCODE": "ZM3005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ID": 0,
-        "FEATURE_TY": "District Town",
-        "CODE": 0,
-        "ADM2_EN": "Chasefu",
-        "PROVINCE": "Eastern",
-        "zmb_adm_gz": 113,
-        "zmb_adm__1": "Zambia",
-        "zmb_adm__2": "ZM",
-        "zmb_adm__3": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "ADM2_PCODE": "ZM3002",
-        "zmb_adm__6": "District Town",
-        "ADM1_EN": "Eastern",
-        "ADM0_PCODE": "ZM"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -94058,6 +93237,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZM",
+        "ADM0_ISO_A2": "ZM",
+        "ADM0_ISO_A3": "ZMB",
+        "ADM1_EN": "Eastern",
+        "ADM1_PCODE": "ZM30",
+        "ADM2_EN": "Chasefu",
+        "ADM2_PCODE": "ZM3002"
       }
     }
   ]

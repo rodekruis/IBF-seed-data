@@ -1,25 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "SS_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.4243316792,
-        "Shape_Area": 1.49707305391,
-        "ADM2_EN": "Juba",
-        "ADM2_PCODE": "SS0101",
-        "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -1068,20 +1051,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Central Equatoria",
+        "ADM1_PCODE": "SS01",
+        "ADM2_EN": "Juba",
+        "ADM2_PCODE": "SS0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.08260067142,
-        "Shape_Area": 0.20487170979,
-        "ADM2_EN": "Kajo-keji",
-        "ADM2_PCODE": "SS0102",
-        "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -6826,20 +6809,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Central Equatoria",
+        "ADM1_PCODE": "SS01",
+        "ADM2_EN": "Kajo-keji",
+        "ADM2_PCODE": "SS0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.40185343377,
-        "Shape_Area": 0.28502982839,
-        "ADM2_EN": "Lainya",
-        "ADM2_PCODE": "SS0103",
-        "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9036,20 +9019,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Central Equatoria",
+        "ADM1_PCODE": "SS01",
+        "ADM2_EN": "Lainya",
+        "ADM2_PCODE": "SS0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.06904558869,
-        "Shape_Area": 0.10656071497,
-        "ADM2_EN": "Morobo",
-        "ADM2_PCODE": "SS0104",
-        "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -13622,20 +13605,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Central Equatoria",
+        "ADM1_PCODE": "SS01",
+        "ADM2_EN": "Morobo",
+        "ADM2_PCODE": "SS0104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.22177692894,
-        "Shape_Area": 0.87115808118,
-        "ADM2_EN": "Terekeka",
-        "ADM2_PCODE": "SS0105",
-        "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -14152,20 +14135,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Central Equatoria",
+        "ADM1_PCODE": "SS01",
+        "ADM2_EN": "Terekeka",
+        "ADM2_PCODE": "SS0105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.11091800754,
-        "Shape_Area": 0.54745251126,
-        "ADM2_EN": "Yei",
-        "ADM2_PCODE": "SS0106",
-        "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16782,20 +16765,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Central Equatoria",
+        "ADM1_PCODE": "SS01",
+        "ADM2_EN": "Yei",
+        "ADM2_PCODE": "SS0106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.26876435891,
-        "Shape_Area": 0.46710129467,
-        "ADM2_EN": "Budi",
-        "ADM2_PCODE": "SS0201",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -17408,20 +17391,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Budi",
+        "ADM2_PCODE": "SS0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.66583209319,
-        "Shape_Area": 0.28593355514,
-        "ADM2_EN": "Ikotos",
-        "ADM2_PCODE": "SS0202",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -18446,20 +18429,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Ikotos",
+        "ADM2_PCODE": "SS0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 7.80777882212,
-        "Shape_Area": 2.41119787448,
-        "ADM2_EN": "Kapoeta East",
-        "ADM2_PCODE": "SS0203",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -23176,20 +23159,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Kapoeta East",
+        "ADM2_PCODE": "SS0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.01737519747,
-        "Shape_Area": 0.46772288766,
-        "ADM2_EN": "Kapoeta North",
-        "ADM2_PCODE": "SS0204",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -23498,20 +23481,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Kapoeta North",
+        "ADM2_PCODE": "SS0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 1.87078151463,
-        "Shape_Area": 0.09780816777,
-        "ADM2_EN": "Kapoeta South",
-        "ADM2_PCODE": "SS0205",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -23796,20 +23779,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Kapoeta South",
+        "ADM2_PCODE": "SS0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.822523583,
-        "Shape_Area": 1.32496191854,
-        "ADM2_EN": "Lafon",
-        "ADM2_PCODE": "SS0206",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24450,20 +24433,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Lafon",
+        "ADM2_PCODE": "SS0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.51861817328,
-        "Shape_Area": 0.42346721699,
-        "ADM2_EN": "Magwi",
-        "ADM2_PCODE": "SS0207",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -29452,20 +29435,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Magwi",
+        "ADM2_PCODE": "SS0207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.04815183138,
-        "Shape_Area": 0.47568130452,
-        "ADM2_EN": "Torit",
-        "ADM2_PCODE": "SS0208",
-        "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -30150,20 +30133,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Eastern Equatoria",
+        "ADM1_PCODE": "SS02",
+        "ADM2_EN": "Torit",
+        "ADM2_PCODE": "SS0208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.76283286891,
-        "Shape_Area": 0.73979641559,
-        "ADM2_EN": "Akobo",
-        "ADM2_PCODE": "SS0301",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -34492,20 +34475,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Akobo",
+        "ADM2_PCODE": "SS0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.99097157893,
-        "Shape_Area": 1.10386807185,
-        "ADM2_EN": "Ayod",
-        "ADM2_PCODE": "SS0302",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -36602,20 +36585,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Ayod",
+        "ADM2_PCODE": "SS0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.79640767955,
-        "Shape_Area": 1.14143918209,
-        "ADM2_EN": "Bor South",
-        "ADM2_PCODE": "SS0303",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -37988,20 +37971,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Bor South",
+        "ADM2_PCODE": "SS0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.74117555604,
-        "Shape_Area": 0.36506515592,
-        "ADM2_EN": "Canal-Pigi",
-        "ADM2_PCODE": "SS0304",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -39714,20 +39697,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Canal-Pigi",
+        "ADM2_PCODE": "SS0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.63123770484,
-        "Shape_Area": 0.5641983234,
-        "ADM2_EN": "Duk",
-        "ADM2_PCODE": "SS0305",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -40896,20 +40879,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Duk",
+        "ADM2_PCODE": "SS0305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.65492443946,
-        "Shape_Area": 0.62960261443,
-        "ADM2_EN": "Fangak",
-        "ADM2_PCODE": "SS0306",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -43166,20 +43149,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Fangak",
+        "ADM2_PCODE": "SS0306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.67331096078,
-        "Shape_Area": 0.58124887941,
-        "ADM2_EN": "Nyirol",
-        "ADM2_PCODE": "SS0307",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -45288,20 +45271,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Nyirol",
+        "ADM2_PCODE": "SS0307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 8.18196333972,
-        "Shape_Area": 2.70142754036,
-        "ADM2_EN": "Pibor",
-        "ADM2_PCODE": "SS0308",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -49686,20 +49669,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Pibor",
+        "ADM2_PCODE": "SS0308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.35251858171,
-        "Shape_Area": 0.67621704516,
-        "ADM2_EN": "Pochalla",
-        "ADM2_PCODE": "SS0309",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -58540,20 +58523,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Pochalla",
+        "ADM2_PCODE": "SS0309"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.24599735993,
-        "Shape_Area": 0.48652198533,
-        "ADM2_EN": "Twic East",
-        "ADM2_PCODE": "SS0310",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -59658,20 +59641,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Twic East",
+        "ADM2_PCODE": "SS0310"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.066575075,
-        "Shape_Area": 0.99737577724,
-        "ADM2_EN": "Uror",
-        "ADM2_PCODE": "SS0311",
-        "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -60400,20 +60383,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Jonglei",
+        "ADM1_PCODE": "SS03",
+        "ADM2_EN": "Uror",
+        "ADM2_PCODE": "SS0311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.09061170046,
-        "Shape_Area": 0.3699860445,
-        "ADM2_EN": "Awerial",
-        "ADM2_PCODE": "SS0401",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -61678,20 +61661,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Awerial",
+        "ADM2_PCODE": "SS0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.59982851733,
-        "Shape_Area": 0.39797760284,
-        "ADM2_EN": "Cueibet",
-        "ADM2_PCODE": "SS0402",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -61988,20 +61971,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Cueibet",
+        "ADM2_PCODE": "SS0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.65582601021,
-        "Shape_Area": 0.31535229724,
-        "ADM2_EN": "Rumbek Centre",
-        "ADM2_PCODE": "SS0403",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -62474,20 +62457,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Rumbek Centre",
+        "ADM2_PCODE": "SS0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.74986364755,
-        "Shape_Area": 0.29171776687,
-        "ADM2_EN": "Rumbek East",
-        "ADM2_PCODE": "SS0404",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63040,20 +63023,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Rumbek East",
+        "ADM2_PCODE": "SS0404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.50532611439,
-        "Shape_Area": 0.33622368798,
-        "ADM2_EN": "Rumbek North",
-        "ADM2_PCODE": "SS0405",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63566,20 +63549,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Rumbek North",
+        "ADM2_PCODE": "SS0405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.90342654885,
-        "Shape_Area": 0.96769922731,
-        "ADM2_EN": "Wulu",
-        "ADM2_PCODE": "SS0406",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -64592,20 +64575,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Wulu",
+        "ADM2_PCODE": "SS0406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.54624636011,
-        "Shape_Area": 0.4555119168,
-        "ADM2_EN": "Yirol East",
-        "ADM2_PCODE": "SS0407",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -65998,20 +65981,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Yirol East",
+        "ADM2_PCODE": "SS0407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.11395710808,
-        "Shape_Area": 0.39713219634,
-        "ADM2_EN": "Yirol West",
-        "ADM2_PCODE": "SS0408",
-        "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -66696,20 +66679,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Lakes",
+        "ADM1_PCODE": "SS04",
+        "ADM2_EN": "Yirol West",
+        "ADM2_PCODE": "SS0408"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.6669675705,
-        "Shape_Area": 0.91599573661,
-        "ADM2_EN": "Aweil Centre",
-        "ADM2_PCODE": "SS0501",
-        "ADM1_EN": "Northern Bahr el Ghazal",
-        "ADM1_PCODE": "SS05",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -67282,20 +67265,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Northern Bahr el Ghazal",
+        "ADM1_PCODE": "SS05",
+        "ADM2_EN": "Aweil Centre",
+        "ADM2_PCODE": "SS0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.14135519814,
-        "Shape_Area": 0.52393182752,
-        "ADM2_EN": "Aweil East",
-        "ADM2_PCODE": "SS0502",
-        "ADM1_EN": "Northern Bahr el Ghazal",
-        "ADM1_PCODE": "SS05",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -68404,20 +68387,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Northern Bahr el Ghazal",
+        "ADM1_PCODE": "SS05",
+        "ADM2_EN": "Aweil East",
+        "ADM2_PCODE": "SS0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.38042610036,
-        "Shape_Area": 0.5220314076,
-        "ADM2_EN": "Aweil North",
-        "ADM2_PCODE": "SS0503",
-        "ADM1_EN": "Northern Bahr el Ghazal",
-        "ADM1_PCODE": "SS05",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -69770,20 +69753,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Northern Bahr el Ghazal",
+        "ADM1_PCODE": "SS05",
+        "ADM2_EN": "Aweil North",
+        "ADM2_PCODE": "SS0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 1.95684203003,
-        "Shape_Area": 0.16241017899,
-        "ADM2_EN": "Aweil South",
-        "ADM2_PCODE": "SS0504",
-        "ADM1_EN": "Northern Bahr el Ghazal",
-        "ADM1_PCODE": "SS05",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -70272,20 +70255,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Northern Bahr el Ghazal",
+        "ADM1_PCODE": "SS05",
+        "ADM2_EN": "Aweil South",
+        "ADM2_PCODE": "SS0504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.18781831737,
-        "Shape_Area": 0.41170159237,
-        "ADM2_EN": "Aweil West",
-        "ADM2_PCODE": "SS0505",
-        "ADM1_EN": "Northern Bahr el Ghazal",
-        "ADM1_PCODE": "SS05",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -70966,20 +70949,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Northern Bahr el Ghazal",
+        "ADM1_PCODE": "SS05",
+        "ADM2_EN": "Aweil West",
+        "ADM2_PCODE": "SS0505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.01637205142,
-        "Shape_Area": 0.19828658544,
-        "ADM2_EN": "Abiemnhom",
-        "ADM2_PCODE": "SS0601",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -71832,20 +71815,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Abiemnhom",
+        "ADM2_PCODE": "SS0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.48256678779,
-        "Shape_Area": 0.28417851003,
-        "ADM2_EN": "Guit",
-        "ADM2_PCODE": "SS0602",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -72806,20 +72789,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Guit",
+        "ADM2_PCODE": "SS0602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.98111350997,
-        "Shape_Area": 0.36116768543,
-        "ADM2_EN": "Koch",
-        "ADM2_PCODE": "SS0603",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -73728,20 +73711,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Koch",
+        "ADM2_PCODE": "SS0603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.20500683095,
-        "Shape_Area": 0.13218240728,
-        "ADM2_EN": "Leer",
-        "ADM2_PCODE": "SS0604",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -75170,20 +75153,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Leer",
+        "ADM2_PCODE": "SS0604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.86037979552,
-        "Shape_Area": 0.25115872983,
-        "ADM2_EN": "Mayendit",
-        "ADM2_PCODE": "SS0605",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -76060,20 +76043,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Mayendit",
+        "ADM2_PCODE": "SS0605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.81807247388,
-        "Shape_Area": 0.35041136422,
-        "ADM2_EN": "Mayom",
-        "ADM2_PCODE": "SS0606",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -76458,20 +76441,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Mayom",
+        "ADM2_PCODE": "SS0606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.0937462492,
-        "Shape_Area": 0.43626750515,
-        "ADM2_EN": "Panyijiar",
-        "ADM2_PCODE": "SS0607",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -78280,20 +78263,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Panyijiar",
+        "ADM2_PCODE": "SS0607"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.62956630156,
-        "Shape_Area": 0.73999651675,
-        "ADM2_EN": "Pariang",
-        "ADM2_PCODE": "SS0608",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -79958,20 +79941,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Pariang",
+        "ADM2_PCODE": "SS0608"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.50845507815,
-        "Shape_Area": 0.29326816185,
-        "ADM2_EN": "Rubkona",
-        "ADM2_PCODE": "SS0609",
-        "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -80284,20 +80267,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Unity",
+        "ADM1_PCODE": "SS06",
+        "ADM2_EN": "Rubkona",
+        "ADM2_PCODE": "SS0609"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.51997213961,
-        "Shape_Area": 0.9613825606,
-        "ADM2_EN": "Baliet",
-        "ADM2_PCODE": "SS0701",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -82330,20 +82313,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Baliet",
+        "ADM2_PCODE": "SS0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.33941930508,
-        "Shape_Area": 0.29642637438,
-        "ADM2_EN": "Fashoda",
-        "ADM2_PCODE": "SS0702",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -82872,20 +82855,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Fashoda",
+        "ADM2_PCODE": "SS0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.2956181546,
-        "Shape_Area": 0.57007302082,
-        "ADM2_EN": "Longochuk",
-        "ADM2_PCODE": "SS0703",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -84042,20 +84025,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Longochuk",
+        "ADM2_PCODE": "SS0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.32111253184,
-        "Shape_Area": 0.42622558069,
-        "ADM2_EN": "Luakpiny/Nasir",
-        "ADM2_PCODE": "SS0704",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -85696,20 +85679,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Luakpiny/Nasir",
+        "ADM2_PCODE": "SS0704"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.09800452883,
-        "Shape_Area": 0.97487409423,
-        "ADM2_EN": "Maban",
-        "ADM2_PCODE": "SS0705",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -86970,20 +86953,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Maban",
+        "ADM2_PCODE": "SS0705"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.99360552158,
-        "Shape_Area": 0.30290376021,
-        "ADM2_EN": "Maiwut",
-        "ADM2_PCODE": "SS0706",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -89332,20 +89315,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Maiwut",
+        "ADM2_PCODE": "SS0706"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 1.57693007862,
-        "Shape_Area": 0.06216921083,
-        "ADM2_EN": "Malakal",
-        "ADM2_PCODE": "SS0707",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -89566,20 +89549,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Malakal",
+        "ADM2_PCODE": "SS0707"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.56256265698,
-        "Shape_Area": 0.55276408779,
-        "ADM2_EN": "Manyo",
-        "ADM2_PCODE": "SS0708",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -91456,20 +91439,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Manyo",
+        "ADM2_PCODE": "SS0708"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.60089947029,
-        "Shape_Area": 0.42586321795,
-        "ADM2_EN": "Melut",
-        "ADM2_PCODE": "SS0709",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -92922,20 +92905,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Melut",
+        "ADM2_PCODE": "SS0709"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.37275401807,
-        "Shape_Area": 0.42072110878,
-        "ADM2_EN": "Panyikang",
-        "ADM2_PCODE": "SS0710",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -95488,20 +95471,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Panyikang",
+        "ADM2_PCODE": "SS0710"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 6.50141021084,
-        "Shape_Area": 0.97744988787,
-        "ADM2_EN": "Renk",
-        "ADM2_PCODE": "SS0711",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -98614,20 +98597,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Renk",
+        "ADM2_PCODE": "SS0711"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.73060688981,
-        "Shape_Area": 0.39701366888,
-        "ADM2_EN": "Ulang",
-        "ADM2_PCODE": "SS0712",
-        "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -100216,20 +100199,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Upper Nile",
+        "ADM1_PCODE": "SS07",
+        "ADM2_EN": "Ulang",
+        "ADM2_PCODE": "SS0712"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.67601556789,
-        "Shape_Area": 0.86495649716,
-        "ADM2_EN": "Abyei Region",
-        "ADM2_PCODE": "SS0807",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -101022,20 +101005,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Abyei Region",
+        "ADM2_PCODE": "SS0807"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.55912654129,
-        "Shape_Area": 0.36345437596,
-        "ADM2_EN": "Gogrial East",
-        "ADM2_PCODE": "SS0801",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -101532,20 +101515,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Gogrial East",
+        "ADM2_PCODE": "SS0801"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.28048092655,
-        "Shape_Area": 0.36147781821,
-        "ADM2_EN": "Gogrial West",
-        "ADM2_PCODE": "SS0802",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -102202,20 +102185,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Gogrial West",
+        "ADM2_PCODE": "SS0802"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.51667397858,
-        "Shape_Area": 0.36250552488,
-        "ADM2_EN": "Tonj East",
-        "ADM2_PCODE": "SS0803",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -102536,20 +102519,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Tonj East",
+        "ADM2_PCODE": "SS0803"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.67020252333,
-        "Shape_Area": 0.92144792177,
-        "ADM2_EN": "Tonj North",
-        "ADM2_PCODE": "SS0804",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -103090,20 +103073,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Tonj North",
+        "ADM2_PCODE": "SS0804"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.82754167743,
-        "Shape_Area": 0.60759865746,
-        "ADM2_EN": "Tonj South",
-        "ADM2_PCODE": "SS0805",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -103392,20 +103375,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Tonj South",
+        "ADM2_PCODE": "SS0805"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 2.61268147476,
-        "Shape_Area": 0.32549689127,
-        "ADM2_EN": "Twic",
-        "ADM2_PCODE": "SS0806",
-        "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -104186,20 +104169,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Warrap",
+        "ADM1_PCODE": "SS08",
+        "ADM2_EN": "Twic",
+        "ADM2_PCODE": "SS0806"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.87806072206,
-        "Shape_Area": 0.82338154184,
-        "ADM2_EN": "Jur River",
-        "ADM2_PCODE": "SS0901",
-        "ADM1_EN": "Western Bahr el Ghazal",
-        "ADM1_PCODE": "SS09",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -104884,20 +104867,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Bahr el Ghazal",
+        "ADM1_PCODE": "SS09",
+        "ADM2_EN": "Jur River",
+        "ADM2_PCODE": "SS0901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 14.016800762,
-        "Shape_Area": 5.0943974703,
-        "ADM2_EN": "Raja",
-        "ADM2_PCODE": "SS0902",
-        "ADM1_EN": "Western Bahr el Ghazal",
-        "ADM1_PCODE": "SS09",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -124230,20 +124213,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Bahr el Ghazal",
+        "ADM1_PCODE": "SS09",
+        "ADM2_EN": "Raja",
+        "ADM2_PCODE": "SS0902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.88878246131,
-        "Shape_Area": 1.57326030365,
-        "ADM2_EN": "Wau",
-        "ADM2_PCODE": "SS0903",
-        "ADM1_EN": "Western Bahr el Ghazal",
-        "ADM1_PCODE": "SS09",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -124864,20 +124847,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Bahr el Ghazal",
+        "ADM1_PCODE": "SS09",
+        "ADM2_EN": "Wau",
+        "ADM2_PCODE": "SS0903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.85269476082,
-        "Shape_Area": 0.65874085662,
-        "ADM2_EN": "Ezo",
-        "ADM2_PCODE": "SS1001",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -126306,20 +126289,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Ezo",
+        "ADM2_PCODE": "SS1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.19589322209,
-        "Shape_Area": 0.78360025384,
-        "ADM2_EN": "Ibba",
-        "ADM2_PCODE": "SS1002",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -128044,20 +128027,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Ibba",
+        "ADM2_PCODE": "SS1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 4.0543991914,
-        "Shape_Area": 0.62645383306,
-        "ADM2_EN": "Maridi",
-        "ADM2_PCODE": "SS1003",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -129810,20 +129793,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Maridi",
+        "ADM2_PCODE": "SS1003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.12457473242,
-        "Shape_Area": 0.41441845655,
-        "ADM2_EN": "Mundri East",
-        "ADM2_PCODE": "SS1004",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -130328,20 +130311,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Mundri East",
+        "ADM2_PCODE": "SS1004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.62422217281,
-        "Shape_Area": 0.47905741995,
-        "ADM2_EN": "Mundri West",
-        "ADM2_PCODE": "SS1005",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -130990,20 +130973,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Mundri West",
+        "ADM2_PCODE": "SS1005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.22014796557,
-        "Shape_Area": 0.46638001458,
-        "ADM2_EN": "Mvolo",
-        "ADM2_PCODE": "SS1006",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -131516,20 +131499,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Mvolo",
+        "ADM2_PCODE": "SS1006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 3.86293667882,
-        "Shape_Area": 0.75182401722,
-        "ADM2_EN": "Nagero",
-        "ADM2_PCODE": "SS1007",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -131706,20 +131689,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Nagero",
+        "ADM2_PCODE": "SS1007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.67212276042,
-        "Shape_Area": 0.52575247547,
-        "ADM2_EN": "Nzara",
-        "ADM2_PCODE": "SS1008",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -133832,20 +133815,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Nzara",
+        "ADM2_PCODE": "SS1008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.86008120627,
-        "Shape_Area": 1.01737436982,
-        "ADM2_EN": "Tambura",
-        "ADM2_PCODE": "SS1009",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -137194,20 +137177,20 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Tambura",
+        "ADM2_PCODE": "SS1009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Shape_Leng": 5.17283730812,
-        "Shape_Area": 0.7170964211,
-        "ADM2_EN": "Yambio",
-        "ADM2_PCODE": "SS1010",
-        "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10",
-        "ADM0_EN": "South Sudan",
-        "ADM0_PCODE": "SS"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -139400,6 +139383,16 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_EN": "South Sudan",
+        "ADM0_PCODE": "SS",
+        "ADM0_ISO_A2": "SS",
+        "ADM0_ISO_A3": "SSD",
+        "ADM1_EN": "Western Equatoria",
+        "ADM1_PCODE": "SS10",
+        "ADM2_EN": "Yambio",
+        "ADM2_PCODE": "SS1010"
       }
     }
   ]

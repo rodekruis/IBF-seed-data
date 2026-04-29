@@ -513,16 +513,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Bulawayo",
-        "ADM1_PCODE": "ZW10",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Bulawayo",
+        "ADM1_PCODE": "ZW10"
       }
     },
     {
@@ -1645,16 +1641,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Harare",
-        "ADM1_PCODE": "ZW19",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Harare",
+        "ADM1_PCODE": "ZW19"
       }
     },
     {
@@ -10813,16 +10805,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Manicaland",
-        "ADM1_PCODE": "ZW11",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Manicaland",
+        "ADM1_PCODE": "ZW11"
       }
     },
     {
@@ -17345,16 +17333,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Mashonaland Central",
-        "ADM1_PCODE": "ZW12",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Mashonaland Central",
+        "ADM1_PCODE": "ZW12"
       }
     },
     {
@@ -24869,16 +24853,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Mashonaland East",
-        "ADM1_PCODE": "ZW13",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Mashonaland East",
+        "ADM1_PCODE": "ZW13"
       }
     },
     {
@@ -34133,16 +34113,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Mashonaland West",
-        "ADM1_PCODE": "ZW14",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Mashonaland West",
+        "ADM1_PCODE": "ZW14"
       }
     },
     {
@@ -40585,16 +40561,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Masvingo",
-        "ADM1_PCODE": "ZW18",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Masvingo",
+        "ADM1_PCODE": "ZW18"
       }
     },
     {
@@ -49001,16 +48973,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Matabeleland North",
-        "ADM1_PCODE": "ZW15",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Matabeleland North",
+        "ADM1_PCODE": "ZW15"
       }
     },
     {
@@ -57313,16 +57281,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Matabeleland South",
-        "ADM1_PCODE": "ZW16",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Matabeleland South",
+        "ADM1_PCODE": "ZW16"
       }
     },
     {
@@ -66517,16 +66481,12 @@
         ]
       },
       "properties": {
-        "ADM1_EN": "Midlands",
-        "ADM1_PCODE": "ZW17",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "date": "2018-08-31",
-        "validOn": "2018-09-11",
-        "validTo": null
+        "ADM0_ISO_A2": "ZW",
+        "ADM0_ISO_A3": "ZWE",
+        "ADM1_EN": "Midlands",
+        "ADM1_PCODE": "ZW17"
       }
     }
   ]

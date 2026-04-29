@@ -1,22 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "BEN_adm2",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Banikoara",
-        "ADM2_PCODE": "BJ0101",
-        "ADM1_PCODE": "BJ01",
-        "ADM1_EN": "Alibori",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -189,17 +175,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Alibori",
+        "ADM1_PCODE": "BJ01",
+        "ADM2_EN": "Banikoara",
+        "ADM2_PCODE": "BJ0101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Gogounou",
-        "ADM2_PCODE": "BJ0102",
-        "ADM1_PCODE": "BJ01",
-        "ADM1_EN": "Alibori",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -380,17 +368,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Alibori",
+        "ADM1_PCODE": "BJ01",
+        "ADM2_EN": "Gogounou",
+        "ADM2_PCODE": "BJ0102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kandi",
-        "ADM2_PCODE": "BJ0103",
-        "ADM1_PCODE": "BJ01",
-        "ADM1_EN": "Alibori",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -535,17 +525,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Alibori",
+        "ADM1_PCODE": "BJ01",
+        "ADM2_EN": "Kandi",
+        "ADM2_PCODE": "BJ0103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Karimama",
-        "ADM2_PCODE": "BJ0104",
-        "ADM1_PCODE": "BJ01",
-        "ADM1_EN": "Alibori",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -874,17 +866,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Alibori",
+        "ADM1_PCODE": "BJ01",
+        "ADM2_EN": "Karimama",
+        "ADM2_PCODE": "BJ0104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Malanville",
-        "ADM2_PCODE": "BJ0105",
-        "ADM1_PCODE": "BJ01",
-        "ADM1_EN": "Alibori",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1025,17 +1019,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Alibori",
+        "ADM1_PCODE": "BJ01",
+        "ADM2_EN": "Malanville",
+        "ADM2_PCODE": "BJ0105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Segbana",
-        "ADM2_PCODE": "BJ0106",
-        "ADM1_PCODE": "BJ01",
-        "ADM1_EN": "Alibori",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1180,17 +1176,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Alibori",
+        "ADM1_PCODE": "BJ01",
+        "ADM2_EN": "Segbana",
+        "ADM2_PCODE": "BJ0106"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Boukombe",
-        "ADM2_PCODE": "BJ0201",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1283,17 +1281,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Boukombe",
+        "ADM2_PCODE": "BJ0201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kerou",
-        "ADM2_PCODE": "BJ0202",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1446,17 +1446,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Kerou",
+        "ADM2_PCODE": "BJ0202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kobli",
-        "ADM2_PCODE": "BJ0203",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1509,17 +1511,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Kobli",
+        "ADM2_PCODE": "BJ0203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kouande",
-        "ADM2_PCODE": "BJ0204",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1720,17 +1724,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Kouande",
+        "ADM2_PCODE": "BJ0204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Materi",
-        "ADM2_PCODE": "BJ0205",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1843,17 +1849,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Materi",
+        "ADM2_PCODE": "BJ0205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Natitingou",
-        "ADM2_PCODE": "BJ0206",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1990,17 +1998,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Natitingou",
+        "ADM2_PCODE": "BJ0206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pehunco",
-        "ADM2_PCODE": "BJ0207",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2097,17 +2107,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Pehunco",
+        "ADM2_PCODE": "BJ0207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tanguieta",
-        "ADM2_PCODE": "BJ0208",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2432,17 +2444,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Tanguieta",
+        "ADM2_PCODE": "BJ0208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Toucountouna",
-        "ADM2_PCODE": "BJ0209",
-        "ADM1_PCODE": "BJ02",
-        "ADM1_EN": "Atacora",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2515,17 +2529,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atacora",
+        "ADM1_PCODE": "BJ02",
+        "ADM2_EN": "Toucountouna",
+        "ADM2_PCODE": "BJ0209"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abomey-Calavi",
-        "ADM2_PCODE": "BJ0301",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2598,17 +2614,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Abomey-Calavi",
+        "ADM2_PCODE": "BJ0301"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Allada",
-        "ADM2_PCODE": "BJ0302",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2673,17 +2691,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Allada",
+        "ADM2_PCODE": "BJ0302"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kpomasse",
-        "ADM2_PCODE": "BJ0303",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2736,17 +2756,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Kpomasse",
+        "ADM2_PCODE": "BJ0303"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouidah",
-        "ADM2_PCODE": "BJ0304",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2807,17 +2829,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Ouidah",
+        "ADM2_PCODE": "BJ0304"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "So-Ava",
-        "ADM2_PCODE": "BJ0305",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2862,17 +2886,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "So-Ava",
+        "ADM2_PCODE": "BJ0305"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Toffo",
-        "ADM2_PCODE": "BJ0306",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2937,17 +2963,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Toffo",
+        "ADM2_PCODE": "BJ0306"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tori-Bossito",
-        "ADM2_PCODE": "BJ0307",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3000,17 +3028,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Tori-Bossito",
+        "ADM2_PCODE": "BJ0307"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ze",
-        "ADM2_PCODE": "BJ0308",
-        "ADM1_PCODE": "BJ03",
-        "ADM1_EN": "Atlantique",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3119,17 +3149,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Atlantique",
+        "ADM1_PCODE": "BJ03",
+        "ADM2_EN": "Ze",
+        "ADM2_PCODE": "BJ0308"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bembereke",
-        "ADM2_PCODE": "BJ0401",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3250,17 +3282,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Bembereke",
+        "ADM2_PCODE": "BJ0401"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Kalale",
-        "ADM2_PCODE": "BJ0402",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3405,17 +3439,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Kalale",
+        "ADM2_PCODE": "BJ0402"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "N'Dali",
-        "ADM2_PCODE": "BJ0403",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3552,17 +3588,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "N'Dali",
+        "ADM2_PCODE": "BJ0403"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Nikki",
-        "ADM2_PCODE": "BJ0404",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3751,17 +3789,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Nikki",
+        "ADM2_PCODE": "BJ0404"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Parakou",
-        "ADM2_PCODE": "BJ0405",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3826,17 +3866,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Parakou",
+        "ADM2_PCODE": "BJ0405"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Perere",
-        "ADM2_PCODE": "BJ0406",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3921,17 +3963,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Perere",
+        "ADM2_PCODE": "BJ0406"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sinende",
-        "ADM2_PCODE": "BJ0407",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4048,17 +4092,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Sinende",
+        "ADM2_PCODE": "BJ0407"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Tchaourou",
-        "ADM2_PCODE": "BJ0408",
-        "ADM1_PCODE": "BJ04",
-        "ADM1_EN": "Borgou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4331,17 +4377,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Borgou",
+        "ADM1_PCODE": "BJ04",
+        "ADM2_EN": "Tchaourou",
+        "ADM2_PCODE": "BJ0408"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bante",
-        "ADM2_PCODE": "BJ0501",
-        "ADM1_PCODE": "BJ05",
-        "ADM1_EN": "Collines",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4446,17 +4494,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Collines",
+        "ADM1_PCODE": "BJ05",
+        "ADM2_EN": "Bante",
+        "ADM2_PCODE": "BJ0501"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dassa-Zoume",
-        "ADM2_PCODE": "BJ0502",
-        "ADM1_PCODE": "BJ05",
-        "ADM1_EN": "Collines",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4557,17 +4607,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Collines",
+        "ADM1_PCODE": "BJ05",
+        "ADM2_EN": "Dassa-Zoume",
+        "ADM2_PCODE": "BJ0502"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Glazoue",
-        "ADM2_PCODE": "BJ0503",
-        "ADM1_PCODE": "BJ05",
-        "ADM1_EN": "Collines",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4668,17 +4720,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Collines",
+        "ADM1_PCODE": "BJ05",
+        "ADM2_EN": "Glazoue",
+        "ADM2_PCODE": "BJ0503"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouesse",
-        "ADM2_PCODE": "BJ0504",
-        "ADM1_PCODE": "BJ05",
-        "ADM1_EN": "Collines",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4795,17 +4849,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Collines",
+        "ADM1_PCODE": "BJ05",
+        "ADM2_EN": "Ouesse",
+        "ADM2_PCODE": "BJ0504"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Savalou",
-        "ADM2_PCODE": "BJ0505",
-        "ADM1_PCODE": "BJ05",
-        "ADM1_EN": "Collines",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4918,17 +4974,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Collines",
+        "ADM1_PCODE": "BJ05",
+        "ADM2_EN": "Savalou",
+        "ADM2_PCODE": "BJ0505"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Save",
-        "ADM2_PCODE": "BJ0506",
-        "ADM1_PCODE": "BJ05",
-        "ADM1_EN": "Collines",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5045,17 +5103,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Collines",
+        "ADM1_PCODE": "BJ05",
+        "ADM2_EN": "Save",
+        "ADM2_PCODE": "BJ0506"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aplahoue",
-        "ADM2_PCODE": "BJ0601",
-        "ADM1_PCODE": "BJ06",
-        "ADM1_EN": "Couffo",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5128,17 +5188,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Couffo",
+        "ADM1_PCODE": "BJ06",
+        "ADM2_EN": "Aplahoue",
+        "ADM2_PCODE": "BJ0601"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Djakotomey",
-        "ADM2_PCODE": "BJ0602",
-        "ADM1_PCODE": "BJ06",
-        "ADM1_EN": "Couffo",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5219,17 +5281,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Couffo",
+        "ADM1_PCODE": "BJ06",
+        "ADM2_EN": "Djakotomey",
+        "ADM2_PCODE": "BJ0602"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dogbo",
-        "ADM2_PCODE": "BJ0603",
-        "ADM1_PCODE": "BJ06",
-        "ADM1_EN": "Couffo",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5302,17 +5366,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Couffo",
+        "ADM1_PCODE": "BJ06",
+        "ADM2_EN": "Dogbo",
+        "ADM2_PCODE": "BJ0603"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Klouekanme",
-        "ADM2_PCODE": "BJ0604",
-        "ADM1_PCODE": "BJ06",
-        "ADM1_EN": "Couffo",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5357,17 +5423,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Couffo",
+        "ADM1_PCODE": "BJ06",
+        "ADM2_EN": "Klouekanme",
+        "ADM2_PCODE": "BJ0604"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lalo",
-        "ADM2_PCODE": "BJ0605",
-        "ADM1_PCODE": "BJ06",
-        "ADM1_EN": "Couffo",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5440,17 +5508,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Couffo",
+        "ADM1_PCODE": "BJ06",
+        "ADM2_EN": "Lalo",
+        "ADM2_PCODE": "BJ0605"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Toviklin",
-        "ADM2_PCODE": "BJ0606",
-        "ADM1_PCODE": "BJ06",
-        "ADM1_EN": "Couffo",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5491,17 +5561,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Couffo",
+        "ADM1_PCODE": "BJ06",
+        "ADM2_EN": "Toviklin",
+        "ADM2_PCODE": "BJ0606"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bassila",
-        "ADM2_PCODE": "BJ0701",
-        "ADM1_PCODE": "BJ07",
-        "ADM1_EN": "Donga",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5674,17 +5746,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Donga",
+        "ADM1_PCODE": "BJ07",
+        "ADM2_EN": "Bassila",
+        "ADM2_PCODE": "BJ0701"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Djougou",
-        "ADM2_PCODE": "BJ0702",
-        "ADM1_PCODE": "BJ07",
-        "ADM1_EN": "Donga",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5837,17 +5911,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Donga",
+        "ADM1_PCODE": "BJ07",
+        "ADM2_EN": "Djougou",
+        "ADM2_PCODE": "BJ0702"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Copargo",
-        "ADM2_PCODE": "BJ0703",
-        "ADM1_PCODE": "BJ07",
-        "ADM1_EN": "Donga",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5924,17 +6000,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Donga",
+        "ADM1_PCODE": "BJ07",
+        "ADM2_EN": "Copargo",
+        "ADM2_PCODE": "BJ0703"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouake",
-        "ADM2_PCODE": "BJ0704",
-        "ADM1_PCODE": "BJ07",
-        "ADM1_EN": "Donga",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6007,17 +6085,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Donga",
+        "ADM1_PCODE": "BJ07",
+        "ADM2_EN": "Ouake",
+        "ADM2_PCODE": "BJ0704"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cotonou",
-        "ADM2_PCODE": "BJ0800",
-        "ADM1_PCODE": "BJ08",
-        "ADM1_EN": "Littoral",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6062,17 +6142,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Littoral",
+        "ADM1_PCODE": "BJ08",
+        "ADM2_EN": "Cotonou",
+        "ADM2_PCODE": "BJ0800"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Athieme",
-        "ADM2_PCODE": "BJ0901",
-        "ADM1_PCODE": "BJ09",
-        "ADM1_EN": "Mono",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6169,17 +6251,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Mono",
+        "ADM1_PCODE": "BJ09",
+        "ADM2_EN": "Athieme",
+        "ADM2_PCODE": "BJ0901"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bopa",
-        "ADM2_PCODE": "BJ0902",
-        "ADM1_PCODE": "BJ09",
-        "ADM1_EN": "Mono",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6240,17 +6324,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Mono",
+        "ADM1_PCODE": "BJ09",
+        "ADM2_EN": "Bopa",
+        "ADM2_PCODE": "BJ0902"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Come",
-        "ADM2_PCODE": "BJ0903",
-        "ADM1_PCODE": "BJ09",
-        "ADM1_EN": "Mono",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6291,17 +6377,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Mono",
+        "ADM1_PCODE": "BJ09",
+        "ADM2_EN": "Come",
+        "ADM2_PCODE": "BJ0903"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Grand-Popo",
-        "ADM2_PCODE": "BJ0904",
-        "ADM1_PCODE": "BJ09",
-        "ADM1_EN": "Mono",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6370,17 +6458,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Mono",
+        "ADM1_PCODE": "BJ09",
+        "ADM2_EN": "Grand-Popo",
+        "ADM2_PCODE": "BJ0904"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Houeyogbe",
-        "ADM2_PCODE": "BJ0905",
-        "ADM1_PCODE": "BJ09",
-        "ADM1_EN": "Mono",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6437,17 +6527,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Mono",
+        "ADM1_PCODE": "BJ09",
+        "ADM2_EN": "Houeyogbe",
+        "ADM2_PCODE": "BJ0905"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Lokossa",
-        "ADM2_PCODE": "BJ0906",
-        "ADM1_PCODE": "BJ09",
-        "ADM1_EN": "Mono",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6508,17 +6600,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Mono",
+        "ADM1_PCODE": "BJ09",
+        "ADM2_EN": "Lokossa",
+        "ADM2_PCODE": "BJ0906"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adjarra",
-        "ADM2_PCODE": "BJ1001",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6563,17 +6657,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Adjarra",
+        "ADM2_PCODE": "BJ1001"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adjohoun",
-        "ADM2_PCODE": "BJ1002",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6618,17 +6714,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Adjohoun",
+        "ADM2_PCODE": "BJ1002"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Aguegues",
-        "ADM2_PCODE": "BJ1003",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6661,17 +6759,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Aguegues",
+        "ADM2_PCODE": "BJ1003"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Akpo-Misserete",
-        "ADM2_PCODE": "BJ1004",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6720,17 +6820,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Akpo-Misserete",
+        "ADM2_PCODE": "BJ1004"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Avrankou",
-        "ADM2_PCODE": "BJ1005",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6767,17 +6869,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Avrankou",
+        "ADM2_PCODE": "BJ1005"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bonou",
-        "ADM2_PCODE": "BJ1006",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6830,17 +6934,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Bonou",
+        "ADM2_PCODE": "BJ1006"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Dangbo",
-        "ADM2_PCODE": "BJ1007",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6889,17 +6995,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Dangbo",
+        "ADM2_PCODE": "BJ1007"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Porto-Novo",
-        "ADM2_PCODE": "BJ1008",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6936,17 +7044,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Porto-Novo",
+        "ADM2_PCODE": "BJ1008"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Seme-Kpodji",
-        "ADM2_PCODE": "BJ1009",
-        "ADM1_PCODE": "BJ10",
-        "ADM1_EN": "Oueme",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6983,17 +7093,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Oueme",
+        "ADM1_PCODE": "BJ10",
+        "ADM2_EN": "Seme-Kpodji",
+        "ADM2_PCODE": "BJ1009"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Adja-Ouere",
-        "ADM2_PCODE": "BJ1101",
-        "ADM1_PCODE": "BJ11",
-        "ADM1_EN": "Plateau",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7070,17 +7182,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Plateau",
+        "ADM1_PCODE": "BJ11",
+        "ADM2_EN": "Adja-Ouere",
+        "ADM2_PCODE": "BJ1101"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ifangni",
-        "ADM2_PCODE": "BJ1102",
-        "ADM1_PCODE": "BJ11",
-        "ADM1_EN": "Plateau",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7129,17 +7243,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Plateau",
+        "ADM1_PCODE": "BJ11",
+        "ADM2_EN": "Ifangni",
+        "ADM2_PCODE": "BJ1102"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ketou",
-        "ADM2_PCODE": "BJ1103",
-        "ADM1_PCODE": "BJ11",
-        "ADM1_EN": "Plateau",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7232,17 +7348,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Plateau",
+        "ADM1_PCODE": "BJ11",
+        "ADM2_EN": "Ketou",
+        "ADM2_PCODE": "BJ1103"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Pobe",
-        "ADM2_PCODE": "BJ1104",
-        "ADM1_PCODE": "BJ11",
-        "ADM1_EN": "Plateau",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7307,17 +7425,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Plateau",
+        "ADM1_PCODE": "BJ11",
+        "ADM2_EN": "Pobe",
+        "ADM2_PCODE": "BJ1104"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Sakete",
-        "ADM2_PCODE": "BJ1105",
-        "ADM1_PCODE": "BJ11",
-        "ADM1_EN": "Plateau",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7382,17 +7502,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Plateau",
+        "ADM1_PCODE": "BJ11",
+        "ADM2_EN": "Sakete",
+        "ADM2_PCODE": "BJ1105"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Abomey",
-        "ADM2_PCODE": "BJ1201",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7437,17 +7559,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Abomey",
+        "ADM2_PCODE": "BJ1201"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Agbangnizoun",
-        "ADM2_PCODE": "BJ1202",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7500,17 +7624,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Agbangnizoun",
+        "ADM2_PCODE": "BJ1202"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Bohicon",
-        "ADM2_PCODE": "BJ1203",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7559,17 +7685,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Bohicon",
+        "ADM2_PCODE": "BJ1203"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Cove",
-        "ADM2_PCODE": "BJ1204",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7634,17 +7762,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Cove",
+        "ADM2_PCODE": "BJ1204"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Djidja",
-        "ADM2_PCODE": "BJ1205",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7765,17 +7895,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Djidja",
+        "ADM2_PCODE": "BJ1205"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Ouinhi",
-        "ADM2_PCODE": "BJ1206",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7832,17 +7964,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Ouinhi",
+        "ADM2_PCODE": "BJ1206"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Za-Kpota",
-        "ADM2_PCODE": "BJ1207",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7887,17 +8021,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Za-Kpota",
+        "ADM2_PCODE": "BJ1207"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zagnanado",
-        "ADM2_PCODE": "BJ1208",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7998,17 +8134,19 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Zagnanado",
+        "ADM2_PCODE": "BJ1208"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM2_EN": "Zogbodomey",
-        "ADM2_PCODE": "BJ1209",
-        "ADM1_PCODE": "BJ12",
-        "ADM1_EN": "Zou",
-        "ADM0_PCODE": "BJ"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8073,6 +8211,15 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "BJ",
+        "ADM0_ISO_A2": "BJ",
+        "ADM0_ISO_A3": "BEN",
+        "ADM1_EN": "Zou",
+        "ADM1_PCODE": "BJ12",
+        "ADM2_EN": "Zogbodomey",
+        "ADM2_PCODE": "BJ1209"
       }
     }
   ]

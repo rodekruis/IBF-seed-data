@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "MLI_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kayes",
-        "ADM1_PCODE": "ML01"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1410,14 +1399,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kayes",
+        "ADM1_PCODE": "ML01"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Koulikoro",
-        "ADM1_PCODE": "ML02"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2616,14 +2608,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Koulikoro",
+        "ADM1_PCODE": "ML02"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Sikasso",
-        "ADM1_PCODE": "ML03"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -4080,14 +4075,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Sikasso",
+        "ADM1_PCODE": "ML03"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Ségou",
-        "ADM1_PCODE": "ML04"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4692,14 +4690,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Ségou",
+        "ADM1_PCODE": "ML04"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mopti",
-        "ADM1_PCODE": "ML05"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5356,14 +5357,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Mopti",
+        "ADM1_PCODE": "ML05"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Tombouctou",
-        "ADM1_PCODE": "ML06"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5828,14 +5832,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Tombouctou",
+        "ADM1_PCODE": "ML06"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gao",
-        "ADM1_PCODE": "ML07"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6124,14 +6131,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Gao",
+        "ADM1_PCODE": "ML07"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Kidal",
-        "ADM1_PCODE": "ML08"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6516,14 +6526,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Kidal",
+        "ADM1_PCODE": "ML08"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Bamako",
-        "ADM1_PCODE": "ML09"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6600,14 +6613,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Bamako",
+        "ADM1_PCODE": "ML09"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Menaka",
-        "ADM1_PCODE": "ML10"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6808,6 +6824,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ML",
+        "ADM0_ISO_A2": "ML",
+        "ADM0_ISO_A3": "MLI",
+        "ADM1_EN": "Menaka",
+        "ADM1_PCODE": "ML10"
       }
     }
   ]

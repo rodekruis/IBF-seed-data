@@ -1,24 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "CAF_adm3",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bimbo",
-        "ADM3_PCODE": "CF1111",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF111",
-        "ADM2_EN": "Bimbo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -199,19 +183,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Bimbo",
+        "ADM2_PCODE": "CF111",
+        "ADM3_EN": "Bimbo",
+        "ADM3_PCODE": "CF1111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Damara",
-        "ADM3_PCODE": "CF1121",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF112",
-        "ADM2_EN": "Damara"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -396,19 +382,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Damara",
+        "ADM2_PCODE": "CF112",
+        "ADM3_EN": "Damara",
+        "ADM3_PCODE": "CF1121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bogangolo",
-        "ADM3_PCODE": "CF1131",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF113",
-        "ADM2_EN": "Bogangolo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -573,19 +561,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Bogangolo",
+        "ADM2_PCODE": "CF113",
+        "ADM3_EN": "Bogangolo",
+        "ADM3_PCODE": "CF1131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Boali",
-        "ADM3_PCODE": "CF1141",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF114",
-        "ADM2_EN": "Boali"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -722,19 +712,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Boali",
+        "ADM2_PCODE": "CF114",
+        "ADM3_EN": "Boali",
+        "ADM3_PCODE": "CF1141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bossembélé",
-        "ADM3_PCODE": "CF1151",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF115",
-        "ADM2_EN": "Bossembélé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -871,19 +863,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Bossembélé",
+        "ADM2_PCODE": "CF115",
+        "ADM3_EN": "Bossembélé",
+        "ADM3_PCODE": "CF1151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "La Mbi",
-        "ADM3_PCODE": "CF1152",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF115",
-        "ADM2_EN": "Bossembélé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -972,19 +966,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Bossembélé",
+        "ADM2_PCODE": "CF115",
+        "ADM3_EN": "La Mbi",
+        "ADM3_PCODE": "CF1152"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yaloké",
-        "ADM3_PCODE": "CF1161",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF116",
-        "ADM2_EN": "Yaloké"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1069,19 +1065,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Yaloké",
+        "ADM2_PCODE": "CF116",
+        "ADM3_EN": "Yaloké",
+        "ADM3_PCODE": "CF1161"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Guézéli",
-        "ADM3_PCODE": "CF1162",
-        "ADM1_PCODE": "CF11",
-        "ADM1_EN": "Ombella M'Poko",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF116",
-        "ADM2_EN": "Yaloké"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1186,19 +1184,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ombella M'Poko",
+        "ADM1_PCODE": "CF11",
+        "ADM2_EN": "Yaloké",
+        "ADM2_PCODE": "CF116",
+        "ADM3_EN": "Guézéli",
+        "ADM3_PCODE": "CF1162"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbaiki",
-        "ADM3_PCODE": "CF1211",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1259,19 +1259,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Mbaiki",
+        "ADM3_PCODE": "CF1211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbata",
-        "ADM3_PCODE": "CF1212",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1428,19 +1430,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Mbata",
+        "ADM3_PCODE": "CF1212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pissa",
-        "ADM3_PCODE": "CF1213",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1533,19 +1537,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Pissa",
+        "ADM3_PCODE": "CF1213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bogongo Gaza",
-        "ADM3_PCODE": "CF1214",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1642,19 +1648,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Bogongo Gaza",
+        "ADM3_PCODE": "CF1214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Léssé",
-        "ADM3_PCODE": "CF1215",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1811,19 +1819,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Léssé",
+        "ADM3_PCODE": "CF1215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nola",
-        "ADM3_PCODE": "CF1216",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1912,19 +1922,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Nola",
+        "ADM3_PCODE": "CF1216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Moboma",
-        "ADM3_PCODE": "CF1217",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2061,19 +2073,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Moboma",
+        "ADM3_PCODE": "CF1217"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Balé-Loko",
-        "ADM3_PCODE": "CF1218",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF121",
-        "ADM2_EN": "Mbaïki"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2158,19 +2172,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mbaïki",
+        "ADM2_PCODE": "CF121",
+        "ADM3_EN": "Balé-Loko",
+        "ADM3_PCODE": "CF1218"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mongoumba",
-        "ADM3_PCODE": "CF1221",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF122",
-        "ADM2_EN": "Mongoumba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2291,19 +2307,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Mongoumba",
+        "ADM2_PCODE": "CF122",
+        "ADM3_EN": "Mongoumba",
+        "ADM3_PCODE": "CF1221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lobaye",
-        "ADM3_PCODE": "CF1232",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF123",
-        "ADM2_EN": "Boda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2460,19 +2478,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Boda",
+        "ADM2_PCODE": "CF123",
+        "ADM3_EN": "Lobaye",
+        "ADM3_PCODE": "CF1232"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Boganangone",
-        "ADM3_PCODE": "CF1241",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF124",
-        "ADM2_EN": "Boganangone"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2621,19 +2641,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Boganangone",
+        "ADM2_PCODE": "CF124",
+        "ADM3_EN": "Boganangone",
+        "ADM3_PCODE": "CF1241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Boganda",
-        "ADM3_PCODE": "CF1251",
-        "ADM1_PCODE": "CF12",
-        "ADM1_EN": "Lobaye",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF125",
-        "ADM2_EN": "Boganda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2798,19 +2820,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Lobaye",
+        "ADM1_PCODE": "CF12",
+        "ADM2_EN": "Boganda",
+        "ADM2_PCODE": "CF125",
+        "ADM3_EN": "Boganda",
+        "ADM3_PCODE": "CF1251"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Haute-Batouri",
-        "ADM3_PCODE": "CF2112",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF211",
-        "ADM2_EN": "Berbérati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2927,19 +2951,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Berbérati",
+        "ADM2_PCODE": "CF211",
+        "ADM3_EN": "Haute-Batouri",
+        "ADM3_PCODE": "CF2112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouakanga",
-        "ADM3_PCODE": "CF2113",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF211",
-        "ADM2_EN": "Berbérati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3076,19 +3102,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Berbérati",
+        "ADM2_PCODE": "CF211",
+        "ADM3_EN": "Ouakanga",
+        "ADM3_PCODE": "CF2113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Basse-Mambéré",
-        "ADM3_PCODE": "CF2114",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF211",
-        "ADM2_EN": "Berbérati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3209,19 +3237,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Berbérati",
+        "ADM2_PCODE": "CF211",
+        "ADM3_EN": "Basse-Mambéré",
+        "ADM3_PCODE": "CF2114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Basse-Batouri",
-        "ADM3_PCODE": "CF2115",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF211",
-        "ADM2_EN": "Berbérati"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3326,19 +3356,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Berbérati",
+        "ADM2_PCODE": "CF211",
+        "ADM3_EN": "Basse-Batouri",
+        "ADM3_PCODE": "CF2115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Basse-Boumné",
-        "ADM3_PCODE": "CF2121",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF212",
-        "ADM2_EN": "Gamboula"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3479,19 +3511,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Gamboula",
+        "ADM2_PCODE": "CF212",
+        "ADM3_EN": "Basse-Boumné",
+        "ADM3_PCODE": "CF2121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Carnot",
-        "ADM3_PCODE": "CF2131",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF213",
-        "ADM2_EN": "Carnot"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3640,19 +3674,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Carnot",
+        "ADM2_PCODE": "CF213",
+        "ADM3_EN": "Carnot",
+        "ADM3_PCODE": "CF2131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Senkpa-Mbaéré",
-        "ADM3_PCODE": "CF2132",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF213",
-        "ADM2_EN": "Carnot"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3785,19 +3821,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Carnot",
+        "ADM2_PCODE": "CF213",
+        "ADM3_EN": "Senkpa-Mbaéré",
+        "ADM3_PCODE": "CF2132"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Haute-Boumbé",
-        "ADM3_PCODE": "CF2141",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF214",
-        "ADM2_EN": "Amada-Gaza"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3918,19 +3956,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Amada-Gaza",
+        "ADM2_PCODE": "CF214",
+        "ADM3_EN": "Haute-Boumbé",
+        "ADM3_PCODE": "CF2141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Basse-Kadéi",
-        "ADM3_PCODE": "CF2151",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF215",
-        "ADM2_EN": "Sosso-Nakombo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4035,19 +4075,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Sosso-Nakombo",
+        "ADM2_PCODE": "CF215",
+        "ADM3_EN": "Basse-Kadéi",
+        "ADM3_PCODE": "CF2151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Haute-Kadéi",
-        "ADM3_PCODE": "CF2161",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF216",
-        "ADM2_EN": "Dédé-Mokouba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4112,19 +4154,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Dédé-Mokouba",
+        "ADM2_PCODE": "CF216",
+        "ADM3_EN": "Haute-Kadéi",
+        "ADM3_PCODE": "CF2161"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Topia",
-        "ADM3_PCODE": "CF2171",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF217",
-        "ADM2_EN": "Gadzi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4297,19 +4341,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Gadzi",
+        "ADM2_PCODE": "CF217",
+        "ADM3_EN": "Topia",
+        "ADM3_PCODE": "CF2171"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbali",
-        "ADM3_PCODE": "CF2172",
-        "ADM1_PCODE": "CF21",
-        "ADM1_EN": "Mambéré-Kadéï",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF217",
-        "ADM2_EN": "Gadzi"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4402,19 +4448,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mambéré-Kadéï",
+        "ADM1_PCODE": "CF21",
+        "ADM2_EN": "Gadzi",
+        "ADM2_PCODE": "CF217",
+        "ADM3_EN": "Mbali",
+        "ADM3_PCODE": "CF2172"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Niem-Yelewa",
-        "ADM3_PCODE": "CF2212",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF221",
-        "ADM2_EN": "Bouar"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4535,19 +4583,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Bouar",
+        "ADM2_PCODE": "CF221",
+        "ADM3_EN": "Niem-Yelewa",
+        "ADM3_PCODE": "CF2212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Herman-Brousse",
-        "ADM3_PCODE": "CF2213",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF221",
-        "ADM2_EN": "Bouar"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4664,19 +4714,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Bouar",
+        "ADM2_PCODE": "CF221",
+        "ADM3_EN": "Herman-Brousse",
+        "ADM3_PCODE": "CF2213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Zotoua-Bangarem",
-        "ADM3_PCODE": "CF2214",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF221",
-        "ADM2_EN": "Bouar"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4801,19 +4853,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Bouar",
+        "ADM2_PCODE": "CF221",
+        "ADM3_EN": "Zotoua-Bangarem",
+        "ADM3_PCODE": "CF2214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yénga",
-        "ADM3_PCODE": "CF2215",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF221",
-        "ADM2_EN": "Bouar"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4902,19 +4956,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Bouar",
+        "ADM2_PCODE": "CF221",
+        "ADM3_EN": "Yénga",
+        "ADM3_PCODE": "CF2215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Béa-Nana",
-        "ADM3_PCODE": "CF2216",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF221",
-        "ADM2_EN": "Bouar"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4991,19 +5047,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Bouar",
+        "ADM2_PCODE": "CF221",
+        "ADM3_EN": "Béa-Nana",
+        "ADM3_PCODE": "CF2216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Doaka-Koursou",
-        "ADM3_PCODE": "CF2217",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF221",
-        "ADM2_EN": "Bouar"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5088,19 +5146,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Bouar",
+        "ADM2_PCODE": "CF221",
+        "ADM3_EN": "Doaka-Koursou",
+        "ADM3_PCODE": "CF2217"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bawi Tédoa",
-        "ADM3_PCODE": "CF2221",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF222",
-        "ADM2_EN": "Baoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5205,19 +5265,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baoro",
+        "ADM2_PCODE": "CF222",
+        "ADM3_EN": "Bawi Tédoa",
+        "ADM3_PCODE": "CF2221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yoro-Samba Bougoulou",
-        "ADM3_PCODE": "CF2222",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF222",
-        "ADM2_EN": "Baoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5310,19 +5372,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baoro",
+        "ADM2_PCODE": "CF222",
+        "ADM3_EN": "Yoro-Samba Bougoulou",
+        "ADM3_PCODE": "CF2222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Baboua",
-        "ADM3_PCODE": "CF2231",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF223",
-        "ADM2_EN": "Baboua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5531,19 +5595,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baboua",
+        "ADM2_PCODE": "CF223",
+        "ADM3_EN": "Baboua",
+        "ADM3_PCODE": "CF2231"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Goudrot",
-        "ADM3_PCODE": "CF2232",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF223",
-        "ADM2_EN": "Baboua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5640,19 +5706,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baboua",
+        "ADM2_PCODE": "CF223",
+        "ADM3_EN": "Goudrot",
+        "ADM3_PCODE": "CF2232"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bingué",
-        "ADM3_PCODE": "CF2233",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF223",
-        "ADM2_EN": "Baboua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5753,19 +5821,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baboua",
+        "ADM2_PCODE": "CF223",
+        "ADM3_EN": "Bingué",
+        "ADM3_PCODE": "CF2233"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koundé",
-        "ADM3_PCODE": "CF2234",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF223",
-        "ADM2_EN": "Baboua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5850,19 +5920,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baboua",
+        "ADM2_PCODE": "CF223",
+        "ADM3_EN": "Koundé",
+        "ADM3_PCODE": "CF2234"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Fo",
-        "ADM3_PCODE": "CF2235",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF223",
-        "ADM2_EN": "Baboua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5947,19 +6019,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Baboua",
+        "ADM2_PCODE": "CF223",
+        "ADM3_EN": "Fo",
+        "ADM3_PCODE": "CF2235"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Abba",
-        "ADM3_PCODE": "CF2241",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF224",
-        "ADM2_EN": "Abba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6108,19 +6182,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Abba",
+        "ADM2_PCODE": "CF224",
+        "ADM3_EN": "Abba",
+        "ADM3_PCODE": "CF2241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nadziboro",
-        "ADM3_PCODE": "CF2242",
-        "ADM1_PCODE": "CF22",
-        "ADM1_EN": "Nana-Mambéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF224",
-        "ADM2_EN": "Abba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6185,19 +6261,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Mambéré",
+        "ADM1_PCODE": "CF22",
+        "ADM2_EN": "Abba",
+        "ADM2_PCODE": "CF224",
+        "ADM3_EN": "Nadziboro",
+        "ADM3_PCODE": "CF2242"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nola",
-        "ADM3_PCODE": "CF2311",
-        "ADM1_PCODE": "CF23",
-        "ADM1_EN": "Sangha-Mbaéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF231",
-        "ADM2_EN": "Nola"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6330,19 +6408,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Sangha-Mbaéré",
+        "ADM1_PCODE": "CF23",
+        "ADM2_EN": "Nola",
+        "ADM2_PCODE": "CF231",
+        "ADM3_EN": "Nola",
+        "ADM3_PCODE": "CF2311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bilolo",
-        "ADM3_PCODE": "CF2312",
-        "ADM1_PCODE": "CF23",
-        "ADM1_EN": "Sangha-Mbaéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF231",
-        "ADM2_EN": "Nola"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6455,19 +6535,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Sangha-Mbaéré",
+        "ADM1_PCODE": "CF23",
+        "ADM2_EN": "Nola",
+        "ADM2_PCODE": "CF231",
+        "ADM3_EN": "Bilolo",
+        "ADM3_PCODE": "CF2312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Salo",
-        "ADM3_PCODE": "CF2313",
-        "ADM1_PCODE": "CF23",
-        "ADM1_EN": "Sangha-Mbaéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF231",
-        "ADM2_EN": "Nola"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6660,19 +6742,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Sangha-Mbaéré",
+        "ADM1_PCODE": "CF23",
+        "ADM2_EN": "Nola",
+        "ADM2_PCODE": "CF231",
+        "ADM3_EN": "Salo",
+        "ADM3_PCODE": "CF2313"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbaéré",
-        "ADM3_PCODE": "CF2321",
-        "ADM1_PCODE": "CF23",
-        "ADM1_EN": "Sangha-Mbaéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF232",
-        "ADM2_EN": "Bambio"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6869,19 +6953,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Sangha-Mbaéré",
+        "ADM1_PCODE": "CF23",
+        "ADM2_EN": "Bambio",
+        "ADM2_PCODE": "CF232",
+        "ADM3_EN": "Mbaéré",
+        "ADM3_PCODE": "CF2321"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yobé-Sangha",
-        "ADM3_PCODE": "CF2331",
-        "ADM1_PCODE": "CF23",
-        "ADM1_EN": "Sangha-Mbaéré",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF233",
-        "ADM2_EN": "Bayanga"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7066,19 +7152,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Sangha-Mbaéré",
+        "ADM1_PCODE": "CF23",
+        "ADM2_EN": "Bayanga",
+        "ADM2_PCODE": "CF233",
+        "ADM3_EN": "Yobé-Sangha",
+        "ADM3_PCODE": "CF2331"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bozoum",
-        "ADM3_PCODE": "CF3111",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF311",
-        "ADM2_EN": "Bozoum"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7111,19 +7199,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bozoum",
+        "ADM2_PCODE": "CF311",
+        "ADM3_EN": "Bozoum",
+        "ADM3_PCODE": "CF3111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dan-Gbabiri",
-        "ADM3_PCODE": "CF3112",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF311",
-        "ADM2_EN": "Bozoum"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7320,19 +7410,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bozoum",
+        "ADM2_PCODE": "CF311",
+        "ADM3_EN": "Dan-Gbabiri",
+        "ADM3_PCODE": "CF3112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Birvan-Bolé",
-        "ADM3_PCODE": "CF3113",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF311",
-        "ADM2_EN": "Bozoum"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7489,19 +7581,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bozoum",
+        "ADM2_PCODE": "CF311",
+        "ADM3_EN": "Birvan-Bolé",
+        "ADM3_PCODE": "CF3113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kouazo",
-        "ADM3_PCODE": "CF3114",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF311",
-        "ADM2_EN": "Bozoum"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7630,19 +7724,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bozoum",
+        "ADM2_PCODE": "CF311",
+        "ADM3_EN": "Kouazo",
+        "ADM3_PCODE": "CF3114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Danayéré",
-        "ADM3_PCODE": "CF3115",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF311",
-        "ADM2_EN": "Bozoum"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7739,19 +7835,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bozoum",
+        "ADM2_PCODE": "CF311",
+        "ADM3_EN": "Danayéré",
+        "ADM3_PCODE": "CF3115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bocaranga",
-        "ADM3_PCODE": "CF3121",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF312",
-        "ADM2_EN": "Bocaranga"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7888,19 +7986,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bocaranga",
+        "ADM2_PCODE": "CF312",
+        "ADM3_EN": "Bocaranga",
+        "ADM3_PCODE": "CF3121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Loura",
-        "ADM3_PCODE": "CF3122",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF312",
-        "ADM2_EN": "Bocaranga"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7981,19 +8081,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bocaranga",
+        "ADM2_PCODE": "CF312",
+        "ADM3_EN": "Loura",
+        "ADM3_PCODE": "CF3122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Péndé",
-        "ADM3_PCODE": "CF3123",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF312",
-        "ADM2_EN": "Bocaranga"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8094,19 +8196,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bocaranga",
+        "ADM2_PCODE": "CF312",
+        "ADM3_EN": "Péndé",
+        "ADM3_PCODE": "CF3123"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koui",
-        "ADM3_PCODE": "CF3131",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF313",
-        "ADM2_EN": "Koui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8239,19 +8343,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Koui",
+        "ADM2_PCODE": "CF313",
+        "ADM3_EN": "Koui",
+        "ADM3_PCODE": "CF3131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Paoua",
-        "ADM3_PCODE": "CF3141",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8376,19 +8482,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Paoua",
+        "ADM3_PCODE": "CF3141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mom",
-        "ADM3_PCODE": "CF3142",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8481,19 +8589,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Mom",
+        "ADM3_PCODE": "CF3142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bah-Bessar",
-        "ADM3_PCODE": "CF3143",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8590,19 +8700,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Bah-Bessar",
+        "ADM3_PCODE": "CF3143"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mia-Péndé",
-        "ADM3_PCODE": "CF3144",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8699,19 +8811,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Mia-Péndé",
+        "ADM3_PCODE": "CF3144"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nana-Barya",
-        "ADM3_PCODE": "CF3145",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8788,19 +8902,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Nana-Barya",
+        "ADM3_PCODE": "CF3145"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Malé",
-        "ADM3_PCODE": "CF3146",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8897,19 +9013,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Malé",
+        "ADM3_PCODE": "CF3146"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bimbi",
-        "ADM3_PCODE": "CF3147",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9026,19 +9144,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Bimbi",
+        "ADM3_PCODE": "CF3147"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Banh",
-        "ADM3_PCODE": "CF3148",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF314",
-        "ADM2_EN": "Paoua"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9203,19 +9323,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Paoua",
+        "ADM2_PCODE": "CF314",
+        "ADM3_EN": "Banh",
+        "ADM3_PCODE": "CF3148"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dilouki",
-        "ADM3_PCODE": "CF3151",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF315",
-        "ADM2_EN": "Ngaoundaye"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9292,19 +9414,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Ngaoundaye",
+        "ADM2_PCODE": "CF315",
+        "ADM3_EN": "Dilouki",
+        "ADM3_PCODE": "CF3151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lim",
-        "ADM3_PCODE": "CF3152",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF315",
-        "ADM2_EN": "Ngaoundaye"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9393,19 +9517,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Ngaoundaye",
+        "ADM2_PCODE": "CF315",
+        "ADM3_EN": "Lim",
+        "ADM3_PCODE": "CF3152"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kodi",
-        "ADM3_PCODE": "CF3153",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF315",
-        "ADM2_EN": "Ngaoundaye"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9526,19 +9652,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Ngaoundaye",
+        "ADM2_PCODE": "CF315",
+        "ADM3_EN": "Kodi",
+        "ADM3_PCODE": "CF3153"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yémé",
-        "ADM3_PCODE": "CF3154",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF315",
-        "ADM2_EN": "Ngaoundaye"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -9675,19 +9803,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Ngaoundaye",
+        "ADM2_PCODE": "CF315",
+        "ADM3_EN": "Yémé",
+        "ADM3_PCODE": "CF3154"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbili",
-        "ADM3_PCODE": "CF3155",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF315",
-        "ADM2_EN": "Ngaoundaye"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9764,19 +9894,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Ngaoundaye",
+        "ADM2_PCODE": "CF315",
+        "ADM3_EN": "Mbili",
+        "ADM3_PCODE": "CF3155"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Binon",
-        "ADM3_PCODE": "CF3161",
-        "ADM1_PCODE": "CF31",
-        "ADM1_EN": "Ouham Pendé",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF316",
-        "ADM2_EN": "Bossemtélé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9957,19 +10089,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham Pendé",
+        "ADM1_PCODE": "CF31",
+        "ADM2_EN": "Bossemtélé",
+        "ADM2_PCODE": "CF316",
+        "ADM3_EN": "Binon",
+        "ADM3_PCODE": "CF3161"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bossangoa",
-        "ADM3_PCODE": "CF3211",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF321",
-        "ADM2_EN": "Bossangoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10006,19 +10140,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bossangoa",
+        "ADM2_PCODE": "CF321",
+        "ADM3_EN": "Bossangoa",
+        "ADM3_PCODE": "CF3211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Soumbé",
-        "ADM3_PCODE": "CF3212",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF321",
-        "ADM2_EN": "Bossangoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10123,19 +10259,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bossangoa",
+        "ADM2_PCODE": "CF321",
+        "ADM3_EN": "Soumbé",
+        "ADM3_PCODE": "CF3212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koro-M'poko",
-        "ADM3_PCODE": "CF3213",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF321",
-        "ADM2_EN": "Bossangoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10316,19 +10454,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bossangoa",
+        "ADM2_PCODE": "CF321",
+        "ADM3_EN": "Koro-M'poko",
+        "ADM3_PCODE": "CF3213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ben Zambé",
-        "ADM3_PCODE": "CF3214",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF321",
-        "ADM2_EN": "Bossangoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10493,19 +10633,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bossangoa",
+        "ADM2_PCODE": "CF321",
+        "ADM3_EN": "Ben Zambé",
+        "ADM3_PCODE": "CF3214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouham Bac",
-        "ADM3_PCODE": "CF3215",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF321",
-        "ADM2_EN": "Bossangoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10642,19 +10784,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bossangoa",
+        "ADM2_PCODE": "CF321",
+        "ADM3_EN": "Ouham Bac",
+        "ADM3_PCODE": "CF3215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ndoro Mboli",
-        "ADM3_PCODE": "CF3216",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF321",
-        "ADM2_EN": "Bossangoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10791,19 +10935,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bossangoa",
+        "ADM2_PCODE": "CF321",
+        "ADM3_EN": "Ndoro Mboli",
+        "ADM3_PCODE": "CF3216"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nana-Bakassa",
-        "ADM3_PCODE": "CF3221",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF322",
-        "ADM2_EN": "Nana-Bakassa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10992,19 +11138,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Nana-Bakassa",
+        "ADM2_PCODE": "CF322",
+        "ADM3_EN": "Nana-Bakassa",
+        "ADM3_PCODE": "CF3221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nana Markounda",
-        "ADM3_PCODE": "CF3231",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF323",
-        "ADM2_EN": "Markounda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11325,19 +11473,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Markounda",
+        "ADM2_PCODE": "CF323",
+        "ADM3_EN": "Nana Markounda",
+        "ADM3_PCODE": "CF3231"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nangha Boguila",
-        "ADM3_PCODE": "CF3241",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF324",
-        "ADM2_EN": "Nangha Boguila"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11502,19 +11652,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Nangha Boguila",
+        "ADM2_PCODE": "CF324",
+        "ADM3_EN": "Nangha Boguila",
+        "ADM3_PCODE": "CF3241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bouca Bobo",
-        "ADM3_PCODE": "CF3251",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF325",
-        "ADM2_EN": "Bouca"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11739,19 +11891,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bouca",
+        "ADM2_PCODE": "CF325",
+        "ADM3_EN": "Bouca Bobo",
+        "ADM3_PCODE": "CF3251"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lady Gbawi",
-        "ADM3_PCODE": "CF3252",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF325",
-        "ADM2_EN": "Bouca"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11920,19 +12074,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bouca",
+        "ADM2_PCODE": "CF325",
+        "ADM3_EN": "Lady Gbawi",
+        "ADM3_PCODE": "CF3252"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouham Fafa",
-        "ADM3_PCODE": "CF3253",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF325",
-        "ADM2_EN": "Bouca"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12077,19 +12233,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bouca",
+        "ADM2_PCODE": "CF325",
+        "ADM3_EN": "Ouham Fafa",
+        "ADM3_PCODE": "CF3253"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Fafa Boungou",
-        "ADM3_PCODE": "CF3254",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF325",
-        "ADM2_EN": "Bouca"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12358,19 +12516,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Bouca",
+        "ADM2_PCODE": "CF325",
+        "ADM3_EN": "Fafa Boungou",
+        "ADM3_PCODE": "CF3254"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Batangafo",
-        "ADM3_PCODE": "CF3261",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF326",
-        "ADM2_EN": "Batangafo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12411,19 +12571,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Batangafo",
+        "ADM2_PCODE": "CF326",
+        "ADM3_EN": "Batangafo",
+        "ADM3_PCODE": "CF3261"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bédé",
-        "ADM3_PCODE": "CF3262",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF326",
-        "ADM2_EN": "Batangafo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12700,19 +12862,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Batangafo",
+        "ADM2_PCODE": "CF326",
+        "ADM3_EN": "Bédé",
+        "ADM3_PCODE": "CF3262"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Hama",
-        "ADM3_PCODE": "CF3263",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF326",
-        "ADM2_EN": "Batangafo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12965,19 +13129,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Batangafo",
+        "ADM2_PCODE": "CF326",
+        "ADM3_EN": "Hama",
+        "ADM3_PCODE": "CF3263"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouassi",
-        "ADM3_PCODE": "CF3264",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF326",
-        "ADM2_EN": "Batangafo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13158,19 +13324,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Batangafo",
+        "ADM2_PCODE": "CF326",
+        "ADM3_EN": "Ouassi",
+        "ADM3_PCODE": "CF3264"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bakassa",
-        "ADM3_PCODE": "CF3265",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF326",
-        "ADM2_EN": "Batangafo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13323,19 +13491,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Batangafo",
+        "ADM2_PCODE": "CF326",
+        "ADM3_EN": "Bakassa",
+        "ADM3_PCODE": "CF3265"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sido",
-        "ADM3_PCODE": "CF3271",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF327",
-        "ADM2_EN": "Kabo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13588,19 +13758,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Kabo",
+        "ADM2_PCODE": "CF327",
+        "ADM3_EN": "Sido",
+        "ADM3_PCODE": "CF3271"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouaki",
-        "ADM3_PCODE": "CF3272",
-        "ADM1_PCODE": "CF32",
-        "ADM1_EN": "Ouham",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF327",
-        "ADM2_EN": "Kabo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13733,19 +13905,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouham",
+        "ADM1_PCODE": "CF32",
+        "ADM2_EN": "Kabo",
+        "ADM2_PCODE": "CF327",
+        "ADM3_EN": "Ouaki",
+        "ADM3_PCODE": "CF3272"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sibut",
-        "ADM3_PCODE": "CF4111",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF411",
-        "ADM2_EN": "Sibut"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13778,19 +13952,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Sibut",
+        "ADM2_PCODE": "CF411",
+        "ADM3_EN": "Sibut",
+        "ADM3_PCODE": "CF4111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngoumbele",
-        "ADM3_PCODE": "CF4112",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF411",
-        "ADM2_EN": "Sibut"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13943,19 +14119,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Sibut",
+        "ADM2_PCODE": "CF411",
+        "ADM3_EN": "Ngoumbele",
+        "ADM3_PCODE": "CF4112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dekoa",
-        "ADM3_PCODE": "CF4121",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF412",
-        "ADM2_EN": "Dékoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14012,19 +14190,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Dékoa",
+        "ADM2_PCODE": "CF412",
+        "ADM3_EN": "Dekoa",
+        "ADM3_PCODE": "CF4121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Tilo",
-        "ADM3_PCODE": "CF4122",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF412",
-        "ADM2_EN": "Dékoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14129,19 +14309,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Dékoa",
+        "ADM2_PCODE": "CF412",
+        "ADM3_EN": "Tilo",
+        "ADM3_PCODE": "CF4122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Guiffa",
-        "ADM3_PCODE": "CF4123",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF412",
-        "ADM2_EN": "Dékoa"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14230,19 +14412,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Dékoa",
+        "ADM2_PCODE": "CF412",
+        "ADM3_EN": "Guiffa",
+        "ADM3_PCODE": "CF4123"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mala",
-        "ADM3_PCODE": "CF4131",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF413",
-        "ADM2_EN": "Mala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14363,19 +14547,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Mala",
+        "ADM2_PCODE": "CF413",
+        "ADM3_EN": "Mala",
+        "ADM3_PCODE": "CF4131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Galafondo",
-        "ADM3_PCODE": "CF4141",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF414",
-        "ADM2_EN": "Ndjoukou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14508,19 +14694,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Ndjoukou",
+        "ADM2_PCODE": "CF414",
+        "ADM3_EN": "Galafondo",
+        "ADM3_PCODE": "CF4141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Galabadja",
-        "ADM3_PCODE": "CF4142",
-        "ADM1_PCODE": "CF41",
-        "ADM1_EN": "Kémo",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF414",
-        "ADM2_EN": "Ndjoukou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14637,19 +14825,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Kémo",
+        "ADM1_PCODE": "CF41",
+        "ADM2_EN": "Ndjoukou",
+        "ADM2_PCODE": "CF414",
+        "ADM3_EN": "Galabadja",
+        "ADM3_PCODE": "CF4142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kaga-Bandoro",
-        "ADM3_PCODE": "CF4211",
-        "ADM1_PCODE": "CF42",
-        "ADM1_EN": "Nana-Gribizi",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF421",
-        "ADM2_EN": "Kaga-Bandoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14690,19 +14880,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Gribizi",
+        "ADM1_PCODE": "CF42",
+        "ADM2_EN": "Kaga-Bandoro",
+        "ADM2_PCODE": "CF421",
+        "ADM3_EN": "Kaga-Bandoro",
+        "ADM3_PCODE": "CF4211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Botto",
-        "ADM3_PCODE": "CF4212",
-        "ADM1_PCODE": "CF42",
-        "ADM1_EN": "Nana-Gribizi",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF421",
-        "ADM2_EN": "Kaga-Bandoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14795,19 +14987,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Gribizi",
+        "ADM1_PCODE": "CF42",
+        "ADM2_EN": "Kaga-Bandoro",
+        "ADM2_PCODE": "CF421",
+        "ADM3_EN": "Botto",
+        "ADM3_PCODE": "CF4212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Nana-Outa",
-        "ADM3_PCODE": "CF4213",
-        "ADM1_PCODE": "CF42",
-        "ADM1_EN": "Nana-Gribizi",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF421",
-        "ADM2_EN": "Kaga-Bandoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15180,19 +15374,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Gribizi",
+        "ADM1_PCODE": "CF42",
+        "ADM2_EN": "Kaga-Bandoro",
+        "ADM2_PCODE": "CF421",
+        "ADM3_EN": "Nana-Outa",
+        "ADM3_PCODE": "CF4213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Grivaï-Pamia",
-        "ADM3_PCODE": "CF4214",
-        "ADM1_PCODE": "CF42",
-        "ADM1_EN": "Nana-Gribizi",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF421",
-        "ADM2_EN": "Kaga-Bandoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15333,19 +15529,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Gribizi",
+        "ADM1_PCODE": "CF42",
+        "ADM2_EN": "Kaga-Bandoro",
+        "ADM2_PCODE": "CF421",
+        "ADM3_EN": "Grivaï-Pamia",
+        "ADM3_PCODE": "CF4214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ndenga",
-        "ADM3_PCODE": "CF4215",
-        "ADM1_PCODE": "CF42",
-        "ADM1_EN": "Nana-Gribizi",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF421",
-        "ADM2_EN": "Kaga-Bandoro"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15510,19 +15708,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Gribizi",
+        "ADM1_PCODE": "CF42",
+        "ADM2_EN": "Kaga-Bandoro",
+        "ADM2_PCODE": "CF421",
+        "ADM3_EN": "Ndenga",
+        "ADM3_PCODE": "CF4215"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbrés",
-        "ADM3_PCODE": "CF4221",
-        "ADM1_PCODE": "CF42",
-        "ADM1_EN": "Nana-Gribizi",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF422",
-        "ADM2_EN": "Mbrès"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15735,19 +15935,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Nana-Gribizi",
+        "ADM1_PCODE": "CF42",
+        "ADM2_EN": "Mbrès",
+        "ADM2_PCODE": "CF422",
+        "ADM3_EN": "Mbrés",
+        "ADM3_PCODE": "CF4221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bambari",
-        "ADM3_PCODE": "CF4311",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF431",
-        "ADM2_EN": "Bambari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15780,19 +15982,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Bambari",
+        "ADM2_PCODE": "CF431",
+        "ADM3_EN": "Bambari",
+        "ADM3_PCODE": "CF4311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Danga-Gboudou",
-        "ADM3_PCODE": "CF4312",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF431",
-        "ADM2_EN": "Bambari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15941,19 +16145,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Bambari",
+        "ADM2_PCODE": "CF431",
+        "ADM3_EN": "Danga-Gboudou",
+        "ADM3_PCODE": "CF4312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngougbia",
-        "ADM3_PCODE": "CF4313",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF431",
-        "ADM2_EN": "Bambari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16074,19 +16280,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Bambari",
+        "ADM2_PCODE": "CF431",
+        "ADM3_EN": "Ngougbia",
+        "ADM3_PCODE": "CF4313"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pladama-Ouaka",
-        "ADM3_PCODE": "CF4314",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF431",
-        "ADM2_EN": "Bambari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16203,19 +16411,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Bambari",
+        "ADM2_PCODE": "CF431",
+        "ADM3_EN": "Pladama-Ouaka",
+        "ADM3_PCODE": "CF4314"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Haute Baïdou",
-        "ADM3_PCODE": "CF4315",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF431",
-        "ADM2_EN": "Bambari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16376,19 +16586,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Bambari",
+        "ADM2_PCODE": "CF431",
+        "ADM3_EN": "Haute Baïdou",
+        "ADM3_PCODE": "CF4315"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Koudou-Bégo",
-        "ADM3_PCODE": "CF4321",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF432",
-        "ADM2_EN": "Bakala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16757,19 +16969,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Bakala",
+        "ADM2_PCODE": "CF432",
+        "ADM3_EN": "Koudou-Bégo",
+        "ADM3_PCODE": "CF4321"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Grimari",
-        "ADM3_PCODE": "CF4331",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF433",
-        "ADM2_EN": "Grimari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16806,19 +17020,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Grimari",
+        "ADM2_PCODE": "CF433",
+        "ADM3_EN": "Grimari",
+        "ADM3_PCODE": "CF4331"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kobadja",
-        "ADM3_PCODE": "CF4332",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF433",
-        "ADM2_EN": "Grimari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16903,19 +17119,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Grimari",
+        "ADM2_PCODE": "CF433",
+        "ADM3_EN": "Kobadja",
+        "ADM3_PCODE": "CF4332"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lissa",
-        "ADM3_PCODE": "CF4333",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF433",
-        "ADM2_EN": "Grimari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17056,19 +17274,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Grimari",
+        "ADM2_PCODE": "CF433",
+        "ADM3_EN": "Lissa",
+        "ADM3_PCODE": "CF4333"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Pouyamba",
-        "ADM3_PCODE": "CF4334",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF433",
-        "ADM2_EN": "Grimari"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17221,19 +17441,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Grimari",
+        "ADM2_PCODE": "CF433",
+        "ADM3_EN": "Pouyamba",
+        "ADM3_PCODE": "CF4334"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kouango",
-        "ADM3_PCODE": "CF4341",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF434",
-        "ADM2_EN": "Kouango"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17430,19 +17652,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Kouango",
+        "ADM2_PCODE": "CF434",
+        "ADM3_EN": "Kouango",
+        "ADM3_PCODE": "CF4341"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Azéngué-Mindou",
-        "ADM3_PCODE": "CF4342",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF434",
-        "ADM2_EN": "Kouango"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17607,19 +17831,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Kouango",
+        "ADM2_PCODE": "CF434",
+        "ADM3_EN": "Azéngué-Mindou",
+        "ADM3_PCODE": "CF4342"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Cochio-Toulou",
-        "ADM3_PCODE": "CF4343",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF434",
-        "ADM2_EN": "Kouango"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17776,19 +18002,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Kouango",
+        "ADM2_PCODE": "CF434",
+        "ADM3_EN": "Cochio-Toulou",
+        "ADM3_PCODE": "CF4343"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ippy",
-        "ADM3_PCODE": "CF4351",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF435",
-        "ADM2_EN": "Ippy"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17885,19 +18113,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Ippy",
+        "ADM2_PCODE": "CF435",
+        "ADM3_EN": "Ippy",
+        "ADM3_PCODE": "CF4351"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yéngou",
-        "ADM3_PCODE": "CF4352",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF435",
-        "ADM2_EN": "Ippy"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18198,19 +18428,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Ippy",
+        "ADM2_PCODE": "CF435",
+        "ADM3_EN": "Yéngou",
+        "ADM3_PCODE": "CF4352"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Baïdou-Ngoumbourou",
-        "ADM3_PCODE": "CF4353",
-        "ADM1_PCODE": "CF43",
-        "ADM1_EN": "Ouaka",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF435",
-        "ADM2_EN": "Ippy"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18503,19 +18735,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Ouaka",
+        "ADM1_PCODE": "CF43",
+        "ADM2_EN": "Ippy",
+        "ADM2_PCODE": "CF435",
+        "ADM3_EN": "Baïdou-Ngoumbourou",
+        "ADM3_PCODE": "CF4353"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Dar El Kouti",
-        "ADM3_PCODE": "CF5111",
-        "ADM1_PCODE": "CF51",
-        "ADM1_EN": "Bamingui-Bangoran",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF511",
-        "ADM2_EN": "Ndélé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19084,19 +19318,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bamingui-Bangoran",
+        "ADM1_PCODE": "CF51",
+        "ADM2_EN": "Ndélé",
+        "ADM2_PCODE": "CF511",
+        "ADM3_EN": "Dar El Kouti",
+        "ADM3_PCODE": "CF5111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbolo-Pata",
-        "ADM3_PCODE": "CF5112",
-        "ADM1_PCODE": "CF51",
-        "ADM1_EN": "Bamingui-Bangoran",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF511",
-        "ADM2_EN": "Ndélé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19213,19 +19449,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bamingui-Bangoran",
+        "ADM1_PCODE": "CF51",
+        "ADM2_EN": "Ndélé",
+        "ADM2_PCODE": "CF511",
+        "ADM3_EN": "Mbolo-Pata",
+        "ADM3_PCODE": "CF5112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Vassako",
-        "ADM3_PCODE": "CF5121",
-        "ADM1_PCODE": "CF51",
-        "ADM1_EN": "Bamingui-Bangoran",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF512",
-        "ADM2_EN": "Bamingui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19638,19 +19876,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bamingui-Bangoran",
+        "ADM1_PCODE": "CF51",
+        "ADM2_EN": "Bamingui",
+        "ADM2_PCODE": "CF512",
+        "ADM3_EN": "Vassako",
+        "ADM3_PCODE": "CF5121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Samba-Boungou",
-        "ADM3_PCODE": "CF5211",
-        "ADM1_PCODE": "CF52",
-        "ADM1_EN": "Haute-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF521",
-        "ADM2_EN": "Bria"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19919,19 +20159,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haute-Kotto",
+        "ADM1_PCODE": "CF52",
+        "ADM2_EN": "Bria",
+        "ADM2_PCODE": "CF521",
+        "ADM3_EN": "Samba-Boungou",
+        "ADM3_PCODE": "CF5211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Daba Nydou",
-        "ADM3_PCODE": "CF5212",
-        "ADM1_PCODE": "CF52",
-        "ADM1_EN": "Haute-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF521",
-        "ADM2_EN": "Bria"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20136,19 +20378,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haute-Kotto",
+        "ADM1_PCODE": "CF52",
+        "ADM2_EN": "Bria",
+        "ADM2_PCODE": "CF521",
+        "ADM3_EN": "Daba Nydou",
+        "ADM3_PCODE": "CF5212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Daho-Mboutou",
-        "ADM3_PCODE": "CF5213",
-        "ADM1_PCODE": "CF52",
-        "ADM1_EN": "Haute-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF521",
-        "ADM2_EN": "Bria"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20281,19 +20525,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haute-Kotto",
+        "ADM1_PCODE": "CF52",
+        "ADM2_EN": "Bria",
+        "ADM2_PCODE": "CF521",
+        "ADM3_EN": "Daho-Mboutou",
+        "ADM3_PCODE": "CF5213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouadda",
-        "ADM3_PCODE": "CF5221",
-        "ADM1_PCODE": "CF52",
-        "ADM1_EN": "Haute-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF522",
-        "ADM2_EN": "Ouadda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20674,19 +20920,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haute-Kotto",
+        "ADM1_PCODE": "CF52",
+        "ADM2_EN": "Ouadda",
+        "ADM2_PCODE": "CF522",
+        "ADM3_EN": "Ouadda",
+        "ADM3_PCODE": "CF5221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouandja Kotto",
-        "ADM3_PCODE": "CF5222",
-        "ADM1_PCODE": "CF52",
-        "ADM1_EN": "Haute-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF522",
-        "ADM2_EN": "Ouadda"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20887,19 +21135,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haute-Kotto",
+        "ADM1_PCODE": "CF52",
+        "ADM2_EN": "Ouadda",
+        "ADM2_PCODE": "CF522",
+        "ADM3_EN": "Ouandja Kotto",
+        "ADM3_PCODE": "CF5222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yalinga",
-        "ADM3_PCODE": "CF5231",
-        "ADM1_PCODE": "CF52",
-        "ADM1_EN": "Haute-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF523",
-        "ADM2_EN": "Yalinga"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21572,19 +21822,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haute-Kotto",
+        "ADM1_PCODE": "CF52",
+        "ADM2_EN": "Yalinga",
+        "ADM2_PCODE": "CF523",
+        "ADM3_EN": "Yalinga",
+        "ADM3_PCODE": "CF5231"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ridina",
-        "ADM3_PCODE": "CF5311",
-        "ADM1_PCODE": "CF53",
-        "ADM1_EN": "Vakaga",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF531",
-        "ADM2_EN": "Birao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21869,19 +22121,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Vakaga",
+        "ADM1_PCODE": "CF53",
+        "ADM2_EN": "Birao",
+        "ADM2_PCODE": "CF531",
+        "ADM3_EN": "Ridina",
+        "ADM3_PCODE": "CF5311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouandja",
-        "ADM3_PCODE": "CF5312",
-        "ADM1_PCODE": "CF53",
-        "ADM1_EN": "Vakaga",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF531",
-        "ADM2_EN": "Birao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22470,19 +22724,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Vakaga",
+        "ADM1_PCODE": "CF53",
+        "ADM2_EN": "Birao",
+        "ADM2_PCODE": "CF531",
+        "ADM3_EN": "Ouandja",
+        "ADM3_PCODE": "CF5312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Vokouma",
-        "ADM3_PCODE": "CF5321",
-        "ADM1_PCODE": "CF53",
-        "ADM1_EN": "Vakaga",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF532",
-        "ADM2_EN": "Ouanda-Djallé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22711,19 +22967,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Vakaga",
+        "ADM1_PCODE": "CF53",
+        "ADM2_EN": "Ouanda-Djallé",
+        "ADM2_PCODE": "CF532",
+        "ADM3_EN": "Vokouma",
+        "ADM3_PCODE": "CF5321"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mobaye",
-        "ADM3_PCODE": "CF6111",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF611",
-        "ADM2_EN": "Mobaye"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22800,19 +23058,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Mobaye",
+        "ADM2_PCODE": "CF611",
+        "ADM3_EN": "Mobaye",
+        "ADM3_PCODE": "CF6111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mbéima",
-        "ADM3_PCODE": "CF6112",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF611",
-        "ADM2_EN": "Mobaye"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22929,19 +23189,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Mobaye",
+        "ADM2_PCODE": "CF611",
+        "ADM3_EN": "Mbéima",
+        "ADM3_PCODE": "CF6112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Alindao",
-        "ADM3_PCODE": "CF6121",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF612",
-        "ADM2_EN": "Alindao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22970,19 +23232,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Alindao",
+        "ADM2_PCODE": "CF612",
+        "ADM3_EN": "Alindao",
+        "ADM3_PCODE": "CF6121"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Guiligui",
-        "ADM3_PCODE": "CF6122",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF612",
-        "ADM2_EN": "Alindao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23071,19 +23335,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Alindao",
+        "ADM2_PCODE": "CF612",
+        "ADM3_EN": "Guiligui",
+        "ADM3_PCODE": "CF6122"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bangui-Ketté",
-        "ADM3_PCODE": "CF6123",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF612",
-        "ADM2_EN": "Alindao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23204,19 +23470,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Alindao",
+        "ADM2_PCODE": "CF612",
+        "ADM3_EN": "Bangui-Ketté",
+        "ADM3_PCODE": "CF6123"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bakou",
-        "ADM3_PCODE": "CF6124",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF612",
-        "ADM2_EN": "Alindao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23349,19 +23617,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Alindao",
+        "ADM2_PCODE": "CF612",
+        "ADM3_EN": "Bakou",
+        "ADM3_PCODE": "CF6124"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yambélé-Ewou",
-        "ADM3_PCODE": "CF6125",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF612",
-        "ADM2_EN": "Alindao"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23498,19 +23768,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Alindao",
+        "ADM2_PCODE": "CF612",
+        "ADM3_EN": "Yambélé-Ewou",
+        "ADM3_PCODE": "CF6125"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kembé",
-        "ADM3_PCODE": "CF6131",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF613",
-        "ADM2_EN": "Kembé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23623,19 +23895,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Kembé",
+        "ADM2_PCODE": "CF613",
+        "ADM3_EN": "Kembé",
+        "ADM3_PCODE": "CF6131"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mboui",
-        "ADM3_PCODE": "CF6132",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF613",
-        "ADM2_EN": "Kembé"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23716,19 +23990,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Kembé",
+        "ADM2_PCODE": "CF613",
+        "ADM3_EN": "Mboui",
+        "ADM3_PCODE": "CF6132"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Siriki",
-        "ADM3_PCODE": "CF6141",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF614",
-        "ADM2_EN": "Mingala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23813,19 +24089,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Mingala",
+        "ADM2_PCODE": "CF614",
+        "ADM3_EN": "Siriki",
+        "ADM3_PCODE": "CF6141"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kotto",
-        "ADM3_PCODE": "CF6142",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF614",
-        "ADM2_EN": "Mingala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23914,19 +24192,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Mingala",
+        "ADM2_PCODE": "CF614",
+        "ADM3_EN": "Kotto",
+        "ADM3_PCODE": "CF6142"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Séliba",
-        "ADM3_PCODE": "CF6143",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF614",
-        "ADM2_EN": "Mingala"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24015,19 +24295,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Mingala",
+        "ADM2_PCODE": "CF614",
+        "ADM3_EN": "Séliba",
+        "ADM3_PCODE": "CF6143"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouambé",
-        "ADM3_PCODE": "CF6151",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF615",
-        "ADM2_EN": "Zangba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24144,19 +24426,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Zangba",
+        "ADM2_PCODE": "CF615",
+        "ADM3_EN": "Ouambé",
+        "ADM3_PCODE": "CF6151"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Yabongo",
-        "ADM3_PCODE": "CF6152",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF615",
-        "ADM2_EN": "Zangba"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24305,19 +24589,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Zangba",
+        "ADM2_PCODE": "CF615",
+        "ADM3_EN": "Yabongo",
+        "ADM3_PCODE": "CF6152"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Kotto-Oubangui",
-        "ADM3_PCODE": "CF6161",
-        "ADM1_PCODE": "CF61",
-        "ADM1_EN": "Basse-Kotto",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF616",
-        "ADM2_EN": "Satéma"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -24466,19 +24752,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Basse-Kotto",
+        "ADM1_PCODE": "CF61",
+        "ADM2_EN": "Satéma",
+        "ADM2_PCODE": "CF616",
+        "ADM3_EN": "Kotto-Oubangui",
+        "ADM3_PCODE": "CF6161"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bangassou",
-        "ADM3_PCODE": "CF6211",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF621",
-        "ADM2_EN": "Bangassou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24519,19 +24807,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Bangassou",
+        "ADM2_PCODE": "CF621",
+        "ADM3_EN": "Bangassou",
+        "ADM3_PCODE": "CF6211"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Sayo Niakari",
-        "ADM3_PCODE": "CF6212",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF621",
-        "ADM2_EN": "Bangassou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24628,19 +24918,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Bangassou",
+        "ADM2_PCODE": "CF621",
+        "ADM3_EN": "Sayo Niakari",
+        "ADM3_PCODE": "CF6212"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Voungba-Balifondo",
-        "ADM3_PCODE": "CF6213",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF621",
-        "ADM2_EN": "Bangassou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24893,19 +25185,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Bangassou",
+        "ADM2_PCODE": "CF621",
+        "ADM3_EN": "Voungba-Balifondo",
+        "ADM3_PCODE": "CF6213"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Zangandou",
-        "ADM3_PCODE": "CF6214",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF621",
-        "ADM2_EN": "Bangassou"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25062,19 +25356,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Bangassou",
+        "ADM2_PCODE": "CF621",
+        "ADM3_EN": "Zangandou",
+        "ADM3_PCODE": "CF6214"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ouango",
-        "ADM3_PCODE": "CF6221",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF622",
-        "ADM2_EN": "Ouango"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25179,19 +25475,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Ouango",
+        "ADM2_PCODE": "CF622",
+        "ADM3_EN": "Ouango",
+        "ADM3_PCODE": "CF6221"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngbandinga",
-        "ADM3_PCODE": "CF6222",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF622",
-        "ADM2_EN": "Ouango"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25244,19 +25542,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Ouango",
+        "ADM2_PCODE": "CF622",
+        "ADM3_EN": "Ngbandinga",
+        "ADM3_PCODE": "CF6222"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Gambo",
-        "ADM3_PCODE": "CF6231",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF623",
-        "ADM2_EN": "Gambo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25425,19 +25725,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Gambo",
+        "ADM2_PCODE": "CF623",
+        "ADM3_EN": "Gambo",
+        "ADM3_PCODE": "CF6231"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Ngandou",
-        "ADM3_PCODE": "CF6232",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF623",
-        "ADM2_EN": "Gambo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25546,19 +25848,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Gambo",
+        "ADM2_PCODE": "CF623",
+        "ADM3_EN": "Ngandou",
+        "ADM3_PCODE": "CF6232"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Rafai",
-        "ADM3_PCODE": "CF6241",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF624",
-        "ADM2_EN": "Rafai"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26063,19 +26367,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Rafai",
+        "ADM2_PCODE": "CF624",
+        "ADM3_EN": "Rafai",
+        "ADM3_PCODE": "CF6241"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Bakouma",
-        "ADM3_PCODE": "CF6251",
-        "ADM1_PCODE": "CF62",
-        "ADM1_EN": "Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF625",
-        "ADM2_EN": "Bakouma"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26384,19 +26690,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Mbomou",
+        "ADM1_PCODE": "CF62",
+        "ADM2_EN": "Bakouma",
+        "ADM2_PCODE": "CF625",
+        "ADM3_EN": "Bakouma",
+        "ADM3_PCODE": "CF6251"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Obo",
-        "ADM3_PCODE": "CF6311",
-        "ADM1_PCODE": "CF63",
-        "ADM1_EN": "Haut-Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF631",
-        "ADM2_EN": "Obo"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26697,19 +27005,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haut-Mbomou",
+        "ADM1_PCODE": "CF63",
+        "ADM2_EN": "Obo",
+        "ADM2_PCODE": "CF631",
+        "ADM3_EN": "Obo",
+        "ADM3_PCODE": "CF6311"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Mboki",
-        "ADM3_PCODE": "CF6312",
-        "ADM1_PCODE": "CF63",
-        "ADM1_EN": "Haut-Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF631",
-        "ADM2_EN": "Obo"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -26946,19 +27256,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haut-Mbomou",
+        "ADM1_PCODE": "CF63",
+        "ADM2_EN": "Obo",
+        "ADM2_PCODE": "CF631",
+        "ADM3_EN": "Mboki",
+        "ADM3_PCODE": "CF6312"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Lili",
-        "ADM3_PCODE": "CF6321",
-        "ADM1_PCODE": "CF63",
-        "ADM1_EN": "Haut-Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF632",
-        "ADM2_EN": "Bambouti"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27219,19 +27531,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haut-Mbomou",
+        "ADM1_PCODE": "CF63",
+        "ADM2_EN": "Bambouti",
+        "ADM2_PCODE": "CF632",
+        "ADM3_EN": "Lili",
+        "ADM3_PCODE": "CF6321"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Zémio",
-        "ADM3_PCODE": "CF6331",
-        "ADM1_PCODE": "CF63",
-        "ADM1_EN": "Haut-Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF633",
-        "ADM2_EN": "Zémio"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27788,19 +28102,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haut-Mbomou",
+        "ADM1_PCODE": "CF63",
+        "ADM2_EN": "Zémio",
+        "ADM2_PCODE": "CF633",
+        "ADM3_EN": "Zémio",
+        "ADM3_PCODE": "CF6331"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Djéma",
-        "ADM3_PCODE": "CF6341",
-        "ADM1_PCODE": "CF63",
-        "ADM1_EN": "Haut-Mbomou",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF634",
-        "ADM2_EN": "Djéma"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28569,19 +28885,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Haut-Mbomou",
+        "ADM1_PCODE": "CF63",
+        "ADM2_EN": "Djéma",
+        "ADM2_PCODE": "CF634",
+        "ADM3_EN": "Djéma",
+        "ADM3_PCODE": "CF6341"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 1",
-        "ADM3_PCODE": "CF7111",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28610,19 +28928,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 1",
+        "ADM3_PCODE": "CF7111"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 2",
-        "ADM3_PCODE": "CF7112",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28651,19 +28971,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 2",
+        "ADM3_PCODE": "CF7112"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 3",
-        "ADM3_PCODE": "CF7113",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28692,19 +29014,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 3",
+        "ADM3_PCODE": "CF7113"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 4",
-        "ADM3_PCODE": "CF7114",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28733,19 +29057,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 4",
+        "ADM3_PCODE": "CF7114"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 5",
-        "ADM3_PCODE": "CF7115",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28774,19 +29100,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 5",
+        "ADM3_PCODE": "CF7115"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 6",
-        "ADM3_PCODE": "CF7116",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28815,19 +29143,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 6",
+        "ADM3_PCODE": "CF7116"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 7",
-        "ADM3_PCODE": "CF7117",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28856,19 +29186,21 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 7",
+        "ADM3_PCODE": "CF7117"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM3_EN": "Arrondissement 8",
-        "ADM3_PCODE": "CF7118",
-        "ADM1_PCODE": "CF71",
-        "ADM1_EN": "Bangui",
-        "ADM0_PCODE": "CF",
-        "ADM2_PCODE": "CF711",
-        "ADM2_EN": "Bangui"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28897,6 +29229,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "CF",
+        "ADM0_ISO_A2": "CF",
+        "ADM0_ISO_A3": "CAF",
+        "ADM1_EN": "Bangui",
+        "ADM1_PCODE": "CF71",
+        "ADM2_EN": "Bangui",
+        "ADM2_PCODE": "CF711",
+        "ADM3_EN": "Arrondissement 8",
+        "ADM3_PCODE": "CF7118"
       }
     }
   ]

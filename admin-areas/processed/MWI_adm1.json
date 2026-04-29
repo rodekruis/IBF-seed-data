@@ -4321,18 +4321,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 13.812020362,
-        "Shape_Area": 2.98291707515,
-        "ADM1_EN": "Central",
-        "ADM1_PCODE": "MW2",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
-        "date": "2018-09-03",
-        "validOn": "2018-10-16",
-        "validTo": null
+        "ADM0_ISO_A2": "MW",
+        "ADM0_ISO_A3": "MWI",
+        "ADM1_EN": "Central",
+        "ADM1_PCODE": "MW2"
       }
     },
     {
@@ -8891,18 +8885,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 12.9447793714,
-        "Shape_Area": 2.2459427188,
-        "ADM1_EN": "Northern",
-        "ADM1_PCODE": "MW1",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
-        "date": "2018-09-03",
-        "validOn": "2018-10-16",
-        "validTo": null
+        "ADM0_ISO_A2": "MW",
+        "ADM0_ISO_A3": "MWI",
+        "ADM1_EN": "Northern",
+        "ADM1_PCODE": "MW1"
       }
     },
     {
@@ -12465,18 +12453,12 @@
         ]
       },
       "properties": {
-        "Shape_Leng": 13.2745349023,
-        "Shape_Area": 2.77272823587,
-        "ADM1_EN": "Southern",
-        "ADM1_PCODE": "MW3",
-        "ADM1_REF": null,
-        "ADM1ALT1EN": null,
-        "ADM1ALT2EN": null,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
-        "date": "2018-09-03",
-        "validOn": "2018-10-16",
-        "validTo": null
+        "ADM0_ISO_A2": "MW",
+        "ADM0_ISO_A3": "MWI",
+        "ADM1_EN": "Southern",
+        "ADM1_PCODE": "MW3"
       }
     }
   ]

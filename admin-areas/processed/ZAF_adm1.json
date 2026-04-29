@@ -1,19 +1,8 @@
 {
   "type": "FeatureCollection",
-  "name": "ZAF_adm1",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Western Cape",
-        "ADM1_PCODE": "ZA1"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -3538,14 +3527,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Western Cape",
+        "ADM1_PCODE": "ZA1"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Eastern Cape",
-        "ADM1_PCODE": "ZA2"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5538,14 +5530,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Eastern Cape",
+        "ADM1_PCODE": "ZA2"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Nothern Cape",
-        "ADM1_PCODE": "ZA3"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -8078,14 +8073,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Nothern Cape",
+        "ADM1_PCODE": "ZA3"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Free State",
-        "ADM1_PCODE": "ZA4"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9854,14 +9852,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Free State",
+        "ADM1_PCODE": "ZA4"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "KwaZulu-Natal",
-        "ADM1_PCODE": "ZA5"
-      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -10898,14 +10899,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "KwaZulu-Natal",
+        "ADM1_PCODE": "ZA5"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "North West",
-        "ADM1_PCODE": "ZA6"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12510,14 +12514,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "North West",
+        "ADM1_PCODE": "ZA6"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Gauteng",
-        "ADM1_PCODE": "ZA7"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13326,14 +13333,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Gauteng",
+        "ADM1_PCODE": "ZA7"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Mpumalanga",
-        "ADM1_PCODE": "ZA8"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14806,14 +14816,17 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Mpumalanga",
+        "ADM1_PCODE": "ZA8"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ADM1_EN": "Limpopo",
-        "ADM1_PCODE": "ZA9"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16150,6 +16163,13 @@
             ]
           ]
         ]
+      },
+      "properties": {
+        "ADM0_PCODE": "ZA",
+        "ADM0_ISO_A2": "ZA",
+        "ADM0_ISO_A3": "ZAF",
+        "ADM1_EN": "Limpopo",
+        "ADM1_PCODE": "ZA9"
       }
     }
   ]
