@@ -1,0 +1,857 @@
+{
+  "event1": {
+    "hazardTypes": [
+      "flood"
+    ],
+    "eventName": "Flood - Malawi",
+    "eventId": "event1",
+    "alertClass": "low",
+    "trigger": false,
+    "centroid": [
+      33.78,
+      -13.98
+    ],
+    "startTime": "2026-04-01T06:00:00Z",
+    "reachesPeakAlertClassTime": "2026-04-07T12:00:00Z",
+    "endTime": "2026-04-12T18:00:00Z",
+    "availableLayers": [
+      {
+        "resourceId": "flood_extent_7-hour_MWI",
+        "dataType": "event_extent",
+        "displayType": "raster"
+      }
+    ],
+    "exposedAdminAreas": [
+      [
+        {
+          "placeCode": "MWI",
+          "adminLevel": 0,
+          "name": "Malawi",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 48400,
+              "total": 48400
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 3200,
+              "total": 12000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 8,
+              "total": 32
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 3,
+              "total": 15
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW2",
+          "adminLevel": 1,
+          "name": "Central",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 48400,
+              "total": 48400
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 3200,
+              "total": 12000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 8,
+              "total": 32
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 3,
+              "total": 15
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW210",
+          "adminLevel": 2,
+          "name": "Lilongwe City",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 48400,
+              "total": 48400
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 3200,
+              "total": 12000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 8,
+              "total": 32
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 3,
+              "total": 15
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW21046",
+          "adminLevel": 3,
+          "name": "Area 16",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 3200,
+              "total": 3200
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 400,
+              "total": 2000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 1,
+              "total": 5
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 0,
+              "total": 2
+            }
+          ]
+        },
+        {
+          "placeCode": "MW21043",
+          "adminLevel": 3,
+          "name": "Area 13",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 8500,
+              "total": 8500
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 800,
+              "total": 3000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 8
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 4
+            }
+          ]
+        },
+        {
+          "placeCode": "MW21042",
+          "adminLevel": 3,
+          "name": "Area 12",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 12400,
+              "total": 12400
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 1000,
+              "total": 3500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 8
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 4
+            }
+          ]
+        },
+        {
+          "placeCode": "MW21040",
+          "adminLevel": 3,
+          "name": "Area 10",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 18700,
+              "total": 18700
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 700,
+              "total": 2500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 7
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 3
+            }
+          ]
+        },
+        {
+          "placeCode": "MW21031",
+          "adminLevel": 3,
+          "name": "Area 1",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 5600,
+              "total": 5600
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 300,
+              "total": 1000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 1,
+              "total": 4
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 0,
+              "total": 2
+            }
+          ]
+        }
+      ]
+    ],
+    "dataSources": [
+      "glofas",
+      "other"
+    ],
+    "firstIssuedAt": "2026-04-01T08:30:00Z",
+    "lastUpdatedAt": "2026-04-02T00:00:00Z"
+  },
+  "event2": {
+    "hazardTypes": [
+      "flood"
+    ],
+    "eventName": "Flood - Malawi",
+    "eventId": "event2",
+    "alertClass": "high",
+    "trigger": true,
+    "centroid": [
+      35.32,
+      -15.38
+    ],
+    "startTime": "2026-04-06T12:00:00Z",
+    "reachesPeakAlertClassTime": "2026-04-08T18:00:00Z",
+    "endTime": "2026-04-11T09:00:00Z",
+    "availableLayers": [
+      {
+        "resourceId": "flood_extent_7-hour_MWI",
+        "dataType": "event_extent",
+        "displayType": "raster"
+      }
+    ],
+    "exposedAdminAreas": [
+      [
+        {
+          "placeCode": "MWI",
+          "adminLevel": 0,
+          "name": "Malawi",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 44600,
+              "total": 44600
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 5600,
+              "total": 15000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 15,
+              "total": 48
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 6,
+              "total": 22
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW3",
+          "adminLevel": 1,
+          "name": "Southern",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 44600,
+              "total": 44600
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 5600,
+              "total": 15000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 15,
+              "total": 48
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 6,
+              "total": 22
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW303",
+          "adminLevel": 2,
+          "name": "Zomba",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 44600,
+              "total": 44600
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 5600,
+              "total": 15000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 15,
+              "total": 48
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 6,
+              "total": 22
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW30303",
+          "adminLevel": 3,
+          "name": "SC Mkumbira",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 2100,
+              "total": 2100
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 700,
+              "total": 2500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 8
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 4
+            }
+          ]
+        },
+        {
+          "placeCode": "MW30302",
+          "adminLevel": 3,
+          "name": "TA Mwambo",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 15800,
+              "total": 15800
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 2000,
+              "total": 5000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 5,
+              "total": 15
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 2,
+              "total": 7
+            }
+          ]
+        },
+        {
+          "placeCode": "MW30306",
+          "adminLevel": 3,
+          "name": "TA Mlumbe",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 19500,
+              "total": 19500
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 2100,
+              "total": 5500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 6,
+              "total": 17
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 2,
+              "total": 8
+            }
+          ]
+        },
+        {
+          "placeCode": "MW30301",
+          "adminLevel": 3,
+          "name": "TA Kuntumanji",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 7200,
+              "total": 7200
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 800,
+              "total": 2000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 8
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 3
+            }
+          ]
+        }
+      ]
+    ],
+    "dataSources": [
+      "glofas",
+      "other"
+    ],
+    "firstIssuedAt": "2026-04-01T14:15:00Z",
+    "lastUpdatedAt": "2026-04-02T00:00:00Z"
+  },
+  "event3": {
+    "hazardTypes": [
+      "flood"
+    ],
+    "eventName": "Flood - Malawi",
+    "eventId": "event3",
+    "alertClass": "medium",
+    "trigger": false,
+    "centroid": [
+      34.5,
+      -14.5
+    ],
+    "startTime": "2026-04-08T15:00:00Z",
+    "reachesPeakAlertClassTime": "2026-04-10T06:00:00Z",
+    "endTime": "2026-04-11T21:00:00Z",
+    "availableLayers": [],
+    "exposedAdminAreas": [
+      [
+        {
+          "placeCode": "MWI",
+          "adminLevel": 0,
+          "name": "Malawi",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 29600,
+              "total": 29600
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 2100,
+              "total": 10500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 5,
+              "total": 28
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 2,
+              "total": 12
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW2",
+          "adminLevel": 1,
+          "name": "Central",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 11700,
+              "total": 11700
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 1000,
+              "total": 5500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 14
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 6
+            }
+          ]
+        },
+        {
+          "placeCode": "MW3",
+          "adminLevel": 1,
+          "name": "Southern",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 17900,
+              "total": 17900
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 1100,
+              "total": 5000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 3,
+              "total": 14
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 6
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW210",
+          "adminLevel": 2,
+          "name": "Lilongwe City",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 11700,
+              "total": 11700
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 1000,
+              "total": 5500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 14
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 6
+            }
+          ]
+        },
+        {
+          "placeCode": "MW303",
+          "adminLevel": 2,
+          "name": "Zomba",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 17900,
+              "total": 17900
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 1100,
+              "total": 5000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 3,
+              "total": 14
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 6
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "placeCode": "MW21046",
+          "adminLevel": 3,
+          "name": "Area 16",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 3200,
+              "total": 3200
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 400,
+              "total": 2500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 1,
+              "total": 6
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 0,
+              "total": 3
+            }
+          ]
+        },
+        {
+          "placeCode": "MW21043",
+          "adminLevel": 3,
+          "name": "Area 13",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 8500,
+              "total": 8500
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 600,
+              "total": 3000
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 1,
+              "total": 8
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 3
+            }
+          ]
+        },
+        {
+          "placeCode": "MW30303",
+          "adminLevel": 3,
+          "name": "SC Mkumbira",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 2100,
+              "total": 2100
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 300,
+              "total": 1500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 1,
+              "total": 4
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 0,
+              "total": 2
+            }
+          ]
+        },
+        {
+          "placeCode": "MW30302",
+          "adminLevel": 3,
+          "name": "TA Mwambo",
+          "exposure": [
+            {
+              "unit": "",
+              "type": "population",
+              "exposed": 15800,
+              "total": 15800
+            },
+            {
+              "unit": "km",
+              "type": "roads",
+              "exposed": 800,
+              "total": 3500
+            },
+            {
+              "unit": "",
+              "type": "schools",
+              "exposed": 2,
+              "total": 10
+            },
+            {
+              "unit": "",
+              "type": "clinics",
+              "exposed": 1,
+              "total": 4
+            }
+          ]
+        }
+      ]
+    ],
+    "dataSources": [
+      "glofas",
+      "other"
+    ],
+    "firstIssuedAt": "2026-04-01T19:45:00Z",
+    "lastUpdatedAt": "2026-04-02T00:00:00Z"
+  }
+}
