@@ -1,7 +1,7 @@
 {
   "width": 14156,
   "height": 10496,
-  "count": 3,
+  "count": 4,
   "crs": "EPSG:4326",
   "transform": [
     0.00083333333,
@@ -32,5 +32,5 @@
   ],
   "nodata": 0,
   "dtype": "uint32",
-  "max_value": 871
+  "max_value": 870865
 }

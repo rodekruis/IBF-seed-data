@@ -143,7 +143,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Livingstone",
-        "ADM2_PCODE": "ZM8006"
+        "ADM2_PCODE": "ZM8006",
+        "POPULATION": 199895
       }
     },
     {
@@ -412,7 +413,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Sinazongwe",
-        "ADM2_PCODE": "ZM8011"
+        "ADM2_PCODE": "ZM8011",
+        "POPULATION": 188503
       }
     },
     {
@@ -753,7 +755,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Gwembe",
-        "ADM2_PCODE": "ZM8002"
+        "ADM2_PCODE": "ZM8002",
+        "POPULATION": 89924
       }
     },
     {
@@ -1254,7 +1257,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Kalomo",
-        "ADM2_PCODE": "ZM8004"
+        "ADM2_PCODE": "ZM8004",
+        "POPULATION": 307888
       }
     },
     {
@@ -1819,7 +1823,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Choma",
-        "ADM2_PCODE": "ZM8001"
+        "ADM2_PCODE": "ZM8001",
+        "POPULATION": 302022
       }
     },
     {
@@ -2688,7 +2693,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Kazungula",
-        "ADM2_PCODE": "ZM8005"
+        "ADM2_PCODE": "ZM8005",
+        "POPULATION": 189654
       }
     },
     {
@@ -2973,7 +2979,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Siavonga",
-        "ADM2_PCODE": "ZM8010"
+        "ADM2_PCODE": "ZM8010",
+        "POPULATION": 76373
       }
     },
     {
@@ -3314,7 +3321,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Monze",
-        "ADM2_PCODE": "ZM8008"
+        "ADM2_PCODE": "ZM8008",
+        "POPULATION": 309158
       }
     },
     {
@@ -3679,7 +3687,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Namwala",
-        "ADM2_PCODE": "ZM8009"
+        "ADM2_PCODE": "ZM8009",
+        "POPULATION": 190649
       }
     },
     {
@@ -4556,7 +4565,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Mulobezi",
-        "ADM2_PCODE": "ZM9010"
+        "ADM2_PCODE": "ZM9010",
+        "POPULATION": 51808
       }
     },
     {
@@ -5461,7 +5471,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Senanga",
-        "ADM2_PCODE": "ZM9005"
+        "ADM2_PCODE": "ZM9005",
+        "POPULATION": 127791
       }
     },
     {
@@ -6070,7 +6081,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Itezhi-tezhi",
-        "ADM2_PCODE": "ZM1009"
+        "ADM2_PCODE": "ZM1009",
+        "POPULATION": 144634
       }
     },
     {
@@ -6339,7 +6351,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Luangwa",
-        "ADM2_PCODE": "ZM5003"
+        "ADM2_PCODE": "ZM5003",
+        "POPULATION": 35678
       }
     },
     {
@@ -6732,7 +6745,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Rufunsa",
-        "ADM2_PCODE": "ZM5007"
+        "ADM2_PCODE": "ZM5007",
+        "POPULATION": 91818
       }
     },
     {
@@ -6985,7 +6999,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Mongu",
-        "ADM2_PCODE": "ZM9004"
+        "ADM2_PCODE": "ZM9004",
+        "POPULATION": 226242
       }
     },
     {
@@ -7282,7 +7297,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Kabwe",
-        "ADM2_PCODE": "ZM1002"
+        "ADM2_PCODE": "ZM1002",
+        "POPULATION": 339580
       }
     },
     {
@@ -7463,7 +7479,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Chadiza",
-        "ADM2_PCODE": "ZM3001"
+        "ADM2_PCODE": "ZM3001",
+        "POPULATION": 122053
       }
     },
     {
@@ -7968,7 +7985,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Nyimba",
-        "ADM2_PCODE": "ZM3007"
+        "ADM2_PCODE": "ZM3007",
+        "POPULATION": 124627
       }
     },
     {
@@ -8341,7 +8359,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Katete",
-        "ADM2_PCODE": "ZM3004"
+        "ADM2_PCODE": "ZM3004",
+        "POPULATION": 241072
       }
     },
     {
@@ -8846,7 +8865,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Petauke",
-        "ADM2_PCODE": "ZM3008"
+        "ADM2_PCODE": "ZM3008",
+        "POPULATION": 442370
       }
     },
     {
@@ -9607,7 +9627,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Luano",
-        "ADM2_PCODE": "ZM1010"
+        "ADM2_PCODE": "ZM1010",
+        "POPULATION": 76782
       }
     },
     {
@@ -10596,7 +10617,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Mpongwe",
-        "ADM2_PCODE": "ZM2008"
+        "ADM2_PCODE": "ZM2008",
+        "POPULATION": 158470
       }
     },
     {
@@ -10885,7 +10907,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Kasenengwa",
-        "ADM2_PCODE": "ZM3010"
+        "ADM2_PCODE": "ZM3010",
+        "POPULATION": 174691
       }
     },
     {
@@ -11034,7 +11057,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Chavuma",
-        "ADM2_PCODE": "ZM7001"
+        "ADM2_PCODE": "ZM7001",
+        "POPULATION": 63121
       }
     },
     {
@@ -11495,7 +11519,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Mambwe",
-        "ADM2_PCODE": "ZM3006"
+        "ADM2_PCODE": "ZM3006",
+        "POPULATION": 134286
       }
     },
     {
@@ -13528,7 +13553,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Kasempa",
-        "ADM2_PCODE": "ZM7003"
+        "ADM2_PCODE": "ZM7003",
+        "POPULATION": 126922
       }
     },
     {
@@ -13721,7 +13747,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Kitwe",
-        "ADM2_PCODE": "ZM2004"
+        "ADM2_PCODE": "ZM2004",
+        "POPULATION": 851400
       }
     },
     {
@@ -13910,7 +13937,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Kalulushi",
-        "ADM2_PCODE": "ZM2003"
+        "ADM2_PCODE": "ZM2003",
+        "POPULATION": 110762
       }
     },
     {
@@ -14123,7 +14151,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Mufulira",
-        "ADM2_PCODE": "ZM2009"
+        "ADM2_PCODE": "ZM2009",
+        "POPULATION": 202508
       }
     },
     {
@@ -15020,7 +15049,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Chitambo",
-        "ADM2_PCODE": "ZM1008"
+        "ADM2_PCODE": "ZM1008",
+        "POPULATION": 112616
       }
     },
     {
@@ -15937,7 +15967,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Lumezi",
-        "ADM2_PCODE": "ZM3011"
+        "ADM2_PCODE": "ZM3011",
+        "POPULATION": 177296
       }
     },
     {
@@ -17094,7 +17125,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Solwezi",
-        "ADM2_PCODE": "ZM7006"
+        "ADM2_PCODE": "ZM7006",
+        "POPULATION": 472912
       }
     },
     {
@@ -17559,7 +17591,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Milengi",
-        "ADM2_PCODE": "ZM4004"
+        "ADM2_PCODE": "ZM4004",
+        "POPULATION": 78235
       }
     },
     {
@@ -18808,7 +18841,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Mwinilunga",
-        "ADM2_PCODE": "ZM7005"
+        "ADM2_PCODE": "ZM7005",
+        "POPULATION": 155142
       }
     },
     {
@@ -19229,7 +19263,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Samfya",
-        "ADM2_PCODE": "ZM4007"
+        "ADM2_PCODE": "ZM4007",
+        "POPULATION": 158739
       }
     },
     {
@@ -19554,7 +19589,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Chilubi",
-        "ADM2_PCODE": "ZM6001"
+        "ADM2_PCODE": "ZM6001",
+        "POPULATION": 129394
       }
     },
     {
@@ -20199,7 +20235,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Mansa",
-        "ADM2_PCODE": "ZM4003"
+        "ADM2_PCODE": "ZM4003",
+        "POPULATION": 366761
       }
     },
     {
@@ -21084,7 +21121,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Chama",
-        "ADM2_PCODE": "ZM1112"
+        "ADM2_PCODE": "ZM1112",
+        "POPULATION": 157091
       }
     },
     {
@@ -22165,7 +22203,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Luwingu",
-        "ADM2_PCODE": "ZM6006"
+        "ADM2_PCODE": "ZM6006",
+        "POPULATION": 114591
       }
     },
     {
@@ -22926,7 +22965,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Shiwamg'andu",
-        "ADM2_PCODE": "ZM1119"
+        "ADM2_PCODE": "ZM1119",
+        "POPULATION": 89390
       }
     },
     {
@@ -36751,7 +36791,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Kasama",
-        "ADM2_PCODE": "ZM6005"
+        "ADM2_PCODE": "ZM6005",
+        "POPULATION": 393959
       }
     },
     {
@@ -37472,7 +37513,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Mungwi",
-        "ADM2_PCODE": "ZM6011"
+        "ADM2_PCODE": "ZM6011",
+        "POPULATION": 232042
       }
     },
     {
@@ -38557,7 +38599,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Kawambwa",
-        "ADM2_PCODE": "ZM4002"
+        "ADM2_PCODE": "ZM4002",
+        "POPULATION": 139535
       }
     },
     {
@@ -40814,7 +40857,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Mporokoso",
-        "ADM2_PCODE": "ZM6009"
+        "ADM2_PCODE": "ZM6009",
+        "POPULATION": 75670
       }
     },
     {
@@ -41227,7 +41271,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Nakonde",
-        "ADM2_PCODE": "ZM1111"
+        "ADM2_PCODE": "ZM1111",
+        "POPULATION": 201659
       }
     },
     {
@@ -41616,7 +41661,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Nchelenge",
-        "ADM2_PCODE": "ZM4006"
+        "ADM2_PCODE": "ZM4006",
+        "POPULATION": 263582
       }
     },
     {
@@ -42525,7 +42571,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Mpulungu",
-        "ADM2_PCODE": "ZM6010"
+        "ADM2_PCODE": "ZM6010",
+        "POPULATION": 176881
       }
     },
     {
@@ -43066,7 +43113,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Nsama",
-        "ADM2_PCODE": "ZM6008"
+        "ADM2_PCODE": "ZM6008",
+        "POPULATION": 81218
       }
     },
     {
@@ -43307,7 +43355,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Chiengi",
-        "ADM2_PCODE": "ZM4001"
+        "ADM2_PCODE": "ZM4001",
+        "POPULATION": 191790
       }
     },
     {
@@ -43988,7 +44037,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Masaiti",
-        "ADM2_PCODE": "ZM2007"
+        "ADM2_PCODE": "ZM2007",
+        "POPULATION": 198919
       }
     },
     {
@@ -44193,7 +44243,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Luanshya",
-        "ADM2_PCODE": "ZM2005"
+        "ADM2_PCODE": "ZM2005",
+        "POPULATION": 234972
       }
     },
     {
@@ -44434,7 +44485,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Ndola",
-        "ADM2_PCODE": "ZM2010"
+        "ADM2_PCODE": "ZM2010",
+        "POPULATION": 700016
       }
     },
     {
@@ -44635,7 +44687,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Chirundu",
-        "ADM2_PCODE": "ZM5006"
+        "ADM2_PCODE": "ZM5006",
+        "POPULATION": 84407
       }
     },
     {
@@ -44888,7 +44941,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Chembe",
-        "ADM2_PCODE": "ZM4008"
+        "ADM2_PCODE": "ZM4008",
+        "POPULATION": 52138
       }
     },
     {
@@ -45629,7 +45683,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Chinsali",
-        "ADM2_PCODE": "ZM1114"
+        "ADM2_PCODE": "ZM1114",
+        "POPULATION": 169110
       }
     },
     {
@@ -46714,7 +46769,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Mkushi",
-        "ADM2_PCODE": "ZM1004"
+        "ADM2_PCODE": "ZM1004",
+        "POPULATION": 237309
       }
     },
     {
@@ -46967,7 +47023,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Chongwe",
-        "ADM2_PCODE": "ZM5001"
+        "ADM2_PCODE": "ZM5001",
+        "POPULATION": 437021
       }
     },
     {
@@ -47424,7 +47481,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Chisamba",
-        "ADM2_PCODE": "ZM1007"
+        "ADM2_PCODE": "ZM1007",
+        "POPULATION": 189795
       }
     },
     {
@@ -47757,7 +47815,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Mwandi",
-        "ADM2_PCODE": "ZM9011"
+        "ADM2_PCODE": "ZM9011",
+        "POPULATION": 45064
       }
     },
     {
@@ -48050,7 +48109,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Sikongo",
-        "ADM2_PCODE": "ZM9015"
+        "ADM2_PCODE": "ZM9015",
+        "POPULATION": 67621
       }
     },
     {
@@ -48503,7 +48563,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Luampa",
-        "ADM2_PCODE": "ZM9008"
+        "ADM2_PCODE": "ZM9008",
+        "POPULATION": 68860
       }
     },
     {
@@ -48988,7 +49049,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Kaputa",
-        "ADM2_PCODE": "ZM6004"
+        "ADM2_PCODE": "ZM6004",
+        "POPULATION": 112997
       }
     },
     {
@@ -49157,7 +49219,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Lunga",
-        "ADM2_PCODE": "ZM4011"
+        "ADM2_PCODE": "ZM4011",
+        "POPULATION": 45064
       }
     },
     {
@@ -49586,7 +49649,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Zimba",
-        "ADM2_PCODE": "ZM8013"
+        "ADM2_PCODE": "ZM8013",
+        "POPULATION": 122521
       }
     },
     {
@@ -49787,7 +49851,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Vubwi",
-        "ADM2_PCODE": "ZM3013"
+        "ADM2_PCODE": "ZM3013",
+        "POPULATION": 56947
       }
     },
     {
@@ -50120,7 +50185,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Limulunga",
-        "ADM2_PCODE": "ZM9006"
+        "ADM2_PCODE": "ZM9006",
+        "POPULATION": 69420
       }
     },
     {
@@ -50673,7 +50739,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Serenje",
-        "ADM2_PCODE": "ZM1006"
+        "ADM2_PCODE": "ZM1006",
+        "POPULATION": 179935
       }
     },
     {
@@ -51118,7 +51185,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Manyinga",
-        "ADM2_PCODE": "ZM7010"
+        "ADM2_PCODE": "ZM7010",
+        "POPULATION": 84431
       }
     },
     {
@@ -51379,7 +51447,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Mwansabombwe",
-        "ADM2_PCODE": "ZM4012"
+        "ADM2_PCODE": "ZM4012",
+        "POPULATION": 69852
       }
     },
     {
@@ -51688,7 +51757,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Chikankanta",
-        "ADM2_PCODE": "ZM8003"
+        "ADM2_PCODE": "ZM8003",
+        "POPULATION": 109999
       }
     },
     {
@@ -52089,7 +52159,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Pemba",
-        "ADM2_PCODE": "ZM8012"
+        "ADM2_PCODE": "ZM8012",
+        "POPULATION": 106122
       }
     },
     {
@@ -52214,7 +52285,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Lusaka",
-        "ADM2_PCODE": "ZM5004"
+        "ADM2_PCODE": "ZM5004",
+        "POPULATION": 2303325
       }
     },
     {
@@ -52655,7 +52727,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Shibuyunji",
-        "ADM2_PCODE": "ZM5008"
+        "ADM2_PCODE": "ZM5008",
+        "POPULATION": 105392
       }
     },
     {
@@ -53096,7 +53169,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Chibombo",
-        "ADM2_PCODE": "ZM1001"
+        "ADM2_PCODE": "ZM1001",
+        "POPULATION": 588043
       }
     },
     {
@@ -53553,7 +53627,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Shang'ombo",
-        "ADM2_PCODE": "ZM9007"
+        "ADM2_PCODE": "ZM9007",
+        "POPULATION": 77698
       }
     },
     {
@@ -54098,7 +54173,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Zambezi",
-        "ADM2_PCODE": "ZM7007"
+        "ADM2_PCODE": "ZM7007",
+        "POPULATION": 120777
       }
     },
     {
@@ -54523,7 +54599,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Kabompo",
-        "ADM2_PCODE": "ZM7002"
+        "ADM2_PCODE": "ZM7002",
+        "POPULATION": 73755
       }
     },
     {
@@ -54880,7 +54957,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Ikelenge",
-        "ADM2_PCODE": "ZM7008"
+        "ADM2_PCODE": "ZM7008",
+        "POPULATION": 50072
       }
     },
     {
@@ -55965,7 +56043,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Kalumbila",
-        "ADM2_PCODE": "ZM7009"
+        "ADM2_PCODE": "ZM7009",
+        "POPULATION": 132037
       }
     },
     {
@@ -56602,7 +56681,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Mushindano",
-        "ADM2_PCODE": "ZM7011"
+        "ADM2_PCODE": "ZM7011",
+        "POPULATION": 43495
       }
     },
     {
@@ -56963,7 +57043,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Chingola",
-        "ADM2_PCODE": "ZM2002"
+        "ADM2_PCODE": "ZM2002",
+        "POPULATION": 340848
       }
     },
     {
@@ -57564,7 +57645,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Lufwanyama",
-        "ADM2_PCODE": "ZM2006"
+        "ADM2_PCODE": "ZM2006",
+        "POPULATION": 147435
       }
     },
     {
@@ -57921,7 +58003,8 @@
         "ADM1_EN": "Copperbelt",
         "ADM1_PCODE": "ZM20",
         "ADM2_EN": "Chililabombwe",
-        "ADM2_PCODE": "ZM2001"
+        "ADM2_PCODE": "ZM2001",
+        "POPULATION": 149086
       }
     },
     {
@@ -59530,7 +59613,8 @@
         "ADM1_EN": "Northwestern",
         "ADM1_PCODE": "ZM70",
         "ADM2_EN": "Mufumbwe",
-        "ADM2_PCODE": "ZM7004"
+        "ADM2_PCODE": "ZM7004",
+        "POPULATION": 110502
       }
     },
     {
@@ -59955,7 +60039,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Mitete",
-        "ADM2_PCODE": "ZM9009"
+        "ADM2_PCODE": "ZM9009",
+        "POPULATION": 53668
       }
     },
     {
@@ -60640,7 +60725,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Lukulu",
-        "ADM2_PCODE": "ZM9003"
+        "ADM2_PCODE": "ZM9003",
+        "POPULATION": 99649
       }
     },
     {
@@ -61181,7 +61267,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Kafue",
-        "ADM2_PCODE": "ZM5002"
+        "ADM2_PCODE": "ZM5002",
+        "POPULATION": 231747
       }
     },
     {
@@ -61750,7 +61837,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Isoka",
-        "ADM2_PCODE": "ZM1113"
+        "ADM2_PCODE": "ZM1113",
+        "POPULATION": 128674
       }
     },
     {
@@ -62203,7 +62291,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Mafinga",
-        "ADM2_PCODE": "ZM1115"
+        "ADM2_PCODE": "ZM1115",
+        "POPULATION": 112905
       }
     },
     {
@@ -62568,7 +62657,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Mwense",
-        "ADM2_PCODE": "ZM4005"
+        "ADM2_PCODE": "ZM4005",
+        "POPULATION": 135830
       }
     },
     {
@@ -63021,7 +63111,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Chipili",
-        "ADM2_PCODE": "ZM4010"
+        "ADM2_PCODE": "ZM4010",
+        "POPULATION": 52525
       }
     },
     {
@@ -63286,7 +63377,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Sinda",
-        "ADM2_PCODE": "ZM3012"
+        "ADM2_PCODE": "ZM3012",
+        "POPULATION": 245541
       }
     },
     {
@@ -63823,7 +63915,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Kalabo",
-        "ADM2_PCODE": "ZM9001"
+        "ADM2_PCODE": "ZM9001",
+        "POPULATION": 126619
       }
     },
     {
@@ -64132,7 +64225,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Mwandi",
-        "ADM2_PCODE": "ZM9012"
+        "ADM2_PCODE": "ZM9012",
+        "POPULATION": 75939
       }
     },
     {
@@ -64549,7 +64643,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Sioma",
-        "ADM2_PCODE": "ZM9016"
+        "ADM2_PCODE": "ZM9016",
+        "POPULATION": 74832
       }
     },
     {
@@ -64862,7 +64957,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Nalolo",
-        "ADM2_PCODE": "ZM9013"
+        "ADM2_PCODE": "ZM9013",
+        "POPULATION": 80618
       }
     },
     {
@@ -65379,7 +65475,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Kaoma",
-        "ADM2_PCODE": "ZM9002"
+        "ADM2_PCODE": "ZM9002",
+        "POPULATION": 168571
       }
     },
     {
@@ -65640,7 +65737,8 @@
         "ADM1_EN": "Western",
         "ADM1_PCODE": "ZM90",
         "ADM2_EN": "Nkeyema",
-        "ADM2_PCODE": "ZM9014"
+        "ADM2_PCODE": "ZM9014",
+        "POPULATION": 120347
       }
     },
     {
@@ -66393,7 +66491,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Mumbwa",
-        "ADM2_PCODE": "ZM1005"
+        "ADM2_PCODE": "ZM1005",
+        "POPULATION": 375864
       }
     },
     {
@@ -67994,7 +68093,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Kapiri Mposhi",
-        "ADM2_PCODE": "ZM1003"
+        "ADM2_PCODE": "ZM1003",
+        "POPULATION": 407793
       }
     },
     {
@@ -68415,7 +68515,8 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "ZM10",
         "ADM2_EN": "Ngabwe",
-        "ADM2_PCODE": "ZM1011"
+        "ADM2_PCODE": "ZM1011",
+        "POPULATION": 46664
       }
     },
     {
@@ -68944,7 +69045,8 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "ZM80",
         "ADM2_EN": "Mazabuka",
-        "ADM2_PCODE": "ZM8007"
+        "ADM2_PCODE": "ZM8007",
+        "POPULATION": 262210
       }
     },
     {
@@ -69193,7 +69295,8 @@
         "ADM1_EN": "Lusaka",
         "ADM1_PCODE": "ZM50",
         "ADM2_EN": "Chilanga",
-        "ADM2_PCODE": "ZM5005"
+        "ADM2_PCODE": "ZM5005",
+        "POPULATION": 278102
       }
     },
     {
@@ -70586,7 +70689,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Mpika",
-        "ADM2_PCODE": "ZM1118"
+        "ADM2_PCODE": "ZM1118",
+        "POPULATION": 167749
       }
     },
     {
@@ -71599,7 +71703,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Lavushimanda",
-        "ADM2_PCODE": "ZM1117"
+        "ADM2_PCODE": "ZM1117",
+        "POPULATION": 64066
       }
     },
     {
@@ -72244,7 +72349,8 @@
         "ADM1_EN": "Muchinga",
         "ADM1_PCODE": "ZM11",
         "ADM2_EN": "Kanchibiya",
-        "ADM2_PCODE": "ZM1116"
+        "ADM2_PCODE": "ZM1116",
+        "POPULATION": 105195
       }
     },
     {
@@ -88773,7 +88879,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Lunte District",
-        "ADM2_PCODE": "ZM6002"
+        "ADM2_PCODE": "ZM6002",
+        "POPULATION": 96026
       }
     },
     {
@@ -90330,7 +90437,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Senga Hill",
-        "ADM2_PCODE": "ZM6012"
+        "ADM2_PCODE": "ZM6012",
+        "POPULATION": 143501
       }
     },
     {
@@ -91407,7 +91515,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Mbala",
-        "ADM2_PCODE": "ZM6007"
+        "ADM2_PCODE": "ZM6007",
+        "POPULATION": 180093
       }
     },
     {
@@ -91904,7 +92013,8 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "ZM60",
         "ADM2_EN": "Lupososhi",
-        "ADM2_PCODE": "ZM6003"
+        "ADM2_PCODE": "ZM6003",
+        "POPULATION": 88717
       }
     },
     {
@@ -92161,7 +92271,8 @@
         "ADM1_EN": "Luapula",
         "ADM1_PCODE": "ZM40",
         "ADM2_EN": "Chifunabuli",
-        "ADM2_PCODE": "ZM4009"
+        "ADM2_PCODE": "ZM4009",
+        "POPULATION": 133629
       }
     },
     {
@@ -92418,7 +92529,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Chipata",
-        "ADM2_PCODE": "ZM3003"
+        "ADM2_PCODE": "ZM3003",
+        "POPULATION": 379269
       }
     },
     {
@@ -92719,7 +92831,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Chipangali",
-        "ADM2_PCODE": "ZM3009"
+        "ADM2_PCODE": "ZM3009",
+        "POPULATION": 190427
       }
     },
     {
@@ -92968,7 +93081,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Lundazi",
-        "ADM2_PCODE": "ZM3005"
+        "ADM2_PCODE": "ZM3005",
+        "POPULATION": 132721
       }
     },
     {
@@ -93245,7 +93359,8 @@
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "ZM30",
         "ADM2_EN": "Chasefu",
-        "ADM2_PCODE": "ZM3002"
+        "ADM2_PCODE": "ZM3002",
+        "POPULATION": 168715
       }
     }
   ]

@@ -4326,7 +4326,8 @@
         "ADM0_ISO_A2": "MW",
         "ADM0_ISO_A3": "MWI",
         "ADM1_EN": "Central",
-        "ADM1_PCODE": "MW2"
+        "ADM1_PCODE": "MW2",
+        "POPULATION": 9623375
       }
     },
     {
@@ -8890,7 +8891,8 @@
         "ADM0_ISO_A2": "MW",
         "ADM0_ISO_A3": "MWI",
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "MW1"
+        "ADM1_PCODE": "MW1",
+        "POPULATION": 2911141
       }
     },
     {
@@ -12458,7 +12460,8 @@
         "ADM0_ISO_A2": "MW",
         "ADM0_ISO_A3": "MWI",
         "ADM1_EN": "Southern",
-        "ADM1_PCODE": "MW3"
+        "ADM1_PCODE": "MW3",
+        "POPULATION": 9871246
       }
     }
   ]

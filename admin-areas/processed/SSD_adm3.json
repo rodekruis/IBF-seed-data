@@ -326,7 +326,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Bungu",
-        "ADM3_PCODE": "SS010101"
+        "ADM3_PCODE": "SS010101",
+        "POPULATION": 1036
       }
     },
     {
@@ -898,7 +899,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Dolo",
-        "ADM3_PCODE": "SS010102"
+        "ADM3_PCODE": "SS010102",
+        "POPULATION": 8087
       }
     },
     {
@@ -1182,7 +1184,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Ganji",
-        "ADM3_PCODE": "SS010103"
+        "ADM3_PCODE": "SS010103",
+        "POPULATION": 1483
       }
     },
     {
@@ -2430,7 +2433,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Gondokoro",
-        "ADM3_PCODE": "SS010104"
+        "ADM3_PCODE": "SS010104",
+        "POPULATION": 37729
       }
     },
     {
@@ -4470,7 +4474,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Juba Town",
-        "ADM3_PCODE": "SS010105"
+        "ADM3_PCODE": "SS010105",
+        "POPULATION": 61520
       }
     },
     {
@@ -5010,7 +5015,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Kator",
-        "ADM3_PCODE": "SS010106"
+        "ADM3_PCODE": "SS010106",
+        "POPULATION": 28593
       }
     },
     {
@@ -5390,7 +5396,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Lirya",
-        "ADM3_PCODE": "SS010107"
+        "ADM3_PCODE": "SS010107",
+        "POPULATION": 2348
       }
     },
     {
@@ -6586,7 +6593,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Lobonok",
-        "ADM3_PCODE": "SS010108"
+        "ADM3_PCODE": "SS010108",
+        "POPULATION": 9840
       }
     },
     {
@@ -7626,7 +7634,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Lokiliri",
-        "ADM3_PCODE": "SS010109"
+        "ADM3_PCODE": "SS010109",
+        "POPULATION": 4615
       }
     },
     {
@@ -7798,7 +7807,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Mangala North",
-        "ADM3_PCODE": "SS010110"
+        "ADM3_PCODE": "SS010110",
+        "POPULATION": 6114
       }
     },
     {
@@ -8398,7 +8408,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Mangala South",
-        "ADM3_PCODE": "SS010111"
+        "ADM3_PCODE": "SS010111",
+        "POPULATION": 8132
       }
     },
     {
@@ -9706,7 +9717,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Munuki",
-        "ADM3_PCODE": "SS010112"
+        "ADM3_PCODE": "SS010112",
+        "POPULATION": 92851
       }
     },
     {
@@ -12722,7 +12734,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Northern Bari",
-        "ADM3_PCODE": "SS010113"
+        "ADM3_PCODE": "SS010113",
+        "POPULATION": 187707
       }
     },
     {
@@ -13602,7 +13615,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Rejaf",
-        "ADM3_PCODE": "SS010114"
+        "ADM3_PCODE": "SS010114",
+        "POPULATION": 65097
       }
     },
     {
@@ -14030,7 +14044,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Rokon",
-        "ADM3_PCODE": "SS010115"
+        "ADM3_PCODE": "SS010115",
+        "POPULATION": 9171
       }
     },
     {
@@ -14462,7 +14477,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Tijor",
-        "ADM3_PCODE": "SS010116"
+        "ADM3_PCODE": "SS010116",
+        "POPULATION": 4597
       }
     },
     {
@@ -14902,7 +14918,8 @@
         "ADM2_EN": "Juba",
         "ADM2_PCODE": "SS0101",
         "ADM3_EN": "Wonduruba",
-        "ADM3_PCODE": "SS010117"
+        "ADM3_PCODE": "SS010117",
+        "POPULATION": 9936
       }
     },
     {
@@ -17938,7 +17955,8 @@
         "ADM2_EN": "Kajo-keji",
         "ADM2_PCODE": "SS0102",
         "ADM3_EN": "Kangapo I",
-        "ADM3_PCODE": "SS010201"
+        "ADM3_PCODE": "SS010201",
+        "POPULATION": 53128
       }
     },
     {
@@ -20638,7 +20656,8 @@
         "ADM2_EN": "Kajo-keji",
         "ADM2_PCODE": "SS0102",
         "ADM3_EN": "Kangapo II",
-        "ADM3_PCODE": "SS010202"
+        "ADM3_PCODE": "SS010202",
+        "POPULATION": 92778
       }
     },
     {
@@ -21386,7 +21405,8 @@
         "ADM2_EN": "Kajo-keji",
         "ADM2_PCODE": "SS0102",
         "ADM3_EN": "Lire",
-        "ADM3_PCODE": "SS010203"
+        "ADM3_PCODE": "SS010203",
+        "POPULATION": 45636
       }
     },
     {
@@ -23066,7 +23086,8 @@
         "ADM2_EN": "Kajo-keji",
         "ADM2_PCODE": "SS0102",
         "ADM3_EN": "Liwolo",
-        "ADM3_PCODE": "SS010204"
+        "ADM3_PCODE": "SS010204",
+        "POPULATION": 32579
       }
     },
     {
@@ -24190,7 +24211,8 @@
         "ADM2_EN": "Kajo-keji",
         "ADM2_PCODE": "SS0102",
         "ADM3_EN": "Nyepo",
-        "ADM3_PCODE": "SS010205"
+        "ADM3_PCODE": "SS010205",
+        "POPULATION": 7258
       }
     },
     {
@@ -24602,7 +24624,8 @@
         "ADM2_EN": "Lainya",
         "ADM2_PCODE": "SS0103",
         "ADM3_EN": "Kenyi",
-        "ADM3_PCODE": "SS010301"
+        "ADM3_PCODE": "SS010301",
+        "POPULATION": 24156
       }
     },
     {
@@ -25530,7 +25553,8 @@
         "ADM2_EN": "Lainya",
         "ADM2_PCODE": "SS0103",
         "ADM3_EN": "Kupera",
-        "ADM3_PCODE": "SS010302"
+        "ADM3_PCODE": "SS010302",
+        "POPULATION": 13826
       }
     },
     {
@@ -25874,7 +25898,8 @@
         "ADM2_EN": "Lainya",
         "ADM2_PCODE": "SS0103",
         "ADM3_EN": "Lainya",
-        "ADM3_PCODE": "SS010303"
+        "ADM3_PCODE": "SS010303",
+        "POPULATION": 43983
       }
     },
     {
@@ -26354,7 +26379,8 @@
         "ADM2_EN": "Lainya",
         "ADM2_PCODE": "SS0103",
         "ADM3_EN": "Mukaya",
-        "ADM3_PCODE": "SS010304"
+        "ADM3_PCODE": "SS010304",
+        "POPULATION": 17443
       }
     },
     {
@@ -28626,7 +28652,8 @@
         "ADM2_EN": "Lainya",
         "ADM2_PCODE": "SS0103",
         "ADM3_EN": "Wuji",
-        "ADM3_PCODE": "SS010305"
+        "ADM3_PCODE": "SS010305",
+        "POPULATION": 16615
       }
     },
     {
@@ -29138,7 +29165,8 @@
         "ADM2_EN": "Morobo",
         "ADM2_PCODE": "SS0104",
         "ADM3_EN": "Gulumbi",
-        "ADM3_PCODE": "SS010401"
+        "ADM3_PCODE": "SS010401",
+        "POPULATION": 14045
       }
     },
     {
@@ -31510,7 +31538,8 @@
         "ADM2_EN": "Morobo",
         "ADM2_PCODE": "SS0104",
         "ADM3_EN": "Kimba",
-        "ADM3_PCODE": "SS010402"
+        "ADM3_PCODE": "SS010402",
+        "POPULATION": 50414
       }
     },
     {
@@ -32098,7 +32127,8 @@
         "ADM2_EN": "Morobo",
         "ADM2_PCODE": "SS0104",
         "ADM3_EN": "Lujulo",
-        "ADM3_PCODE": "SS010403"
+        "ADM3_PCODE": "SS010403",
+        "POPULATION": 10264
       }
     },
     {
@@ -33646,7 +33676,8 @@
         "ADM2_EN": "Morobo",
         "ADM2_PCODE": "SS0104",
         "ADM3_EN": "Panyume",
-        "ADM3_PCODE": "SS010404"
+        "ADM3_PCODE": "SS010404",
+        "POPULATION": 25293
       }
     },
     {
@@ -34198,7 +34229,8 @@
         "ADM2_EN": "Morobo",
         "ADM2_PCODE": "SS0104",
         "ADM3_EN": "Wudabi",
-        "ADM3_PCODE": "SS010405"
+        "ADM3_PCODE": "SS010405",
+        "POPULATION": 12710
       }
     },
     {
@@ -34390,7 +34422,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Gameiza",
-        "ADM3_PCODE": "SS010501"
+        "ADM3_PCODE": "SS010501",
+        "POPULATION": 7982
       }
     },
     {
@@ -34570,7 +34603,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Muni",
-        "ADM3_PCODE": "SS010502"
+        "ADM3_PCODE": "SS010502",
+        "POPULATION": 43187
       }
     },
     {
@@ -34734,7 +34768,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Nyori",
-        "ADM3_PCODE": "SS010503"
+        "ADM3_PCODE": "SS010503",
+        "POPULATION": 28361
       }
     },
     {
@@ -35046,7 +35081,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Reggo",
-        "ADM3_PCODE": "SS010504"
+        "ADM3_PCODE": "SS010504",
+        "POPULATION": 56956
       }
     },
     {
@@ -35546,7 +35582,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Rijong",
-        "ADM3_PCODE": "SS010505"
+        "ADM3_PCODE": "SS010505",
+        "POPULATION": 8601
       }
     },
     {
@@ -35786,7 +35823,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Tali",
-        "ADM3_PCODE": "SS010506"
+        "ADM3_PCODE": "SS010506",
+        "POPULATION": 33426
       }
     },
     {
@@ -35986,7 +36024,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Terekeka",
-        "ADM3_PCODE": "SS010507"
+        "ADM3_PCODE": "SS010507",
+        "POPULATION": 46490
       }
     },
     {
@@ -36222,7 +36261,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Tindilo",
-        "ADM3_PCODE": "SS010508"
+        "ADM3_PCODE": "SS010508",
+        "POPULATION": 16554
       }
     },
     {
@@ -36554,7 +36594,8 @@
         "ADM2_EN": "Terekeka",
         "ADM2_PCODE": "SS0105",
         "ADM3_EN": "Tombek",
-        "ADM3_PCODE": "SS010509"
+        "ADM3_PCODE": "SS010509",
+        "POPULATION": 20334
       }
     },
     {
@@ -37946,7 +37987,8 @@
         "ADM2_EN": "Yei",
         "ADM2_PCODE": "SS0106",
         "ADM3_EN": "Lasu",
-        "ADM3_PCODE": "SS010601"
+        "ADM3_PCODE": "SS010601",
+        "POPULATION": 30278
       }
     },
     {
@@ -38698,7 +38740,8 @@
         "ADM2_EN": "Yei",
         "ADM2_PCODE": "SS0106",
         "ADM3_EN": "Mugwo",
-        "ADM3_PCODE": "SS010602"
+        "ADM3_PCODE": "SS010602",
+        "POPULATION": 33118
       }
     },
     {
@@ -39866,7 +39909,8 @@
         "ADM2_EN": "Yei",
         "ADM2_PCODE": "SS0106",
         "ADM3_EN": "Otogo",
-        "ADM3_PCODE": "SS010603"
+        "ADM3_PCODE": "SS010603",
+        "POPULATION": 47225
       }
     },
     {
@@ -41950,7 +41994,8 @@
         "ADM2_EN": "Yei",
         "ADM2_PCODE": "SS0106",
         "ADM3_EN": "Tore",
-        "ADM3_PCODE": "SS010604"
+        "ADM3_PCODE": "SS010604",
+        "POPULATION": 12879
       }
     },
     {
@@ -42674,7 +42719,8 @@
         "ADM2_EN": "Yei",
         "ADM2_PCODE": "SS0106",
         "ADM3_EN": "Yei",
-        "ADM3_PCODE": "SS010605"
+        "ADM3_PCODE": "SS010605",
+        "POPULATION": 167593
       }
     },
     {
@@ -43066,7 +43112,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Kimotong",
-        "ADM3_PCODE": "SS020101"
+        "ADM3_PCODE": "SS020101",
+        "POPULATION": 6105
       }
     },
     {
@@ -43814,7 +43861,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Komori",
-        "ADM3_PCODE": "SS020102"
+        "ADM3_PCODE": "SS020102",
+        "POPULATION": 26407
       }
     },
     {
@@ -44794,7 +44842,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Loriyok",
-        "ADM3_PCODE": "SS020103"
+        "ADM3_PCODE": "SS020103",
+        "POPULATION": 4528
       }
     },
     {
@@ -45174,7 +45223,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Lotukei",
-        "ADM3_PCODE": "SS020104"
+        "ADM3_PCODE": "SS020104",
+        "POPULATION": 18796
       }
     },
     {
@@ -45406,7 +45456,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Loudo",
-        "ADM3_PCODE": "SS020105"
+        "ADM3_PCODE": "SS020105",
+        "POPULATION": 11666
       }
     },
     {
@@ -45626,7 +45677,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Nagishot",
-        "ADM3_PCODE": "SS020106"
+        "ADM3_PCODE": "SS020106",
+        "POPULATION": 13712
       }
     },
     {
@@ -46038,7 +46090,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Napak",
-        "ADM3_PCODE": "SS020107"
+        "ADM3_PCODE": "SS020107",
+        "POPULATION": 4687
       }
     },
     {
@@ -46322,7 +46375,8 @@
         "ADM2_EN": "Budi",
         "ADM2_PCODE": "SS0201",
         "ADM3_EN": "Nauro",
-        "ADM3_PCODE": "SS020108"
+        "ADM3_PCODE": "SS020108",
+        "POPULATION": 18250
       }
     },
     {
@@ -46898,7 +46952,8 @@
         "ADM2_EN": "Ikotos",
         "ADM2_PCODE": "SS0202",
         "ADM3_EN": "Hatire",
-        "ADM3_PCODE": "SS020201"
+        "ADM3_PCODE": "SS020201",
+        "POPULATION": 7219
       }
     },
     {
@@ -47306,7 +47361,8 @@
         "ADM2_EN": "Ikotos",
         "ADM2_PCODE": "SS0202",
         "ADM3_EN": "Ikotos",
-        "ADM3_PCODE": "SS020202"
+        "ADM3_PCODE": "SS020202",
+        "POPULATION": 36241
       }
     },
     {
@@ -47502,7 +47558,8 @@
         "ADM2_EN": "Ikotos",
         "ADM2_PCODE": "SS0202",
         "ADM3_EN": "Imotong",
-        "ADM3_PCODE": "SS020203"
+        "ADM3_PCODE": "SS020203",
+        "POPULATION": 5632
       }
     },
     {
@@ -47662,7 +47719,8 @@
         "ADM2_EN": "Ikotos",
         "ADM2_PCODE": "SS0202",
         "ADM3_EN": "Lomohidang North",
-        "ADM3_PCODE": "SS020204"
+        "ADM3_PCODE": "SS020204",
+        "POPULATION": 16920
       }
     },
     {
@@ -47842,7 +47900,8 @@
         "ADM2_EN": "Ikotos",
         "ADM2_PCODE": "SS0202",
         "ADM3_EN": "Lomohidang South",
-        "ADM3_PCODE": "SS020205"
+        "ADM3_PCODE": "SS020205",
+        "POPULATION": 25216
       }
     },
     {
@@ -48262,7 +48321,8 @@
         "ADM2_EN": "Ikotos",
         "ADM2_PCODE": "SS0202",
         "ADM3_EN": "Losite",
-        "ADM3_PCODE": "SS020206"
+        "ADM3_PCODE": "SS020206",
+        "POPULATION": 13227
       }
     },
     {
@@ -48466,7 +48526,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Jie",
-        "ADM3_PCODE": "SS020301"
+        "ADM3_PCODE": "SS020301",
+        "POPULATION": 2965
       }
     },
     {
@@ -49034,7 +49095,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Katodori",
-        "ADM3_PCODE": "SS020302"
+        "ADM3_PCODE": "SS020302",
+        "POPULATION": 29765
       }
     },
     {
@@ -49626,7 +49688,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Kauto",
-        "ADM3_PCODE": "SS020303"
+        "ADM3_PCODE": "SS020303",
+        "POPULATION": 32935
       }
     },
     {
@@ -52522,7 +52585,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Lotimor",
-        "ADM3_PCODE": "SS020304"
+        "ADM3_PCODE": "SS020304",
+        "POPULATION": 12442
       }
     },
     {
@@ -52778,7 +52842,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Mogos",
-        "ADM3_PCODE": "SS020305"
+        "ADM3_PCODE": "SS020305",
+        "POPULATION": 16551
       }
     },
     {
@@ -54798,7 +54863,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Narus",
-        "ADM3_PCODE": "SS020306"
+        "ADM3_PCODE": "SS020306",
+        "POPULATION": 66664
       }
     },
     {
@@ -55194,7 +55260,8 @@
         "ADM2_EN": "Kapoeta East",
         "ADM2_PCODE": "SS0203",
         "ADM3_EN": "Natinga",
-        "ADM3_PCODE": "SS020307"
+        "ADM3_PCODE": "SS020307",
+        "POPULATION": 7919
       }
     },
     {
@@ -55814,7 +55881,8 @@
         "ADM2_EN": "Kapoeta North",
         "ADM2_PCODE": "SS0204",
         "ADM3_EN": "Chumakori",
-        "ADM3_PCODE": "SS020401"
+        "ADM3_PCODE": "SS020401",
+        "POPULATION": 35037
       }
     },
     {
@@ -56206,7 +56274,8 @@
         "ADM2_EN": "Kapoeta North",
         "ADM2_PCODE": "SS0204",
         "ADM3_EN": "Karukomuge",
-        "ADM3_PCODE": "SS020402"
+        "ADM3_PCODE": "SS020402",
+        "POPULATION": 18283
       }
     },
     {
@@ -56878,7 +56947,8 @@
         "ADM2_EN": "Kapoeta North",
         "ADM2_PCODE": "SS0204",
         "ADM3_EN": "Lomeyen",
-        "ADM3_PCODE": "SS020403"
+        "ADM3_PCODE": "SS020403",
+        "POPULATION": 17037
       }
     },
     {
@@ -57354,7 +57424,8 @@
         "ADM2_EN": "Kapoeta North",
         "ADM2_PCODE": "SS0204",
         "ADM3_EN": "Mosingo",
-        "ADM3_PCODE": "SS020404"
+        "ADM3_PCODE": "SS020404",
+        "POPULATION": 29611
       }
     },
     {
@@ -57950,7 +58021,8 @@
         "ADM2_EN": "Kapoeta North",
         "ADM2_PCODE": "SS0204",
         "ADM3_EN": "Najie",
-        "ADM3_PCODE": "SS020405"
+        "ADM3_PCODE": "SS020405",
+        "POPULATION": 26328
       }
     },
     {
@@ -58346,7 +58418,8 @@
         "ADM2_EN": "Kapoeta North",
         "ADM2_PCODE": "SS0204",
         "ADM3_EN": "Paringa",
-        "ADM3_PCODE": "SS020406"
+        "ADM3_PCODE": "SS020406",
+        "POPULATION": 26282
       }
     },
     {
@@ -58570,7 +58643,8 @@
         "ADM2_EN": "Kapoeta South",
         "ADM2_PCODE": "SS0205",
         "ADM3_EN": "Kapoeta Town",
-        "ADM3_PCODE": "SS020501"
+        "ADM3_PCODE": "SS020501",
+        "POPULATION": 50711
       }
     },
     {
@@ -59350,7 +59424,8 @@
         "ADM2_EN": "Kapoeta South",
         "ADM2_PCODE": "SS0205",
         "ADM3_EN": "Longeleya",
-        "ADM3_PCODE": "SS020502"
+        "ADM3_PCODE": "SS020502",
+        "POPULATION": 10466
       }
     },
     {
@@ -60062,7 +60137,8 @@
         "ADM2_EN": "Kapoeta South",
         "ADM2_PCODE": "SS0205",
         "ADM3_EN": "Machi One",
-        "ADM3_PCODE": "SS020503"
+        "ADM3_PCODE": "SS020503",
+        "POPULATION": 21475
       }
     },
     {
@@ -60266,7 +60342,8 @@
         "ADM2_EN": "Kapoeta South",
         "ADM2_PCODE": "SS0205",
         "ADM3_EN": "Machi Two",
-        "ADM3_PCODE": "SS020504"
+        "ADM3_PCODE": "SS020504",
+        "POPULATION": 15508
       }
     },
     {
@@ -60550,7 +60627,8 @@
         "ADM2_EN": "Kapoeta South",
         "ADM2_PCODE": "SS0205",
         "ADM3_EN": "Pwata",
-        "ADM3_PCODE": "SS020505"
+        "ADM3_PCODE": "SS020505",
+        "POPULATION": 6188
       }
     },
     {
@@ -60970,7 +61048,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Arihilo",
-        "ADM3_PCODE": "SS020601"
+        "ADM3_PCODE": "SS020601",
+        "POPULATION": 27183
       }
     },
     {
@@ -61558,7 +61637,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Burgilo",
-        "ADM3_PCODE": "SS020602"
+        "ADM3_PCODE": "SS020602",
+        "POPULATION": 22615
       }
     },
     {
@@ -61842,7 +61922,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Imehejek",
-        "ADM3_PCODE": "SS020603"
+        "ADM3_PCODE": "SS020603",
+        "POPULATION": 42985
       }
     },
     {
@@ -62110,7 +62191,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Kurumi",
-        "ADM3_PCODE": "SS020604"
+        "ADM3_PCODE": "SS020604",
+        "POPULATION": 5391
       }
     },
     {
@@ -62414,7 +62496,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Lohutok",
-        "ADM3_PCODE": "SS020605"
+        "ADM3_PCODE": "SS020605",
+        "POPULATION": 22594
       }
     },
     {
@@ -62722,7 +62805,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Longiro",
-        "ADM3_PCODE": "SS020606"
+        "ADM3_PCODE": "SS020606",
+        "POPULATION": 28313
       }
     },
     {
@@ -63162,7 +63246,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Marguna",
-        "ADM3_PCODE": "SS020607"
+        "ADM3_PCODE": "SS020607",
+        "POPULATION": 2833
       }
     },
     {
@@ -63394,7 +63479,8 @@
         "ADM2_EN": "Lafon",
         "ADM2_PCODE": "SS0206",
         "ADM3_EN": "Pachidi",
-        "ADM3_PCODE": "SS020608"
+        "ADM3_PCODE": "SS020608",
+        "POPULATION": 3082
       }
     },
     {
@@ -63890,7 +63976,8 @@
         "ADM2_EN": "Magwi",
         "ADM2_PCODE": "SS0207",
         "ADM3_EN": "Lobone",
-        "ADM3_PCODE": "SS020701"
+        "ADM3_PCODE": "SS020701",
+        "POPULATION": 9620
       }
     },
     {
@@ -64478,7 +64565,8 @@
         "ADM2_EN": "Magwi",
         "ADM2_PCODE": "SS0207",
         "ADM3_EN": "Magwi",
-        "ADM3_PCODE": "SS020702"
+        "ADM3_PCODE": "SS020702",
+        "POPULATION": 61889
       }
     },
     {
@@ -65634,7 +65722,8 @@
         "ADM2_EN": "Magwi",
         "ADM2_PCODE": "SS0207",
         "ADM3_EN": "Mugali",
-        "ADM3_PCODE": "SS020703"
+        "ADM3_PCODE": "SS020703",
+        "POPULATION": 15823
       }
     },
     {
@@ -69054,7 +69143,8 @@
         "ADM2_EN": "Magwi",
         "ADM2_PCODE": "SS0207",
         "ADM3_EN": "Nimule",
-        "ADM3_PCODE": "SS020704"
+        "ADM3_PCODE": "SS020704",
+        "POPULATION": 96245
       }
     },
     {
@@ -70218,7 +70308,8 @@
         "ADM2_EN": "Magwi",
         "ADM2_PCODE": "SS0207",
         "ADM3_EN": "Pageri",
-        "ADM3_PCODE": "SS020705"
+        "ADM3_PCODE": "SS020705",
+        "POPULATION": 37808
       }
     },
     {
@@ -70930,7 +71021,8 @@
         "ADM2_EN": "Magwi",
         "ADM2_PCODE": "SS0207",
         "ADM3_EN": "Pajok",
-        "ADM3_PCODE": "SS020706"
+        "ADM3_PCODE": "SS020706",
+        "POPULATION": 36345
       }
     },
     {
@@ -71302,7 +71394,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Bur",
-        "ADM3_PCODE": "SS020801"
+        "ADM3_PCODE": "SS020801",
+        "POPULATION": 2785
       }
     },
     {
@@ -71550,7 +71643,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Himodonge",
-        "ADM3_PCODE": "SS020802"
+        "ADM3_PCODE": "SS020802",
+        "POPULATION": 4163
       }
     },
     {
@@ -72014,7 +72108,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Hiyala",
-        "ADM3_PCODE": "SS020803"
+        "ADM3_PCODE": "SS020803",
+        "POPULATION": 6253
       }
     },
     {
@@ -72338,7 +72433,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Ifwotu",
-        "ADM3_PCODE": "SS020804"
+        "ADM3_PCODE": "SS020804",
+        "POPULATION": 3992
       }
     },
     {
@@ -72750,7 +72846,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Imurok",
-        "ADM3_PCODE": "SS020805"
+        "ADM3_PCODE": "SS020805",
+        "POPULATION": 2695
       }
     },
     {
@@ -73046,7 +73143,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Kudo",
-        "ADM3_PCODE": "SS020806"
+        "ADM3_PCODE": "SS020806",
+        "POPULATION": 6080
       }
     },
     {
@@ -73326,7 +73424,8 @@
         "ADM2_EN": "Torit",
         "ADM2_PCODE": "SS0208",
         "ADM3_EN": "Torit",
-        "ADM3_PCODE": "SS020807"
+        "ADM3_PCODE": "SS020807",
+        "POPULATION": 37099
       }
     },
     {
@@ -76194,7 +76293,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Alali",
-        "ADM3_PCODE": "SS030101"
+        "ADM3_PCODE": "SS030101",
+        "POPULATION": 1032
       }
     },
     {
@@ -76770,7 +76870,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Barmach",
-        "ADM3_PCODE": "SS030102"
+        "ADM3_PCODE": "SS030102",
+        "POPULATION": 37007
       }
     },
     {
@@ -78058,7 +78159,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Bilkey",
-        "ADM3_PCODE": "SS030103"
+        "ADM3_PCODE": "SS030103",
+        "POPULATION": 80825
       }
     },
     {
@@ -78486,7 +78588,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Buong",
-        "ADM3_PCODE": "SS030104"
+        "ADM3_PCODE": "SS030104",
+        "POPULATION": 16953
       }
     },
     {
@@ -79242,7 +79345,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Dengjok",
-        "ADM3_PCODE": "SS030105"
+        "ADM3_PCODE": "SS030105",
+        "POPULATION": 23244
       }
     },
     {
@@ -79982,7 +80086,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Diror",
-        "ADM3_PCODE": "SS030106"
+        "ADM3_PCODE": "SS030106",
+        "POPULATION": 32759
       }
     },
     {
@@ -80522,7 +80627,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Nyandit",
-        "ADM3_PCODE": "SS030107"
+        "ADM3_PCODE": "SS030107",
+        "POPULATION": 5427
       }
     },
     {
@@ -81114,7 +81220,8 @@
         "ADM2_EN": "Akobo",
         "ADM2_PCODE": "SS0301",
         "ADM3_EN": "Walgak",
-        "ADM3_PCODE": "SS030108"
+        "ADM3_PCODE": "SS030108",
+        "POPULATION": 24061
       }
     },
     {
@@ -81486,7 +81593,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Ayod",
-        "ADM3_PCODE": "SS030201"
+        "ADM3_PCODE": "SS030201",
+        "POPULATION": 26352
       }
     },
     {
@@ -82078,7 +82186,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Kuach-deng",
-        "ADM3_PCODE": "SS030202"
+        "ADM3_PCODE": "SS030202",
+        "POPULATION": 12125
       }
     },
     {
@@ -82970,7 +83079,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Kurwai",
-        "ADM3_PCODE": "SS030203"
+        "ADM3_PCODE": "SS030203",
+        "POPULATION": 55121
       }
     },
     {
@@ -83558,7 +83668,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Mogok",
-        "ADM3_PCODE": "SS030204"
+        "ADM3_PCODE": "SS030204",
+        "POPULATION": 15358
       }
     },
     {
@@ -83902,7 +84013,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Pagil",
-        "ADM3_PCODE": "SS030205"
+        "ADM3_PCODE": "SS030205",
+        "POPULATION": 5479
       }
     },
     {
@@ -85098,7 +85210,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Pajiek",
-        "ADM3_PCODE": "SS030206"
+        "ADM3_PCODE": "SS030206",
+        "POPULATION": 61838
       }
     },
     {
@@ -86730,7 +86843,8 @@
         "ADM2_EN": "Ayod",
         "ADM2_PCODE": "SS0302",
         "ADM3_EN": "Wau",
-        "ADM3_PCODE": "SS030207"
+        "ADM3_PCODE": "SS030207",
+        "POPULATION": 16696
       }
     },
     {
@@ -87462,7 +87576,8 @@
         "ADM2_EN": "Bor South",
         "ADM2_PCODE": "SS0303",
         "ADM3_EN": "Anyidi",
-        "ADM3_PCODE": "SS030301"
+        "ADM3_PCODE": "SS030301",
+        "POPULATION": 8653
       }
     },
     {
@@ -88730,7 +88845,8 @@
         "ADM2_EN": "Bor South",
         "ADM2_PCODE": "SS0303",
         "ADM3_EN": "Baidit",
-        "ADM3_PCODE": "SS030302"
+        "ADM3_PCODE": "SS030302",
+        "POPULATION": 9823
       }
     },
     {
@@ -89482,7 +89598,8 @@
         "ADM2_EN": "Bor South",
         "ADM2_PCODE": "SS0303",
         "ADM3_EN": "Bor",
-        "ADM3_PCODE": "SS030303"
+        "ADM3_PCODE": "SS030303",
+        "POPULATION": 245017
       }
     },
     {
@@ -90026,7 +90143,8 @@
         "ADM2_EN": "Bor South",
         "ADM2_PCODE": "SS0303",
         "ADM3_EN": "Jalle",
-        "ADM3_PCODE": "SS030304"
+        "ADM3_PCODE": "SS030304",
+        "POPULATION": 4310
       }
     },
     {
@@ -90770,7 +90888,8 @@
         "ADM2_EN": "Bor South",
         "ADM2_PCODE": "SS0303",
         "ADM3_EN": "Kolnyang",
-        "ADM3_PCODE": "SS030305"
+        "ADM3_PCODE": "SS030305",
+        "POPULATION": 60644
       }
     },
     {
@@ -91642,7 +91761,8 @@
         "ADM2_EN": "Bor South",
         "ADM2_PCODE": "SS0303",
         "ADM3_EN": "Makuach",
-        "ADM3_PCODE": "SS030306"
+        "ADM3_PCODE": "SS030306",
+        "POPULATION": 5418
       }
     },
     {
@@ -91902,7 +92022,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Alam",
-        "ADM3_PCODE": "SS030401"
+        "ADM3_PCODE": "SS030401",
+        "POPULATION": 2273
       }
     },
     {
@@ -92274,7 +92395,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Atar",
-        "ADM3_PCODE": "SS030402"
+        "ADM3_PCODE": "SS030402",
+        "POPULATION": 22905
       }
     },
     {
@@ -92506,7 +92628,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Belewach",
-        "ADM3_PCODE": "SS030403"
+        "ADM3_PCODE": "SS030403",
+        "POPULATION": null
       }
     },
     {
@@ -92698,7 +92821,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Kaldak",
-        "ADM3_PCODE": "SS030404"
+        "ADM3_PCODE": "SS030404",
+        "POPULATION": 7639
       }
     },
     {
@@ -92946,7 +93070,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Korwach",
-        "ADM3_PCODE": "SS030405"
+        "ADM3_PCODE": "SS030405",
+        "POPULATION": 65192
       }
     },
     {
@@ -93318,7 +93443,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Mareng",
-        "ADM3_PCODE": "SS030406"
+        "ADM3_PCODE": "SS030406",
+        "POPULATION": 2173
       }
     },
     {
@@ -93502,7 +93628,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Nyainthokmalual",
-        "ADM3_PCODE": "SS030407"
+        "ADM3_PCODE": "SS030407",
+        "POPULATION": 5486
       }
     },
     {
@@ -95094,7 +95221,8 @@
         "ADM2_EN": "Canal-Pigi",
         "ADM2_PCODE": "SS0304",
         "ADM3_EN": "Wunlem",
-        "ADM3_PCODE": "SS030408"
+        "ADM3_PCODE": "SS030408",
+        "POPULATION": 787
       }
     },
     {
@@ -95630,7 +95758,8 @@
         "ADM2_EN": "Duk",
         "ADM2_PCODE": "SS0305",
         "ADM3_EN": "Ageer",
-        "ADM3_PCODE": "SS030501"
+        "ADM3_PCODE": "SS030501",
+        "POPULATION": 31021
       }
     },
     {
@@ -97046,7 +97175,8 @@
         "ADM2_EN": "Duk",
         "ADM2_PCODE": "SS0305",
         "ADM3_EN": "Dongchak",
-        "ADM3_PCODE": "SS030502"
+        "ADM3_PCODE": "SS030502",
+        "POPULATION": 21028
       }
     },
     {
@@ -97462,7 +97592,8 @@
         "ADM2_EN": "Duk",
         "ADM2_PCODE": "SS0305",
         "ADM3_EN": "Padiet",
-        "ADM3_PCODE": "SS030503"
+        "ADM3_PCODE": "SS030503",
+        "POPULATION": 74519
       }
     },
     {
@@ -97854,7 +97985,8 @@
         "ADM2_EN": "Duk",
         "ADM2_PCODE": "SS0305",
         "ADM3_EN": "Pagak",
-        "ADM3_PCODE": "SS030504"
+        "ADM3_PCODE": "SS030504",
+        "POPULATION": 16268
       }
     },
     {
@@ -98550,7 +98682,8 @@
         "ADM2_EN": "Duk",
         "ADM2_PCODE": "SS0305",
         "ADM3_EN": "Panyang",
-        "ADM3_PCODE": "SS030505"
+        "ADM3_PCODE": "SS030505",
+        "POPULATION": 40613
       }
     },
     {
@@ -99234,7 +99367,8 @@
         "ADM2_EN": "Duk",
         "ADM2_PCODE": "SS0305",
         "ADM3_EN": "Payuel",
-        "ADM3_PCODE": "SS030506"
+        "ADM3_PCODE": "SS030506",
+        "POPULATION": 13972
       }
     },
     {
@@ -100370,7 +100504,8 @@
         "ADM2_EN": "Fangak",
         "ADM2_PCODE": "SS0306",
         "ADM3_EN": "Manajang",
-        "ADM3_PCODE": "SS030601"
+        "ADM3_PCODE": "SS030601",
+        "POPULATION": 87751
       }
     },
     {
@@ -101066,7 +101201,8 @@
         "ADM2_EN": "Fangak",
         "ADM2_PCODE": "SS0306",
         "ADM3_EN": "Mareang",
-        "ADM3_PCODE": "SS030602"
+        "ADM3_PCODE": "SS030602",
+        "POPULATION": 12997
       }
     },
     {
@@ -101690,7 +101826,8 @@
         "ADM2_EN": "Fangak",
         "ADM2_PCODE": "SS0306",
         "ADM3_EN": "Old Fangak",
-        "ADM3_PCODE": "SS030603"
+        "ADM3_PCODE": "SS030603",
+        "POPULATION": 26679
       }
     },
     {
@@ -103570,7 +103707,8 @@
         "ADM2_EN": "Fangak",
         "ADM2_PCODE": "SS0306",
         "ADM3_EN": "Paguir",
-        "ADM3_PCODE": "SS030604"
+        "ADM3_PCODE": "SS030604",
+        "POPULATION": 53474
       }
     },
     {
@@ -103858,7 +103996,8 @@
         "ADM2_EN": "Fangak",
         "ADM2_PCODE": "SS0306",
         "ADM3_EN": "Phom",
-        "ADM3_PCODE": "SS030605"
+        "ADM3_PCODE": "SS030605",
+        "POPULATION": 9842
       }
     },
     {
@@ -104318,7 +104457,8 @@
         "ADM2_EN": "Nyirol",
         "ADM2_PCODE": "SS0307",
         "ADM3_EN": "Chuil",
-        "ADM3_PCODE": "SS030701"
+        "ADM3_PCODE": "SS030701",
+        "POPULATION": 3869
       }
     },
     {
@@ -104842,7 +104982,8 @@
         "ADM2_EN": "Nyirol",
         "ADM2_PCODE": "SS0307",
         "ADM3_EN": "Nyambor",
-        "ADM3_PCODE": "SS030702"
+        "ADM3_PCODE": "SS030702",
+        "POPULATION": 18601
       }
     },
     {
@@ -105274,7 +105415,8 @@
         "ADM2_EN": "Nyirol",
         "ADM2_PCODE": "SS0307",
         "ADM3_EN": "Pading",
-        "ADM3_PCODE": "SS030703"
+        "ADM3_PCODE": "SS030703",
+        "POPULATION": 20013
       }
     },
     {
@@ -107102,7 +107244,8 @@
         "ADM2_EN": "Nyirol",
         "ADM2_PCODE": "SS0307",
         "ADM3_EN": "Pulturuk",
-        "ADM3_PCODE": "SS030704"
+        "ADM3_PCODE": "SS030704",
+        "POPULATION": 17322
       }
     },
     {
@@ -108038,7 +108181,8 @@
         "ADM2_EN": "Nyirol",
         "ADM2_PCODE": "SS0307",
         "ADM3_EN": "Thol",
-        "ADM3_PCODE": "SS030705"
+        "ADM3_PCODE": "SS030705",
+        "POPULATION": 58495
       }
     },
     {
@@ -108330,7 +108474,8 @@
         "ADM2_EN": "Nyirol",
         "ADM2_PCODE": "SS0307",
         "ADM3_EN": "Waat",
-        "ADM3_PCODE": "SS030706"
+        "ADM3_PCODE": "SS030706",
+        "POPULATION": 22666
       }
     },
     {
@@ -111830,7 +111975,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Boma",
-        "ADM3_PCODE": "SS030801"
+        "ADM3_PCODE": "SS030801",
+        "POPULATION": 1611
       }
     },
     {
@@ -112750,7 +112896,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Gumuruk",
-        "ADM3_PCODE": "SS030802"
+        "ADM3_PCODE": "SS030802",
+        "POPULATION": 57328
       }
     },
     {
@@ -113866,7 +114013,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Kiziongora",
-        "ADM3_PCODE": "SS030803"
+        "ADM3_PCODE": "SS030803",
+        "POPULATION": 4131
       }
     },
     {
@@ -114394,7 +114542,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Lekuangole",
-        "ADM3_PCODE": "SS030804"
+        "ADM3_PCODE": "SS030804",
+        "POPULATION": 58523
       }
     },
     {
@@ -115146,7 +115295,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Marow",
-        "ADM3_PCODE": "SS030805"
+        "ADM3_PCODE": "SS030805",
+        "POPULATION": 1590
       }
     },
     {
@@ -116766,7 +116916,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Mewun",
-        "ADM3_PCODE": "SS030806"
+        "ADM3_PCODE": "SS030806",
+        "POPULATION": 333
       }
     },
     {
@@ -117906,7 +118057,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Pibor",
-        "ADM3_PCODE": "SS030807"
+        "ADM3_PCODE": "SS030807",
+        "POPULATION": 74249
       }
     },
     {
@@ -119382,7 +119534,8 @@
         "ADM2_EN": "Pibor",
         "ADM2_PCODE": "SS0308",
         "ADM3_EN": "Verteth",
-        "ADM3_PCODE": "SS030808"
+        "ADM3_PCODE": "SS030808",
+        "POPULATION": 19642
       }
     },
     {
@@ -120070,7 +120223,8 @@
         "ADM2_EN": "Pochalla",
         "ADM2_PCODE": "SS0309",
         "ADM3_EN": "Adongo",
-        "ADM3_PCODE": "SS030901"
+        "ADM3_PCODE": "SS030901",
+        "POPULATION": 38738
       }
     },
     {
@@ -124310,7 +124464,8 @@
         "ADM2_EN": "Pochalla",
         "ADM2_PCODE": "SS0309",
         "ADM3_EN": "Akiela",
-        "ADM3_PCODE": "SS030902"
+        "ADM3_PCODE": "SS030902",
+        "POPULATION": 910
       }
     },
     {
@@ -125706,7 +125861,8 @@
         "ADM2_EN": "Pochalla",
         "ADM2_PCODE": "SS0309",
         "ADM3_EN": "Burator",
-        "ADM3_PCODE": "SS030903"
+        "ADM3_PCODE": "SS030903",
+        "POPULATION": 10780
       }
     },
     {
@@ -127634,7 +127790,8 @@
         "ADM2_EN": "Pochalla",
         "ADM2_PCODE": "SS0309",
         "ADM3_EN": "Omiela",
-        "ADM3_PCODE": "SS030904"
+        "ADM3_PCODE": "SS030904",
+        "POPULATION": 2504
       }
     },
     {
@@ -129950,7 +130107,8 @@
         "ADM2_EN": "Pochalla",
         "ADM2_PCODE": "SS0309",
         "ADM3_EN": "Pochalla",
-        "ADM3_PCODE": "SS030905"
+        "ADM3_PCODE": "SS030905",
+        "POPULATION": 21308
       }
     },
     {
@@ -130814,7 +130972,8 @@
         "ADM2_EN": "Twic East",
         "ADM2_PCODE": "SS0310",
         "ADM3_EN": "Ajuong",
-        "ADM3_PCODE": "SS031001"
+        "ADM3_PCODE": "SS031001",
+        "POPULATION": 15541
       }
     },
     {
@@ -131418,7 +131577,8 @@
         "ADM2_EN": "Twic East",
         "ADM2_PCODE": "SS0310",
         "ADM3_EN": "Kongor",
-        "ADM3_PCODE": "SS031002"
+        "ADM3_PCODE": "SS031002",
+        "POPULATION": 50451
       }
     },
     {
@@ -131754,7 +131914,8 @@
         "ADM2_EN": "Twic East",
         "ADM2_PCODE": "SS0310",
         "ADM3_EN": "Lith",
-        "ADM3_PCODE": "SS031003"
+        "ADM3_PCODE": "SS031003",
+        "POPULATION": 12133
       }
     },
     {
@@ -132398,7 +132559,8 @@
         "ADM2_EN": "Twic East",
         "ADM2_PCODE": "SS0310",
         "ADM3_EN": "Nyuak",
-        "ADM3_PCODE": "SS031004"
+        "ADM3_PCODE": "SS031004",
+        "POPULATION": 30327
       }
     },
     {
@@ -133270,7 +133432,8 @@
         "ADM2_EN": "Twic East",
         "ADM2_PCODE": "SS0310",
         "ADM3_EN": "Pakeer",
-        "ADM3_PCODE": "SS031005"
+        "ADM3_PCODE": "SS031005",
+        "POPULATION": 16427
       }
     },
     {
@@ -133606,7 +133769,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Karam",
-        "ADM3_PCODE": "SS031101"
+        "ADM3_PCODE": "SS031101",
+        "POPULATION": 19352
       }
     },
     {
@@ -133890,7 +134054,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Motot",
-        "ADM3_PCODE": "SS031102"
+        "ADM3_PCODE": "SS031102",
+        "POPULATION": 30288
       }
     },
     {
@@ -134378,7 +134543,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Pathai",
-        "ADM3_PCODE": "SS031103"
+        "ADM3_PCODE": "SS031103",
+        "POPULATION": 39170
       }
     },
     {
@@ -136290,7 +136456,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Payai",
-        "ADM3_PCODE": "SS031104"
+        "ADM3_PCODE": "SS031104",
+        "POPULATION": 29311
       }
     },
     {
@@ -137342,7 +137509,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Pieri",
-        "ADM3_PCODE": "SS031105"
+        "ADM3_PCODE": "SS031105",
+        "POPULATION": 22337
       }
     },
     {
@@ -137702,7 +137870,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Puolchuol",
-        "ADM3_PCODE": "SS031106"
+        "ADM3_PCODE": "SS031106",
+        "POPULATION": 11770
       }
     },
     {
@@ -138442,7 +138611,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Tiam",
-        "ADM3_PCODE": "SS031107"
+        "ADM3_PCODE": "SS031107",
+        "POPULATION": 10797
       }
     },
     {
@@ -139338,7 +139508,8 @@
         "ADM2_EN": "Uror",
         "ADM2_PCODE": "SS0311",
         "ADM3_EN": "Uror",
-        "ADM3_PCODE": "SS031108"
+        "ADM3_PCODE": "SS031108",
+        "POPULATION": 29347
       }
     },
     {
@@ -140274,7 +140445,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Abuyong",
-        "ADM3_PCODE": "SS040101"
+        "ADM3_PCODE": "SS040101",
+        "POPULATION": 2435
       }
     },
     {
@@ -141970,7 +142142,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Alel I",
-        "ADM3_PCODE": "SS040102"
+        "ADM3_PCODE": "SS040102",
+        "POPULATION": 2083
       }
     },
     {
@@ -142186,7 +142359,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Alel II",
-        "ADM3_PCODE": "SS040103"
+        "ADM3_PCODE": "SS040103",
+        "POPULATION": 6705
       }
     },
     {
@@ -143558,7 +143732,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Bun-agok",
-        "ADM3_PCODE": "SS040104"
+        "ADM3_PCODE": "SS040104",
+        "POPULATION": 18390
       }
     },
     {
@@ -145618,7 +145793,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Dor",
-        "ADM3_PCODE": "SS040105"
+        "ADM3_PCODE": "SS040105",
+        "POPULATION": 21437
       }
     },
     {
@@ -146862,7 +147038,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Magok",
-        "ADM3_PCODE": "SS040106"
+        "ADM3_PCODE": "SS040106",
+        "POPULATION": 2089
       }
     },
     {
@@ -149630,7 +149807,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Nile",
-        "ADM3_PCODE": "SS040107"
+        "ADM3_PCODE": "SS040107",
+        "POPULATION": 7877
       }
     },
     {
@@ -150238,7 +150416,8 @@
         "ADM2_EN": "Awerial",
         "ADM2_PCODE": "SS0401",
         "ADM3_EN": "Puluk",
-        "ADM3_PCODE": "SS040108"
+        "ADM3_PCODE": "SS040108",
+        "POPULATION": 83212
       }
     },
     {
@@ -150770,7 +150949,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Abiriu",
-        "ADM3_PCODE": "SS040201"
+        "ADM3_PCODE": "SS040201",
+        "POPULATION": 65971
       }
     },
     {
@@ -151242,7 +151422,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Citcok",
-        "ADM3_PCODE": "SS040202"
+        "ADM3_PCODE": "SS040202",
+        "POPULATION": 11041
       }
     },
     {
@@ -151610,7 +151791,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Duony",
-        "ADM3_PCODE": "SS040203"
+        "ADM3_PCODE": "SS040203",
+        "POPULATION": 17279
       }
     },
     {
@@ -152114,7 +152296,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Malou Pec",
-        "ADM3_PCODE": "SS040204"
+        "ADM3_PCODE": "SS040204",
+        "POPULATION": 63120
       }
     },
     {
@@ -152482,7 +152665,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Ngap",
-        "ADM3_PCODE": "SS040205"
+        "ADM3_PCODE": "SS040205",
+        "POPULATION": 11015
       }
     },
     {
@@ -152646,7 +152830,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Ngap 1",
-        "ADM3_PCODE": "SS040206"
+        "ADM3_PCODE": "SS040206",
+        "POPULATION": 494
       }
     },
     {
@@ -153062,7 +153247,8 @@
         "ADM2_EN": "Cueibet",
         "ADM2_PCODE": "SS0402",
         "ADM3_EN": "Pagor",
-        "ADM3_PCODE": "SS040207"
+        "ADM3_PCODE": "SS040207",
+        "POPULATION": 13106
       }
     },
     {
@@ -153518,7 +153704,8 @@
         "ADM2_EN": "Rumbek Centre",
         "ADM2_PCODE": "SS0403",
         "ADM3_EN": "Amongpiny",
-        "ADM3_PCODE": "SS040301"
+        "ADM3_PCODE": "SS040301",
+        "POPULATION": 18571
       }
     },
     {
@@ -154010,7 +154197,8 @@
         "ADM2_EN": "Rumbek Centre",
         "ADM2_PCODE": "SS0403",
         "ADM3_EN": "Jiir",
-        "ADM3_PCODE": "SS040302"
+        "ADM3_PCODE": "SS040302",
+        "POPULATION": 83974
       }
     },
     {
@@ -154266,7 +154454,8 @@
         "ADM2_EN": "Rumbek Centre",
         "ADM2_PCODE": "SS0403",
         "ADM3_EN": "Malek 2",
-        "ADM3_PCODE": "SS040303"
+        "ADM3_PCODE": "SS040303",
+        "POPULATION": 387
       }
     },
     {
@@ -154822,7 +155011,8 @@
         "ADM2_EN": "Rumbek Centre",
         "ADM2_PCODE": "SS0403",
         "ADM3_EN": "Matangai",
-        "ADM3_PCODE": "SS040304"
+        "ADM3_PCODE": "SS040304",
+        "POPULATION": 120202
       }
     },
     {
@@ -155318,7 +155508,8 @@
         "ADM2_EN": "Rumbek Centre",
         "ADM2_PCODE": "SS0403",
         "ADM3_EN": "Mayom",
-        "ADM3_PCODE": "SS040305"
+        "ADM3_PCODE": "SS040305",
+        "POPULATION": 828
       }
     },
     {
@@ -155650,7 +155841,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Aduel",
-        "ADM3_PCODE": "SS040401"
+        "ADM3_PCODE": "SS040401",
+        "POPULATION": 20447
       }
     },
     {
@@ -155990,7 +156182,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Akot",
-        "ADM3_PCODE": "SS040402"
+        "ADM3_PCODE": "SS040402",
+        "POPULATION": 19164
       }
     },
     {
@@ -156286,7 +156479,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Atiaba",
-        "ADM3_PCODE": "SS040403"
+        "ADM3_PCODE": "SS040403",
+        "POPULATION": 28145
       }
     },
     {
@@ -156618,7 +156812,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Cueicok",
-        "ADM3_PCODE": "SS040404"
+        "ADM3_PCODE": "SS040404",
+        "POPULATION": 36620
       }
     },
     {
@@ -156994,7 +157189,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Maleng-agok",
-        "ADM3_PCODE": "SS040405"
+        "ADM3_PCODE": "SS040405",
+        "POPULATION": 21044
       }
     },
     {
@@ -157354,7 +157550,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Pacong",
-        "ADM3_PCODE": "SS040406"
+        "ADM3_PCODE": "SS040406",
+        "POPULATION": 33267
       }
     },
     {
@@ -157726,7 +157923,8 @@
         "ADM2_EN": "Rumbek East",
         "ADM2_PCODE": "SS0404",
         "ADM3_EN": "Paloch",
-        "ADM3_PCODE": "SS040407"
+        "ADM3_PCODE": "SS040407",
+        "POPULATION": 18750
       }
     },
     {
@@ -157922,7 +158120,8 @@
         "ADM2_EN": "Rumbek North",
         "ADM2_PCODE": "SS0405",
         "ADM3_EN": "Aloor",
-        "ADM3_PCODE": "SS040501"
+        "ADM3_PCODE": "SS040501",
+        "POPULATION": 5373
       }
     },
     {
@@ -158402,7 +158601,8 @@
         "ADM2_EN": "Rumbek North",
         "ADM2_PCODE": "SS0405",
         "ADM3_EN": "Madol",
-        "ADM3_PCODE": "SS040502"
+        "ADM3_PCODE": "SS040502",
+        "POPULATION": 1835
       }
     },
     {
@@ -158718,7 +158918,8 @@
         "ADM2_EN": "Rumbek North",
         "ADM2_PCODE": "SS0405",
         "ADM3_EN": "Malueeth",
-        "ADM3_PCODE": "SS040503"
+        "ADM3_PCODE": "SS040503",
+        "POPULATION": 20628
       }
     },
     {
@@ -159018,7 +159219,8 @@
         "ADM2_EN": "Rumbek North",
         "ADM2_PCODE": "SS0405",
         "ADM3_EN": "Maper",
-        "ADM3_PCODE": "SS040504"
+        "ADM3_PCODE": "SS040504",
+        "POPULATION": 14607
       }
     },
     {
@@ -159622,7 +159824,8 @@
         "ADM2_EN": "Rumbek North",
         "ADM2_PCODE": "SS0405",
         "ADM3_EN": "Mayen",
-        "ADM3_PCODE": "SS040505"
+        "ADM3_PCODE": "SS040505",
+        "POPULATION": 24144
       }
     },
     {
@@ -159754,7 +159957,8 @@
         "ADM2_EN": "Rumbek North",
         "ADM2_PCODE": "SS0405",
         "ADM3_EN": "Wun-rieng",
-        "ADM3_PCODE": "SS040506"
+        "ADM3_PCODE": "SS040506",
+        "POPULATION": 4707
       }
     },
     {
@@ -161622,7 +161826,8 @@
         "ADM2_EN": "Wulu",
         "ADM2_PCODE": "SS0406",
         "ADM3_EN": "Bargel",
-        "ADM3_PCODE": "SS040601"
+        "ADM3_PCODE": "SS040601",
+        "POPULATION": 23535
       }
     },
     {
@@ -163178,7 +163383,8 @@
         "ADM2_EN": "Wulu",
         "ADM2_PCODE": "SS0406",
         "ADM3_EN": "Domoloto",
-        "ADM3_PCODE": "SS040602"
+        "ADM3_PCODE": "SS040602",
+        "POPULATION": 34387
       }
     },
     {
@@ -163446,7 +163652,8 @@
         "ADM2_EN": "Wulu",
         "ADM2_PCODE": "SS0406",
         "ADM3_EN": "Makundi",
-        "ADM3_PCODE": "SS040603"
+        "ADM3_PCODE": "SS040603",
+        "POPULATION": 3489
       }
     },
     {
@@ -164002,7 +164209,8 @@
         "ADM2_EN": "Wulu",
         "ADM2_PCODE": "SS0406",
         "ADM3_EN": "Wulu",
-        "ADM3_PCODE": "SS040604"
+        "ADM3_PCODE": "SS040604",
+        "POPULATION": 28771
       }
     },
     {
@@ -164794,7 +165002,8 @@
         "ADM2_EN": "Yirol East",
         "ADM2_PCODE": "SS0407",
         "ADM3_EN": "Adior",
-        "ADM3_PCODE": "SS040701"
+        "ADM3_PCODE": "SS040701",
+        "POPULATION": 22637
       }
     },
     {
@@ -165218,7 +165427,8 @@
         "ADM2_EN": "Yirol East",
         "ADM2_PCODE": "SS0407",
         "ADM3_EN": "Lekakedu",
-        "ADM3_PCODE": "SS040702"
+        "ADM3_PCODE": "SS040702",
+        "POPULATION": 59558
       }
     },
     {
@@ -166226,7 +166436,8 @@
         "ADM2_EN": "Yirol East",
         "ADM2_PCODE": "SS0407",
         "ADM3_EN": "Malek",
-        "ADM3_PCODE": "SS040703"
+        "ADM3_PCODE": "SS040703",
+        "POPULATION": 13022
       }
     },
     {
@@ -166770,7 +166981,8 @@
         "ADM2_EN": "Yirol East",
         "ADM2_PCODE": "SS0407",
         "ADM3_EN": "Pagarau",
-        "ADM3_PCODE": "SS040704"
+        "ADM3_PCODE": "SS040704",
+        "POPULATION": 20129
       }
     },
     {
@@ -167398,7 +167610,8 @@
         "ADM2_EN": "Yirol East",
         "ADM2_PCODE": "SS0407",
         "ADM3_EN": "Tinagau",
-        "ADM3_PCODE": "SS040705"
+        "ADM3_PCODE": "SS040705",
+        "POPULATION": 10947
       }
     },
     {
@@ -167662,7 +167875,8 @@
         "ADM2_EN": "Yirol East",
         "ADM2_PCODE": "SS0407",
         "ADM3_EN": "Yali",
-        "ADM3_PCODE": "SS040706"
+        "ADM3_PCODE": "SS040706",
+        "POPULATION": 32424
       }
     },
     {
@@ -168342,7 +168556,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Abang",
-        "ADM3_PCODE": "SS040801"
+        "ADM3_PCODE": "SS040801",
+        "POPULATION": 57059
       }
     },
     {
@@ -168782,7 +168997,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Aluakluak",
-        "ADM3_PCODE": "SS040802"
+        "ADM3_PCODE": "SS040802",
+        "POPULATION": 30905
       }
     },
     {
@@ -169230,7 +169446,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Anuol",
-        "ADM3_PCODE": "SS040803"
+        "ADM3_PCODE": "SS040803",
+        "POPULATION": 15925
       }
     },
     {
@@ -169986,7 +170203,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Geng-geng",
-        "ADM3_PCODE": "SS040804"
+        "ADM3_PCODE": "SS040804",
+        "POPULATION": 15482
       }
     },
     {
@@ -170518,7 +170736,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Gher",
-        "ADM3_PCODE": "SS040805"
+        "ADM3_PCODE": "SS040805",
+        "POPULATION": 13705
       }
     },
     {
@@ -170914,7 +171133,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Mapuordit",
-        "ADM3_PCODE": "SS040806"
+        "ADM3_PCODE": "SS040806",
+        "POPULATION": 12524
       }
     },
     {
@@ -171626,7 +171846,8 @@
         "ADM2_EN": "Yirol West",
         "ADM2_PCODE": "SS0408",
         "ADM3_EN": "Yirol",
-        "ADM3_PCODE": "SS040807"
+        "ADM3_PCODE": "SS040807",
+        "POPULATION": 27786
       }
     },
     {
@@ -171970,7 +172191,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Abul",
-        "ADM3_PCODE": "SS050101"
+        "ADM3_PCODE": "SS050101",
+        "POPULATION": 3276
       }
     },
     {
@@ -172210,7 +172432,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Achana",
-        "ADM3_PCODE": "SS050102"
+        "ADM3_PCODE": "SS050102",
+        "POPULATION": 873
       }
     },
     {
@@ -172650,7 +172873,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Aroyo",
-        "ADM3_PCODE": "SS050103"
+        "ADM3_PCODE": "SS050103",
+        "POPULATION": 4904
       }
     },
     {
@@ -172810,7 +173034,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Awiil",
-        "ADM3_PCODE": "SS050104"
+        "ADM3_PCODE": "SS050104",
+        "POPULATION": 12304
       }
     },
     {
@@ -173606,7 +173831,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Bahr Mayen",
-        "ADM3_PCODE": "SS050105"
+        "ADM3_PCODE": "SS050105",
+        "POPULATION": 29795
       }
     },
     {
@@ -173890,7 +174116,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Chel South",
-        "ADM3_PCODE": "SS050106"
+        "ADM3_PCODE": "SS050106",
+        "POPULATION": 8217
       }
     },
     {
@@ -174758,7 +174985,8 @@
         "ADM2_EN": "Aweil Centre",
         "ADM2_PCODE": "SS0501",
         "ADM3_EN": "Nyalath",
-        "ADM3_PCODE": "SS050107"
+        "ADM3_PCODE": "SS050107",
+        "POPULATION": 10438
       }
     },
     {
@@ -175794,7 +176022,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Baach",
-        "ADM3_PCODE": "SS050201"
+        "ADM3_PCODE": "SS050201",
+        "POPULATION": 81268
       }
     },
     {
@@ -176774,7 +177003,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Madhol",
-        "ADM3_PCODE": "SS050202"
+        "ADM3_PCODE": "SS050202",
+        "POPULATION": 53677
       }
     },
     {
@@ -177626,7 +177856,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Malual-bai",
-        "ADM3_PCODE": "SS050203"
+        "ADM3_PCODE": "SS050203",
+        "POPULATION": 64515
       }
     },
     {
@@ -178306,7 +178537,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Mangar-tong I",
-        "ADM3_PCODE": "SS050204"
+        "ADM3_PCODE": "SS050204",
+        "POPULATION": 28897
       }
     },
     {
@@ -178882,7 +179114,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Mangok",
-        "ADM3_PCODE": "SS050205"
+        "ADM3_PCODE": "SS050205",
+        "POPULATION": 27822
       }
     },
     {
@@ -179426,7 +179659,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Mayom-wel",
-        "ADM3_PCODE": "SS050206"
+        "ADM3_PCODE": "SS050206",
+        "POPULATION": 12988
       }
     },
     {
@@ -180614,7 +180848,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Wunlang",
-        "ADM3_PCODE": "SS050207"
+        "ADM3_PCODE": "SS050207",
+        "POPULATION": 39304
       }
     },
     {
@@ -181718,7 +181953,8 @@
         "ADM2_EN": "Aweil East",
         "ADM2_PCODE": "SS0502",
         "ADM3_EN": "Yargot",
-        "ADM3_PCODE": "SS050208"
+        "ADM3_PCODE": "SS050208",
+        "POPULATION": 31542
       }
     },
     {
@@ -181986,7 +182222,8 @@
         "ADM2_EN": "Aweil North",
         "ADM2_PCODE": "SS0503",
         "ADM3_EN": "Ariath",
-        "ADM3_PCODE": "SS050301"
+        "ADM3_PCODE": "SS050301",
+        "POPULATION": 22686
       }
     },
     {
@@ -182466,7 +182703,8 @@
         "ADM2_EN": "Aweil North",
         "ADM2_PCODE": "SS0503",
         "ADM3_EN": "Malual Centre",
-        "ADM3_PCODE": "SS050302"
+        "ADM3_PCODE": "SS050302",
+        "POPULATION": 26847
       }
     },
     {
@@ -183010,7 +183248,8 @@
         "ADM2_EN": "Aweil North",
         "ADM2_PCODE": "SS0503",
         "ADM3_EN": "Malual East",
-        "ADM3_PCODE": "SS050303"
+        "ADM3_PCODE": "SS050303",
+        "POPULATION": 62408
       }
     },
     {
@@ -183538,7 +183777,8 @@
         "ADM2_EN": "Aweil North",
         "ADM2_PCODE": "SS0503",
         "ADM3_EN": "Malual North",
-        "ADM3_PCODE": "SS050304"
+        "ADM3_PCODE": "SS050304",
+        "POPULATION": 41821
       }
     },
     {
@@ -184190,7 +184430,8 @@
         "ADM2_EN": "Aweil North",
         "ADM2_PCODE": "SS0503",
         "ADM3_EN": "Malual West",
-        "ADM3_PCODE": "SS050305"
+        "ADM3_PCODE": "SS050305",
+        "POPULATION": 14540
       }
     },
     {
@@ -184394,7 +184635,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Ayai",
-        "ADM3_PCODE": "SS050401"
+        "ADM3_PCODE": "SS050401",
+        "POPULATION": 5605
       }
     },
     {
@@ -185010,7 +185252,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Gakrol",
-        "ADM3_PCODE": "SS050402"
+        "ADM3_PCODE": "SS050402",
+        "POPULATION": 17233
       }
     },
     {
@@ -185334,7 +185577,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Nyieth",
-        "ADM3_PCODE": "SS050403"
+        "ADM3_PCODE": "SS050403",
+        "POPULATION": 10163
       }
     },
     {
@@ -185682,7 +185926,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Nyocawany I",
-        "ADM3_PCODE": "SS050404"
+        "ADM3_PCODE": "SS050404",
+        "POPULATION": 9621
       }
     },
     {
@@ -185994,7 +186239,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Nyocawany II",
-        "ADM3_PCODE": "SS050405"
+        "ADM3_PCODE": "SS050405",
+        "POPULATION": 12892
       }
     },
     {
@@ -186362,7 +186608,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Panthou",
-        "ADM3_PCODE": "SS050406"
+        "ADM3_PCODE": "SS050406",
+        "POPULATION": 21201
       }
     },
     {
@@ -186910,7 +187157,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Tar-weng",
-        "ADM3_PCODE": "SS050407"
+        "ADM3_PCODE": "SS050407",
+        "POPULATION": 18500
       }
     },
     {
@@ -187158,7 +187406,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Tiar-aleit",
-        "ADM3_PCODE": "SS050408"
+        "ADM3_PCODE": "SS050408",
+        "POPULATION": 30226
       }
     },
     {
@@ -187542,7 +187791,8 @@
         "ADM2_EN": "Aweil South",
         "ADM2_PCODE": "SS0504",
         "ADM3_EN": "Wathmuok",
-        "ADM3_PCODE": "SS050409"
+        "ADM3_PCODE": "SS050409",
+        "POPULATION": 18880
       }
     },
     {
@@ -187754,7 +188004,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Achana 2",
-        "ADM3_PCODE": "SS050501"
+        "ADM3_PCODE": "SS050501",
+        "POPULATION": 909
       }
     },
     {
@@ -187934,7 +188185,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Aweil Town",
-        "ADM3_PCODE": "SS050502"
+        "ADM3_PCODE": "SS050502",
+        "POPULATION": 25745
       }
     },
     {
@@ -188150,7 +188402,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Ayat Centre",
-        "ADM3_PCODE": "SS050503"
+        "ADM3_PCODE": "SS050503",
+        "POPULATION": 8916
       }
     },
     {
@@ -188510,7 +188763,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Ayat East",
-        "ADM3_PCODE": "SS050504"
+        "ADM3_PCODE": "SS050504",
+        "POPULATION": 25901
       }
     },
     {
@@ -188754,7 +189008,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Ayat West",
-        "ADM3_PCODE": "SS050505"
+        "ADM3_PCODE": "SS050505",
+        "POPULATION": 3974
       }
     },
     {
@@ -189102,7 +189357,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Gomjuer Centre",
-        "ADM3_PCODE": "SS050506"
+        "ADM3_PCODE": "SS050506",
+        "POPULATION": 34323
       }
     },
     {
@@ -189358,7 +189614,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Gomjuer East",
-        "ADM3_PCODE": "SS050507"
+        "ADM3_PCODE": "SS050507",
+        "POPULATION": 21292
       }
     },
     {
@@ -189726,7 +189983,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Gomjuer West",
-        "ADM3_PCODE": "SS050508"
+        "ADM3_PCODE": "SS050508",
+        "POPULATION": 11916
       }
     },
     {
@@ -190378,7 +190636,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Mariem East",
-        "ADM3_PCODE": "SS050509"
+        "ADM3_PCODE": "SS050509",
+        "POPULATION": 36088
       }
     },
     {
@@ -191002,7 +191261,8 @@
         "ADM2_EN": "Aweil West",
         "ADM2_PCODE": "SS0505",
         "ADM3_EN": "Mariem West",
-        "ADM3_PCODE": "SS050510"
+        "ADM3_PCODE": "SS050510",
+        "POPULATION": 32620
       }
     },
     {
@@ -191454,7 +191714,8 @@
         "ADM2_EN": "Abiemnhom",
         "ADM2_PCODE": "SS0601",
         "ADM3_EN": "Abiemnhom",
-        "ADM3_PCODE": "SS060101"
+        "ADM3_PCODE": "SS060101",
+        "POPULATION": 56239
       }
     },
     {
@@ -192046,7 +192307,8 @@
         "ADM2_EN": "Abiemnhom",
         "ADM2_PCODE": "SS0601",
         "ADM3_EN": "Aworpiny",
-        "ADM3_PCODE": "SS060102"
+        "ADM3_PCODE": "SS060102",
+        "POPULATION": 469
       }
     },
     {
@@ -192322,7 +192584,8 @@
         "ADM2_EN": "Abiemnhom",
         "ADM2_PCODE": "SS0601",
         "ADM3_EN": "Manjonga",
-        "ADM3_PCODE": "SS060103"
+        "ADM3_PCODE": "SS060103",
+        "POPULATION": 813
       }
     },
     {
@@ -192938,7 +193201,8 @@
         "ADM2_EN": "Abiemnhom",
         "ADM2_PCODE": "SS0601",
         "ADM3_EN": "Panyang 2",
-        "ADM3_PCODE": "SS060104"
+        "ADM3_PCODE": "SS060104",
+        "POPULATION": 582
       }
     },
     {
@@ -193070,7 +193334,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Guit",
-        "ADM3_PCODE": "SS060201"
+        "ADM3_PCODE": "SS060201",
+        "POPULATION": 5686
       }
     },
     {
@@ -193714,7 +193979,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Kedad",
-        "ADM3_PCODE": "SS060202"
+        "ADM3_PCODE": "SS060202",
+        "POPULATION": 13095
       }
     },
     {
@@ -194218,7 +194484,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Kuach",
-        "ADM3_PCODE": "SS060203"
+        "ADM3_PCODE": "SS060203",
+        "POPULATION": 17748
       }
     },
     {
@@ -194438,7 +194705,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Kuerguini",
-        "ADM3_PCODE": "SS060204"
+        "ADM3_PCODE": "SS060204",
+        "POPULATION": 5748
       }
     },
     {
@@ -194770,7 +195038,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Niemni",
-        "ADM3_PCODE": "SS060205"
+        "ADM3_PCODE": "SS060205",
+        "POPULATION": 9746
       }
     },
     {
@@ -195186,7 +195455,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Nyathoar",
-        "ADM3_PCODE": "SS060206"
+        "ADM3_PCODE": "SS060206",
+        "POPULATION": 5905
       }
     },
     {
@@ -195554,7 +195824,8 @@
         "ADM2_EN": "Guit",
         "ADM2_PCODE": "SS0602",
         "ADM3_EN": "Wathnyona",
-        "ADM3_PCODE": "SS060207"
+        "ADM3_PCODE": "SS060207",
+        "POPULATION": 8222
       }
     },
     {
@@ -195922,7 +196193,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Boaw",
-        "ADM3_PCODE": "SS060301"
+        "ADM3_PCODE": "SS060301",
+        "POPULATION": 18902
       }
     },
     {
@@ -196122,7 +196394,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Gany",
-        "ADM3_PCODE": "SS060302"
+        "ADM3_PCODE": "SS060302",
+        "POPULATION": 1876
       }
     },
     {
@@ -196738,7 +197011,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Jaak",
-        "ADM3_PCODE": "SS060303"
+        "ADM3_PCODE": "SS060303",
+        "POPULATION": 30187
       }
     },
     {
@@ -196886,7 +197160,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Kuachlual",
-        "ADM3_PCODE": "SS060304"
+        "ADM3_PCODE": "SS060304",
+        "POPULATION": 16147
       }
     },
     {
@@ -197386,7 +197661,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Ngony",
-        "ADM3_PCODE": "SS060305"
+        "ADM3_PCODE": "SS060305",
+        "POPULATION": 26361
       }
     },
     {
@@ -197618,7 +197894,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Norbor",
-        "ADM3_PCODE": "SS060306"
+        "ADM3_PCODE": "SS060306",
+        "POPULATION": 1083
       }
     },
     {
@@ -197886,7 +198163,8 @@
         "ADM2_EN": "Koch",
         "ADM2_PCODE": "SS0603",
         "ADM3_EN": "Pakur",
-        "ADM3_PCODE": "SS060307"
+        "ADM3_PCODE": "SS060307",
+        "POPULATION": 1024
       }
     },
     {
@@ -198378,7 +198656,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Adok",
-        "ADM3_PCODE": "SS060401"
+        "ADM3_PCODE": "SS060401",
+        "POPULATION": 19591
       }
     },
     {
@@ -198638,7 +198917,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Bou",
-        "ADM3_PCODE": "SS060402"
+        "ADM3_PCODE": "SS060402",
+        "POPULATION": 8616
       }
     },
     {
@@ -198902,7 +199182,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Guat",
-        "ADM3_PCODE": "SS060403"
+        "ADM3_PCODE": "SS060403",
+        "POPULATION": 9020
       }
     },
     {
@@ -199102,7 +199383,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Juong Kang",
-        "ADM3_PCODE": "SS060404"
+        "ADM3_PCODE": "SS060404",
+        "POPULATION": 6592
       }
     },
     {
@@ -199366,7 +199648,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Leer",
-        "ADM3_PCODE": "SS060405"
+        "ADM3_PCODE": "SS060405",
+        "POPULATION": 8991
       }
     },
     {
@@ -199898,7 +200181,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Padeah",
-        "ADM3_PCODE": "SS060406"
+        "ADM3_PCODE": "SS060406",
+        "POPULATION": 9865
       }
     },
     {
@@ -200242,7 +200526,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Pilieny",
-        "ADM3_PCODE": "SS060407"
+        "ADM3_PCODE": "SS060407",
+        "POPULATION": 5399
       }
     },
     {
@@ -200918,7 +201203,8 @@
         "ADM2_EN": "Leer",
         "ADM2_PCODE": "SS0604",
         "ADM3_EN": "Yang",
-        "ADM3_PCODE": "SS060408"
+        "ADM3_PCODE": "SS060408",
+        "POPULATION": 10818
       }
     },
     {
@@ -201182,7 +201468,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Bor 2",
-        "ADM3_PCODE": "SS060501"
+        "ADM3_PCODE": "SS060501",
+        "POPULATION": 3872
       }
     },
     {
@@ -201438,7 +201725,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Dablual",
-        "ADM3_PCODE": "SS060502"
+        "ADM3_PCODE": "SS060502",
+        "POPULATION": 14509
       }
     },
     {
@@ -201914,7 +202202,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Luom",
-        "ADM3_PCODE": "SS060503"
+        "ADM3_PCODE": "SS060503",
+        "POPULATION": 8271
       }
     },
     {
@@ -202086,7 +202375,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Maal",
-        "ADM3_PCODE": "SS060504"
+        "ADM3_PCODE": "SS060504",
+        "POPULATION": 4390
       }
     },
     {
@@ -202330,7 +202620,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Pabuong",
-        "ADM3_PCODE": "SS060505"
+        "ADM3_PCODE": "SS060505",
+        "POPULATION": 167
       }
     },
     {
@@ -202622,7 +202913,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Rubkuay",
-        "ADM3_PCODE": "SS060506"
+        "ADM3_PCODE": "SS060506",
+        "POPULATION": 18274
       }
     },
     {
@@ -202874,7 +203166,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Thaker",
-        "ADM3_PCODE": "SS060507"
+        "ADM3_PCODE": "SS060507",
+        "POPULATION": 11196
       }
     },
     {
@@ -203070,7 +203363,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Tharjiath",
-        "ADM3_PCODE": "SS060508"
+        "ADM3_PCODE": "SS060508",
+        "POPULATION": 907
       }
     },
     {
@@ -203234,7 +203528,8 @@
         "ADM2_EN": "Mayendit",
         "ADM2_PCODE": "SS0605",
         "ADM3_EN": "Tutnyang",
-        "ADM3_PCODE": "SS060509"
+        "ADM3_PCODE": "SS060509",
+        "POPULATION": 7847
       }
     },
     {
@@ -203418,7 +203713,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Bieh",
-        "ADM3_PCODE": "SS060601"
+        "ADM3_PCODE": "SS060601",
+        "POPULATION": 4205
       }
     },
     {
@@ -204430,7 +204726,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Kuerbuone",
-        "ADM3_PCODE": "SS060602"
+        "ADM3_PCODE": "SS060602",
+        "POPULATION": 17814
       }
     },
     {
@@ -204678,7 +204975,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Kueryiek",
-        "ADM3_PCODE": "SS060603"
+        "ADM3_PCODE": "SS060603",
+        "POPULATION": 9003
       }
     },
     {
@@ -204838,7 +205136,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Mankien",
-        "ADM3_PCODE": "SS060604"
+        "ADM3_PCODE": "SS060604",
+        "POPULATION": 15310
       }
     },
     {
@@ -205006,7 +205305,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Ngop 2",
-        "ADM3_PCODE": "SS060605"
+        "ADM3_PCODE": "SS060605",
+        "POPULATION": 7036
       }
     },
     {
@@ -205274,7 +205574,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Pup",
-        "ADM3_PCODE": "SS060606"
+        "ADM3_PCODE": "SS060606",
+        "POPULATION": 21718
       }
     },
     {
@@ -205602,7 +205903,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Riak",
-        "ADM3_PCODE": "SS060607"
+        "ADM3_PCODE": "SS060607",
+        "POPULATION": 18354
       }
     },
     {
@@ -205746,7 +206048,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Ruathnyibuol",
-        "ADM3_PCODE": "SS060608"
+        "ADM3_PCODE": "SS060608",
+        "POPULATION": 5446
       }
     },
     {
@@ -205826,7 +206129,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Wangbuor I",
-        "ADM3_PCODE": "SS060609"
+        "ADM3_PCODE": "SS060609",
+        "POPULATION": 516
       }
     },
     {
@@ -205994,7 +206298,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Wangbuor II",
-        "ADM3_PCODE": "SS060610"
+        "ADM3_PCODE": "SS060610",
+        "POPULATION": 240
       }
     },
     {
@@ -206758,7 +207063,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Wangbuor III",
-        "ADM3_PCODE": "SS060611"
+        "ADM3_PCODE": "SS060611",
+        "POPULATION": 13296
       }
     },
     {
@@ -207478,7 +207784,8 @@
         "ADM2_EN": "Mayom",
         "ADM2_PCODE": "SS0606",
         "ADM3_EN": "Wangkei",
-        "ADM3_PCODE": "SS060612"
+        "ADM3_PCODE": "SS060612",
+        "POPULATION": 30403
       }
     },
     {
@@ -207914,7 +208221,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Ganyliel",
-        "ADM3_PCODE": "SS060701"
+        "ADM3_PCODE": "SS060701",
+        "POPULATION": 11300
       }
     },
     {
@@ -208362,7 +208670,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Kol",
-        "ADM3_PCODE": "SS060702"
+        "ADM3_PCODE": "SS060702",
+        "POPULATION": 6839
       }
     },
     {
@@ -208566,7 +208875,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Mayom 2",
-        "ADM3_PCODE": "SS060703"
+        "ADM3_PCODE": "SS060703",
+        "POPULATION": 2593
       }
     },
     {
@@ -209254,7 +209564,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Nyal",
-        "ADM3_PCODE": "SS060704"
+        "ADM3_PCODE": "SS060704",
+        "POPULATION": 23528
       }
     },
     {
@@ -209658,7 +209969,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Pachaar",
-        "ADM3_PCODE": "SS060705"
+        "ADM3_PCODE": "SS060705",
+        "POPULATION": 15931
       }
     },
     {
@@ -209934,7 +210246,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Pachak",
-        "ADM3_PCODE": "SS060706"
+        "ADM3_PCODE": "SS060706",
+        "POPULATION": 15553
       }
     },
     {
@@ -210606,7 +210919,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Pachienjok",
-        "ADM3_PCODE": "SS060707"
+        "ADM3_PCODE": "SS060707",
+        "POPULATION": 4192
       }
     },
     {
@@ -210914,7 +211228,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Panyijiar",
-        "ADM3_PCODE": "SS060708"
+        "ADM3_PCODE": "SS060708",
+        "POPULATION": 3878
       }
     },
     {
@@ -211434,7 +211749,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Thoarnhoum",
-        "ADM3_PCODE": "SS060709"
+        "ADM3_PCODE": "SS060709",
+        "POPULATION": 20892
       }
     },
     {
@@ -211842,7 +212158,8 @@
         "ADM2_EN": "Panyijiar",
         "ADM2_PCODE": "SS0607",
         "ADM3_EN": "Tiap",
-        "ADM3_PCODE": "SS060710"
+        "ADM3_PCODE": "SS060710",
+        "POPULATION": 16770
       }
     },
     {
@@ -213406,7 +213723,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Aliiny",
-        "ADM3_PCODE": "SS060801"
+        "ADM3_PCODE": "SS060801",
+        "POPULATION": 14074
       }
     },
     {
@@ -215070,7 +215388,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Biu",
-        "ADM3_PCODE": "SS060802"
+        "ADM3_PCODE": "SS060802",
+        "POPULATION": 12964
       }
     },
     {
@@ -217178,7 +217497,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Jamjang",
-        "ADM3_PCODE": "SS060803"
+        "ADM3_PCODE": "SS060803",
+        "POPULATION": 47513
       }
     },
     {
@@ -218090,7 +218410,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Nyeel",
-        "ADM3_PCODE": "SS060804"
+        "ADM3_PCODE": "SS060804",
+        "POPULATION": 5594
       }
     },
     {
@@ -218498,7 +218819,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Pariang",
-        "ADM3_PCODE": "SS060805"
+        "ADM3_PCODE": "SS060805",
+        "POPULATION": 15175
       }
     },
     {
@@ -220142,7 +220464,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Werthen",
-        "ADM3_PCODE": "SS060806"
+        "ADM3_PCODE": "SS060806",
+        "POPULATION": 32013
       }
     },
     {
@@ -221306,7 +221629,8 @@
         "ADM2_EN": "Pariang",
         "ADM2_PCODE": "SS0608",
         "ADM3_EN": "Wunkur",
-        "ADM3_PCODE": "SS060807"
+        "ADM3_PCODE": "SS060807",
+        "POPULATION": 196
       }
     },
     {
@@ -221634,7 +221958,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Bentiu Town",
-        "ADM3_PCODE": "SS060901"
+        "ADM3_PCODE": "SS060901",
+        "POPULATION": 82937
       }
     },
     {
@@ -222578,7 +222903,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Budaang",
-        "ADM3_PCODE": "SS060902"
+        "ADM3_PCODE": "SS060902",
+        "POPULATION": 49529
       }
     },
     {
@@ -222926,7 +223252,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Dhorbor",
-        "ADM3_PCODE": "SS060903"
+        "ADM3_PCODE": "SS060903",
+        "POPULATION": 25051
       }
     },
     {
@@ -223322,7 +223649,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Kaljak",
-        "ADM3_PCODE": "SS060904"
+        "ADM3_PCODE": "SS060904",
+        "POPULATION": 27010
       }
     },
     {
@@ -223442,7 +223770,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Ngop",
-        "ADM3_PCODE": "SS060905"
+        "ADM3_PCODE": "SS060905",
+        "POPULATION": 1460
       }
     },
     {
@@ -223918,7 +224247,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Nhialdiu",
-        "ADM3_PCODE": "SS060906"
+        "ADM3_PCODE": "SS060906",
+        "POPULATION": 51802
       }
     },
     {
@@ -224174,7 +224504,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Panhiany",
-        "ADM3_PCODE": "SS060907"
+        "ADM3_PCODE": "SS060907",
+        "POPULATION": 7222
       }
     },
     {
@@ -224838,7 +225169,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Rubkotne",
-        "ADM3_PCODE": "SS060908"
+        "ADM3_PCODE": "SS060908",
+        "POPULATION": 84677
       }
     },
     {
@@ -224970,7 +225302,8 @@
         "ADM2_EN": "Rubkona",
         "ADM2_PCODE": "SS0609",
         "ADM3_EN": "Wathjaak",
-        "ADM3_PCODE": "SS060909"
+        "ADM3_PCODE": "SS060909",
+        "POPULATION": 2392
       }
     },
     {
@@ -226826,7 +227159,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Abwong",
-        "ADM3_PCODE": "SS070101"
+        "ADM3_PCODE": "SS070101",
+        "POPULATION": 91
       }
     },
     {
@@ -227210,7 +227544,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Adong",
-        "ADM3_PCODE": "SS070102"
+        "ADM3_PCODE": "SS070102",
+        "POPULATION": 2836
       }
     },
     {
@@ -227650,7 +227985,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Akoka",
-        "ADM3_PCODE": "SS070103"
+        "ADM3_PCODE": "SS070103",
+        "POPULATION": 6873
       }
     },
     {
@@ -228766,7 +229102,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Akotweng",
-        "ADM3_PCODE": "SS070104"
+        "ADM3_PCODE": "SS070104",
+        "POPULATION": 16322
       }
     },
     {
@@ -229102,7 +229439,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Gel Achiel",
-        "ADM3_PCODE": "SS070105"
+        "ADM3_PCODE": "SS070105",
+        "POPULATION": 1557
       }
     },
     {
@@ -229338,7 +229676,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Nyongkuach",
-        "ADM3_PCODE": "SS070106"
+        "ADM3_PCODE": "SS070106",
+        "POPULATION": 3783
       }
     },
     {
@@ -229558,7 +229897,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Nyongrial",
-        "ADM3_PCODE": "SS070107"
+        "ADM3_PCODE": "SS070107",
+        "POPULATION": 2874
       }
     },
     {
@@ -230350,7 +230690,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Rom",
-        "ADM3_PCODE": "SS070108"
+        "ADM3_PCODE": "SS070108",
+        "POPULATION": 11661
       }
     },
     {
@@ -231026,7 +231367,8 @@
         "ADM2_EN": "Baliet",
         "ADM2_PCODE": "SS0701",
         "ADM3_EN": "Wunthow",
-        "ADM3_PCODE": "SS070109"
+        "ADM3_PCODE": "SS070109",
+        "POPULATION": 10702
       }
     },
     {
@@ -231178,7 +231520,8 @@
         "ADM2_EN": "Fashoda",
         "ADM2_PCODE": "SS0702",
         "ADM3_EN": "Dethok",
-        "ADM3_PCODE": "SS070201"
+        "ADM3_PCODE": "SS070201",
+        "POPULATION": 10385
       }
     },
     {
@@ -231630,7 +231973,8 @@
         "ADM2_EN": "Fashoda",
         "ADM2_PCODE": "SS0702",
         "ADM3_EN": "Kodok",
-        "ADM3_PCODE": "SS070202"
+        "ADM3_PCODE": "SS070202",
+        "POPULATION": 27173
       }
     },
     {
@@ -231758,7 +232102,8 @@
         "ADM2_EN": "Fashoda",
         "ADM2_PCODE": "SS0702",
         "ADM3_EN": "Kodok Town",
-        "ADM3_PCODE": "SS070203"
+        "ADM3_PCODE": "SS070203",
+        "POPULATION": 9252
       }
     },
     {
@@ -232182,7 +232527,8 @@
         "ADM2_EN": "Fashoda",
         "ADM2_PCODE": "SS0702",
         "ADM3_EN": "Lul",
-        "ADM3_PCODE": "SS070204"
+        "ADM3_PCODE": "SS070204",
+        "POPULATION": 24644
       }
     },
     {
@@ -232990,7 +233336,8 @@
         "ADM2_EN": "Longochuk",
         "ADM2_PCODE": "SS0703",
         "ADM3_EN": "Dajo",
-        "ADM3_PCODE": "SS070301"
+        "ADM3_PCODE": "SS070301",
+        "POPULATION": 2512
       }
     },
     {
@@ -233418,7 +233765,8 @@
         "ADM2_EN": "Longochuk",
         "ADM2_PCODE": "SS0703",
         "ADM3_EN": "Guelguk",
-        "ADM3_PCODE": "SS070302"
+        "ADM3_PCODE": "SS070302",
+        "POPULATION": 21112
       }
     },
     {
@@ -233574,7 +233922,8 @@
         "ADM2_EN": "Longochuk",
         "ADM2_PCODE": "SS0703",
         "ADM3_EN": "Longochuk",
-        "ADM3_PCODE": "SS070303"
+        "ADM3_PCODE": "SS070303",
+        "POPULATION": 2643
       }
     },
     {
@@ -233674,7 +234023,8 @@
         "ADM2_EN": "Longochuk",
         "ADM2_PCODE": "SS0703",
         "ADM3_EN": "Malual",
-        "ADM3_PCODE": "SS070304"
+        "ADM3_PCODE": "SS070304",
+        "POPULATION": 10310
       }
     },
     {
@@ -233934,7 +234284,8 @@
         "ADM2_EN": "Longochuk",
         "ADM2_PCODE": "SS0703",
         "ADM3_EN": "Pamach",
-        "ADM3_PCODE": "SS070305"
+        "ADM3_PCODE": "SS070305",
+        "POPULATION": 16928
       }
     },
     {
@@ -234054,7 +234405,8 @@
         "ADM2_EN": "Longochuk",
         "ADM2_PCODE": "SS0703",
         "ADM3_EN": "Wudier",
-        "ADM3_PCODE": "SS070306"
+        "ADM3_PCODE": "SS070306",
+        "POPULATION": 20450
       }
     },
     {
@@ -234266,7 +234618,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Dingkar",
-        "ADM3_PCODE": "SS070401"
+        "ADM3_PCODE": "SS070401",
+        "POPULATION": 26150
       }
     },
     {
@@ -234526,7 +234879,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Jikmir",
-        "ADM3_PCODE": "SS070402"
+        "ADM3_PCODE": "SS070402",
+        "POPULATION": 26468
       }
     },
     {
@@ -235186,7 +235540,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Kiech Kuon",
-        "ADM3_PCODE": "SS070403"
+        "ADM3_PCODE": "SS070403",
+        "POPULATION": 87127
       }
     },
     {
@@ -235730,7 +236085,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Kuerenge-Ke",
-        "ADM3_PCODE": "SS070404"
+        "ADM3_PCODE": "SS070404",
+        "POPULATION": 33170
       }
     },
     {
@@ -236142,7 +236498,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Mading",
-        "ADM3_PCODE": "SS070405"
+        "ADM3_PCODE": "SS070405",
+        "POPULATION": 46493
       }
     },
     {
@@ -237514,7 +237871,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Maker",
-        "ADM3_PCODE": "SS070406"
+        "ADM3_PCODE": "SS070406",
+        "POPULATION": 20606
       }
     },
     {
@@ -237850,7 +238208,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Nasir",
-        "ADM3_PCODE": "SS070407"
+        "ADM3_PCODE": "SS070407",
+        "POPULATION": 24283
       }
     },
     {
@@ -238026,7 +238385,8 @@
         "ADM2_EN": "Luakpiny/Nasir",
         "ADM2_PCODE": "SS0704",
         "ADM3_EN": "Roam",
-        "ADM3_PCODE": "SS070408"
+        "ADM3_PCODE": "SS070408",
+        "POPULATION": 20175
       }
     },
     {
@@ -238266,7 +238626,8 @@
         "ADM2_EN": "Maban",
         "ADM2_PCODE": "SS0705",
         "ADM3_EN": "Banashowa",
-        "ADM3_PCODE": "SS070501"
+        "ADM3_PCODE": "SS070501",
+        "POPULATION": 8512
       }
     },
     {
@@ -239010,7 +239371,8 @@
         "ADM2_EN": "Maban",
         "ADM2_PCODE": "SS0705",
         "ADM3_EN": "Boung",
-        "ADM3_PCODE": "SS070502"
+        "ADM3_PCODE": "SS070502",
+        "POPULATION": 27390
       }
     },
     {
@@ -239378,7 +239740,8 @@
         "ADM2_EN": "Maban",
         "ADM2_PCODE": "SS0705",
         "ADM3_EN": "Jinkuata",
-        "ADM3_PCODE": "SS070503"
+        "ADM3_PCODE": "SS070503",
+        "POPULATION": 27790
       }
     },
     {
@@ -240150,7 +240513,8 @@
         "ADM2_EN": "Maban",
         "ADM2_PCODE": "SS0705",
         "ADM3_EN": "Jinmakda",
-        "ADM3_PCODE": "SS070504"
+        "ADM3_PCODE": "SS070504",
+        "POPULATION": 15547
       }
     },
     {
@@ -240982,7 +241346,8 @@
         "ADM2_EN": "Maban",
         "ADM2_PCODE": "SS0705",
         "ADM3_EN": "Khor El Amer",
-        "ADM3_PCODE": "SS070505"
+        "ADM3_PCODE": "SS070505",
+        "POPULATION": 2403
       }
     },
     {
@@ -242814,7 +243179,8 @@
         "ADM2_EN": "Maiwut",
         "ADM2_PCODE": "SS0706",
         "ADM3_EN": "Jekow",
-        "ADM3_PCODE": "SS070601"
+        "ADM3_PCODE": "SS070601",
+        "POPULATION": 25974
       }
     },
     {
@@ -243526,7 +243892,8 @@
         "ADM2_EN": "Maiwut",
         "ADM2_PCODE": "SS0706",
         "ADM3_EN": "Jotoma",
-        "ADM3_PCODE": "SS070602"
+        "ADM3_PCODE": "SS070602",
+        "POPULATION": 21561
       }
     },
     {
@@ -244558,7 +244925,8 @@
         "ADM2_EN": "Maiwut",
         "ADM2_PCODE": "SS0706",
         "ADM3_EN": "Kigila",
-        "ADM3_PCODE": "SS070603"
+        "ADM3_PCODE": "SS070603",
+        "POPULATION": 5345
       }
     },
     {
@@ -245002,7 +245370,8 @@
         "ADM2_EN": "Maiwut",
         "ADM2_PCODE": "SS0706",
         "ADM3_EN": "Maiwut",
-        "ADM3_PCODE": "SS070604"
+        "ADM3_PCODE": "SS070604",
+        "POPULATION": 55683
       }
     },
     {
@@ -245346,7 +245715,8 @@
         "ADM2_EN": "Maiwut",
         "ADM2_PCODE": "SS0706",
         "ADM3_EN": "Olang",
-        "ADM3_PCODE": "SS070605"
+        "ADM3_PCODE": "SS070605",
+        "POPULATION": 18627
       }
     },
     {
@@ -245526,7 +245896,8 @@
         "ADM2_EN": "Malakal",
         "ADM2_PCODE": "SS0707",
         "ADM3_EN": "Central Malakal",
-        "ADM3_PCODE": "SS070701"
+        "ADM3_PCODE": "SS070701",
+        "POPULATION": 17437
       }
     },
     {
@@ -245758,7 +246129,8 @@
         "ADM2_EN": "Malakal",
         "ADM2_PCODE": "SS0707",
         "ADM3_EN": "Eastern Malakal",
-        "ADM3_PCODE": "SS070702"
+        "ADM3_PCODE": "SS070702",
+        "POPULATION": 17744
       }
     },
     {
@@ -246328,7 +246700,8 @@
         "ADM2_EN": "Malakal",
         "ADM2_PCODE": "SS0707",
         "ADM3_EN": "Lelo",
-        "ADM3_PCODE": "SS070703"
+        "ADM3_PCODE": "SS070703",
+        "POPULATION": 61878
       }
     },
     {
@@ -246576,7 +246949,8 @@
         "ADM2_EN": "Malakal",
         "ADM2_PCODE": "SS0707",
         "ADM3_EN": "Northern Malakal",
-        "ADM3_PCODE": "SS070704"
+        "ADM3_PCODE": "SS070704",
+        "POPULATION": 54247
       }
     },
     {
@@ -246688,7 +247062,8 @@
         "ADM2_EN": "Malakal",
         "ADM2_PCODE": "SS0707",
         "ADM3_EN": "Ogot",
-        "ADM3_PCODE": "SS070705"
+        "ADM3_PCODE": "SS070705",
+        "POPULATION": 10863
       }
     },
     {
@@ -246968,7 +247343,8 @@
         "ADM2_EN": "Malakal",
         "ADM2_PCODE": "SS0707",
         "ADM3_EN": "Southern Malakal",
-        "ADM3_PCODE": "SS070706"
+        "ADM3_PCODE": "SS070706",
+        "POPULATION": 27979
       }
     },
     {
@@ -247360,7 +247736,8 @@
         "ADM2_EN": "Manyo",
         "ADM2_PCODE": "SS0708",
         "ADM3_EN": "Adhidwoi",
-        "ADM3_PCODE": "SS070801"
+        "ADM3_PCODE": "SS070801",
+        "POPULATION": 22176
       }
     },
     {
@@ -248428,7 +248805,8 @@
         "ADM2_EN": "Manyo",
         "ADM2_PCODE": "SS0708",
         "ADM3_EN": "Kaka",
-        "ADM3_PCODE": "SS070802"
+        "ADM3_PCODE": "SS070802",
+        "POPULATION": 13449
       }
     },
     {
@@ -249208,7 +249586,8 @@
         "ADM2_EN": "Manyo",
         "ADM2_PCODE": "SS0708",
         "ADM3_EN": "Magenist",
-        "ADM3_PCODE": "SS070803"
+        "ADM3_PCODE": "SS070803",
+        "POPULATION": 5059
       }
     },
     {
@@ -249896,7 +250275,8 @@
         "ADM2_EN": "Manyo",
         "ADM2_PCODE": "SS0708",
         "ADM3_EN": "Wedakona",
-        "ADM3_PCODE": "SS070804"
+        "ADM3_PCODE": "SS070804",
+        "POPULATION": 21217
       }
     },
     {
@@ -250744,7 +251124,8 @@
         "ADM2_EN": "Melut",
         "ADM2_PCODE": "SS0709",
         "ADM3_EN": "Bimachuk",
-        "ADM3_PCODE": "SS070901"
+        "ADM3_PCODE": "SS070901",
+        "POPULATION": 23187
       }
     },
     {
@@ -251812,7 +252193,8 @@
         "ADM2_EN": "Melut",
         "ADM2_PCODE": "SS0709",
         "ADM3_EN": "Galdora",
-        "ADM3_PCODE": "SS070902"
+        "ADM3_PCODE": "SS070902",
+        "POPULATION": 8168
       }
     },
     {
@@ -252392,7 +252774,8 @@
         "ADM2_EN": "Melut",
         "ADM2_PCODE": "SS0709",
         "ADM3_EN": "Melut",
-        "ADM3_PCODE": "SS070903"
+        "ADM3_PCODE": "SS070903",
+        "POPULATION": 28501
       }
     },
     {
@@ -252756,7 +253139,8 @@
         "ADM2_EN": "Melut",
         "ADM2_PCODE": "SS0709",
         "ADM3_EN": "Panomdit",
-        "ADM3_PCODE": "SS070904"
+        "ADM3_PCODE": "SS070904",
+        "POPULATION": 2799
       }
     },
     {
@@ -253564,7 +253948,8 @@
         "ADM2_EN": "Melut",
         "ADM2_PCODE": "SS0709",
         "ADM3_EN": "Wunamum",
-        "ADM3_PCODE": "SS070905"
+        "ADM3_PCODE": "SS070905",
+        "POPULATION": 11650
       }
     },
     {
@@ -253808,7 +254193,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Anakdiar",
-        "ADM3_PCODE": "SS071001"
+        "ADM3_PCODE": "SS071001",
+        "POPULATION": 5895
       }
     },
     {
@@ -254016,7 +254402,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Dheteim",
-        "ADM3_PCODE": "SS071002"
+        "ADM3_PCODE": "SS071002",
+        "POPULATION": 7193
       }
     },
     {
@@ -255652,7 +256039,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Kuel",
-        "ADM3_PCODE": "SS071003"
+        "ADM3_PCODE": "SS071003",
+        "POPULATION": 1631
       }
     },
     {
@@ -255832,7 +256220,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Pakang",
-        "ADM3_PCODE": "SS071004"
+        "ADM3_PCODE": "SS071004",
+        "POPULATION": 3103
       }
     },
     {
@@ -255952,7 +256341,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Panyidwoi",
-        "ADM3_PCODE": "SS071005"
+        "ADM3_PCODE": "SS071005",
+        "POPULATION": 7130
       }
     },
     {
@@ -256196,7 +256586,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Panyikang",
-        "ADM3_PCODE": "SS071006"
+        "ADM3_PCODE": "SS071006",
+        "POPULATION": 11816
       }
     },
     {
@@ -256892,7 +257283,8 @@
         "ADM2_EN": "Panyikang",
         "ADM2_PCODE": "SS0710",
         "ADM3_EN": "Tonga",
-        "ADM3_PCODE": "SS071007"
+        "ADM3_PCODE": "SS071007",
+        "POPULATION": 26197
       }
     },
     {
@@ -258832,7 +259224,8 @@
         "ADM2_EN": "Renk",
         "ADM2_PCODE": "SS0711",
         "ADM3_EN": "Chemmedi",
-        "ADM3_PCODE": "SS071101"
+        "ADM3_PCODE": "SS071101",
+        "POPULATION": 61437
       }
     },
     {
@@ -262656,7 +263049,8 @@
         "ADM2_EN": "Renk",
         "ADM2_PCODE": "SS0711",
         "ADM3_EN": "Geger",
-        "ADM3_PCODE": "SS071102"
+        "ADM3_PCODE": "SS071102",
+        "POPULATION": 28481
       }
     },
     {
@@ -263984,7 +264378,8 @@
         "ADM2_EN": "Renk",
         "ADM2_PCODE": "SS0711",
         "ADM3_EN": "Jalhak",
-        "ADM3_PCODE": "SS071103"
+        "ADM3_PCODE": "SS071103",
+        "POPULATION": 29503
       }
     },
     {
@@ -267848,7 +268243,8 @@
         "ADM2_EN": "Renk",
         "ADM2_PCODE": "SS0711",
         "ADM3_EN": "North Renk",
-        "ADM3_PCODE": "SS071104"
+        "ADM3_PCODE": "SS071104",
+        "POPULATION": 111193
       }
     },
     {
@@ -268540,7 +268936,8 @@
         "ADM2_EN": "Renk",
         "ADM2_PCODE": "SS0711",
         "ADM3_EN": "South Renk",
-        "ADM3_PCODE": "SS071105"
+        "ADM3_PCODE": "SS071105",
+        "POPULATION": 14993
       }
     },
     {
@@ -269084,7 +269481,8 @@
         "ADM2_EN": "Ulang",
         "ADM2_PCODE": "SS0712",
         "ADM3_EN": "Doma",
-        "ADM3_PCODE": "SS071201"
+        "ADM3_PCODE": "SS071201",
+        "POPULATION": 26091
       }
     },
     {
@@ -271052,7 +271450,8 @@
         "ADM2_EN": "Ulang",
         "ADM2_PCODE": "SS0712",
         "ADM3_EN": "Kurmuot",
-        "ADM3_PCODE": "SS071202"
+        "ADM3_PCODE": "SS071202",
+        "POPULATION": 32072
       }
     },
     {
@@ -272076,7 +272475,8 @@
         "ADM2_EN": "Ulang",
         "ADM2_PCODE": "SS0712",
         "ADM3_EN": "Ulang",
-        "ADM3_PCODE": "SS071203"
+        "ADM3_PCODE": "SS071203",
+        "POPULATION": 48257
       }
     },
     {
@@ -272932,7 +273332,8 @@
         "ADM2_EN": "Ulang",
         "ADM2_PCODE": "SS0712",
         "ADM3_EN": "Yomding",
-        "ADM3_PCODE": "SS071204"
+        "ADM3_PCODE": "SS071204",
+        "POPULATION": 35209
       }
     },
     {
@@ -273040,7 +273441,8 @@
         "ADM2_EN": "Gogrial East",
         "ADM2_PCODE": "SS0801",
         "ADM3_EN": "Nyang",
-        "ADM3_PCODE": "SS080101"
+        "ADM3_PCODE": "SS080101",
+        "POPULATION": 2728
       }
     },
     {
@@ -273336,7 +273738,8 @@
         "ADM2_EN": "Gogrial East",
         "ADM2_PCODE": "SS0801",
         "ADM3_EN": "Pathuon East",
-        "ADM3_PCODE": "SS080102"
+        "ADM3_PCODE": "SS080102",
+        "POPULATION": 27082
       }
     },
     {
@@ -273632,7 +274035,8 @@
         "ADM2_EN": "Gogrial East",
         "ADM2_PCODE": "SS0801",
         "ADM3_EN": "Pathuon West",
-        "ADM3_PCODE": "SS080103"
+        "ADM3_PCODE": "SS080103",
+        "POPULATION": 41065
       }
     },
     {
@@ -273976,7 +274380,8 @@
         "ADM2_EN": "Gogrial East",
         "ADM2_PCODE": "SS0801",
         "ADM3_EN": "Toch East",
-        "ADM3_PCODE": "SS080104"
+        "ADM3_PCODE": "SS080104",
+        "POPULATION": 34838
       }
     },
     {
@@ -274404,7 +274809,8 @@
         "ADM2_EN": "Gogrial East",
         "ADM2_PCODE": "SS0801",
         "ADM3_EN": "Toch North",
-        "ADM3_PCODE": "SS080105"
+        "ADM3_PCODE": "SS080105",
+        "POPULATION": 12979
       }
     },
     {
@@ -274688,7 +275094,8 @@
         "ADM2_EN": "Gogrial East",
         "ADM2_PCODE": "SS0801",
         "ADM3_EN": "Toch West",
-        "ADM3_PCODE": "SS080106"
+        "ADM3_PCODE": "SS080106",
+        "POPULATION": 9924
       }
     },
     {
@@ -274824,7 +275231,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Akon North",
-        "ADM3_PCODE": "SS080201"
+        "ADM3_PCODE": "SS080201",
+        "POPULATION": 10243
       }
     },
     {
@@ -275056,7 +275464,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Akon South",
-        "ADM3_PCODE": "SS080202"
+        "ADM3_PCODE": "SS080202",
+        "POPULATION": 28294
       }
     },
     {
@@ -275508,7 +275917,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Alek North",
-        "ADM3_PCODE": "SS080203"
+        "ADM3_PCODE": "SS080203",
+        "POPULATION": 41939
       }
     },
     {
@@ -275820,7 +276230,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Alek South",
-        "ADM3_PCODE": "SS080204"
+        "ADM3_PCODE": "SS080204",
+        "POPULATION": 47410
       }
     },
     {
@@ -276088,7 +276499,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Alek West",
-        "ADM3_PCODE": "SS080205"
+        "ADM3_PCODE": "SS080205",
+        "POPULATION": 20465
       }
     },
     {
@@ -276344,7 +276756,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Gogrial",
-        "ADM3_PCODE": "SS080206"
+        "ADM3_PCODE": "SS080206",
+        "POPULATION": 35633
       }
     },
     {
@@ -276748,7 +277161,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Kuac North",
-        "ADM3_PCODE": "SS080207"
+        "ADM3_PCODE": "SS080207",
+        "POPULATION": 71475
       }
     },
     {
@@ -277020,7 +277434,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Kuac South",
-        "ADM3_PCODE": "SS080208"
+        "ADM3_PCODE": "SS080208",
+        "POPULATION": 42199
       }
     },
     {
@@ -277360,7 +277775,8 @@
         "ADM2_EN": "Gogrial West",
         "ADM2_PCODE": "SS0802",
         "ADM3_EN": "Riau",
-        "ADM3_PCODE": "SS080209"
+        "ADM3_PCODE": "SS080209",
+        "POPULATION": 31417
       }
     },
     {
@@ -277636,7 +278052,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Ananatak",
-        "ADM3_PCODE": "SS080301"
+        "ADM3_PCODE": "SS080301",
+        "POPULATION": 22709
       }
     },
     {
@@ -277912,7 +278329,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Makuac",
-        "ADM3_PCODE": "SS080302"
+        "ADM3_PCODE": "SS080302",
+        "POPULATION": 5921
       }
     },
     {
@@ -278124,7 +278542,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Malualcum",
-        "ADM3_PCODE": "SS080303"
+        "ADM3_PCODE": "SS080303",
+        "POPULATION": 23765
       }
     },
     {
@@ -278348,7 +278767,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Maparah",
-        "ADM3_PCODE": "SS080304"
+        "ADM3_PCODE": "SS080304",
+        "POPULATION": 10194
       }
     },
     {
@@ -278560,7 +278980,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Mayen 2",
-        "ADM3_PCODE": "SS080305"
+        "ADM3_PCODE": "SS080305",
+        "POPULATION": 19320
       }
     },
     {
@@ -278780,7 +279201,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Pagor 2",
-        "ADM3_PCODE": "SS080306"
+        "ADM3_PCODE": "SS080306",
+        "POPULATION": 1950
       }
     },
     {
@@ -279000,7 +279422,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Palal",
-        "ADM3_PCODE": "SS080307"
+        "ADM3_PCODE": "SS080307",
+        "POPULATION": 25149
       }
     },
     {
@@ -279188,7 +279611,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Paliang",
-        "ADM3_PCODE": "SS080308"
+        "ADM3_PCODE": "SS080308",
+        "POPULATION": 14965
       }
     },
     {
@@ -279424,7 +279848,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Pannhial",
-        "ADM3_PCODE": "SS080309"
+        "ADM3_PCODE": "SS080309",
+        "POPULATION": 14939
       }
     },
     {
@@ -279580,7 +280005,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Paweng",
-        "ADM3_PCODE": "SS080310"
+        "ADM3_PCODE": "SS080310",
+        "POPULATION": 15389
       }
     },
     {
@@ -279784,7 +280210,8 @@
         "ADM2_EN": "Tonj East",
         "ADM2_PCODE": "SS0803",
         "ADM3_EN": "Wun-liit",
-        "ADM3_PCODE": "SS080311"
+        "ADM3_PCODE": "SS080311",
+        "POPULATION": 29617
       }
     },
     {
@@ -280008,7 +280435,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Akop",
-        "ADM3_PCODE": "SS080401"
+        "ADM3_PCODE": "SS080401",
+        "POPULATION": 24520
       }
     },
     {
@@ -280224,7 +280652,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Alabek",
-        "ADM3_PCODE": "SS080402"
+        "ADM3_PCODE": "SS080402",
+        "POPULATION": 31705
       }
     },
     {
@@ -280480,7 +280909,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Aliek",
-        "ADM3_PCODE": "SS080403"
+        "ADM3_PCODE": "SS080403",
+        "POPULATION": 40469
       }
     },
     {
@@ -280732,7 +281162,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Awuul",
-        "ADM3_PCODE": "SS080404"
+        "ADM3_PCODE": "SS080404",
+        "POPULATION": 36625
       }
     },
     {
@@ -280912,7 +281343,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Kirik",
-        "ADM3_PCODE": "SS080405"
+        "ADM3_PCODE": "SS080405",
+        "POPULATION": 28665
       }
     },
     {
@@ -281124,7 +281556,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Manloor",
-        "ADM3_PCODE": "SS080406"
+        "ADM3_PCODE": "SS080406",
+        "POPULATION": 24659
       }
     },
     {
@@ -281428,7 +281861,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Marial-lou",
-        "ADM3_PCODE": "SS080407"
+        "ADM3_PCODE": "SS080407",
+        "POPULATION": 13565
       }
     },
     {
@@ -281676,7 +282110,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Pagol",
-        "ADM3_PCODE": "SS080408"
+        "ADM3_PCODE": "SS080408",
+        "POPULATION": 19493
       }
     },
     {
@@ -281924,7 +282359,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Rual-bet",
-        "ADM3_PCODE": "SS080409"
+        "ADM3_PCODE": "SS080409",
+        "POPULATION": 25894
       }
     },
     {
@@ -282040,7 +282476,8 @@
         "ADM2_EN": "Tonj North",
         "ADM2_PCODE": "SS0804",
         "ADM3_EN": "Warrap",
-        "ADM3_PCODE": "SS080410"
+        "ADM3_PCODE": "SS080410",
+        "POPULATION": 10378
       }
     },
     {
@@ -282252,7 +282689,8 @@
         "ADM2_EN": "Tonj South",
         "ADM2_PCODE": "SS0805",
         "ADM3_EN": "Jak",
-        "ADM3_PCODE": "SS080501"
+        "ADM3_PCODE": "SS080501",
+        "POPULATION": 15147
       }
     },
     {
@@ -282424,7 +282862,8 @@
         "ADM2_EN": "Tonj South",
         "ADM2_PCODE": "SS0805",
         "ADM3_EN": "Manyang-ngok",
-        "ADM3_PCODE": "SS080502"
+        "ADM3_PCODE": "SS080502",
+        "POPULATION": 15457
       }
     },
     {
@@ -282716,7 +283155,8 @@
         "ADM2_EN": "Tonj South",
         "ADM2_PCODE": "SS0805",
         "ADM3_EN": "Thiet",
-        "ADM3_PCODE": "SS080503"
+        "ADM3_PCODE": "SS080503",
+        "POPULATION": 24665
       }
     },
     {
@@ -282956,7 +283396,8 @@
         "ADM2_EN": "Tonj South",
         "ADM2_PCODE": "SS0805",
         "ADM3_EN": "Tonj",
-        "ADM3_PCODE": "SS080504"
+        "ADM3_PCODE": "SS080504",
+        "POPULATION": 41914
       }
     },
     {
@@ -283264,7 +283705,8 @@
         "ADM2_EN": "Tonj South",
         "ADM2_PCODE": "SS0805",
         "ADM3_EN": "Wath-alel",
-        "ADM3_PCODE": "SS080505"
+        "ADM3_PCODE": "SS080505",
+        "POPULATION": 22738
       }
     },
     {
@@ -283492,7 +283934,8 @@
         "ADM2_EN": "Twic",
         "ADM2_PCODE": "SS0806",
         "ADM3_EN": "Ajak-kuac",
-        "ADM3_PCODE": "SS080601"
+        "ADM3_PCODE": "SS080601",
+        "POPULATION": 19079
       }
     },
     {
@@ -284148,7 +284591,8 @@
         "ADM2_EN": "Twic",
         "ADM2_PCODE": "SS0806",
         "ADM3_EN": "Akoc",
-        "ADM3_PCODE": "SS080602"
+        "ADM3_PCODE": "SS080602",
+        "POPULATION": 29605
       }
     },
     {
@@ -284364,7 +284808,8 @@
         "ADM2_EN": "Twic",
         "ADM2_PCODE": "SS0806",
         "ADM3_EN": "Aweeng",
-        "ADM3_PCODE": "SS080603"
+        "ADM3_PCODE": "SS080603",
+        "POPULATION": 29685
       }
     },
     {
@@ -286036,7 +286481,8 @@
         "ADM2_EN": "Twic",
         "ADM2_PCODE": "SS0806",
         "ADM3_EN": "Pannyok",
-        "ADM3_PCODE": "SS080604"
+        "ADM3_PCODE": "SS080604",
+        "POPULATION": 57427
       }
     },
     {
@@ -286816,7 +287262,8 @@
         "ADM2_EN": "Twic",
         "ADM2_PCODE": "SS0806",
         "ADM3_EN": "Turalei",
-        "ADM3_PCODE": "SS080605"
+        "ADM3_PCODE": "SS080605",
+        "POPULATION": 59368
       }
     },
     {
@@ -288384,7 +288831,8 @@
         "ADM2_EN": "Twic",
         "ADM2_PCODE": "SS0806",
         "ADM3_EN": "Wunrok",
-        "ADM3_PCODE": "SS080606"
+        "ADM3_PCODE": "SS080606",
+        "POPULATION": 76738
       }
     },
     {
@@ -289192,7 +289640,8 @@
         "ADM2_EN": "Abyei Region",
         "ADM2_PCODE": "SS0807",
         "ADM3_EN": "Abyei Region",
-        "ADM3_PCODE": "SS080701"
+        "ADM3_PCODE": "SS080701",
+        "POPULATION": 31
       }
     },
     {
@@ -289532,7 +289981,8 @@
         "ADM2_EN": "Jur River",
         "ADM2_PCODE": "SS0901",
         "ADM3_EN": "Kangi",
-        "ADM3_PCODE": "SS090101"
+        "ADM3_PCODE": "SS090101",
+        "POPULATION": 57133
       }
     },
     {
@@ -290056,7 +290506,8 @@
         "ADM2_EN": "Jur River",
         "ADM2_PCODE": "SS0901",
         "ADM3_EN": "Kuajiena",
-        "ADM3_PCODE": "SS090102"
+        "ADM3_PCODE": "SS090102",
+        "POPULATION": 45445
       }
     },
     {
@@ -290708,7 +291159,8 @@
         "ADM2_EN": "Jur River",
         "ADM2_PCODE": "SS0901",
         "ADM3_EN": "Marial Bai",
-        "ADM3_PCODE": "SS090103"
+        "ADM3_PCODE": "SS090103",
+        "POPULATION": 79250
       }
     },
     {
@@ -291396,7 +291848,8 @@
         "ADM2_EN": "Jur River",
         "ADM2_PCODE": "SS0901",
         "ADM3_EN": "Rocrocdong",
-        "ADM3_PCODE": "SS090104"
+        "ADM3_PCODE": "SS090104",
+        "POPULATION": 28850
       }
     },
     {
@@ -291956,7 +292409,8 @@
         "ADM2_EN": "Jur River",
         "ADM2_PCODE": "SS0901",
         "ADM3_EN": "Udici",
-        "ADM3_PCODE": "SS090105"
+        "ADM3_PCODE": "SS090105",
+        "POPULATION": 42438
       }
     },
     {
@@ -292264,7 +292718,8 @@
         "ADM2_EN": "Jur River",
         "ADM2_PCODE": "SS0901",
         "ADM3_EN": "Wau Bai",
-        "ADM3_PCODE": "SS090106"
+        "ADM3_PCODE": "SS090106",
+        "POPULATION": 29848
       }
     },
     {
@@ -305528,7 +305983,8 @@
         "ADM2_EN": "Raja",
         "ADM2_PCODE": "SS0902",
         "ADM3_EN": "Ere",
-        "ADM3_PCODE": "SS090201"
+        "ADM3_PCODE": "SS090201",
+        "POPULATION": 8162
       }
     },
     {
@@ -305848,7 +306304,8 @@
         "ADM2_EN": "Raja",
         "ADM2_PCODE": "SS0902",
         "ADM3_EN": "Raga",
-        "ADM3_PCODE": "SS090202"
+        "ADM3_PCODE": "SS090202",
+        "POPULATION": 38072
       }
     },
     {
@@ -309064,7 +309521,8 @@
         "ADM2_EN": "Raja",
         "ADM2_PCODE": "SS0902",
         "ADM3_EN": "Ringi",
-        "ADM3_PCODE": "SS090203"
+        "ADM3_PCODE": "SS090203",
+        "POPULATION": 6745
       }
     },
     {
@@ -312320,7 +312778,8 @@
         "ADM2_EN": "Raja",
         "ADM2_PCODE": "SS0902",
         "ADM3_EN": "Uyujuku",
-        "ADM3_PCODE": "SS090204"
+        "ADM3_PCODE": "SS090204",
+        "POPULATION": 6800
       }
     },
     {
@@ -313544,7 +314003,8 @@
         "ADM2_EN": "Wau",
         "ADM2_PCODE": "SS0903",
         "ADM3_EN": "Bagari",
-        "ADM3_PCODE": "SS090301"
+        "ADM3_PCODE": "SS090301",
+        "POPULATION": 30678
       }
     },
     {
@@ -314080,7 +314540,8 @@
         "ADM2_EN": "Wau",
         "ADM2_PCODE": "SS0903",
         "ADM3_EN": "Besselia",
-        "ADM3_PCODE": "SS090302"
+        "ADM3_PCODE": "SS090302",
+        "POPULATION": 15267
       }
     },
     {
@@ -314776,7 +315237,8 @@
         "ADM2_EN": "Wau",
         "ADM2_PCODE": "SS0903",
         "ADM3_EN": "Kpaile",
-        "ADM3_PCODE": "SS090303"
+        "ADM3_PCODE": "SS090303",
+        "POPULATION": 3375
       }
     },
     {
@@ -315128,7 +315590,8 @@
         "ADM2_EN": "Wau",
         "ADM2_PCODE": "SS0903",
         "ADM3_EN": "Wau North",
-        "ADM3_PCODE": "SS090304"
+        "ADM3_PCODE": "SS090304",
+        "POPULATION": 139287
       }
     },
     {
@@ -315628,7 +316091,8 @@
         "ADM2_EN": "Wau",
         "ADM2_PCODE": "SS0903",
         "ADM3_EN": "Wau South",
-        "ADM3_PCODE": "SS090305"
+        "ADM3_PCODE": "SS090305",
+        "POPULATION": 131410
       }
     },
     {
@@ -315924,7 +316388,8 @@
         "ADM2_EN": "Ezo",
         "ADM2_PCODE": "SS1001",
         "ADM3_EN": "Andari",
-        "ADM3_PCODE": "SS100101"
+        "ADM3_PCODE": "SS100101",
+        "POPULATION": 10447
       }
     },
     {
@@ -316256,7 +316721,8 @@
         "ADM2_EN": "Ezo",
         "ADM2_PCODE": "SS1001",
         "ADM3_EN": "Bagidi",
-        "ADM3_PCODE": "SS100102"
+        "ADM3_PCODE": "SS100102",
+        "POPULATION": 5045
       }
     },
     {
@@ -316628,7 +317094,8 @@
         "ADM2_EN": "Ezo",
         "ADM2_PCODE": "SS1001",
         "ADM3_EN": "Bariguna",
-        "ADM3_PCODE": "SS100103"
+        "ADM3_PCODE": "SS100103",
+        "POPULATION": 3306
       }
     },
     {
@@ -317172,7 +317639,8 @@
         "ADM2_EN": "Ezo",
         "ADM2_PCODE": "SS1001",
         "ADM3_EN": "Ezo Centre",
-        "ADM3_PCODE": "SS100104"
+        "ADM3_PCODE": "SS100104",
+        "POPULATION": 68202
       }
     },
     {
@@ -317724,7 +318192,8 @@
         "ADM2_EN": "Ezo",
         "ADM2_PCODE": "SS1001",
         "ADM3_EN": "Naandi",
-        "ADM3_PCODE": "SS100105"
+        "ADM3_PCODE": "SS100105",
+        "POPULATION": 21618
       }
     },
     {
@@ -318740,7 +319209,8 @@
         "ADM2_EN": "Ezo",
         "ADM2_PCODE": "SS1001",
         "ADM3_EN": "Yangiri",
-        "ADM3_PCODE": "SS100106"
+        "ADM3_PCODE": "SS100106",
+        "POPULATION": 22051
       }
     },
     {
@@ -319380,7 +319850,8 @@
         "ADM2_EN": "Ibba",
         "ADM2_PCODE": "SS1002",
         "ADM3_EN": "Ibba Centre",
-        "ADM3_PCODE": "SS100201"
+        "ADM3_PCODE": "SS100201",
+        "POPULATION": 31355
       }
     },
     {
@@ -319856,7 +320327,8 @@
         "ADM2_EN": "Ibba",
         "ADM2_PCODE": "SS1002",
         "ADM3_EN": "Madebe",
-        "ADM3_PCODE": "SS100202"
+        "ADM3_PCODE": "SS100202",
+        "POPULATION": 20423
       }
     },
     {
@@ -322648,7 +323120,8 @@
         "ADM2_EN": "Ibba",
         "ADM2_PCODE": "SS1002",
         "ADM3_EN": "Manikakara",
-        "ADM3_PCODE": "SS100203"
+        "ADM3_PCODE": "SS100203",
+        "POPULATION": 11182
       }
     },
     {
@@ -324888,7 +325361,8 @@
         "ADM2_EN": "Ibba",
         "ADM2_PCODE": "SS1002",
         "ADM3_EN": "Maruko",
-        "ADM3_PCODE": "SS100204"
+        "ADM3_PCODE": "SS100204",
+        "POPULATION": 953
       }
     },
     {
@@ -326024,7 +326498,8 @@
         "ADM2_EN": "Ibba",
         "ADM2_PCODE": "SS1002",
         "ADM3_EN": "Nabanga",
-        "ADM3_PCODE": "SS100205"
+        "ADM3_PCODE": "SS100205",
+        "POPULATION": 4574
       }
     },
     {
@@ -326964,7 +327439,8 @@
         "ADM2_EN": "Maridi",
         "ADM2_PCODE": "SS1003",
         "ADM3_EN": "Kozi",
-        "ADM3_PCODE": "SS100301"
+        "ADM3_PCODE": "SS100301",
+        "POPULATION": 3618
       }
     },
     {
@@ -327748,7 +328224,8 @@
         "ADM2_EN": "Maridi",
         "ADM2_PCODE": "SS1003",
         "ADM3_EN": "Landili",
-        "ADM3_PCODE": "SS100302"
+        "ADM3_PCODE": "SS100302",
+        "POPULATION": 2113
       }
     },
     {
@@ -328396,7 +328873,8 @@
         "ADM2_EN": "Maridi",
         "ADM2_PCODE": "SS1003",
         "ADM3_EN": "Mambe",
-        "ADM3_PCODE": "SS100303"
+        "ADM3_PCODE": "SS100303",
+        "POPULATION": 13246
       }
     },
     {
@@ -329168,7 +329646,8 @@
         "ADM2_EN": "Maridi",
         "ADM2_PCODE": "SS1003",
         "ADM3_EN": "Maridi",
-        "ADM3_PCODE": "SS100304"
+        "ADM3_PCODE": "SS100304",
+        "POPULATION": 87092
       }
     },
     {
@@ -330544,7 +331023,8 @@
         "ADM2_EN": "Maridi",
         "ADM2_PCODE": "SS1003",
         "ADM3_EN": "Ngamunde",
-        "ADM3_PCODE": "SS100305"
+        "ADM3_PCODE": "SS100305",
+        "POPULATION": 5022
       }
     },
     {
@@ -330836,7 +331316,8 @@
         "ADM2_EN": "Mundri East",
         "ADM2_PCODE": "SS1004",
         "ADM3_EN": "Kediba",
-        "ADM3_PCODE": "SS100401"
+        "ADM3_PCODE": "SS100401",
+        "POPULATION": 21659
       }
     },
     {
@@ -331000,7 +331481,8 @@
         "ADM2_EN": "Mundri East",
         "ADM2_PCODE": "SS1004",
         "ADM3_EN": "Lakamadi",
-        "ADM3_PCODE": "SS100402"
+        "ADM3_PCODE": "SS100402",
+        "POPULATION": 8629
       }
     },
     {
@@ -331300,7 +331782,8 @@
         "ADM2_EN": "Mundri East",
         "ADM2_PCODE": "SS1004",
         "ADM3_EN": "Lozoh",
-        "ADM3_PCODE": "SS100403"
+        "ADM3_PCODE": "SS100403",
+        "POPULATION": 37448
       }
     },
     {
@@ -331532,7 +332015,8 @@
         "ADM2_EN": "Mundri East",
         "ADM2_PCODE": "SS1004",
         "ADM3_EN": "Minga",
-        "ADM3_PCODE": "SS100404"
+        "ADM3_PCODE": "SS100404",
+        "POPULATION": 8440
       }
     },
     {
@@ -331800,7 +332284,8 @@
         "ADM2_EN": "Mundri East",
         "ADM2_PCODE": "SS1004",
         "ADM3_EN": "Witto",
-        "ADM3_PCODE": "SS100405"
+        "ADM3_PCODE": "SS100405",
+        "POPULATION": 24762
       }
     },
     {
@@ -332080,7 +332565,8 @@
         "ADM2_EN": "Mundri West",
         "ADM2_PCODE": "SS1005",
         "ADM3_EN": "Amadi",
-        "ADM3_PCODE": "SS100501"
+        "ADM3_PCODE": "SS100501",
+        "POPULATION": 6244
       }
     },
     {
@@ -332636,7 +333122,8 @@
         "ADM2_EN": "Mundri West",
         "ADM2_PCODE": "SS1005",
         "ADM3_EN": "Bangolo",
-        "ADM3_PCODE": "SS100502"
+        "ADM3_PCODE": "SS100502",
+        "POPULATION": 2515
       }
     },
     {
@@ -333412,7 +333899,8 @@
         "ADM2_EN": "Mundri West",
         "ADM2_PCODE": "SS1005",
         "ADM3_EN": "Kotobi",
-        "ADM3_PCODE": "SS100503"
+        "ADM3_PCODE": "SS100503",
+        "POPULATION": 11333
       }
     },
     {
@@ -333996,7 +334484,8 @@
         "ADM2_EN": "Mundri West",
         "ADM2_PCODE": "SS1005",
         "ADM3_EN": "Mundri",
-        "ADM3_PCODE": "SS100504"
+        "ADM3_PCODE": "SS100504",
+        "POPULATION": 30342
       }
     },
     {
@@ -334184,7 +334673,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Bagori",
-        "ADM3_PCODE": "SS100601"
+        "ADM3_PCODE": "SS100601",
+        "POPULATION": 5061
       }
     },
     {
@@ -334752,7 +335242,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Bahr El Grindi",
-        "ADM3_PCODE": "SS100602"
+        "ADM3_PCODE": "SS100602",
+        "POPULATION": 11525
       }
     },
     {
@@ -335004,7 +335495,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Dari",
-        "ADM3_PCODE": "SS100603"
+        "ADM3_PCODE": "SS100603",
+        "POPULATION": 1832
       }
     },
     {
@@ -335552,7 +336044,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Kokori",
-        "ADM3_PCODE": "SS100604"
+        "ADM3_PCODE": "SS100604",
+        "POPULATION": 21260
       }
     },
     {
@@ -336004,7 +336497,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Lessi",
-        "ADM3_PCODE": "SS100605"
+        "ADM3_PCODE": "SS100605",
+        "POPULATION": 879
       }
     },
     {
@@ -336572,7 +337066,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Mvolo",
-        "ADM3_PCODE": "SS100606"
+        "ADM3_PCODE": "SS100606",
+        "POPULATION": 24308
       }
     },
     {
@@ -337148,7 +337643,8 @@
         "ADM2_EN": "Mvolo",
         "ADM2_PCODE": "SS1006",
         "ADM3_EN": "Yeri",
-        "ADM3_PCODE": "SS100607"
+        "ADM3_PCODE": "SS100607",
+        "POPULATION": 9579
       }
     },
     {
@@ -337340,7 +337836,8 @@
         "ADM2_EN": "Nagero",
         "ADM2_PCODE": "SS1007",
         "ADM3_EN": "Nagero",
-        "ADM3_PCODE": "SS100701"
+        "ADM3_PCODE": "SS100701",
+        "POPULATION": 4867
       }
     },
     {
@@ -337864,7 +338361,8 @@
         "ADM2_EN": "Nzara",
         "ADM2_PCODE": "SS1008",
         "ADM3_EN": "Basukangbi",
-        "ADM3_PCODE": "SS100801"
+        "ADM3_PCODE": "SS100801",
+        "POPULATION": 3073
       }
     },
     {
@@ -338072,7 +338570,8 @@
         "ADM2_EN": "Nzara",
         "ADM2_PCODE": "SS1008",
         "ADM3_EN": "Nzara Centre",
-        "ADM3_PCODE": "SS100802"
+        "ADM3_PCODE": "SS100802",
+        "POPULATION": 55606
       }
     },
     {
@@ -338684,7 +339183,8 @@
         "ADM2_EN": "Nzara",
         "ADM2_PCODE": "SS1008",
         "ADM3_EN": "Ringasi",
-        "ADM3_PCODE": "SS100803"
+        "ADM3_PCODE": "SS100803",
+        "POPULATION": 1936
       }
     },
     {
@@ -339612,7 +340112,8 @@
         "ADM2_EN": "Nzara",
         "ADM2_PCODE": "SS1008",
         "ADM3_EN": "Sakure",
-        "ADM3_PCODE": "SS100804"
+        "ADM3_PCODE": "SS100804",
+        "POPULATION": 12569
       }
     },
     {
@@ -340052,7 +340553,8 @@
         "ADM2_EN": "Nzara",
         "ADM2_PCODE": "SS1008",
         "ADM3_EN": "Sangua",
-        "ADM3_PCODE": "SS100805"
+        "ADM3_PCODE": "SS100805",
+        "POPULATION": 9614
       }
     },
     {
@@ -340416,7 +340918,8 @@
         "ADM2_EN": "Tambura",
         "ADM2_PCODE": "SS1009",
         "ADM3_EN": "Mupoi",
-        "ADM3_PCODE": "SS100901"
+        "ADM3_PCODE": "SS100901",
+        "POPULATION": 14456
       }
     },
     {
@@ -343712,7 +344215,8 @@
         "ADM2_EN": "Tambura",
         "ADM2_PCODE": "SS1009",
         "ADM3_EN": "Namutina",
-        "ADM3_PCODE": "SS100902"
+        "ADM3_PCODE": "SS100902",
+        "POPULATION": 36526
       }
     },
     {
@@ -344132,7 +344636,8 @@
         "ADM2_EN": "Tambura",
         "ADM2_PCODE": "SS1009",
         "ADM3_EN": "Source Yubu",
-        "ADM3_PCODE": "SS100903"
+        "ADM3_PCODE": "SS100903",
+        "POPULATION": 20438
       }
     },
     {
@@ -344700,7 +345205,8 @@
         "ADM2_EN": "Tambura",
         "ADM2_PCODE": "SS1009",
         "ADM3_EN": "Tambura",
-        "ADM3_PCODE": "SS100904"
+        "ADM3_PCODE": "SS100904",
+        "POPULATION": 83993
       }
     },
     {
@@ -347116,7 +347622,8 @@
         "ADM2_EN": "Yambio",
         "ADM2_PCODE": "SS1010",
         "ADM3_EN": "Bangasu",
-        "ADM3_PCODE": "SS101001"
+        "ADM3_PCODE": "SS101001",
+        "POPULATION": 14231
       }
     },
     {
@@ -347948,7 +348455,8 @@
         "ADM2_EN": "Yambio",
         "ADM2_PCODE": "SS1010",
         "ADM3_EN": "Gangura",
-        "ADM3_PCODE": "SS101002"
+        "ADM3_PCODE": "SS101002",
+        "POPULATION": 16241
       }
     },
     {
@@ -348308,7 +348816,8 @@
         "ADM2_EN": "Yambio",
         "ADM2_PCODE": "SS1010",
         "ADM3_EN": "Nadiangere",
-        "ADM3_PCODE": "SS101003"
+        "ADM3_PCODE": "SS101003",
+        "POPULATION": 453
       }
     },
     {
@@ -349720,7 +350229,8 @@
         "ADM2_EN": "Yambio",
         "ADM2_PCODE": "SS1010",
         "ADM3_EN": "Ri-rangu",
-        "ADM3_PCODE": "SS101004"
+        "ADM3_PCODE": "SS101004",
+        "POPULATION": 3723
       }
     },
     {
@@ -350220,7 +350730,8 @@
         "ADM2_EN": "Yambio",
         "ADM2_PCODE": "SS1010",
         "ADM3_EN": "Yambio Town",
-        "ADM3_PCODE": "SS101005"
+        "ADM3_PCODE": "SS101005",
+        "POPULATION": 137093
       }
     }
   ]

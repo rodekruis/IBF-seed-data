@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -63,13 +63,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Qiloane",
-        "ADM2_PCODE": "LSA01"
+        "ADM2_PCODE": "LSA01",
+        "POPULATION": 22898
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -144,13 +145,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Ratau",
-        "ADM2_PCODE": "LSA02"
+        "ADM2_PCODE": "LSA02",
+        "POPULATION": 30440
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -369,13 +371,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Likolobeng",
-        "ADM2_PCODE": "LSA03"
+        "ADM2_PCODE": "LSA03",
+        "POPULATION": 26386
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -434,13 +437,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Manonyane",
-        "ADM2_PCODE": "LSA04"
+        "ADM2_PCODE": "LSA04",
+        "POPULATION": 32473
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -527,13 +531,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Mohlakeng",
-        "ADM2_PCODE": "LSA05"
+        "ADM2_PCODE": "LSA05",
+        "POPULATION": 45082
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -608,13 +613,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Thota-ea-Moli",
-        "ADM2_PCODE": "LSA06"
+        "ADM2_PCODE": "LSA06",
+        "POPULATION": 36372
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -721,13 +727,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Lilala",
-        "ADM2_PCODE": "LSA07"
+        "ADM2_PCODE": "LSA07",
+        "POPULATION": 32751
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -826,13 +833,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Makhoarane",
-        "ADM2_PCODE": "LSA08"
+        "ADM2_PCODE": "LSA08",
+        "POPULATION": 40606
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1003,13 +1011,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Kubake",
-        "ADM2_PCODE": "LSA09"
+        "ADM2_PCODE": "LSA09",
+        "POPULATION": 23417
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1180,13 +1189,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Makhoalipana",
-        "ADM2_PCODE": "LSA10"
+        "ADM2_PCODE": "LSA10",
+        "POPULATION": 15191
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1233,13 +1243,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Semonkong",
-        "ADM2_PCODE": "LSA11"
+        "ADM2_PCODE": "LSA11",
+        "POPULATION": 8063
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1334,13 +1345,14 @@
         "ADM1_EN": "Maseru",
         "ADM1_PCODE": "LSA",
         "ADM2_EN": "Maseru (Maseru District)",
-        "ADM2_PCODE": "LSA12"
+        "ADM2_PCODE": "LSA12",
+        "POPULATION": 303172
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1419,13 +1431,14 @@
         "ADM1_EN": "Butha-Buthe",
         "ADM1_PCODE": "LSB",
         "ADM2_EN": "Ngoajane",
-        "ADM2_PCODE": "LSB01"
+        "ADM2_PCODE": "LSB01",
+        "POPULATION": 20679
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1512,13 +1525,14 @@
         "ADM1_EN": "Butha-Buthe",
         "ADM1_PCODE": "LSB",
         "ADM2_EN": "Likila",
-        "ADM2_PCODE": "LSB02"
+        "ADM2_PCODE": "LSB02",
+        "POPULATION": 26745
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1661,13 +1675,14 @@
         "ADM1_EN": "Butha-Buthe",
         "ADM1_PCODE": "LSB",
         "ADM2_EN": "Nqoe",
-        "ADM2_PCODE": "LSB03"
+        "ADM2_PCODE": "LSB03",
+        "POPULATION": 23015
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1726,13 +1741,14 @@
         "ADM1_EN": "Butha-Buthe",
         "ADM1_PCODE": "LSB",
         "ADM2_EN": "Tsa-le-Moleka",
-        "ADM2_PCODE": "LSB04"
+        "ADM2_PCODE": "LSB04",
+        "POPULATION": 22106
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1791,13 +1807,14 @@
         "ADM1_EN": "Butha-Buthe",
         "ADM1_PCODE": "LSB",
         "ADM2_EN": "Butha-Buthe (Butha-Buthe District)",
-        "ADM2_PCODE": "LSB05"
+        "ADM2_PCODE": "LSB05",
+        "POPULATION": 47181
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2008,13 +2025,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Matsoku",
-        "ADM2_PCODE": "LSC01"
+        "ADM2_PCODE": "LSC01",
+        "POPULATION": 25760
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2093,13 +2111,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Bolahla",
-        "ADM2_PCODE": "LSC02"
+        "ADM2_PCODE": "LSC02",
+        "POPULATION": 18018
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2170,13 +2189,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Ramapepe",
-        "ADM2_PCODE": "LSC03"
+        "ADM2_PCODE": "LSC03",
+        "POPULATION": 22581
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2243,13 +2263,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "'Maoa-Mafubelu",
-        "ADM2_PCODE": "LSC04"
+        "ADM2_PCODE": "LSC04",
+        "POPULATION": 36886
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2328,13 +2349,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Menkhoaneng",
-        "ADM2_PCODE": "LSC05"
+        "ADM2_PCODE": "LSC05",
+        "POPULATION": 23534
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2409,13 +2431,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Maisa-Phoka",
-        "ADM2_PCODE": "LSC06"
+        "ADM2_PCODE": "LSC06",
+        "POPULATION": 15197
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2482,13 +2505,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Sephokong",
-        "ADM2_PCODE": "LSC07"
+        "ADM2_PCODE": "LSC07",
+        "POPULATION": 32062
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2543,13 +2567,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Litjotjela",
-        "ADM2_PCODE": "LSC08"
+        "ADM2_PCODE": "LSC08",
+        "POPULATION": 17084
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2612,13 +2637,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Hleoheng",
-        "ADM2_PCODE": "LSC09"
+        "ADM2_PCODE": "LSC09",
+        "POPULATION": 15265
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2701,13 +2727,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Manka",
-        "ADM2_PCODE": "LSC10"
+        "ADM2_PCODE": "LSC10",
+        "POPULATION": 32385
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2810,13 +2837,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Tsuili-Tsuili",
-        "ADM2_PCODE": "LSC11"
+        "ADM2_PCODE": "LSC11",
+        "POPULATION": 26289
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2875,13 +2903,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Maputsoe",
-        "ADM2_PCODE": "LSC12"
+        "ADM2_PCODE": "LSC12",
+        "POPULATION": 53729
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2960,13 +2989,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Leribe",
-        "ADM2_PCODE": "LSC13"
+        "ADM2_PCODE": "LSC13",
+        "POPULATION": 60820
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3033,13 +3063,14 @@
         "ADM1_EN": "Leribe",
         "ADM1_PCODE": "LSC",
         "ADM2_EN": "Butha-Buthe (Leribe District)",
-        "ADM2_PCODE": "LSC14"
+        "ADM2_PCODE": "LSC14",
+        "POPULATION": 15665
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3174,13 +3205,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Makeoana",
-        "ADM2_PCODE": "LSD01"
+        "ADM2_PCODE": "LSD01",
+        "POPULATION": 19878
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3239,13 +3271,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Mapoteng",
-        "ADM2_PCODE": "LSD02"
+        "ADM2_PCODE": "LSD02",
+        "POPULATION": 25044
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3312,13 +3345,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Kueneng",
-        "ADM2_PCODE": "LSD03"
+        "ADM2_PCODE": "LSD03",
+        "POPULATION": 28589
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3397,13 +3431,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Tebe-Tebe",
-        "ADM2_PCODE": "LSD04"
+        "ADM2_PCODE": "LSD04",
+        "POPULATION": 19025
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3494,13 +3529,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Phuthiatsana",
-        "ADM2_PCODE": "LSD05"
+        "ADM2_PCODE": "LSD05",
+        "POPULATION": 27758
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3583,13 +3619,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Motanasela",
-        "ADM2_PCODE": "LSD06"
+        "ADM2_PCODE": "LSD06",
+        "POPULATION": 19440
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3704,13 +3741,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Senekane",
-        "ADM2_PCODE": "LSD07"
+        "ADM2_PCODE": "LSD07",
+        "POPULATION": 35391
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3809,13 +3847,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Kanana",
-        "ADM2_PCODE": "LSD08"
+        "ADM2_PCODE": "LSD08",
+        "POPULATION": 23008
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3870,13 +3909,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Maseru (Berea Distict)",
-        "ADM2_PCODE": "LSD09"
+        "ADM2_PCODE": "LSD09",
+        "POPULATION": 68005
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3931,13 +3971,14 @@
         "ADM1_EN": "Berea",
         "ADM1_PCODE": "LSD",
         "ADM2_EN": "Tayateyaneng",
-        "ADM2_PCODE": "LSD10"
+        "ADM2_PCODE": "LSD10",
+        "POPULATION": 37891
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4052,13 +4093,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Metsi-Maholo",
-        "ADM2_PCODE": "LSE01"
+        "ADM2_PCODE": "LSE01",
+        "POPULATION": 21015
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4165,13 +4207,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Mamants'o",
-        "ADM2_PCODE": "LSE02"
+        "ADM2_PCODE": "LSE02",
+        "POPULATION": 26154
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4282,13 +4325,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Ramoetsana",
-        "ADM2_PCODE": "LSE03"
+        "ADM2_PCODE": "LSE03",
+        "POPULATION": 24369
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4463,13 +4507,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Lehlakaneng",
-        "ADM2_PCODE": "LSE04"
+        "ADM2_PCODE": "LSE04",
+        "POPULATION": 21666
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4556,13 +4601,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Makoabating",
-        "ADM2_PCODE": "LSE05"
+        "ADM2_PCODE": "LSE05",
+        "POPULATION": 20218
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4653,13 +4699,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Tsana-Talana",
-        "ADM2_PCODE": "LSE06"
+        "ADM2_PCODE": "LSE06",
+        "POPULATION": 23369
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4742,13 +4789,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Qibing",
-        "ADM2_PCODE": "LSE07"
+        "ADM2_PCODE": "LSE07",
+        "POPULATION": 21549
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4799,13 +4847,14 @@
         "ADM1_EN": "Mafeteng",
         "ADM1_PCODE": "LSE",
         "ADM2_EN": "Mafeteng",
-        "ADM2_PCODE": "LSE08"
+        "ADM2_PCODE": "LSE08",
+        "POPULATION": 50917
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4896,13 +4945,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Siloe",
-        "ADM2_PCODE": "LSF01"
+        "ADM2_PCODE": "LSF01",
+        "POPULATION": 31930
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4969,13 +5019,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Mashaleng",
-        "ADM2_PCODE": "LSF02"
+        "ADM2_PCODE": "LSF02",
+        "POPULATION": 7919
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5098,13 +5149,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Khoelenya",
-        "ADM2_PCODE": "LSF03"
+        "ADM2_PCODE": "LSF03",
+        "POPULATION": 28318
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5275,13 +5327,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Lithipeng",
-        "ADM2_PCODE": "LSF04"
+        "ADM2_PCODE": "LSF04",
+        "POPULATION": 18218
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5380,13 +5433,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Thaba-Mokhele",
-        "ADM2_PCODE": "LSF05"
+        "ADM2_PCODE": "LSF05",
+        "POPULATION": 16846
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5561,13 +5615,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Qhoasing",
-        "ADM2_PCODE": "LSF06"
+        "ADM2_PCODE": "LSF06",
+        "POPULATION": 20662
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5750,13 +5805,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Senqunyane",
-        "ADM2_PCODE": "LSF07"
+        "ADM2_PCODE": "LSF07",
+        "POPULATION": 17323
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5827,13 +5883,14 @@
         "ADM1_EN": "Mohale's Hoek",
         "ADM1_PCODE": "LSF",
         "ADM2_EN": "Mohale's Hoek",
-        "ADM2_PCODE": "LSF08"
+        "ADM2_PCODE": "LSF08",
+        "POPULATION": 53469
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5924,13 +5981,14 @@
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
         "ADM2_EN": "Mjanyane",
-        "ADM2_PCODE": "LSG01"
+        "ADM2_PCODE": "LSG01",
+        "POPULATION": 15634
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5981,13 +6039,14 @@
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
         "ADM2_EN": "Qomoqomong",
-        "ADM2_PCODE": "LSG02"
+        "ADM2_PCODE": "LSG02",
+        "POPULATION": 7287
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6166,13 +6225,14 @@
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
         "ADM2_EN": "Tosing",
-        "ADM2_PCODE": "LSG03"
+        "ADM2_PCODE": "LSG03",
+        "POPULATION": 25957
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6375,13 +6435,14 @@
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
         "ADM2_EN": "Telle",
-        "ADM2_PCODE": "LSG04"
+        "ADM2_PCODE": "LSG04",
+        "POPULATION": 28626
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6508,13 +6569,14 @@
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
         "ADM2_EN": "Mphaki",
-        "ADM2_PCODE": "LSG05"
+        "ADM2_PCODE": "LSG05",
+        "POPULATION": 16530
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6577,13 +6639,14 @@
         "ADM1_EN": "Quthing",
         "ADM1_PCODE": "LSG",
         "ADM2_EN": "Quthing",
-        "ADM2_PCODE": "LSG06"
+        "ADM2_PCODE": "LSG06",
+        "POPULATION": 43016
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6698,13 +6761,14 @@
         "ADM1_EN": "Qacha's Nek",
         "ADM1_PCODE": "LSH",
         "ADM2_EN": "Qanya",
-        "ADM2_PCODE": "LSH01"
+        "ADM2_PCODE": "LSH01",
+        "POPULATION": 19219
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6959,13 +7023,14 @@
         "ADM1_EN": "Qacha's Nek",
         "ADM1_PCODE": "LSH",
         "ADM2_EN": "Ntsupe",
-        "ADM2_PCODE": "LSH02"
+        "ADM2_PCODE": "LSH02",
+        "POPULATION": 20060
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7208,13 +7273,14 @@
         "ADM1_EN": "Qacha's Nek",
         "ADM1_PCODE": "LSH",
         "ADM2_EN": "Tsoelikana",
-        "ADM2_PCODE": "LSH03"
+        "ADM2_PCODE": "LSH03",
+        "POPULATION": 22140
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7261,13 +7327,14 @@
         "ADM1_EN": "Qacha's Nek",
         "ADM1_PCODE": "LSH",
         "ADM2_EN": "Qacha's Nek",
-        "ADM2_PCODE": "LSH04"
+        "ADM2_PCODE": "LSH04",
+        "POPULATION": 26478
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7518,13 +7585,14 @@
         "ADM1_EN": "Mokhotlong",
         "ADM1_PCODE": "LSJ",
         "ADM2_EN": "Seate",
-        "ADM2_PCODE": "LSJ01"
+        "ADM2_PCODE": "LSJ01",
+        "POPULATION": 33778
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7843,13 +7911,14 @@
         "ADM1_EN": "Mokhotlong",
         "ADM1_PCODE": "LSJ",
         "ADM2_EN": "Mphokojoana",
-        "ADM2_PCODE": "LSJ02"
+        "ADM2_PCODE": "LSJ02",
+        "POPULATION": 28454
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7960,13 +8029,14 @@
         "ADM1_EN": "Mokhotlong",
         "ADM1_PCODE": "LSJ",
         "ADM2_EN": "Sanqebethu",
-        "ADM2_PCODE": "LSJ03"
+        "ADM2_PCODE": "LSJ03",
+        "POPULATION": 12076
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8173,13 +8243,14 @@
         "ADM1_EN": "Mokhotlong",
         "ADM1_PCODE": "LSJ",
         "ADM2_EN": "Menoaneng",
-        "ADM2_PCODE": "LSJ04"
+        "ADM2_PCODE": "LSJ04",
+        "POPULATION": 24255
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8254,13 +8325,14 @@
         "ADM1_EN": "Mokhotlong",
         "ADM1_PCODE": "LSJ",
         "ADM2_EN": "Mokhotlong",
-        "ADM2_PCODE": "LSJ05"
+        "ADM2_PCODE": "LSJ05",
+        "POPULATION": 22058
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8487,13 +8559,14 @@
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
         "ADM2_EN": "Tenesolo",
-        "ADM2_PCODE": "LSK01"
+        "ADM2_PCODE": "LSK01",
+        "POPULATION": 31722
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8660,13 +8733,14 @@
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
         "ADM2_EN": "Khutlo-se-Metsi",
-        "ADM2_PCODE": "LSK02"
+        "ADM2_PCODE": "LSK02",
+        "POPULATION": 26367
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8837,13 +8911,14 @@
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
         "ADM2_EN": "Litsoetse",
-        "ADM2_PCODE": "LSK03"
+        "ADM2_PCODE": "LSK03",
+        "POPULATION": 14646
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9038,13 +9113,14 @@
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
         "ADM2_EN": "Bokong",
-        "ADM2_PCODE": "LSK04"
+        "ADM2_PCODE": "LSK04",
+        "POPULATION": 34452
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9251,13 +9327,14 @@
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
         "ADM2_EN": "Linakeng",
-        "ADM2_PCODE": "LSK05"
+        "ADM2_PCODE": "LSK05",
+        "POPULATION": 27384
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9324,7 +9401,8 @@
         "ADM1_EN": "Thaba-Tseka",
         "ADM1_PCODE": "LSK",
         "ADM2_EN": "Thaba-Tseka",
-        "ADM2_PCODE": "LSK06"
+        "ADM2_PCODE": "LSK06",
+        "POPULATION": 25299
       }
     }
   ]
