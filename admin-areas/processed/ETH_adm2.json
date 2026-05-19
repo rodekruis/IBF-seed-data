@@ -571,7 +571,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Afder",
-        "ADM2_PCODE": "ET0508"
+        "ADM2_PCODE": "ET0508",
+        "POPULATION": 854117
       }
     },
     {
@@ -1240,7 +1241,8 @@
         "ADM1_EN": "Gambela",
         "ADM1_PCODE": "ET12",
         "ADM2_EN": "Agnewak",
-        "ADM2_PCODE": "ET1202"
+        "ADM2_PCODE": "ET1202",
+        "POPULATION": 235075
       }
     },
     {
@@ -1401,7 +1403,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Alle",
-        "ADM2_PCODE": "ET0712"
+        "ADM2_PCODE": "ET0712",
+        "POPULATION": 124000
       }
     },
     {
@@ -1630,7 +1633,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Amaro",
-        "ADM2_PCODE": "ET0721"
+        "ADM2_PCODE": "ET0721",
+        "POPULATION": 289272
       }
     },
     {
@@ -2387,7 +2391,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Arsi",
-        "ADM2_PCODE": "ET0408"
+        "ADM2_PCODE": "ET0408",
+        "POPULATION": 4451584
       }
     },
     {
@@ -2756,7 +2761,8 @@
         "ADM1_EN": "Benishangul Gumz",
         "ADM1_PCODE": "ET06",
         "ADM2_EN": "Asosa",
-        "ADM2_PCODE": "ET0603"
+        "ADM2_PCODE": "ET0603",
+        "POPULATION": 733169
       }
     },
     {
@@ -3465,7 +3471,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "Awi",
-        "ADM2_PCODE": "ET0309"
+        "ADM2_PCODE": "ET0309",
+        "POPULATION": 1524597
       }
     },
     {
@@ -4014,7 +4021,8 @@
         "ADM1_EN": "Afar",
         "ADM1_PCODE": "ET02",
         "ADM2_EN": "Awsi /Zone 1",
-        "ADM2_PCODE": "ET0201"
+        "ADM2_PCODE": "ET0201",
+        "POPULATION": 936361
       }
     },
     {
@@ -4847,7 +4855,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Bale",
-        "ADM2_PCODE": "ET0411"
+        "ADM2_PCODE": "ET0411",
+        "POPULATION": 2519445
       }
     },
     {
@@ -4960,7 +4969,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Basketo",
-        "ADM2_PCODE": "ET0716"
+        "ADM2_PCODE": "ET0716",
+        "POPULATION": 124854
       }
     },
     {
@@ -5365,7 +5375,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Bench Sheko",
-        "ADM2_PCODE": "ET0711"
+        "ADM2_PCODE": "ET0711",
+        "POPULATION": 1241015
       }
     },
     {
@@ -5970,7 +5981,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Borena",
-        "ADM2_PCODE": "ET0412"
+        "ADM2_PCODE": "ET0412",
+        "POPULATION": 1140067
       }
     },
     {
@@ -6427,7 +6439,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Buno Bedele",
-        "ADM2_PCODE": "ET0416"
+        "ADM2_PCODE": "ET0416",
+        "POPULATION": 1356673
       }
     },
     {
@@ -6636,7 +6649,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Burji",
-        "ADM2_PCODE": "ET0722"
+        "ADM2_PCODE": "ET0722",
+        "POPULATION": 95758
       }
     },
     {
@@ -7149,7 +7163,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "Central",
-        "ADM2_PCODE": "ET0102"
+        "ADM2_PCODE": "ET0102",
+        "POPULATION": 1772277
       }
     },
     {
@@ -8246,7 +8261,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "Central Gondar",
-        "ADM2_PCODE": "ET0311"
+        "ADM2_PCODE": "ET0311",
+        "POPULATION": 3506915
       }
     },
     {
@@ -8567,7 +8583,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Daawa",
-        "ADM2_PCODE": "ET0511"
+        "ADM2_PCODE": "ET0511",
+        "POPULATION": 53518
       }
     },
     {
@@ -8880,7 +8897,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Dawuro",
-        "ADM2_PCODE": "ET0717"
+        "ADM2_PCODE": "ET0717",
+        "POPULATION": 1182882
       }
     },
     {
@@ -9037,7 +9055,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Derashe",
-        "ADM2_PCODE": "ET0723"
+        "ADM2_PCODE": "ET0723",
+        "POPULATION": 475258
       }
     },
     {
@@ -9214,7 +9233,8 @@
         "ADM1_EN": "Dire Dawa",
         "ADM1_PCODE": "ET15",
         "ADM2_EN": "Dire Dawa rural",
-        "ADM2_PCODE": "ET1502"
+        "ADM2_PCODE": "ET1502",
+        "POPULATION": 170772
       }
     },
     {
@@ -9279,7 +9299,8 @@
         "ADM1_EN": "Dire Dawa",
         "ADM1_PCODE": "ET15",
         "ADM2_EN": "Dire Dawa urban",
-        "ADM2_PCODE": "ET1501"
+        "ADM2_PCODE": "ET1501",
+        "POPULATION": 600025
       }
     },
     {
@@ -9480,7 +9501,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Doolo",
-        "ADM2_PCODE": "ET0507"
+        "ADM2_PCODE": "ET0507",
+        "POPULATION": 889603
       }
     },
     {
@@ -10153,7 +10175,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "East Bale",
-        "ADM2_PCODE": "ET0421"
+        "ADM2_PCODE": "ET0421",
+        "POPULATION": 1317798
       }
     },
     {
@@ -10762,7 +10785,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "East Gojam",
-        "ADM2_PCODE": "ET0306"
+        "ADM2_PCODE": "ET0306",
+        "POPULATION": 3269684
       }
     },
     {
@@ -11601,7 +11625,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "East Hararge",
-        "ADM2_PCODE": "ET0410"
+        "ADM2_PCODE": "ET0410",
+        "POPULATION": 6798180
       }
     },
     {
@@ -12462,7 +12487,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "East Shewa",
-        "ADM2_PCODE": "ET0407"
+        "ADM2_PCODE": "ET0407",
+        "POPULATION": 2674092
       }
     },
     {
@@ -13215,7 +13241,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "East Wellega",
-        "ADM2_PCODE": "ET0402"
+        "ADM2_PCODE": "ET0402",
+        "POPULATION": 2601191
       }
     },
     {
@@ -13704,7 +13731,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "Eastern",
-        "ADM2_PCODE": "ET0103"
+        "ADM2_PCODE": "ET0103",
+        "POPULATION": 1738567
       }
     },
     {
@@ -13953,7 +13981,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Erer",
-        "ADM2_PCODE": "ET0504"
+        "ADM2_PCODE": "ET0504",
+        "POPULATION": 130247
       }
     },
     {
@@ -14502,7 +14531,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Fafan",
-        "ADM2_PCODE": "ET0502"
+        "ADM2_PCODE": "ET0502",
+        "POPULATION": 1400239
       }
     },
     {
@@ -14863,7 +14893,8 @@
         "ADM1_EN": "Afar",
         "ADM1_PCODE": "ET02",
         "ADM2_EN": "Fanti /Zone 4",
-        "ADM2_PCODE": "ET0204"
+        "ADM2_PCODE": "ET0204",
+        "POPULATION": 172714
       }
     },
     {
@@ -15394,7 +15425,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Finfine Special",
-        "ADM2_PCODE": "ET0420"
+        "ADM2_PCODE": "ET0420",
+        "POPULATION": 1719478
       }
     },
     {
@@ -16031,7 +16063,8 @@
         "ADM1_EN": "Afar",
         "ADM1_PCODE": "ET02",
         "ADM2_EN": "Gabi /Zone 3",
-        "ADM2_PCODE": "ET0203"
+        "ADM2_PCODE": "ET0203",
+        "POPULATION": 354920
       }
     },
     {
@@ -16408,7 +16441,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Gamo",
-        "ADM2_PCODE": "ET0710"
+        "ADM2_PCODE": "ET0710",
+        "POPULATION": 2011421
       }
     },
     {
@@ -16637,7 +16671,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Gedeo",
-        "ADM2_PCODE": "ET0705"
+        "ADM2_PCODE": "ET0705",
+        "POPULATION": 1720891
       }
     },
     {
@@ -16998,7 +17033,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Gofa",
-        "ADM2_PCODE": "ET0715"
+        "ADM2_PCODE": "ET0715",
+        "POPULATION": 904418
       }
     },
     {
@@ -17719,7 +17755,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Guji",
-        "ADM2_PCODE": "ET0414"
+        "ADM2_PCODE": "ET0414",
+        "POPULATION": 2624199
       }
     },
     {
@@ -18244,7 +18281,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Guraghe",
-        "ADM2_PCODE": "ET0701"
+        "ADM2_PCODE": "ET0701",
+        "POPULATION": 1506018
       }
     },
     {
@@ -18739,7 +18777,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Hadiya",
-        "ADM2_PCODE": "ET0702"
+        "ADM2_PCODE": "ET0702",
+        "POPULATION": 1895555
       }
     },
     {
@@ -18964,7 +19003,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Halaba",
-        "ADM2_PCODE": "ET0714"
+        "ADM2_PCODE": "ET0714",
+        "POPULATION": 501983
       }
     },
     {
@@ -19073,7 +19113,8 @@
         "ADM1_EN": "Harari",
         "ADM1_PCODE": "ET13",
         "ADM2_EN": "Harari",
-        "ADM2_PCODE": "ET1301"
+        "ADM2_PCODE": "ET1301",
+        "POPULATION": 660979
       }
     },
     {
@@ -19542,7 +19583,8 @@
         "ADM1_EN": "Afar",
         "ADM1_PCODE": "ET02",
         "ADM2_EN": "Hari /Zone 5",
-        "ADM2_PCODE": "ET0205"
+        "ADM2_PCODE": "ET0205",
+        "POPULATION": 168295
       }
     },
     {
@@ -20015,7 +20057,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Horo Gudru Wellega",
-        "ADM2_PCODE": "ET0419"
+        "ADM2_PCODE": "ET0419",
+        "POPULATION": 952348
       }
     },
     {
@@ -20520,7 +20563,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Ilu Aba Bora",
-        "ADM2_PCODE": "ET0403"
+        "ADM2_PCODE": "ET0403",
+        "POPULATION": 1208117
       }
     },
     {
@@ -20749,7 +20793,8 @@
         "ADM1_EN": "Gambela",
         "ADM1_PCODE": "ET12",
         "ADM2_EN": "Itang Special woreda",
-        "ADM2_PCODE": "ET1204"
+        "ADM2_PCODE": "ET1204",
+        "POPULATION": 58744
       }
     },
     {
@@ -21086,7 +21131,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Jarar",
-        "ADM2_PCODE": "ET0503"
+        "ADM2_PCODE": "ET0503",
+        "POPULATION": 914557
       }
     },
     {
@@ -21779,7 +21825,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Jimma",
-        "ADM2_PCODE": "ET0404"
+        "ADM2_PCODE": "ET0404",
+        "POPULATION": 3977915
       }
     },
     {
@@ -22456,7 +22503,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Kefa",
-        "ADM2_PCODE": "ET0709"
+        "ADM2_PCODE": "ET0709",
+        "POPULATION": 1613086
       }
     },
     {
@@ -22901,7 +22949,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "Kelem Wellega",
-        "ADM2_PCODE": "ET0418"
+        "ADM2_PCODE": "ET0418",
+        "POPULATION": 2777515
       }
     },
     {
@@ -23850,7 +23899,8 @@
         "ADM1_EN": "Benishangul Gumz",
         "ADM1_PCODE": "ET06",
         "ADM2_EN": "Kemashi",
-        "ADM2_PCODE": "ET0604"
+        "ADM2_PCODE": "ET0604",
+        "POPULATION": 332543
       }
     },
     {
@@ -24175,7 +24225,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Kembata Tibaro",
-        "ADM2_PCODE": "ET0703"
+        "ADM2_PCODE": "ET0703",
+        "POPULATION": 989415
       }
     },
     {
@@ -24776,7 +24827,8 @@
         "ADM1_EN": "Afar",
         "ADM1_PCODE": "ET02",
         "ADM2_EN": "Kilbati /Zone2",
-        "ADM2_PCODE": "ET0202"
+        "ADM2_PCODE": "ET0202",
+        "POPULATION": 546983
       }
     },
     {
@@ -25009,7 +25061,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Konso",
-        "ADM2_PCODE": "ET0713"
+        "ADM2_PCODE": "ET0713",
+        "POPULATION": 592263
       }
     },
     {
@@ -25286,7 +25339,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Konta Special",
-        "ADM2_PCODE": "ET0719"
+        "ADM2_PCODE": "ET0719",
+        "POPULATION": 206258
       }
     },
     {
@@ -25571,7 +25625,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Korahe",
-        "ADM2_PCODE": "ET0505"
+        "ADM2_PCODE": "ET0505",
+        "POPULATION": 733717
       }
     },
     {
@@ -26360,7 +26415,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Liban",
-        "ADM2_PCODE": "ET0509"
+        "ADM2_PCODE": "ET0509",
+        "POPULATION": 594452
       }
     },
     {
@@ -26585,7 +26641,8 @@
         "ADM1_EN": "Gambela",
         "ADM1_PCODE": "ET12",
         "ADM2_EN": "Majang",
-        "ADM2_PCODE": "ET1203"
+        "ADM2_PCODE": "ET1203",
+        "POPULATION": 111887
       }
     },
     {
@@ -26758,7 +26815,8 @@
         "ADM1_EN": "Benishangul Gumz",
         "ADM1_PCODE": "ET06",
         "ADM2_EN": "Mao Komo Special",
-        "ADM2_PCODE": "ET0605"
+        "ADM2_PCODE": "ET0605",
+        "POPULATION": 311197
       }
     },
     {
@@ -26911,7 +26969,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "Mekelle",
-        "ADM2_PCODE": "ET0107"
+        "ADM2_PCODE": "ET0107",
+        "POPULATION": 763969
       }
     },
     {
@@ -27688,7 +27747,8 @@
         "ADM1_EN": "Benishangul Gumz",
         "ADM1_PCODE": "ET06",
         "ADM2_EN": "Metekel",
-        "ADM2_PCODE": "ET0602"
+        "ADM2_PCODE": "ET0602",
+        "POPULATION": 708776
       }
     },
     {
@@ -28213,7 +28273,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Mirab Omo",
-        "ADM2_PCODE": "ET0718"
+        "ADM2_PCODE": "ET0718",
+        "POPULATION": 702058
       }
     },
     {
@@ -28490,7 +28551,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Nogob",
-        "ADM2_PCODE": "ET0510"
+        "ADM2_PCODE": "ET0510",
+        "POPULATION": 125516
       }
     },
     {
@@ -29083,7 +29145,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "North Gondar",
-        "ADM2_PCODE": "ET0301"
+        "ADM2_PCODE": "ET0301",
+        "POPULATION": 1058949
       }
     },
     {
@@ -30048,7 +30111,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "North Shewa (AM)",
-        "ADM2_PCODE": "ET0305"
+        "ADM2_PCODE": "ET0305",
+        "POPULATION": 2429660
       }
     },
     {
@@ -30785,7 +30849,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "North Shewa (OR)",
-        "ADM2_PCODE": "ET0406"
+        "ADM2_PCODE": "ET0406",
+        "POPULATION": 1708891
       }
     },
     {
@@ -31462,7 +31527,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "North Wello",
-        "ADM2_PCODE": "ET0303"
+        "ADM2_PCODE": "ET0303",
+        "POPULATION": 2350837
       }
     },
     {
@@ -32103,7 +32169,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "North Western",
-        "ADM2_PCODE": "ET0101"
+        "ADM2_PCODE": "ET0101",
+        "POPULATION": 1171370
       }
     },
     {
@@ -32384,7 +32451,8 @@
         "ADM1_EN": "Gambela",
         "ADM1_PCODE": "ET12",
         "ADM2_EN": "Nuwer",
-        "ADM2_PCODE": "ET1201"
+        "ADM2_PCODE": "ET1201",
+        "POPULATION": 279508
       }
     },
     {
@@ -32857,7 +32925,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "Oromia",
-        "ADM2_PCODE": "ET0310"
+        "ADM2_PCODE": "ET0310",
+        "POPULATION": 876042
       }
     },
     {
@@ -32982,7 +33051,8 @@
         "ADM1_EN": "Addis Ababa",
         "ADM1_PCODE": "ET14",
         "ADM2_EN": "Region 14",
-        "ADM2_PCODE": "ET1401"
+        "ADM2_PCODE": "ET1401",
+        "POPULATION": 4654724
       }
     },
     {
@@ -33439,7 +33509,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Shabelle",
-        "ADM2_PCODE": "ET0506"
+        "ADM2_PCODE": "ET0506",
+        "POPULATION": 1287856
       }
     },
     {
@@ -33776,7 +33847,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Sheka",
-        "ADM2_PCODE": "ET0708"
+        "ADM2_PCODE": "ET0708",
+        "POPULATION": 389787
       }
     },
     {
@@ -34213,7 +34285,8 @@
         "ADM1_EN": "Sidama",
         "ADM1_PCODE": "ET16",
         "ADM2_EN": "Sidama",
-        "ADM2_PCODE": "ET1600"
+        "ADM2_PCODE": "ET1600",
+        "POPULATION": 6466678
       }
     },
     {
@@ -34538,7 +34611,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Siltie",
-        "ADM2_PCODE": "ET0720"
+        "ADM2_PCODE": "ET0720",
+        "POPULATION": 1214252
       }
     },
     {
@@ -35095,7 +35169,8 @@
         "ADM1_EN": "Somali",
         "ADM1_PCODE": "ET05",
         "ADM2_EN": "Siti",
-        "ADM2_PCODE": "ET0501"
+        "ADM2_PCODE": "ET0501",
+        "POPULATION": 293185
       }
     },
     {
@@ -35672,7 +35747,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "South Eastern",
-        "ADM2_PCODE": "ET0106"
+        "ADM2_PCODE": "ET0106",
+        "POPULATION": 637978
       }
     },
     {
@@ -36305,7 +36381,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "South Gondar",
-        "ADM2_PCODE": "ET0302"
+        "ADM2_PCODE": "ET0302",
+        "POPULATION": 2779176
       }
     },
     {
@@ -36870,7 +36947,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "South Omo",
-        "ADM2_PCODE": "ET0707"
+        "ADM2_PCODE": "ET0707",
+        "POPULATION": 1359555
       }
     },
     {
@@ -37683,7 +37761,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "South Wello",
-        "ADM2_PCODE": "ET0304"
+        "ADM2_PCODE": "ET0304",
+        "POPULATION": 3750461
       }
     },
     {
@@ -38132,7 +38211,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "South West Shewa",
-        "ADM2_PCODE": "ET0413"
+        "ADM2_PCODE": "ET0413",
+        "POPULATION": 1444697
       }
     },
     {
@@ -38529,7 +38609,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "Southern",
-        "ADM2_PCODE": "ET0104"
+        "ADM2_PCODE": "ET0104",
+        "POPULATION": 904202
       }
     },
     {
@@ -39038,7 +39119,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "Wag Hamra",
-        "ADM2_PCODE": "ET0308"
+        "ADM2_PCODE": "ET0308",
+        "POPULATION": 726467
       }
     },
     {
@@ -39751,7 +39833,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "West Arsi",
-        "ADM2_PCODE": "ET0417"
+        "ADM2_PCODE": "ET0417",
+        "POPULATION": 4029329
       }
     },
     {
@@ -40624,7 +40707,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "West Gojam",
-        "ADM2_PCODE": "ET0307"
+        "ADM2_PCODE": "ET0307",
+        "POPULATION": 3958011
       }
     },
     {
@@ -41181,7 +41265,8 @@
         "ADM1_EN": "Amhara",
         "ADM1_PCODE": "ET03",
         "ADM2_EN": "West Gondar",
-        "ADM2_PCODE": "ET0312"
+        "ADM2_PCODE": "ET0312",
+        "POPULATION": 748815
       }
     },
     {
@@ -41930,7 +42015,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "West Guji",
-        "ADM2_PCODE": "ET0415"
+        "ADM2_PCODE": "ET0415",
+        "POPULATION": 2102957
       }
     },
     {
@@ -42551,7 +42637,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "West Hararge",
-        "ADM2_PCODE": "ET0409"
+        "ADM2_PCODE": "ET0409",
+        "POPULATION": 3539898
       }
     },
     {
@@ -43256,7 +43343,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "West Shewa",
-        "ADM2_PCODE": "ET0405"
+        "ADM2_PCODE": "ET0405",
+        "POPULATION": 3268783
       }
     },
     {
@@ -43889,7 +43977,8 @@
         "ADM1_EN": "Oromia",
         "ADM1_PCODE": "ET04",
         "ADM2_EN": "West Wellega",
-        "ADM2_PCODE": "ET0401"
+        "ADM2_PCODE": "ET0401",
+        "POPULATION": 3261772
       }
     },
     {
@@ -44358,7 +44447,8 @@
         "ADM1_EN": "Tigray",
         "ADM1_PCODE": "ET01",
         "ADM2_EN": "Western",
-        "ADM2_PCODE": "ET0105"
+        "ADM2_PCODE": "ET0105",
+        "POPULATION": 975810
       }
     },
     {
@@ -44683,7 +44773,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Wolayita",
-        "ADM2_PCODE": "ET0706"
+        "ADM2_PCODE": "ET0706",
+        "POPULATION": 2307355
       }
     },
     {
@@ -44812,7 +44903,8 @@
         "ADM1_EN": "SNNP",
         "ADM1_PCODE": "ET07",
         "ADM2_EN": "Yem Special",
-        "ADM2_PCODE": "ET0724"
+        "ADM2_PCODE": "ET0724",
+        "POPULATION": 59223
       }
     }
   ]

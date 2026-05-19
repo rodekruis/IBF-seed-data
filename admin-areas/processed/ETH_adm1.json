@@ -805,7 +805,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Addis Ababa",
-        "ADM1_PCODE": "ET14"
+        "ADM1_PCODE": "ET14",
+        "POPULATION": 4688285
       }
     },
     {
@@ -5264,7 +5265,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Afar",
-        "ADM1_PCODE": "ET02"
+        "ADM1_PCODE": "ET02",
+        "POPULATION": 2182612
       }
     },
     {
@@ -17631,7 +17633,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Amhara",
-        "ADM1_PCODE": "ET03"
+        "ADM1_PCODE": "ET03",
+        "POPULATION": 26981217
       }
     },
     {
@@ -22154,7 +22157,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Benishangul Gumz",
-        "ADM1_PCODE": "ET06"
+        "ADM1_PCODE": "ET06",
+        "POPULATION": 2088610
       }
     },
     {
@@ -22617,7 +22621,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Dire Dawa",
-        "ADM1_PCODE": "ET15"
+        "ADM1_PCODE": "ET15",
+        "POPULATION": 770696
       }
     },
     {
@@ -24576,7 +24581,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Gambela",
-        "ADM1_PCODE": "ET12"
+        "ADM1_PCODE": "ET12",
+        "POPULATION": 685397
       }
     },
     {
@@ -24899,7 +24905,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Harari",
-        "ADM1_PCODE": "ET13"
+        "ADM1_PCODE": "ET13",
+        "POPULATION": 664310
       }
     },
     {
@@ -42704,7 +42711,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Oromia",
-        "ADM1_PCODE": "ET04"
+        "ADM1_PCODE": "ET04",
+        "POPULATION": 55442415
       }
     },
     {
@@ -46599,7 +46607,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Sidama",
-        "ADM1_PCODE": "ET16"
+        "ADM1_PCODE": "ET16",
+        "POPULATION": 6466583
       }
     },
     {
@@ -55126,7 +55135,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "SNNP",
-        "ADM1_PCODE": "ET07"
+        "ADM1_PCODE": "ET07",
+        "POPULATION": 21505781
       }
     },
     {
@@ -60437,7 +60447,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Somali",
-        "ADM1_PCODE": "ET05"
+        "ADM1_PCODE": "ET05",
+        "POPULATION": 7272867
       }
     },
     {
@@ -69580,7 +69591,8 @@
         "ADM0_ISO_A2": "ET",
         "ADM0_ISO_A3": "ETH",
         "ADM1_EN": "Tigray",
-        "ADM1_PCODE": "ET01"
+        "ADM1_PCODE": "ET01",
+        "POPULATION": 7967598
       }
     }
   ]

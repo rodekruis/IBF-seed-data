@@ -38410,7 +38410,8 @@
         "ADM0_ISO_A2": "UG",
         "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Central",
-        "ADM1_PCODE": "UG1"
+        "ADM1_PCODE": "UG1",
+        "POPULATION": 14802866
       }
     },
     {
@@ -118750,7 +118751,8 @@
         "ADM0_ISO_A2": "UG",
         "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "UG2"
+        "ADM1_PCODE": "UG2",
+        "POPULATION": 13390385
       }
     },
     {
@@ -194406,7 +194408,8 @@
         "ADM0_ISO_A2": "UG",
         "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "UG3"
+        "ADM1_PCODE": "UG3",
+        "POPULATION": 10627681
       }
     },
     {
@@ -266398,7 +266401,8 @@
         "ADM0_ISO_A2": "UG",
         "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Western",
-        "ADM1_PCODE": "UG4"
+        "ADM1_PCODE": "UG4",
+        "POPULATION": 13228717
       }
     }
   ]

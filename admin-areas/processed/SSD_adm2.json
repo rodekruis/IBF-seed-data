@@ -1060,7 +1060,8 @@
         "ADM1_EN": "Central Equatoria",
         "ADM1_PCODE": "SS01",
         "ADM2_EN": "Juba",
-        "ADM2_PCODE": "SS0101"
+        "ADM2_PCODE": "SS0101",
+        "POPULATION": 538854
       }
     },
     {
@@ -6818,7 +6819,8 @@
         "ADM1_EN": "Central Equatoria",
         "ADM1_PCODE": "SS01",
         "ADM2_EN": "Kajo-keji",
-        "ADM2_PCODE": "SS0102"
+        "ADM2_PCODE": "SS0102",
+        "POPULATION": 231379
       }
     },
     {
@@ -9028,7 +9030,8 @@
         "ADM1_EN": "Central Equatoria",
         "ADM1_PCODE": "SS01",
         "ADM2_EN": "Lainya",
-        "ADM2_PCODE": "SS0103"
+        "ADM2_PCODE": "SS0103",
+        "POPULATION": 116023
       }
     },
     {
@@ -13614,7 +13617,8 @@
         "ADM1_EN": "Central Equatoria",
         "ADM1_PCODE": "SS01",
         "ADM2_EN": "Morobo",
-        "ADM2_PCODE": "SS0104"
+        "ADM2_PCODE": "SS0104",
+        "POPULATION": 112726
       }
     },
     {
@@ -14144,7 +14148,8 @@
         "ADM1_EN": "Central Equatoria",
         "ADM1_PCODE": "SS01",
         "ADM2_EN": "Terekeka",
-        "ADM2_PCODE": "SS0105"
+        "ADM2_PCODE": "SS0105",
+        "POPULATION": 261892
       }
     },
     {
@@ -16774,7 +16779,8 @@
         "ADM1_EN": "Central Equatoria",
         "ADM1_PCODE": "SS01",
         "ADM2_EN": "Yei",
-        "ADM2_PCODE": "SS0106"
+        "ADM2_PCODE": "SS0106",
+        "POPULATION": 291093
       }
     },
     {
@@ -17400,7 +17406,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Budi",
-        "ADM2_PCODE": "SS0201"
+        "ADM2_PCODE": "SS0201",
+        "POPULATION": 104151
       }
     },
     {
@@ -18438,7 +18445,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Ikotos",
-        "ADM2_PCODE": "SS0202"
+        "ADM2_PCODE": "SS0202",
+        "POPULATION": 104456
       }
     },
     {
@@ -23168,7 +23176,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Kapoeta East",
-        "ADM2_PCODE": "SS0203"
+        "ADM2_PCODE": "SS0203",
+        "POPULATION": 169241
       }
     },
     {
@@ -23490,7 +23499,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Kapoeta North",
-        "ADM2_PCODE": "SS0204"
+        "ADM2_PCODE": "SS0204",
+        "POPULATION": 152577
       }
     },
     {
@@ -23788,7 +23798,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Kapoeta South",
-        "ADM2_PCODE": "SS0205"
+        "ADM2_PCODE": "SS0205",
+        "POPULATION": 104347
       }
     },
     {
@@ -24442,7 +24453,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Lafon",
-        "ADM2_PCODE": "SS0206"
+        "ADM2_PCODE": "SS0206",
+        "POPULATION": 154996
       }
     },
     {
@@ -29444,7 +29456,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Magwi",
-        "ADM2_PCODE": "SS0207"
+        "ADM2_PCODE": "SS0207",
+        "POPULATION": 257730
       }
     },
     {
@@ -30142,7 +30155,8 @@
         "ADM1_EN": "Eastern Equatoria",
         "ADM1_PCODE": "SS02",
         "ADM2_EN": "Torit",
-        "ADM2_PCODE": "SS0208"
+        "ADM2_PCODE": "SS0208",
+        "POPULATION": 63066
       }
     },
     {
@@ -34484,7 +34498,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Akobo",
-        "ADM2_PCODE": "SS0301"
+        "ADM2_PCODE": "SS0301",
+        "POPULATION": 221310
       }
     },
     {
@@ -36594,7 +36609,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Ayod",
-        "ADM2_PCODE": "SS0302"
+        "ADM2_PCODE": "SS0302",
+        "POPULATION": 192969
       }
     },
     {
@@ -37980,7 +37996,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Bor South",
-        "ADM2_PCODE": "SS0303"
+        "ADM2_PCODE": "SS0303",
+        "POPULATION": 333866
       }
     },
     {
@@ -39706,7 +39723,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Canal-Pigi",
-        "ADM2_PCODE": "SS0304"
+        "ADM2_PCODE": "SS0304",
+        "POPULATION": 106456
       }
     },
     {
@@ -40888,7 +40906,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Duk",
-        "ADM2_PCODE": "SS0305"
+        "ADM2_PCODE": "SS0305",
+        "POPULATION": 197421
       }
     },
     {
@@ -43158,7 +43177,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Fangak",
-        "ADM2_PCODE": "SS0306"
+        "ADM2_PCODE": "SS0306",
+        "POPULATION": 190743
       }
     },
     {
@@ -45280,7 +45300,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Nyirol",
-        "ADM2_PCODE": "SS0307"
+        "ADM2_PCODE": "SS0307",
+        "POPULATION": 140966
       }
     },
     {
@@ -49678,7 +49699,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Pibor",
-        "ADM2_PCODE": "SS0308"
+        "ADM2_PCODE": "SS0308",
+        "POPULATION": 217407
       }
     },
     {
@@ -58532,7 +58554,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Pochalla",
-        "ADM2_PCODE": "SS0309"
+        "ADM2_PCODE": "SS0309",
+        "POPULATION": 74240
       }
     },
     {
@@ -59650,7 +59673,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Twic East",
-        "ADM2_PCODE": "SS0310"
+        "ADM2_PCODE": "SS0310",
+        "POPULATION": 124879
       }
     },
     {
@@ -60392,7 +60416,8 @@
         "ADM1_EN": "Jonglei",
         "ADM1_PCODE": "SS03",
         "ADM2_EN": "Uror",
-        "ADM2_PCODE": "SS0311"
+        "ADM2_PCODE": "SS0311",
+        "POPULATION": 192374
       }
     },
     {
@@ -61670,7 +61695,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Awerial",
-        "ADM2_PCODE": "SS0401"
+        "ADM2_PCODE": "SS0401",
+        "POPULATION": 144228
       }
     },
     {
@@ -61980,7 +62006,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Cueibet",
-        "ADM2_PCODE": "SS0402"
+        "ADM2_PCODE": "SS0402",
+        "POPULATION": 182026
       }
     },
     {
@@ -62466,7 +62493,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Rumbek Centre",
-        "ADM2_PCODE": "SS0403"
+        "ADM2_PCODE": "SS0403",
+        "POPULATION": 223962
       }
     },
     {
@@ -63032,7 +63060,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Rumbek East",
-        "ADM2_PCODE": "SS0404"
+        "ADM2_PCODE": "SS0404",
+        "POPULATION": 177437
       }
     },
     {
@@ -63558,7 +63587,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Rumbek North",
-        "ADM2_PCODE": "SS0405"
+        "ADM2_PCODE": "SS0405",
+        "POPULATION": 71294
       }
     },
     {
@@ -64584,7 +64614,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Wulu",
-        "ADM2_PCODE": "SS0406"
+        "ADM2_PCODE": "SS0406",
+        "POPULATION": 90182
       }
     },
     {
@@ -65990,7 +66021,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Yirol East",
-        "ADM2_PCODE": "SS0407"
+        "ADM2_PCODE": "SS0407",
+        "POPULATION": 158718
       }
     },
     {
@@ -66688,7 +66720,8 @@
         "ADM1_EN": "Lakes",
         "ADM1_PCODE": "SS04",
         "ADM2_EN": "Yirol West",
-        "ADM2_PCODE": "SS0408"
+        "ADM2_PCODE": "SS0408",
+        "POPULATION": 173387
       }
     },
     {
@@ -67274,7 +67307,8 @@
         "ADM1_EN": "Northern Bahr el Ghazal",
         "ADM1_PCODE": "SS05",
         "ADM2_EN": "Aweil Centre",
-        "ADM2_PCODE": "SS0501"
+        "ADM2_PCODE": "SS0501",
+        "POPULATION": 69807
       }
     },
     {
@@ -68396,7 +68430,8 @@
         "ADM1_EN": "Northern Bahr el Ghazal",
         "ADM1_PCODE": "SS05",
         "ADM2_EN": "Aweil East",
-        "ADM2_PCODE": "SS0502"
+        "ADM2_PCODE": "SS0502",
+        "POPULATION": 340013
       }
     },
     {
@@ -69762,7 +69797,8 @@
         "ADM1_EN": "Northern Bahr el Ghazal",
         "ADM1_PCODE": "SS05",
         "ADM2_EN": "Aweil North",
-        "ADM2_PCODE": "SS0503"
+        "ADM2_PCODE": "SS0503",
+        "POPULATION": 168302
       }
     },
     {
@@ -70264,7 +70300,8 @@
         "ADM1_EN": "Northern Bahr el Ghazal",
         "ADM1_PCODE": "SS05",
         "ADM2_EN": "Aweil South",
-        "ADM2_PCODE": "SS0504"
+        "ADM2_PCODE": "SS0504",
+        "POPULATION": 144321
       }
     },
     {
@@ -70958,7 +70995,8 @@
         "ADM1_EN": "Northern Bahr el Ghazal",
         "ADM1_PCODE": "SS05",
         "ADM2_EN": "Aweil West",
-        "ADM2_PCODE": "SS0505"
+        "ADM2_PCODE": "SS0505",
+        "POPULATION": 201685
       }
     },
     {
@@ -71824,7 +71862,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Abiemnhom",
-        "ADM2_PCODE": "SS0601"
+        "ADM2_PCODE": "SS0601",
+        "POPULATION": 58103
       }
     },
     {
@@ -72798,7 +72837,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Guit",
-        "ADM2_PCODE": "SS0602"
+        "ADM2_PCODE": "SS0602",
+        "POPULATION": 66149
       }
     },
     {
@@ -73720,7 +73760,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Koch",
-        "ADM2_PCODE": "SS0603"
+        "ADM2_PCODE": "SS0603",
+        "POPULATION": 95580
       }
     },
     {
@@ -75162,7 +75203,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Leer",
-        "ADM2_PCODE": "SS0604"
+        "ADM2_PCODE": "SS0604",
+        "POPULATION": 78893
       }
     },
     {
@@ -76052,7 +76094,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Mayendit",
-        "ADM2_PCODE": "SS0605"
+        "ADM2_PCODE": "SS0605",
+        "POPULATION": 69434
       }
     },
     {
@@ -76450,7 +76493,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Mayom",
-        "ADM2_PCODE": "SS0606"
+        "ADM2_PCODE": "SS0606",
+        "POPULATION": 143342
       }
     },
     {
@@ -78272,7 +78316,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Panyijiar",
-        "ADM2_PCODE": "SS0607"
+        "ADM2_PCODE": "SS0607",
+        "POPULATION": 121476
       }
     },
     {
@@ -79950,7 +79995,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Pariang",
-        "ADM2_PCODE": "SS0608"
+        "ADM2_PCODE": "SS0608",
+        "POPULATION": 127529
       }
     },
     {
@@ -80276,7 +80322,8 @@
         "ADM1_EN": "Unity",
         "ADM1_PCODE": "SS06",
         "ADM2_EN": "Rubkona",
-        "ADM2_PCODE": "SS0609"
+        "ADM2_PCODE": "SS0609",
+        "POPULATION": 332081
       }
     },
     {
@@ -82322,7 +82369,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Baliet",
-        "ADM2_PCODE": "SS0701"
+        "ADM2_PCODE": "SS0701",
+        "POPULATION": 56698
       }
     },
     {
@@ -82864,7 +82912,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Fashoda",
-        "ADM2_PCODE": "SS0702"
+        "ADM2_PCODE": "SS0702",
+        "POPULATION": 71454
       }
     },
     {
@@ -84034,7 +84083,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Longochuk",
-        "ADM2_PCODE": "SS0703"
+        "ADM2_PCODE": "SS0703",
+        "POPULATION": 73954
       }
     },
     {
@@ -85688,7 +85738,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Luakpiny/Nasir",
-        "ADM2_PCODE": "SS0704"
+        "ADM2_PCODE": "SS0704",
+        "POPULATION": 284473
       }
     },
     {
@@ -86962,7 +87013,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Maban",
-        "ADM2_PCODE": "SS0705"
+        "ADM2_PCODE": "SS0705",
+        "POPULATION": 81642
       }
     },
     {
@@ -89324,7 +89376,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Maiwut",
-        "ADM2_PCODE": "SS0706"
+        "ADM2_PCODE": "SS0706",
+        "POPULATION": 127190
       }
     },
     {
@@ -89558,7 +89611,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Malakal",
-        "ADM2_PCODE": "SS0707"
+        "ADM2_PCODE": "SS0707",
+        "POPULATION": 190147
       }
     },
     {
@@ -91448,7 +91502,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Manyo",
-        "ADM2_PCODE": "SS0708"
+        "ADM2_PCODE": "SS0708",
+        "POPULATION": 61900
       }
     },
     {
@@ -92914,7 +92969,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Melut",
-        "ADM2_PCODE": "SS0709"
+        "ADM2_PCODE": "SS0709",
+        "POPULATION": 74306
       }
     },
     {
@@ -95480,7 +95536,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Panyikang",
-        "ADM2_PCODE": "SS0710"
+        "ADM2_PCODE": "SS0710",
+        "POPULATION": 62965
       }
     },
     {
@@ -98606,7 +98663,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Renk",
-        "ADM2_PCODE": "SS0711"
+        "ADM2_PCODE": "SS0711",
+        "POPULATION": 245606
       }
     },
     {
@@ -100208,7 +100266,8 @@
         "ADM1_EN": "Upper Nile",
         "ADM1_PCODE": "SS07",
         "ADM2_EN": "Ulang",
-        "ADM2_PCODE": "SS0712"
+        "ADM2_PCODE": "SS0712",
+        "POPULATION": 141628
       }
     },
     {
@@ -101014,7 +101073,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Abyei Region",
-        "ADM2_PCODE": "SS0807"
+        "ADM2_PCODE": "SS0807",
+        "POPULATION": 31
       }
     },
     {
@@ -101524,7 +101584,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Gogrial East",
-        "ADM2_PCODE": "SS0801"
+        "ADM2_PCODE": "SS0801",
+        "POPULATION": 128616
       }
     },
     {
@@ -102194,7 +102255,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Gogrial West",
-        "ADM2_PCODE": "SS0802"
+        "ADM2_PCODE": "SS0802",
+        "POPULATION": 329076
       }
     },
     {
@@ -102528,7 +102590,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Tonj East",
-        "ADM2_PCODE": "SS0803"
+        "ADM2_PCODE": "SS0803",
+        "POPULATION": 183919
       }
     },
     {
@@ -103082,7 +103145,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Tonj North",
-        "ADM2_PCODE": "SS0804"
+        "ADM2_PCODE": "SS0804",
+        "POPULATION": 255973
       }
     },
     {
@@ -103384,7 +103448,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Tonj South",
-        "ADM2_PCODE": "SS0805"
+        "ADM2_PCODE": "SS0805",
+        "POPULATION": 119921
       }
     },
     {
@@ -104178,7 +104243,8 @@
         "ADM1_EN": "Warrap",
         "ADM1_PCODE": "SS08",
         "ADM2_EN": "Twic",
-        "ADM2_PCODE": "SS0806"
+        "ADM2_PCODE": "SS0806",
+        "POPULATION": 271902
       }
     },
     {
@@ -104876,7 +104942,8 @@
         "ADM1_EN": "Western Bahr el Ghazal",
         "ADM1_PCODE": "SS09",
         "ADM2_EN": "Jur River",
-        "ADM2_PCODE": "SS0901"
+        "ADM2_PCODE": "SS0901",
+        "POPULATION": 282965
       }
     },
     {
@@ -124222,7 +124289,8 @@
         "ADM1_EN": "Western Bahr el Ghazal",
         "ADM1_PCODE": "SS09",
         "ADM2_EN": "Raja",
-        "ADM2_PCODE": "SS0902"
+        "ADM2_PCODE": "SS0902",
+        "POPULATION": 59779
       }
     },
     {
@@ -124856,7 +124924,8 @@
         "ADM1_EN": "Western Bahr el Ghazal",
         "ADM1_PCODE": "SS09",
         "ADM2_EN": "Wau",
-        "ADM2_PCODE": "SS0903"
+        "ADM2_PCODE": "SS0903",
+        "POPULATION": 320017
       }
     },
     {
@@ -126298,7 +126367,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Ezo",
-        "ADM2_PCODE": "SS1001"
+        "ADM2_PCODE": "SS1001",
+        "POPULATION": 130669
       }
     },
     {
@@ -128036,7 +128106,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Ibba",
-        "ADM2_PCODE": "SS1002"
+        "ADM2_PCODE": "SS1002",
+        "POPULATION": 68487
       }
     },
     {
@@ -129802,7 +129873,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Maridi",
-        "ADM2_PCODE": "SS1003"
+        "ADM2_PCODE": "SS1003",
+        "POPULATION": 111091
       }
     },
     {
@@ -130320,7 +130392,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Mundri East",
-        "ADM2_PCODE": "SS1004"
+        "ADM2_PCODE": "SS1004",
+        "POPULATION": 100938
       }
     },
     {
@@ -130982,7 +131055,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Mundri West",
-        "ADM2_PCODE": "SS1005"
+        "ADM2_PCODE": "SS1005",
+        "POPULATION": 50434
       }
     },
     {
@@ -131508,7 +131582,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Mvolo",
-        "ADM2_PCODE": "SS1006"
+        "ADM2_PCODE": "SS1006",
+        "POPULATION": 74444
       }
     },
     {
@@ -131698,7 +131773,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Nagero",
-        "ADM2_PCODE": "SS1007"
+        "ADM2_PCODE": "SS1007",
+        "POPULATION": 4867
       }
     },
     {
@@ -133824,7 +133900,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Nzara",
-        "ADM2_PCODE": "SS1008"
+        "ADM2_PCODE": "SS1008",
+        "POPULATION": 82799
       }
     },
     {
@@ -137186,7 +137263,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Tambura",
-        "ADM2_PCODE": "SS1009"
+        "ADM2_PCODE": "SS1009",
+        "POPULATION": 155413
       }
     },
     {
@@ -139392,7 +139470,8 @@
         "ADM1_EN": "Western Equatoria",
         "ADM1_PCODE": "SS10",
         "ADM2_EN": "Yambio",
-        "ADM2_PCODE": "SS1010"
+        "ADM2_PCODE": "SS1010",
+        "POPULATION": 171742
       }
     }
   ]

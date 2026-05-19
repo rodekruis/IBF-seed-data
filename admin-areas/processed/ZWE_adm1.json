@@ -518,7 +518,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Bulawayo",
-        "ADM1_PCODE": "ZW10"
+        "ADM1_PCODE": "ZW10",
+        "POPULATION": 751058
       }
     },
     {
@@ -1646,7 +1647,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Harare",
-        "ADM1_PCODE": "ZW19"
+        "ADM1_PCODE": "ZW19",
+        "POPULATION": 2736096
       }
     },
     {
@@ -10810,7 +10812,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Manicaland",
-        "ADM1_PCODE": "ZW11"
+        "ADM1_PCODE": "ZW11",
+        "POPULATION": 2295020
       }
     },
     {
@@ -17338,7 +17341,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Mashonaland Central",
-        "ADM1_PCODE": "ZW12"
+        "ADM1_PCODE": "ZW12",
+        "POPULATION": 1560544
       }
     },
     {
@@ -24858,7 +24862,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Mashonaland East",
-        "ADM1_PCODE": "ZW13"
+        "ADM1_PCODE": "ZW13",
+        "POPULATION": 1951703
       }
     },
     {
@@ -34118,7 +34123,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Mashonaland West",
-        "ADM1_PCODE": "ZW14"
+        "ADM1_PCODE": "ZW14",
+        "POPULATION": 2134053
       }
     },
     {
@@ -40566,7 +40572,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Masvingo",
-        "ADM1_PCODE": "ZW18"
+        "ADM1_PCODE": "ZW18",
+        "POPULATION": 1847458
       }
     },
     {
@@ -48978,7 +48985,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Matabeleland North",
-        "ADM1_PCODE": "ZW15"
+        "ADM1_PCODE": "ZW15",
+        "POPULATION": 932840
       }
     },
     {
@@ -57286,7 +57294,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Matabeleland South",
-        "ADM1_PCODE": "ZW16"
+        "ADM1_PCODE": "ZW16",
+        "POPULATION": 856152
       }
     },
     {
@@ -66486,7 +66495,8 @@
         "ADM0_ISO_A2": "ZW",
         "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": "Midlands",
-        "ADM1_PCODE": "ZW17"
+        "ADM1_PCODE": "ZW17",
+        "POPULATION": 2042595
       }
     }
   ]

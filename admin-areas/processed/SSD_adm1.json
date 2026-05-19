@@ -14426,7 +14426,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Central Equatoria",
-        "ADM1_PCODE": "SS01"
+        "ADM1_PCODE": "SS01",
+        "POPULATION": 1551967
       }
     },
     {
@@ -25066,7 +25067,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Eastern Equatoria",
-        "ADM1_PCODE": "SS02"
+        "ADM1_PCODE": "SS02",
+        "POPULATION": 1110565
       }
     },
     {
@@ -50950,7 +50952,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Jonglei",
-        "ADM1_PCODE": "SS03"
+        "ADM1_PCODE": "SS03",
+        "POPULATION": 1992629
       }
     },
     {
@@ -54238,7 +54241,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Lakes",
-        "ADM1_PCODE": "SS04"
+        "ADM1_PCODE": "SS04",
+        "POPULATION": 1221235
       }
     },
     {
@@ -55938,7 +55942,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Northern Bahr el Ghazal",
-        "ADM1_PCODE": "SS05"
+        "ADM1_PCODE": "SS05",
+        "POPULATION": 924128
       }
     },
     {
@@ -62662,7 +62667,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Unity",
-        "ADM1_PCODE": "SS06"
+        "ADM1_PCODE": "SS06",
+        "POPULATION": 1092587
       }
     },
     {
@@ -76650,7 +76656,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Upper Nile",
-        "ADM1_PCODE": "SS07"
+        "ADM1_PCODE": "SS07",
+        "POPULATION": 1471963
       }
     },
     {
@@ -77714,7 +77721,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Warrap",
-        "ADM1_PCODE": "SS08"
+        "ADM1_PCODE": "SS08",
+        "POPULATION": 1289406
       }
     },
     {
@@ -97194,7 +97202,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Western Bahr el Ghazal",
-        "ADM1_PCODE": "SS09"
+        "ADM1_PCODE": "SS09",
+        "POPULATION": 662761
       }
     },
     {
@@ -107086,7 +107095,8 @@
         "ADM0_ISO_A2": "SS",
         "ADM0_ISO_A3": "SSD",
         "ADM1_EN": "Western Equatoria",
-        "ADM1_PCODE": "SS10"
+        "ADM1_PCODE": "SS10",
+        "POPULATION": 950884
       }
     }
   ]
