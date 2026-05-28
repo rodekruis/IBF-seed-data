@@ -1,10 +1,10 @@
 {
   "event1": {
     "hazardTypes": [
-      "flood"
+      "floods"
     ],
     "eventName": "Flood - Zambia",
-    "eventId": "event1",
+    "eventId": 1001,
     "alertClass": "low",
     "trigger": false,
     "centroid": [
@@ -195,10 +195,10 @@
   },
   "event2": {
     "hazardTypes": [
-      "flood"
+      "floods"
     ],
     "eventName": "Flood - Zambia",
-    "eventId": "event2",
+    "eventId": 1002,
     "alertClass": "medium",
     "trigger": true,
     "centroid": [

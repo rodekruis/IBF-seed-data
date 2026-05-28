@@ -1,10 +1,10 @@
 {
   "event1": {
     "hazardTypes": [
-      "flood"
+      "floods"
     ],
     "eventName": "Flood - Malawi",
-    "eventId": "event1",
+    "eventId": 1001,
     "alertClass": "low",
     "trigger": false,
     "centroid": [
@@ -288,10 +288,10 @@
   },
   "event2": {
     "hazardTypes": [
-      "flood"
+      "floods"
     ],
     "eventName": "Flood - Malawi",
-    "eventId": "event2",
+    "eventId": 1002,
     "alertClass": "high",
     "trigger": true,
     "centroid": [
@@ -544,10 +544,10 @@
   },
   "event3": {
     "hazardTypes": [
-      "flood"
+      "floods"
     ],
     "eventName": "Flood - Malawi",
-    "eventId": "event3",
+    "eventId": 1003,
     "alertClass": "medium",
     "trigger": false,
     "centroid": [
