@@ -29,10 +29,10 @@ It's not clear where this data came from or how out of date it is. We'll need to
 
 ### raster-data
 
-Raster map data, such as population data.
-Population data is fetched by scripts in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
-
-Disaster data comes from mock runs of the pipeline. It was initially populated with mock data from IBFv1. [See here](https://github.com/rodekruis/IBF-system/blob/master/services/API-service/geoserver-volume/raster-files/README.md) for that initial source.
+Raster map data
+- population: data is fetched by scripts in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
+- flood-extents: nation-wide flood extent per return period. TODO: add source.
+- mock-events: Disaster data comes from mock runs of the pipeline. It was initially populated with mock data from IBFv1. [See here](https://github.com/rodekruis/IBF-system/blob/master/services/API-service/geoserver-volume/raster-files/README.md) for that initial source.
 
 ### pipelines
 
