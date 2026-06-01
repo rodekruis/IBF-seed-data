@@ -1,0 +1,10 @@
+{
+  "country": "MWI",
+  "return_periods": [
+    10,
+    20,
+    50,
+    75,
+    100
+  ]
+}
