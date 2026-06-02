@@ -36,4 +36,7 @@ Raster map data
 
 ### pipelines
 
-Data ingested by the pipelines. Includes both actual source data (such as station to admin-area mappings) as well as mock data, needed for test runs. The pipeline code is in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
+Data ingested by the pipelines. The pipeline code is in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
+
+- Source data (station thresholds, admin mappings) lives directly in `pipelines/`
+- Synthetic mock data lives in `pipelines/mock-data/`, organized by hazard type (floods, drought). See `pipelines/mock-data/README.md` for details.
