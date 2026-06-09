@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -81,6 +81,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -93,7 +94,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -202,6 +203,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -214,7 +216,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -347,6 +349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -359,7 +362,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -576,6 +579,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -588,7 +592,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -717,6 +721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -729,7 +734,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -794,6 +799,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -806,7 +812,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -859,6 +865,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -871,7 +878,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -976,6 +983,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -988,7 +996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1177,6 +1185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1189,7 +1198,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1226,6 +1235,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1238,7 +1248,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1379,6 +1389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1391,7 +1402,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1508,6 +1519,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1520,7 +1532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1669,6 +1681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1681,7 +1694,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1830,6 +1843,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1842,7 +1856,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1919,6 +1933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -1931,7 +1946,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2048,6 +2063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2060,7 +2076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2209,6 +2225,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2221,7 +2238,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2394,6 +2411,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2406,7 +2424,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2547,6 +2565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2559,7 +2578,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2660,6 +2679,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2672,7 +2692,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2765,6 +2785,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2777,7 +2798,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2862,6 +2883,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2874,7 +2896,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2967,6 +2989,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -2979,7 +3002,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3116,6 +3139,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -3128,7 +3152,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3625,6 +3649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -3637,7 +3662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3794,6 +3819,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -3806,7 +3832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3927,6 +3953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -3939,7 +3966,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3988,6 +4015,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4000,7 +4028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4077,6 +4105,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4089,7 +4118,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4182,6 +4211,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4194,7 +4224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4291,6 +4321,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4303,7 +4334,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4360,6 +4391,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4372,7 +4404,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4469,6 +4501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4481,7 +4514,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4554,6 +4587,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4566,7 +4600,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4667,6 +4701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4679,7 +4714,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4832,6 +4867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -4844,7 +4880,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4993,6 +5029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5005,7 +5042,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5186,6 +5223,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5198,7 +5236,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5307,6 +5345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5472,6 +5511,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5484,7 +5524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5561,6 +5601,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5573,7 +5614,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5670,6 +5711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5682,7 +5724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5803,6 +5845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5815,7 +5858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5856,6 +5899,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5868,7 +5912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5965,6 +6009,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -5977,7 +6022,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6078,6 +6123,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6090,7 +6136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6215,6 +6261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6227,7 +6274,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6296,6 +6343,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6308,7 +6356,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6449,6 +6497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6461,7 +6510,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6602,6 +6651,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6614,7 +6664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6799,6 +6849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6811,7 +6862,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6928,6 +6979,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -6940,7 +6992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7013,6 +7065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7025,7 +7078,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7118,6 +7171,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7130,7 +7184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7235,6 +7289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7247,7 +7302,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7316,6 +7371,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7328,7 +7384,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7449,6 +7505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7461,7 +7518,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7602,6 +7659,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7614,7 +7672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7683,6 +7741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7695,7 +7754,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7944,6 +8003,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -7956,7 +8016,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8101,6 +8161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8113,7 +8174,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8246,6 +8307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8258,7 +8320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8407,6 +8469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8419,7 +8482,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8560,6 +8623,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8572,7 +8636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8725,6 +8789,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8737,7 +8802,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8838,6 +8903,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8850,7 +8916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8911,6 +8977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -8923,7 +8990,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9036,6 +9103,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9048,7 +9116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9157,6 +9225,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9169,7 +9238,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9330,6 +9399,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9342,7 +9412,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9411,6 +9481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9423,7 +9494,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9576,6 +9647,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9588,7 +9660,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9673,6 +9745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9685,7 +9758,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9790,6 +9863,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9802,7 +9876,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9875,6 +9949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9887,7 +9962,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9972,6 +10047,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -9984,7 +10060,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10093,6 +10169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10105,7 +10182,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10246,6 +10323,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10258,7 +10336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10343,6 +10421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10355,7 +10434,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10444,6 +10523,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10456,7 +10536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10537,6 +10617,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10549,7 +10630,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10622,6 +10703,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10634,7 +10716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10771,6 +10853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10783,7 +10866,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10892,6 +10975,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -10904,7 +10988,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10993,6 +11077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11005,7 +11090,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11110,6 +11195,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11122,7 +11208,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11195,6 +11281,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11207,7 +11294,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11336,6 +11423,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11348,7 +11436,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11461,6 +11549,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11473,7 +11562,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11570,6 +11659,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11582,7 +11672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11751,6 +11841,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11763,7 +11854,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11840,6 +11931,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11852,7 +11944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11921,6 +12013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -11933,7 +12026,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12094,6 +12187,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12106,7 +12200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12207,6 +12301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12219,7 +12314,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12384,6 +12479,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12396,7 +12492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12525,6 +12621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12537,7 +12634,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12646,6 +12743,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12658,7 +12756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12779,6 +12877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12791,7 +12890,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12964,6 +13063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -12976,7 +13076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13101,6 +13201,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -13113,7 +13214,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13394,6 +13495,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -13406,7 +13508,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13547,6 +13649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -13559,7 +13662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13704,6 +13807,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -13716,7 +13820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13805,6 +13909,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -14122,6 +14227,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -15279,6 +15385,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -17200,6 +17307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -17212,7 +17320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17317,6 +17425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -17790,6 +17899,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -18619,6 +18729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -18631,7 +18742,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18828,6 +18939,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -18840,7 +18952,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18985,6 +19097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -21582,6 +21695,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -21594,7 +21708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21723,6 +21837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -21735,7 +21850,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21776,6 +21891,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -21788,7 +21904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21845,6 +21961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -21857,7 +21974,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22046,6 +22163,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22058,7 +22176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22179,6 +22297,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22191,7 +22310,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22252,6 +22371,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22264,7 +22384,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22365,6 +22485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22377,7 +22498,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22510,6 +22631,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22522,7 +22644,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22667,6 +22789,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22679,7 +22802,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22780,6 +22903,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22792,7 +22916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22913,6 +23037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -22925,7 +23050,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23046,6 +23171,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23058,7 +23184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23135,6 +23261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23147,7 +23274,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23288,6 +23415,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23300,7 +23428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23417,6 +23545,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23429,7 +23558,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23510,6 +23639,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23522,7 +23652,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23663,6 +23793,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23675,7 +23806,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23784,6 +23915,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23796,7 +23928,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23837,6 +23969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23849,7 +23982,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23986,6 +24119,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -23998,7 +24132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24083,6 +24217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -24095,7 +24230,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24184,6 +24319,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -24196,7 +24332,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24333,6 +24469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -24345,7 +24482,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24550,6 +24687,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -24562,7 +24700,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24775,6 +24913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -24787,7 +24926,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25088,6 +25227,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -25100,7 +25240,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25489,6 +25629,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -25501,7 +25642,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25782,6 +25923,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -25794,7 +25936,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26055,6 +26197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -26067,7 +26210,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26328,6 +26471,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -26340,7 +26484,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26481,6 +26625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -26493,7 +26638,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26618,6 +26763,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -26630,7 +26776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26791,6 +26937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -26803,7 +26950,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26948,6 +27095,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -26960,7 +27108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27177,6 +27325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -27189,7 +27338,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27390,6 +27539,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -27402,7 +27552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27547,6 +27697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -27559,7 +27710,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27676,6 +27827,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -27688,7 +27840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27825,6 +27977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -27837,7 +27990,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28114,6 +28267,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -28126,7 +28280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28259,6 +28413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -28271,7 +28426,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28436,6 +28591,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -28448,7 +28604,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28761,6 +28917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -28773,7 +28930,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28922,6 +29079,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -28934,7 +29092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29211,6 +29369,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -29223,7 +29382,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29448,6 +29607,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -29460,7 +29620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29629,6 +29789,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -29641,7 +29802,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29758,6 +29919,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -29770,7 +29932,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29911,6 +30073,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -29923,7 +30086,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30076,6 +30239,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30088,7 +30252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30213,6 +30377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30225,7 +30390,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30342,6 +30507,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30354,7 +30520,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30439,6 +30605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30451,7 +30618,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30508,6 +30675,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30520,7 +30688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30569,6 +30737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30581,7 +30750,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30614,6 +30783,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30626,7 +30796,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30707,6 +30877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30719,7 +30890,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30804,6 +30975,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30816,7 +30988,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30897,6 +31069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -30909,7 +31082,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30994,6 +31167,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -31006,7 +31180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31175,6 +31349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -31187,7 +31362,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31460,6 +31635,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -31472,7 +31648,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31593,6 +31769,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -31605,7 +31782,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31882,6 +32059,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -31894,7 +32072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32023,6 +32201,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32035,7 +32214,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32196,6 +32375,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32208,7 +32388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32305,6 +32485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32317,7 +32498,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32474,6 +32655,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32486,7 +32668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32579,6 +32761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32591,7 +32774,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32724,6 +32907,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32736,7 +32920,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32881,6 +33065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -32893,7 +33078,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33110,6 +33295,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -33122,7 +33308,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33311,6 +33497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",
@@ -33323,7 +33510,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33444,6 +33631,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Sudan",
         "ADM0_PCODE": "SD",
         "ADM0_ISO_A2": "SD",
         "ADM0_ISO_A3": "SDN",

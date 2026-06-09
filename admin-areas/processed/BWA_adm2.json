@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -81,6 +81,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -93,7 +94,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -142,6 +143,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -154,7 +156,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -191,6 +193,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -203,7 +206,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -236,6 +239,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -248,7 +252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -281,6 +285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -293,7 +298,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -322,6 +327,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -334,7 +340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -363,6 +369,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -375,7 +382,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -558,6 +565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -570,7 +578,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -723,6 +731,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -735,7 +744,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -792,6 +801,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -959,6 +969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -971,7 +982,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1112,6 +1123,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -1124,7 +1136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1261,6 +1273,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -1273,7 +1286,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1446,6 +1459,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -1458,7 +1472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1671,6 +1685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -1683,7 +1698,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2016,6 +2031,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -2028,7 +2044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2307,6 +2323,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -2319,7 +2336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2502,6 +2519,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -2514,7 +2532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2837,6 +2855,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -2849,7 +2868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3132,6 +3151,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3144,7 +3164,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3337,6 +3357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3349,7 +3370,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3490,6 +3511,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3502,7 +3524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3543,6 +3565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3555,7 +3578,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3844,6 +3867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3856,7 +3880,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3897,6 +3921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3909,7 +3934,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3946,6 +3971,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -3958,7 +3984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4867,6 +4893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",
@@ -4879,7 +4906,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4928,6 +4955,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Botswana",
         "ADM0_PCODE": "BW",
         "ADM0_ISO_A2": "BW",
         "ADM0_ISO_A3": "BWA",

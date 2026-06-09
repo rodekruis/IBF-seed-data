@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -205,6 +205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -640,6 +641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -650,7 +652,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1027,6 +1029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -1434,6 +1437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -1444,7 +1448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1665,6 +1669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -1675,7 +1680,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2180,6 +2185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -2763,6 +2769,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -2773,7 +2780,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3238,6 +3245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -3248,7 +3256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3509,6 +3517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -3728,6 +3737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -4039,6 +4049,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -4049,7 +4060,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4578,6 +4589,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -4588,7 +4600,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4861,6 +4873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -5460,6 +5473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",
@@ -5787,6 +5801,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Liberia",
         "ADM0_PCODE": "LR",
         "ADM0_ISO_A2": "LR",
         "ADM0_ISO_A3": "LBR",

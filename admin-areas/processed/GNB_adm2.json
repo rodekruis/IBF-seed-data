@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -141,6 +141,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -153,7 +154,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -258,6 +259,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -270,7 +272,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -423,6 +425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -435,7 +438,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -504,6 +507,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -516,7 +520,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -625,6 +629,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -637,7 +642,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -750,6 +755,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -1059,6 +1065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -1148,6 +1155,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -1160,7 +1168,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1197,6 +1205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -1426,6 +1435,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -4111,6 +4121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -5216,6 +5227,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -7245,6 +7257,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -7257,7 +7270,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7366,6 +7379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -7499,6 +7513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -7648,6 +7663,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -8357,6 +8373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -8514,6 +8531,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -8526,7 +8544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8619,6 +8637,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -8631,7 +8650,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8856,6 +8875,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -8868,7 +8888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9045,6 +9065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -9057,7 +9078,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9166,6 +9187,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -9178,7 +9200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9323,6 +9345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -9335,7 +9358,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9520,6 +9543,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -9532,7 +9556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9677,6 +9701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -9689,7 +9714,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9798,6 +9823,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -9810,7 +9836,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9927,6 +9953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10104,6 +10131,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10116,7 +10144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10177,6 +10205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10189,7 +10218,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10282,6 +10311,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10294,7 +10324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10387,6 +10417,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10399,7 +10430,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10476,6 +10507,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10705,6 +10737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -10822,6 +10855,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -11011,6 +11045,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -11276,6 +11311,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -11288,7 +11324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11385,6 +11421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -11397,7 +11434,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11490,6 +11527,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",
@@ -11502,7 +11540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11567,6 +11605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea-Bissau",
         "ADM0_PCODE": "GW",
         "ADM0_ISO_A2": "GW",
         "ADM0_ISO_A3": "GNB",

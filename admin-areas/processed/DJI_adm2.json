@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41,6 +41,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -53,7 +54,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -98,6 +99,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -331,6 +333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -343,7 +346,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -396,6 +399,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -485,6 +489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -497,7 +502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -546,6 +551,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -558,7 +564,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -619,6 +625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -631,7 +638,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -668,6 +675,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -680,7 +688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -709,6 +717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -721,7 +730,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -770,6 +779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -967,6 +977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -979,7 +990,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1060,6 +1071,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1072,7 +1084,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1129,6 +1141,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1141,7 +1154,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1190,6 +1203,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1202,7 +1216,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1267,6 +1281,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1684,6 +1699,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1696,7 +1712,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1741,6 +1757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1753,7 +1770,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1818,6 +1835,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -1830,7 +1848,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1875,6 +1893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",
@@ -2244,6 +2263,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Djibouti",
         "ADM0_PCODE": "DJ",
         "ADM0_ISO_A2": "DJ",
         "ADM0_ISO_A3": "DJI",

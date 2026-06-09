@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -137,6 +137,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -147,7 +148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -276,6 +277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -286,7 +288,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -515,6 +517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -525,7 +528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -994,6 +997,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -1004,7 +1008,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1537,6 +1541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -2016,6 +2021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -2026,7 +2032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2511,6 +2517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -2521,7 +2528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3014,6 +3021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -3024,7 +3032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3553,6 +3561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -3563,7 +3572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3984,6 +3993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -3994,7 +4004,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4315,6 +4325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -4325,7 +4336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4586,6 +4597,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -4596,7 +4608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4841,6 +4853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -4851,7 +4864,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5256,6 +5269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -5266,7 +5280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5471,6 +5485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -5481,7 +5496,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5762,6 +5777,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -5772,7 +5788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6361,6 +6377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -6371,7 +6388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6644,6 +6661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -6654,7 +6672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7007,6 +7025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -7017,7 +7036,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7390,6 +7409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -7400,7 +7420,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7897,6 +7917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -7907,7 +7928,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8188,6 +8209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -8198,7 +8220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8491,6 +8513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -8501,7 +8524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8906,6 +8929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -8916,7 +8940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9229,6 +9253,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -9239,7 +9264,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9572,6 +9597,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -9582,7 +9608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9863,6 +9889,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -9873,7 +9900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10482,6 +10509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -11053,6 +11081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -11063,7 +11092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11376,6 +11405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -11386,7 +11416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12127,6 +12157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -12690,6 +12721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",
@@ -12700,7 +12732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13117,6 +13149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Côted'Ivoire",
         "ADM0_PCODE": "CI",
         "ADM0_ISO_A2": "CI",
         "ADM0_ISO_A3": "CIV",

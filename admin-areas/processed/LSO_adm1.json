@@ -1629,12 +1629,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 310117,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Berea",
-        "ADM1_PCODE": "LSD",
-        "POPULATION": 310117
+        "ADM1_PCODE": "LSD"
       }
     },
     {
@@ -2913,12 +2914,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 139673,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Butha-Buthe",
-        "ADM1_PCODE": "LSB",
-        "POPULATION": 139673
+        "ADM1_PCODE": "LSB"
       }
     },
     {
@@ -5821,12 +5823,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 399641,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Leribe",
-        "ADM1_PCODE": "LSC",
-        "POPULATION": 399641
+        "ADM1_PCODE": "LSC"
       }
     },
     {
@@ -7633,12 +7636,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 209316,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Mafeteng",
-        "ADM1_PCODE": "LSE",
-        "POPULATION": 209316
+        "ADM1_PCODE": "LSE"
       }
     },
     {
@@ -10469,12 +10473,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 616495,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Maseru",
-        "ADM1_PCODE": "LSA",
-        "POPULATION": 616495
+        "ADM1_PCODE": "LSA"
       }
     },
     {
@@ -13325,12 +13330,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 194878,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Mohale's Hoek",
-        "ADM1_PCODE": "LSF",
-        "POPULATION": 194878
+        "ADM1_PCODE": "LSF"
       }
     },
     {
@@ -15621,12 +15627,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 119914,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Mokhotlong",
-        "ADM1_PCODE": "LSJ",
-        "POPULATION": 119914
+        "ADM1_PCODE": "LSJ"
       }
     },
     {
@@ -17533,12 +17540,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 88364,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Qacha's Nek",
-        "ADM1_PCODE": "LSH",
-        "POPULATION": 88364
+        "ADM1_PCODE": "LSH"
       }
     },
     {
@@ -19445,12 +19453,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 136632,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Quthing",
-        "ADM1_PCODE": "LSG",
-        "POPULATION": 136632
+        "ADM1_PCODE": "LSG"
       }
     },
     {
@@ -22717,12 +22726,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 161019,
+        "ADM0_EN": "Lesotho",
         "ADM0_PCODE": "LS",
         "ADM0_ISO_A2": "LS",
         "ADM0_ISO_A3": "LSO",
         "ADM1_EN": "Thaba-Tseka",
-        "ADM1_PCODE": "LSK",
-        "POPULATION": 161019
+        "ADM1_PCODE": "LSK"
       }
     }
   ]

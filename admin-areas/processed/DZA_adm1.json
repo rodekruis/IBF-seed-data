@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -477,6 +477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -487,7 +488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -832,6 +833,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -2371,6 +2373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -2926,6 +2929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -3721,6 +3725,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -3731,7 +3736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4328,6 +4333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -4338,7 +4344,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5035,6 +5041,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -6454,6 +6461,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -6464,7 +6472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7129,6 +7137,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -7139,7 +7148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7400,6 +7409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -7410,7 +7420,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7715,6 +7725,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -7725,7 +7736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8018,6 +8029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -8293,6 +8305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -8932,6 +8945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -8942,7 +8956,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9195,6 +9209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -9205,7 +9220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9870,6 +9885,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -9880,7 +9896,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10349,6 +10365,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -10359,7 +10376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10700,6 +10717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -11403,6 +11421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -11413,7 +11432,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11598,6 +11617,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -11608,7 +11628,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11893,6 +11913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -11903,7 +11924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12380,6 +12401,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -13479,6 +13501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -13489,7 +13512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13898,6 +13921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -13908,7 +13932,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14341,6 +14365,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -14351,7 +14376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14756,6 +14781,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -14766,7 +14792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15287,6 +15313,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -15297,7 +15324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15570,6 +15597,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -15965,6 +15993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -15975,7 +16004,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16656,6 +16685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -16666,7 +16696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17071,6 +17101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -17870,6 +17901,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -17880,7 +17912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18089,6 +18121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -18099,7 +18132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18516,6 +18549,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -18526,7 +18560,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18911,6 +18945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -18921,7 +18956,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19222,6 +19257,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -19232,7 +19268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19725,6 +19761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -19735,7 +19772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20252,6 +20289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -22343,6 +22381,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -22353,7 +22392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22654,6 +22693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -23229,6 +23269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -23239,7 +23280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23672,6 +23713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -23682,7 +23724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24179,6 +24221,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -24189,7 +24232,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24466,6 +24509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -25173,6 +25217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -25183,7 +25228,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25492,6 +25537,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -25831,6 +25877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",
@@ -26398,6 +26445,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Algeria",
         "ADM0_PCODE": "DZ",
         "ADM0_ISO_A2": "DZ",
         "ADM0_ISO_A3": "DZA",

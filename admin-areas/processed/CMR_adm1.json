@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -841,6 +841,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -851,7 +852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1888,6 +1889,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -1898,7 +1900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2955,6 +2957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -2965,7 +2968,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3746,6 +3749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -4645,6 +4649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -4655,7 +4660,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5480,6 +5485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -5490,7 +5496,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5931,6 +5937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -5941,7 +5948,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6430,6 +6437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -6440,7 +6448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7149,6 +7157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",
@@ -8820,6 +8829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Cameroon",
         "ADM0_PCODE": "CM",
         "ADM0_ISO_A2": "CM",
         "ADM0_ISO_A3": "CMR",

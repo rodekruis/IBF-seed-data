@@ -9493,21 +9493,10 @@
         ]
       },
       "properties": {
-        "POPULATION": null,
         "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
-        "ADM0_ISO_A3": "COG",
-        "ADM1_EN": null,
-        "ADM1_PCODE": null,
-        "ADM2_EN": null,
-        "ADM2_PCODE": null,
-        "ADM3_EN": null,
-        "ADM3_PCODE": null,
-        "ADM3_REF": null,
-        "ADM4_EN": null,
-        "ADM4_PCODE": null,
-        "ADM4_REF": null
+        "ADM0_ISO_A3": "COG"
       }
     }
   ]

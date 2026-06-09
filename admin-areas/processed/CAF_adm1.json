@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -493,6 +493,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -503,7 +504,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -892,6 +893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -902,7 +904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1331,6 +1333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -1341,7 +1344,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1678,6 +1681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -1688,7 +1692,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2065,6 +2069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -2075,7 +2080,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2596,6 +2601,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -2606,7 +2612,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3347,6 +3353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -3357,7 +3364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3646,6 +3653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -3656,7 +3664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4117,6 +4125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -4127,7 +4136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4720,6 +4729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -4730,7 +4740,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5515,6 +5525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -5525,7 +5536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6298,6 +6309,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -6308,7 +6320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7009,6 +7021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -7019,7 +7032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7412,6 +7425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -7422,7 +7436,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8171,6 +8185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -8181,7 +8196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9646,6 +9661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",
@@ -9656,7 +9672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9713,6 +9729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CentralAfricanRepublic",
         "ADM0_PCODE": "CF",
         "ADM0_ISO_A2": "CF",
         "ADM0_ISO_A3": "CAF",

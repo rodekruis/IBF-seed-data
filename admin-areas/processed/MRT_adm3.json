@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -45,6 +45,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -59,7 +60,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -100,6 +101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -114,7 +116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -163,6 +165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -177,7 +180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -218,6 +221,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -232,7 +236,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -265,6 +269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -279,7 +284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -324,6 +329,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -338,7 +344,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -367,6 +373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -381,7 +388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -422,6 +429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -436,7 +444,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -497,6 +505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -511,7 +520,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -560,6 +569,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -574,7 +584,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -635,6 +645,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -649,7 +660,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -682,6 +693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -696,7 +708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -737,6 +749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -751,7 +764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -804,6 +817,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -818,7 +832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -859,6 +873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -873,7 +888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -922,6 +937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -936,7 +952,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -965,6 +981,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -979,7 +996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1080,6 +1097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1094,7 +1112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1147,6 +1165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1161,7 +1180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1198,6 +1217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1212,7 +1232,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1277,6 +1297,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1291,7 +1312,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1340,6 +1361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1354,7 +1376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1395,6 +1417,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1409,7 +1432,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1450,6 +1473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1464,7 +1488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1501,6 +1525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1515,7 +1540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1600,6 +1625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1614,7 +1640,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1655,6 +1681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1669,7 +1696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1718,6 +1745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1732,7 +1760,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1777,6 +1805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1791,7 +1820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1884,6 +1913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1898,7 +1928,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1975,6 +2005,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -1989,7 +2020,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2046,6 +2077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2060,7 +2092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2129,6 +2161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2143,7 +2176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2176,6 +2209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2190,7 +2224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2231,6 +2265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2245,7 +2280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2282,6 +2317,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2296,7 +2332,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2357,6 +2393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2371,7 +2408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2408,6 +2445,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2422,7 +2460,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2491,6 +2529,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2505,7 +2544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2578,6 +2617,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2592,7 +2632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2641,6 +2681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2655,7 +2696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2704,6 +2745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2718,7 +2760,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2783,6 +2825,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2797,7 +2840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2842,6 +2885,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2856,7 +2900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2885,6 +2929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2899,7 +2944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2984,6 +3029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -2998,7 +3044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3047,6 +3093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3061,7 +3108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3122,6 +3169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3136,7 +3184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3221,6 +3269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3235,7 +3284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3296,6 +3345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3310,7 +3360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3379,6 +3429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3393,7 +3444,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3422,6 +3473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3436,7 +3488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3529,6 +3581,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3543,7 +3596,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3588,6 +3641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3602,7 +3656,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3671,6 +3725,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3685,7 +3740,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3750,6 +3805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3764,7 +3820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3793,6 +3849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3807,7 +3864,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3848,6 +3905,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3862,7 +3920,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3927,6 +3985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -3941,7 +4000,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3986,6 +4045,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4000,7 +4060,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4069,6 +4129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4083,7 +4144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4212,6 +4273,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4226,7 +4288,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4263,6 +4325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4277,7 +4340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4322,6 +4385,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4336,7 +4400,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4389,6 +4453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4403,7 +4468,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4444,6 +4509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4458,7 +4524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4487,6 +4553,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4501,7 +4568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4606,6 +4673,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4620,7 +4688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4693,6 +4761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4707,7 +4776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4820,6 +4889,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4834,7 +4904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4875,6 +4945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4889,7 +4960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4946,6 +5017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -4960,7 +5032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5029,6 +5101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5043,7 +5116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5084,6 +5157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5098,7 +5172,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5131,6 +5205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5145,7 +5220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5194,6 +5269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5208,7 +5284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5421,6 +5497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5435,7 +5512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5464,6 +5541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5478,7 +5556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5591,6 +5669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5605,7 +5684,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5646,6 +5725,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5660,7 +5740,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5757,6 +5837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5771,7 +5852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5808,6 +5889,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5822,7 +5904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5867,6 +5949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5881,7 +5964,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5974,6 +6057,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -5988,7 +6072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6081,6 +6165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6095,7 +6180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6200,6 +6285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6214,7 +6300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6263,6 +6349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6277,7 +6364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6378,6 +6465,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6392,7 +6480,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6565,6 +6653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6579,7 +6668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6648,6 +6737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6662,7 +6752,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6695,6 +6785,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6709,7 +6800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6866,6 +6957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6880,7 +6972,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6925,6 +7017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6939,7 +7032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6984,6 +7077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -6998,7 +7092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7035,6 +7129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7049,7 +7144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7114,6 +7209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7128,7 +7224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7189,6 +7285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7203,7 +7300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7248,6 +7345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7262,7 +7360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7327,6 +7425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7341,7 +7440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7378,6 +7477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7392,7 +7492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7445,6 +7545,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7459,7 +7560,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7504,6 +7605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7518,7 +7620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7551,6 +7653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7565,7 +7668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7610,6 +7713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7624,7 +7728,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7653,6 +7757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7667,7 +7772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7712,6 +7817,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7726,7 +7832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7783,6 +7889,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7797,7 +7904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7846,6 +7953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7860,7 +7968,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7909,6 +8017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -7923,7 +8032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8000,6 +8109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8014,7 +8124,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8071,6 +8181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8085,7 +8196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8146,6 +8257,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8160,7 +8272,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8201,6 +8313,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8215,7 +8328,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8276,6 +8389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8290,7 +8404,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8319,6 +8433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8333,7 +8448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8386,6 +8501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8400,7 +8516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8441,6 +8557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8455,7 +8572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8504,6 +8621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8518,7 +8636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8599,6 +8717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8613,7 +8732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8650,6 +8769,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8664,7 +8784,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8697,6 +8817,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8711,7 +8832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8748,6 +8869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8762,7 +8884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8795,6 +8917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8809,7 +8932,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8838,6 +8961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8852,7 +8976,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8917,6 +9041,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -8931,7 +9056,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8988,6 +9113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9002,7 +9128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9043,6 +9169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9057,7 +9184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9098,6 +9225,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9112,7 +9240,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9173,6 +9301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9187,7 +9316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9244,6 +9373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9258,7 +9388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9319,6 +9449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9333,7 +9464,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9382,6 +9513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9396,7 +9528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9489,6 +9621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9503,7 +9636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9560,6 +9693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9574,7 +9708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9651,6 +9785,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9665,7 +9800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9734,6 +9869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9748,7 +9884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9805,6 +9941,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9819,7 +9956,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9872,6 +10009,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9886,7 +10024,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9923,6 +10061,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -9937,7 +10076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10002,6 +10141,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10016,7 +10156,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10049,6 +10189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10063,7 +10204,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10112,6 +10253,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10126,7 +10268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10183,6 +10325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10197,7 +10340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10250,6 +10393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10264,7 +10408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10313,6 +10457,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10327,7 +10472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10368,6 +10513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10382,7 +10528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10443,6 +10589,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10457,7 +10604,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10522,6 +10669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10536,7 +10684,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10593,6 +10741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10607,7 +10756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10644,6 +10793,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10658,7 +10808,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10707,6 +10857,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10721,7 +10872,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10766,6 +10917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10780,7 +10932,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10837,6 +10989,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10851,7 +11004,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10888,6 +11041,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10902,7 +11056,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10947,6 +11101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -10961,7 +11116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11054,6 +11209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11068,7 +11224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11145,6 +11301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11159,7 +11316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11196,6 +11353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11210,7 +11368,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11259,6 +11417,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11273,7 +11432,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11318,6 +11477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11332,7 +11492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11397,6 +11557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11411,7 +11572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11484,6 +11645,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11498,7 +11660,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11531,6 +11693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11545,7 +11708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11680,6 +11843,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11694,7 +11858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11763,6 +11927,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11777,7 +11942,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11834,6 +11999,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11848,7 +12014,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11905,6 +12071,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11919,7 +12086,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11976,6 +12143,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -11990,7 +12158,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12067,6 +12235,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12081,7 +12250,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12138,6 +12307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12152,7 +12322,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12205,6 +12375,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12219,7 +12390,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12260,6 +12431,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12274,7 +12446,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12315,6 +12487,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12329,7 +12502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12414,6 +12587,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12428,7 +12602,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12477,6 +12651,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12491,7 +12666,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12678,6 +12853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12692,7 +12868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12745,6 +12921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12759,7 +12936,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12828,6 +13005,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12842,7 +13020,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12883,6 +13061,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -12897,7 +13076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12990,6 +13169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13004,7 +13184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13157,6 +13337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13171,7 +13352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13220,6 +13401,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13234,7 +13416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13391,6 +13573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13405,7 +13588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13486,6 +13669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13500,7 +13684,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13565,6 +13749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13684,6 +13869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13883,6 +14069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -13897,7 +14084,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13926,6 +14113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -14173,6 +14361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -14187,7 +14376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14228,6 +14417,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -14895,6 +15085,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -14909,7 +15100,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14938,6 +15129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -14952,7 +15144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15013,6 +15205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15027,7 +15220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15112,6 +15305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15126,7 +15320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15183,6 +15377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15197,7 +15392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15230,6 +15425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15244,7 +15440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15321,6 +15517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15335,7 +15532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15396,6 +15593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15410,7 +15608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15467,6 +15665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15481,7 +15680,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15550,6 +15749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15564,7 +15764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15661,6 +15861,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15675,7 +15876,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15724,6 +15925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15738,7 +15940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15811,6 +16013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15825,7 +16028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15866,6 +16069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15880,7 +16084,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15917,6 +16121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15931,7 +16136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15976,6 +16181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -15990,7 +16196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16083,6 +16289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16097,7 +16304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16146,6 +16353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16160,7 +16368,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16205,6 +16413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16219,7 +16428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16260,6 +16469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16274,7 +16484,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16307,6 +16517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16321,7 +16532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16358,6 +16569,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16372,7 +16584,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16413,6 +16625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16427,7 +16640,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16488,6 +16701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16502,7 +16716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16547,6 +16761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16561,7 +16776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16614,6 +16829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16628,7 +16844,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16697,6 +16913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16711,7 +16928,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16760,6 +16977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16774,7 +16992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16811,6 +17029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16825,7 +17044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16858,6 +17077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16872,7 +17092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16913,6 +17133,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16927,7 +17148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16968,6 +17189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -16982,7 +17204,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17015,6 +17237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17029,7 +17252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17070,6 +17293,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17084,7 +17308,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17199,6 +17423,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17213,7 +17438,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17254,6 +17479,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17268,7 +17494,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17349,6 +17575,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17363,7 +17590,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17428,6 +17655,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17442,7 +17670,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17499,6 +17727,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17513,7 +17742,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17562,6 +17791,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17576,7 +17806,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17613,6 +17843,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17627,7 +17858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17656,6 +17887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17670,7 +17902,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17703,6 +17935,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17717,7 +17950,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17750,6 +17983,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17764,7 +17998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17809,6 +18043,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17823,7 +18058,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17864,6 +18099,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17878,7 +18114,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17907,6 +18143,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",
@@ -17921,7 +18158,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17958,6 +18195,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mauritania",
         "ADM0_PCODE": "MR",
         "ADM0_ISO_A2": "MR",
         "ADM0_ISO_A3": "MRT",

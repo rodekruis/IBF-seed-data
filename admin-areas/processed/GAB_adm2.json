@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -237,6 +237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -592,6 +593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -865,6 +867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -877,7 +880,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -926,6 +929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -938,7 +942,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1059,6 +1063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1071,7 +1076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1152,6 +1157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1164,7 +1170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1317,6 +1323,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1329,7 +1336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1418,6 +1425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1430,7 +1438,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1579,6 +1587,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1591,7 +1600,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1640,6 +1649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1652,7 +1662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1813,6 +1823,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -1825,7 +1836,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2058,6 +2069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -2070,7 +2082,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2435,6 +2447,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -2700,6 +2713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -2712,7 +2726,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2821,6 +2835,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -2833,7 +2848,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3022,6 +3037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -3034,7 +3050,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3275,6 +3291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -3287,7 +3304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3452,6 +3469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -3821,6 +3839,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -3833,7 +3852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3994,6 +4013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -4227,6 +4247,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -4239,7 +4260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4348,6 +4369,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -4360,7 +4382,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4549,6 +4571,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -4561,7 +4584,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4750,6 +4773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -4762,7 +4786,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5059,6 +5083,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5071,7 +5096,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5168,6 +5193,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5180,7 +5206,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5353,6 +5379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5365,7 +5392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5462,6 +5489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5474,7 +5502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5619,6 +5647,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5631,7 +5660,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5724,6 +5753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5736,7 +5766,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5881,6 +5911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -5893,7 +5924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6054,6 +6085,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -6066,7 +6098,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6467,6 +6499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -6479,7 +6512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6644,6 +6677,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -6656,7 +6690,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6813,6 +6847,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -6825,7 +6860,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7078,6 +7113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -7090,7 +7126,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7363,6 +7399,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -7375,7 +7412,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7560,6 +7597,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -7572,7 +7610,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7929,6 +7967,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -7941,7 +7980,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8082,6 +8121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -8967,6 +9007,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -9260,6 +9301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -9272,7 +9314,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9421,6 +9463,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -9433,7 +9476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9518,6 +9561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -9530,7 +9574,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9887,6 +9931,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -9899,7 +9944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10008,6 +10053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -10020,7 +10066,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10165,6 +10211,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",
@@ -10177,7 +10224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10278,6 +10325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gabon",
         "ADM0_PCODE": "GA",
         "ADM0_ISO_A2": "GA",
         "ADM0_ISO_A3": "GAB",

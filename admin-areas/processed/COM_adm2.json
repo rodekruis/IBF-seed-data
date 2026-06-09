@@ -149,6 +149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -278,6 +279,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -290,7 +292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -327,6 +329,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -339,7 +342,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -376,6 +379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -481,6 +485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -562,6 +567,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -574,7 +580,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -603,6 +609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -615,7 +622,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -676,6 +683,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -688,7 +696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -733,6 +741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -745,7 +754,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -782,6 +791,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -794,7 +804,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -851,6 +861,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -863,7 +874,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -916,6 +927,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -928,7 +940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -973,6 +985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -985,7 +998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1014,6 +1027,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -1279,6 +1293,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -1291,7 +1306,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1336,6 +1351,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",
@@ -1841,6 +1857,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Comoros",
         "ADM0_PCODE": "KM",
         "ADM0_ISO_A2": "KM",
         "ADM0_ISO_A3": "COM",

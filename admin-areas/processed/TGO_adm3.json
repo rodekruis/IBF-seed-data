@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -65,6 +65,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -79,7 +80,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -132,6 +133,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -146,7 +148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -195,6 +197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -209,7 +212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -258,6 +261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -272,7 +276,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -305,6 +309,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -319,7 +324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -356,6 +361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -370,7 +376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -415,6 +421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -429,7 +436,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -478,6 +485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -492,7 +500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -545,6 +553,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -559,7 +568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -612,6 +621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -626,7 +636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -683,6 +693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -697,7 +708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -758,6 +769,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -772,7 +784,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -833,6 +845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -847,7 +860,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -896,6 +909,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -910,7 +924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -959,6 +973,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -973,7 +988,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1006,6 +1021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1020,7 +1036,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1101,6 +1117,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1115,7 +1132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1148,6 +1165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1162,7 +1180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1227,6 +1245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1241,7 +1260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1274,6 +1293,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1288,7 +1308,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1369,6 +1389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1383,7 +1404,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1428,6 +1449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1442,7 +1464,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1507,6 +1529,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1521,7 +1544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1570,6 +1593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1584,7 +1608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1637,6 +1661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1651,7 +1676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1716,6 +1741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1730,7 +1756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1811,6 +1837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1825,7 +1852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1930,6 +1957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1944,7 +1972,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1985,6 +2013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -1999,7 +2028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2048,6 +2077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2062,7 +2092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2095,6 +2125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2109,7 +2140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2154,6 +2185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2168,7 +2200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2221,6 +2253,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2235,7 +2268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2320,6 +2353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2334,7 +2368,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2379,6 +2413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2393,7 +2428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2470,6 +2505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2484,7 +2520,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2525,6 +2561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2539,7 +2576,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2584,6 +2621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2598,7 +2636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2671,6 +2709,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2685,7 +2724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2738,6 +2777,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2752,7 +2792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2785,6 +2825,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2799,7 +2840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2852,6 +2893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -2866,7 +2908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3003,6 +3045,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3017,7 +3060,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3090,6 +3133,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3104,7 +3148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3137,6 +3181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3151,7 +3196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3192,6 +3237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3206,7 +3252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3275,6 +3321,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3289,7 +3336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3358,6 +3405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3372,7 +3420,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3437,6 +3485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3451,7 +3500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3544,6 +3593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3558,7 +3608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3603,6 +3653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3617,7 +3668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3658,6 +3709,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3672,7 +3724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3709,6 +3761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3723,7 +3776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3776,6 +3829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3790,7 +3844,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3847,6 +3901,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3861,7 +3916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3890,6 +3945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3904,7 +3960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3981,6 +4037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -3995,7 +4052,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4052,6 +4109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4066,7 +4124,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4099,6 +4157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4113,7 +4172,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4178,6 +4237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4192,7 +4252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4245,6 +4305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4259,7 +4320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4292,6 +4353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4306,7 +4368,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4367,6 +4429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4381,7 +4444,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4410,6 +4473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4424,7 +4488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4477,6 +4541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4491,7 +4556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4576,6 +4641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4590,7 +4656,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4643,6 +4709,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4657,7 +4724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4770,6 +4837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4784,7 +4852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4849,6 +4917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4956,6 +5025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -4970,7 +5040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5035,6 +5105,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5049,7 +5120,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5086,6 +5157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5100,7 +5172,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5137,6 +5209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5151,7 +5224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5212,6 +5285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5226,7 +5300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5283,6 +5357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5297,7 +5372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5334,6 +5409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5348,7 +5424,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5377,6 +5453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5391,7 +5468,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5424,6 +5501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5438,7 +5516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5475,6 +5553,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5489,7 +5568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5546,6 +5625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5560,7 +5640,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5605,6 +5685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5619,7 +5700,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5648,6 +5729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5662,7 +5744,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5691,6 +5773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5705,7 +5788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5742,6 +5825,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5756,7 +5840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5817,6 +5901,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5831,7 +5916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5940,6 +6025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -5954,7 +6040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6003,6 +6089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6017,7 +6104,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6078,6 +6165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6092,7 +6180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6145,6 +6233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6159,7 +6248,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6200,6 +6289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6214,7 +6304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6267,6 +6357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6281,7 +6372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6338,6 +6429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6352,7 +6444,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6429,6 +6521,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6443,7 +6536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6500,6 +6593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6514,7 +6608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6571,6 +6665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6585,7 +6680,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6658,6 +6753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6672,7 +6768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6713,6 +6809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6727,7 +6824,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6772,6 +6869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6786,7 +6884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6823,6 +6921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6837,7 +6936,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6878,6 +6977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6892,7 +6992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6945,6 +7045,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -6959,7 +7060,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6988,6 +7089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7002,7 +7104,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7047,6 +7149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7061,7 +7164,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7102,6 +7205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7116,7 +7220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7161,6 +7265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7175,7 +7280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7232,6 +7337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7246,7 +7352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7287,6 +7393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7301,7 +7408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7346,6 +7453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7360,7 +7468,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7421,6 +7529,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7435,7 +7544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7468,6 +7577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7482,7 +7592,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7543,6 +7653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7557,7 +7668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7622,6 +7733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7636,7 +7748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7689,6 +7801,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7703,7 +7816,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7780,6 +7893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7794,7 +7908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7835,6 +7949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7849,7 +7964,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7898,6 +8013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7912,7 +8028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7965,6 +8081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -7979,7 +8096,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8068,6 +8185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8082,7 +8200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8119,6 +8237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8133,7 +8252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8186,6 +8305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8200,7 +8320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8237,6 +8357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8251,7 +8372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8280,6 +8401,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8294,7 +8416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8335,6 +8457,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8349,7 +8472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8386,6 +8509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8400,7 +8524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8457,6 +8581,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8471,7 +8596,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8504,6 +8629,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8518,7 +8644,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8571,6 +8697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8585,7 +8712,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8622,6 +8749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8636,7 +8764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8677,6 +8805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8691,7 +8820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8748,6 +8877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8762,7 +8892,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8799,6 +8929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8813,7 +8944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8846,6 +8977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8860,7 +8992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8897,6 +9029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8911,7 +9044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8944,6 +9077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -8958,7 +9092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8991,6 +9125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9005,7 +9140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9082,6 +9217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9096,7 +9232,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9153,6 +9289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9167,7 +9304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9212,6 +9349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9226,7 +9364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9275,6 +9413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9289,7 +9428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9318,6 +9457,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9332,7 +9472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9385,6 +9525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9399,7 +9540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9476,6 +9617,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9490,7 +9632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9575,6 +9717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9589,7 +9732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9634,6 +9777,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9648,7 +9792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9685,6 +9829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9699,7 +9844,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9736,6 +9881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9750,7 +9896,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9779,6 +9925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9793,7 +9940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9826,6 +9973,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9840,7 +9988,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9869,6 +10017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9883,7 +10032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9912,6 +10061,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9926,7 +10076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9959,6 +10109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -9973,7 +10124,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10010,6 +10161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10024,7 +10176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10089,6 +10241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10103,7 +10256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10136,6 +10289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10150,7 +10304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10179,6 +10333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10193,7 +10348,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10238,6 +10393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10252,7 +10408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10285,6 +10441,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10299,7 +10456,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10352,6 +10509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10366,7 +10524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10403,6 +10561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10417,7 +10576,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10450,6 +10609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10464,7 +10624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10513,6 +10673,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10527,7 +10688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10592,6 +10753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10606,7 +10768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10635,6 +10797,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10649,7 +10812,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10694,6 +10857,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10708,7 +10872,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10749,6 +10913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10763,7 +10928,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10804,6 +10969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10818,7 +10984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10903,6 +11069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10917,7 +11084,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10978,6 +11145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -10992,7 +11160,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11037,6 +11205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11051,7 +11220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11080,6 +11249,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11094,7 +11264,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11143,6 +11313,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11157,7 +11328,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11194,6 +11365,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11208,7 +11380,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11241,6 +11413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11255,7 +11428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11320,6 +11493,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11334,7 +11508,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11363,6 +11537,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11377,7 +11552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11426,6 +11601,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11440,7 +11616,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11493,6 +11669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11580,6 +11757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11594,7 +11772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11635,6 +11813,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11649,7 +11828,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11698,6 +11877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11712,7 +11892,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11765,6 +11945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11779,7 +11960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11860,6 +12041,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11874,7 +12056,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11919,6 +12101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -11933,7 +12116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11986,6 +12169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12000,7 +12184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12037,6 +12221,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12051,7 +12236,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12092,6 +12277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12106,7 +12292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12175,6 +12361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12189,7 +12376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12246,6 +12433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12260,7 +12448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12321,6 +12509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12335,7 +12524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12404,6 +12593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12418,7 +12608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12459,6 +12649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12473,7 +12664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12510,6 +12701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12524,7 +12716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12569,6 +12761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12583,7 +12776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12616,6 +12809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12630,7 +12824,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12679,6 +12873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12693,7 +12888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12734,6 +12929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12748,7 +12944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12789,6 +12985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12803,7 +13000,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12852,6 +13049,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12866,7 +13064,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12899,6 +13097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12913,7 +13112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12954,6 +13153,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -12968,7 +13168,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12997,6 +13197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13011,7 +13212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13040,6 +13241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13054,7 +13256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13087,6 +13289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13101,7 +13304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13170,6 +13373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13184,7 +13388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13221,6 +13425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13235,7 +13440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13308,6 +13513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13322,7 +13528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13367,6 +13573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13381,7 +13588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13442,6 +13649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13456,7 +13664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13541,6 +13749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13555,7 +13764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13608,6 +13817,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13622,7 +13832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13683,6 +13893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13697,7 +13908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13726,6 +13937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13740,7 +13952,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13793,6 +14005,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13807,7 +14020,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13852,6 +14065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13866,7 +14080,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13899,6 +14113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13913,7 +14128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13966,6 +14181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -13980,7 +14196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14013,6 +14229,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14027,7 +14244,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14064,6 +14281,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14078,7 +14296,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14119,6 +14337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14133,7 +14352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14166,6 +14385,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14180,7 +14400,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14253,6 +14473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14267,7 +14488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14320,6 +14541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14334,7 +14556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14383,6 +14605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14397,7 +14620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14434,6 +14657,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14448,7 +14672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14489,6 +14713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14503,7 +14728,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14548,6 +14773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14562,7 +14788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14623,6 +14849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14726,6 +14953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14740,7 +14968,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14785,6 +15013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14799,7 +15028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14836,6 +15065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14850,7 +15080,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14891,6 +15121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14905,7 +15136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14938,6 +15169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -14952,7 +15184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15001,6 +15233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15015,7 +15248,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15044,6 +15277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15058,7 +15292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15115,6 +15349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15129,7 +15364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15190,6 +15425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15204,7 +15440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15241,6 +15477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15255,7 +15492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15292,6 +15529,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15306,7 +15544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15371,6 +15609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15385,7 +15624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15446,6 +15685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15460,7 +15700,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15489,6 +15729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15503,7 +15744,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15580,6 +15821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15594,7 +15836,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15683,6 +15925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15697,7 +15940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15770,6 +16013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15784,7 +16028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15849,6 +16093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15863,7 +16108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15936,6 +16181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -15950,7 +16196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16019,6 +16265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16033,7 +16280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16090,6 +16337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16104,7 +16352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16181,6 +16429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16195,7 +16444,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16252,6 +16501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16266,7 +16516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16323,6 +16573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16337,7 +16588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16382,6 +16633,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16396,7 +16648,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16481,6 +16733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16495,7 +16748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16556,6 +16809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16570,7 +16824,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16671,6 +16925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16685,7 +16940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16774,6 +17029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16788,7 +17044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16853,6 +17109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16867,7 +17124,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16916,6 +17173,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16930,7 +17188,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16963,6 +17221,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -16977,7 +17236,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17014,6 +17273,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17028,7 +17288,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17077,6 +17337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17091,7 +17352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17152,6 +17413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17166,7 +17428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17235,6 +17497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17249,7 +17512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17286,6 +17549,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17300,7 +17564,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17345,6 +17609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17359,7 +17624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17424,6 +17689,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17438,7 +17704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17467,6 +17733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17481,7 +17748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17530,6 +17797,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17544,7 +17812,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17585,6 +17853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17599,7 +17868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17656,6 +17925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17670,7 +17940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17711,6 +17981,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17725,7 +17996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17794,6 +18065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17808,7 +18080,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17841,6 +18113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17855,7 +18128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17936,6 +18209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -17950,7 +18224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17991,6 +18265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18005,7 +18280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18042,6 +18317,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18056,7 +18332,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18121,6 +18397,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18135,7 +18412,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18240,6 +18517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18254,7 +18532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18327,6 +18605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18341,7 +18620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18414,6 +18693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18428,7 +18708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18485,6 +18765,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18499,7 +18780,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18576,6 +18857,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18590,7 +18872,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18651,6 +18933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18665,7 +18948,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18710,6 +18993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18724,7 +19008,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18789,6 +19073,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18803,7 +19088,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18840,6 +19125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18927,6 +19213,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -18941,7 +19228,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19018,6 +19305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19032,7 +19320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19133,6 +19421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19147,7 +19436,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19220,6 +19509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19234,7 +19524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19287,6 +19577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19301,7 +19592,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19358,6 +19649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19372,7 +19664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19425,6 +19717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19439,7 +19732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19480,6 +19773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19494,7 +19788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19531,6 +19825,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19545,7 +19840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19578,6 +19873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19592,7 +19888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19621,6 +19917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19635,7 +19932,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19672,6 +19969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19686,7 +19984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19727,6 +20025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19741,7 +20040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19790,6 +20089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19804,7 +20104,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19861,6 +20161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19875,7 +20176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19908,6 +20209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19922,7 +20224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19951,6 +20253,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -19965,7 +20268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20006,6 +20309,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20020,7 +20324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20053,6 +20357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20067,7 +20372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20164,6 +20469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20178,7 +20484,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20231,6 +20537,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20245,7 +20552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20322,6 +20629,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20336,7 +20644,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20397,6 +20705,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20411,7 +20720,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20448,6 +20757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20462,7 +20772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20495,6 +20805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20509,7 +20820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20582,6 +20893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20596,7 +20908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20657,6 +20969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20671,7 +20984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20744,6 +21057,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20758,7 +21072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20831,6 +21145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20845,7 +21160,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20886,6 +21201,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20900,7 +21216,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20977,6 +21293,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -20991,7 +21308,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21020,6 +21337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21034,7 +21352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21091,6 +21409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21105,7 +21424,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21166,6 +21485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21180,7 +21500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21217,6 +21537,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21231,7 +21552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21272,6 +21593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21286,7 +21608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21331,6 +21653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21345,7 +21668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21382,6 +21705,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21396,7 +21720,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21441,6 +21765,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21455,7 +21780,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21492,6 +21817,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21506,7 +21832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21543,6 +21869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21557,7 +21884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21606,6 +21933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21620,7 +21948,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21653,6 +21981,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21667,7 +21996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21696,6 +22025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21710,7 +22040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21759,6 +22089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21773,7 +22104,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21830,6 +22161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21844,7 +22176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21909,6 +22241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21923,7 +22256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21956,6 +22289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -21970,7 +22304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22043,6 +22377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22057,7 +22392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22122,6 +22457,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22136,7 +22472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22189,6 +22525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22203,7 +22540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22248,6 +22585,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22351,6 +22689,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22365,7 +22704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22410,6 +22749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22424,7 +22764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22485,6 +22825,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22499,7 +22840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22536,6 +22877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22550,7 +22892,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22587,6 +22929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22601,7 +22944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22630,6 +22973,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22644,7 +22988,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22681,6 +23025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22695,7 +23040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22748,6 +23093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22762,7 +23108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22791,6 +23137,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22805,7 +23152,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22834,6 +23181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22848,7 +23196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22925,6 +23273,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -22939,7 +23288,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22988,6 +23337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23002,7 +23352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23031,6 +23381,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23045,7 +23396,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23082,6 +23433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23096,7 +23448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23125,6 +23477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23139,7 +23492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23168,6 +23521,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23182,7 +23536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23211,6 +23565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23225,7 +23580,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23258,6 +23613,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23272,7 +23628,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23305,6 +23661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23319,7 +23676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23376,6 +23733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23390,7 +23748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23439,6 +23797,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23453,7 +23812,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23534,6 +23893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23548,7 +23908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23621,6 +23981,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23635,7 +23996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23668,6 +24029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23682,7 +24044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23747,6 +24109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23761,7 +24124,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23818,6 +24181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23832,7 +24196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23861,6 +24225,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23875,7 +24240,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23936,6 +24301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -23950,7 +24316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23991,6 +24357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -24005,7 +24372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24066,6 +24433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -24080,7 +24448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24165,6 +24533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -24179,7 +24548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24260,6 +24629,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -24274,7 +24644,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24343,6 +24713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -24357,7 +24728,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24430,6 +24801,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",
@@ -24444,7 +24816,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24505,6 +24877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Togo",
         "ADM0_PCODE": "TG",
         "ADM0_ISO_A2": "TG",
         "ADM0_ISO_A3": "TGO",

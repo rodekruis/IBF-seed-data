@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -245,6 +245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -257,7 +258,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -502,6 +503,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -514,7 +516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -807,6 +809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -908,6 +911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -1317,6 +1321,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -2066,6 +2071,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -2078,7 +2084,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2199,6 +2205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -2211,7 +2218,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2472,6 +2479,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -3069,6 +3077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -3850,6 +3859,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -3862,7 +3872,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4283,6 +4293,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -4295,7 +4306,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4544,6 +4555,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -4556,7 +4568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4685,6 +4697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -4697,7 +4710,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4890,6 +4903,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -4902,7 +4916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5011,6 +5025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -5656,6 +5671,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -7797,6 +7813,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -7809,7 +7826,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7954,6 +7971,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -7966,7 +7984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8203,6 +8221,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -8215,7 +8234,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8444,6 +8463,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -8456,7 +8476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8801,6 +8821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -8813,7 +8834,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8998,6 +9019,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9010,7 +9032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9167,6 +9189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9179,7 +9202,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9248,6 +9271,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9260,7 +9284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9401,6 +9425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9413,7 +9438,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9550,6 +9575,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9562,7 +9588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9699,6 +9725,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9711,7 +9738,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9908,6 +9935,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -9920,7 +9948,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10117,6 +10145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -10334,6 +10363,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -10346,7 +10376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10515,6 +10545,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -11076,6 +11107,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -11088,7 +11120,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11341,6 +11373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -11726,6 +11759,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -11738,7 +11772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11827,6 +11861,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -11839,7 +11874,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12008,6 +12043,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -12249,6 +12285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -12261,7 +12298,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12350,6 +12387,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -12362,7 +12400,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12691,6 +12729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -13220,6 +13259,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -13389,6 +13429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -14834,6 +14875,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -14846,7 +14888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15051,6 +15093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -15384,6 +15427,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -15396,7 +15440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15513,6 +15557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -15525,7 +15570,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15850,6 +15895,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -15862,7 +15908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15903,6 +15949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -15915,7 +15962,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16092,6 +16139,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -16104,7 +16152,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16329,6 +16377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -16341,7 +16390,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16558,6 +16607,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -16570,7 +16620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16911,6 +16961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -16923,7 +16974,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17240,6 +17291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -17252,7 +17304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17481,6 +17533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -17493,7 +17546,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17754,6 +17807,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -17766,7 +17820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18103,6 +18157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -18115,7 +18170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18276,6 +18331,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -18288,7 +18344,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18509,6 +18565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -18521,7 +18578,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18722,6 +18779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -18734,7 +18792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18795,6 +18853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -18807,7 +18866,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19128,6 +19187,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -19140,7 +19200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19301,6 +19361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -19313,7 +19374,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19398,6 +19459,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -19791,6 +19853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -19803,7 +19866,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20032,6 +20095,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -20044,7 +20108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20265,6 +20329,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -20506,6 +20571,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -20863,6 +20929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -20875,7 +20942,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20936,6 +21003,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -20948,7 +21016,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21233,6 +21301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -21414,6 +21483,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -21426,7 +21496,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21667,6 +21737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -21840,6 +21911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -21852,7 +21924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22025,6 +22097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -22037,7 +22110,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22310,6 +22383,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -22322,7 +22396,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22583,6 +22657,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -22595,7 +22670,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22844,6 +22919,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -23417,6 +23493,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -23429,7 +23506,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23634,6 +23711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -23646,7 +23724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23931,6 +24009,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -24180,6 +24259,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -24192,7 +24272,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24449,6 +24529,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -25150,6 +25231,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -25162,7 +25244,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25375,6 +25457,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -25387,7 +25470,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25572,6 +25655,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -25584,7 +25668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25645,6 +25729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -25657,7 +25742,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25814,6 +25899,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -25826,7 +25912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26035,6 +26121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -26047,7 +26134,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26322,6 +26409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -26334,7 +26422,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26631,6 +26719,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -26643,7 +26732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26914,6 +27003,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -26926,7 +27016,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26991,6 +27081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -27003,7 +27094,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27228,6 +27319,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -27557,6 +27649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -27569,7 +27662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27838,6 +27931,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -27850,7 +27944,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28259,6 +28353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -28271,7 +28366,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28464,6 +28559,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -28476,7 +28572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28941,6 +29037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -28953,7 +29050,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29266,6 +29363,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -29278,7 +29376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29575,6 +29673,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -29587,7 +29686,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29744,6 +29843,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -29756,7 +29856,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30065,6 +30165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -30077,7 +30178,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30326,6 +30427,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -30338,7 +30440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30655,6 +30757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -30667,7 +30770,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30792,6 +30895,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -30804,7 +30908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31045,6 +31149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -31057,7 +31162,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31542,6 +31647,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -31831,6 +31937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -31843,7 +31950,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32012,6 +32119,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -32024,7 +32132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32181,6 +32289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -32193,7 +32302,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32366,6 +32475,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -32378,7 +32488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32643,6 +32753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -32655,7 +32766,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32716,6 +32827,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -32728,7 +32840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32965,6 +33077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -32977,7 +33090,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33242,6 +33355,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -33571,6 +33685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -33583,7 +33698,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33768,6 +33883,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -33780,7 +33896,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33953,6 +34069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -33965,7 +34082,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34178,6 +34295,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -34190,7 +34308,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34403,6 +34521,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -34415,7 +34534,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34624,6 +34743,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -34636,7 +34756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34881,6 +35001,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -34893,7 +35014,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35178,6 +35299,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -35190,7 +35312,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35463,6 +35585,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -35475,7 +35598,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35716,6 +35839,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -35728,7 +35852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35801,6 +35925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -35813,7 +35938,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36006,6 +36131,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -36018,7 +36144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36319,6 +36445,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -36331,7 +36458,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36584,6 +36711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -36596,7 +36724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36737,6 +36865,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -36749,7 +36878,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36998,6 +37127,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -37010,7 +37140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37331,6 +37461,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -37343,7 +37474,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37580,6 +37711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -37592,7 +37724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37825,6 +37957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -37837,7 +37970,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -38026,6 +38159,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -38038,7 +38172,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -38351,6 +38485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -38896,6 +39031,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -38908,7 +39044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -38957,6 +39093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -38969,7 +39106,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -39170,6 +39307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -39182,7 +39320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -39583,6 +39721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -39595,7 +39734,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -39852,6 +39991,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -39864,7 +40004,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40049,6 +40189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -40202,6 +40343,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -40214,7 +40356,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40367,6 +40509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -40379,7 +40522,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40636,6 +40779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -40648,7 +40792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40869,6 +41013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -40881,7 +41026,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41010,6 +41155,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -41022,7 +41168,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41259,6 +41405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -41271,7 +41418,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41676,6 +41823,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -42029,6 +42177,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -42041,7 +42190,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42222,6 +42371,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -42234,7 +42384,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42523,6 +42673,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -42535,7 +42686,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42872,6 +43023,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -42884,7 +43036,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43085,6 +43237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -43097,7 +43250,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43298,6 +43451,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -43310,7 +43464,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43527,6 +43681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -43539,7 +43694,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43740,6 +43895,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",
@@ -44141,6 +44297,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mozambique",
         "ADM0_PCODE": "MZ",
         "ADM0_ISO_A2": "MZ",
         "ADM0_ISO_A3": "MOZ",

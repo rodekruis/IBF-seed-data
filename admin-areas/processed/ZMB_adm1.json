@@ -397,12 +397,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 2569033,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Central",
-        "ADM1_PCODE": "ZM10",
-        "POPULATION": 2569033
+        "ADM1_PCODE": "ZM10"
       }
     },
     {
@@ -581,12 +582,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 3104377,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Copperbelt",
-        "ADM1_PCODE": "ZM20",
-        "POPULATION": 3104377
+        "ADM1_PCODE": "ZM20"
       }
     },
     {
@@ -801,12 +803,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 2553007,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Eastern",
-        "ADM1_PCODE": "ZM30",
-        "POPULATION": 2553007
+        "ADM1_PCODE": "ZM30"
       }
     },
     {
@@ -1049,12 +1052,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 1691935,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Luapula",
-        "ADM1_PCODE": "ZM40",
-        "POPULATION": 1691935
+        "ADM1_PCODE": "ZM40"
       }
     },
     {
@@ -1233,12 +1237,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 3460665,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Lusaka",
-        "ADM1_PCODE": "ZM50",
-        "POPULATION": 3460665
+        "ADM1_PCODE": "ZM50"
       }
     },
     {
@@ -1541,12 +1546,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 1206962,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Muchinga",
-        "ADM1_PCODE": "ZM11",
-        "POPULATION": 1206962
+        "ADM1_PCODE": "ZM11"
       }
     },
     {
@@ -1793,12 +1799,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 1850322,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "ZM60",
-        "POPULATION": 1850322
+        "ADM1_PCODE": "ZM60"
       }
     },
     {
@@ -2165,12 +2172,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 1430410,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Northwestern",
-        "ADM1_PCODE": "ZM70",
-        "POPULATION": 1430410
+        "ADM1_PCODE": "ZM70"
       }
     },
     {
@@ -2381,12 +2389,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 2685949,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Southern",
-        "ADM1_PCODE": "ZM80",
-        "POPULATION": 2685949
+        "ADM1_PCODE": "ZM80"
       }
     },
     {
@@ -2641,12 +2650,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 1542129,
+        "ADM0_EN": "Zambia",
         "ADM0_PCODE": "ZM",
         "ADM0_ISO_A2": "ZM",
         "ADM0_ISO_A3": "ZMB",
         "ADM1_EN": "Western",
-        "ADM1_PCODE": "ZM90",
-        "POPULATION": 1542129
+        "ADM1_PCODE": "ZM90"
       }
     }
   ]

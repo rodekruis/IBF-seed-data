@@ -881,6 +881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",
@@ -1208,6 +1209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",
@@ -2263,6 +2265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",
@@ -2273,7 +2276,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2498,6 +2501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",
@@ -2508,7 +2512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2585,6 +2589,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",
@@ -3016,6 +3021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",
@@ -3026,7 +3032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3187,6 +3193,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "EquatorialGuinea",
         "ADM0_PCODE": "GQ",
         "ADM0_ISO_A2": "GQ",
         "ADM0_ISO_A3": "GNQ",

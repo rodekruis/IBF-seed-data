@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -465,6 +465,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -1996,6 +1997,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -2691,6 +2693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -5502,6 +5505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -5512,7 +5516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5773,6 +5777,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -5783,7 +5788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6512,6 +6517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -6522,7 +6528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7199,6 +7205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -7209,7 +7216,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7262,6 +7269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -7272,7 +7280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7677,6 +7685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -7687,7 +7696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7888,6 +7897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -7898,7 +7908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8115,6 +8125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -8125,7 +8136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8434,6 +8445,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -8444,7 +8456,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9221,6 +9233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",
@@ -9231,7 +9244,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9488,6 +9501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Namibia",
         "ADM0_PCODE": "NA",
         "ADM0_ISO_A2": "NA",
         "ADM0_ISO_A3": "NAM",

@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -49,6 +49,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -59,7 +60,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -192,6 +193,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -495,6 +497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -505,7 +508,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -694,6 +697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -704,7 +708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -741,6 +745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -751,7 +756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -892,6 +897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -902,7 +908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1111,6 +1117,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",
@@ -1121,7 +1128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1342,6 +1349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Gambia",
         "ADM0_PCODE": "GM",
         "ADM0_ISO_A2": "GM",
         "ADM0_ISO_A3": "GMB",

@@ -435,6 +435,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Seychelles",
         "ADM0_PCODE": "SC",
         "ADM0_ISO_A2": "SC",
         "ADM0_ISO_A3": "SYC",
@@ -638,6 +639,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Seychelles",
         "ADM0_PCODE": "SC",
         "ADM0_ISO_A2": "SC",
         "ADM0_ISO_A3": "SYC",
@@ -648,7 +650,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -677,6 +679,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Seychelles",
         "ADM0_PCODE": "SC",
         "ADM0_ISO_A2": "SC",
         "ADM0_ISO_A3": "SYC",
@@ -41052,6 +41055,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Seychelles",
         "ADM0_PCODE": "SC",
         "ADM0_ISO_A2": "SC",
         "ADM0_ISO_A3": "SYC",

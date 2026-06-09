@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -509,6 +509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SierraLeone",
         "ADM0_PCODE": "SL",
         "ADM0_ISO_A2": "SL",
         "ADM0_ISO_A3": "SLE",
@@ -519,7 +520,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1168,6 +1169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SierraLeone",
         "ADM0_PCODE": "SL",
         "ADM0_ISO_A2": "SL",
         "ADM0_ISO_A3": "SLE",
@@ -3671,6 +3673,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SierraLeone",
         "ADM0_PCODE": "SL",
         "ADM0_ISO_A2": "SL",
         "ADM0_ISO_A3": "SLE",
@@ -4198,6 +4201,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SierraLeone",
         "ADM0_PCODE": "SL",
         "ADM0_ISO_A2": "SL",
         "ADM0_ISO_A3": "SLE",
@@ -5029,6 +5033,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SierraLeone",
         "ADM0_PCODE": "SL",
         "ADM0_ISO_A2": "SL",
         "ADM0_ISO_A3": "SLE",
