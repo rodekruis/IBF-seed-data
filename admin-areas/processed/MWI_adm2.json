@@ -941,6 +941,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 545312,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -948,8 +949,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Balaka",
-        "ADM2_PCODE": "MW312",
-        "POPULATION": 545312
+        "ADM2_PCODE": "MW312"
       }
     },
     {
@@ -2636,6 +2636,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 580786,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -2643,8 +2644,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Blantyre",
-        "ADM2_PCODE": "MW305",
-        "POPULATION": 580786
+        "ADM2_PCODE": "MW305"
       }
     },
     {
@@ -3159,6 +3159,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1029035,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -3166,8 +3167,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Blantyre City",
-        "ADM2_PCODE": "MW315",
-        "POPULATION": 1029035
+        "ADM2_PCODE": "MW315"
       }
     },
     {
@@ -5338,6 +5338,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 723989,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -5345,8 +5346,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Chikwawa",
-        "ADM2_PCODE": "MW310",
-        "POPULATION": 723989
+        "ADM2_PCODE": "MW310"
       }
     },
     {
@@ -6341,6 +6341,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 456496,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -6348,8 +6349,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Chiradzulu",
-        "ADM2_PCODE": "MW304",
-        "POPULATION": 456496
+        "ADM2_PCODE": "MW304"
       }
     },
     {
@@ -9556,6 +9556,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 299302,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -9563,8 +9564,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Chitipa",
-        "ADM2_PCODE": "MW101",
-        "POPULATION": 299302
+        "ADM2_PCODE": "MW101"
       }
     },
     {
@@ -12003,6 +12003,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1045985,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -12010,8 +12011,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Dedza",
-        "ADM2_PCODE": "MW208",
-        "POPULATION": 1045985
+        "ADM2_PCODE": "MW208"
       }
     },
     {
@@ -14294,6 +14294,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 978801,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -14301,8 +14302,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Dowa",
-        "ADM2_PCODE": "MW204",
-        "POPULATION": 978801
+        "ADM2_PCODE": "MW204"
       }
     },
     {
@@ -16525,6 +16525,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 463074,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -16532,8 +16533,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Karonga",
-        "ADM2_PCODE": "MW102",
-        "POPULATION": 463074
+        "ADM2_PCODE": "MW102"
       }
     },
     {
@@ -19396,6 +19396,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1081210,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -19403,8 +19404,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Kasungu",
-        "ADM2_PCODE": "MW201",
-        "POPULATION": 1081210
+        "ADM2_PCODE": "MW201"
       }
     },
     {
@@ -19731,6 +19731,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 15561,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -19738,8 +19739,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Likoma",
-        "ADM2_PCODE": "MW106",
-        "POPULATION": 15561
+        "ADM2_PCODE": "MW106"
       }
     },
     {
@@ -23674,6 +23674,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 2136834,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -23681,8 +23682,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Lilongwe",
-        "ADM2_PCODE": "MW206",
-        "POPULATION": 2136834
+        "ADM2_PCODE": "MW206"
       }
     },
     {
@@ -24421,6 +24421,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1259192,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -24428,8 +24429,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Lilongwe City",
-        "ADM2_PCODE": "MW210",
-        "POPULATION": 1259192
+        "ADM2_PCODE": "MW210"
       }
     },
     {
@@ -25904,6 +25904,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 937385,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -25911,8 +25912,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Machinga",
-        "ADM2_PCODE": "MW302",
-        "POPULATION": 937385
+        "ADM2_PCODE": "MW302"
       }
     },
     {
@@ -28895,6 +28895,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1456637,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -28902,8 +28903,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Mangochi",
-        "ADM2_PCODE": "MW301",
-        "POPULATION": 1456637
+        "ADM2_PCODE": "MW301"
       }
     },
     {
@@ -31018,6 +31018,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 770383,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -31025,8 +31026,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Mchinji",
-        "ADM2_PCODE": "MW207",
-        "POPULATION": 770383
+        "ADM2_PCODE": "MW207"
       }
     },
     {
@@ -32961,6 +32961,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 872482,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -32968,8 +32969,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Mulanje",
-        "ADM2_PCODE": "MW308",
-        "POPULATION": 872482
+        "ADM2_PCODE": "MW308"
       }
     },
     {
@@ -33884,6 +33884,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 165295,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -33891,8 +33892,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Mwanza",
-        "ADM2_PCODE": "MW306",
-        "POPULATION": 165295
+        "ADM2_PCODE": "MW306"
       }
     },
     {
@@ -38683,6 +38683,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1202451,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -38690,8 +38691,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Mzimba",
-        "ADM2_PCODE": "MW105",
-        "POPULATION": 1202451
+        "ADM2_PCODE": "MW105"
       }
     },
     {
@@ -39066,6 +39066,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 284831,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -39073,8 +39074,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Mzuzu City",
-        "ADM2_PCODE": "MW107",
-        "POPULATION": 284831
+        "ADM2_PCODE": "MW107"
       }
     },
     {
@@ -40561,6 +40561,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 177142,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -40568,8 +40569,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Neno",
-        "ADM2_PCODE": "MW313",
-        "POPULATION": 177142
+        "ADM2_PCODE": "MW313"
       }
     },
     {
@@ -43276,6 +43276,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 354405,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -43283,8 +43284,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Nkhata Bay",
-        "ADM2_PCODE": "MW103",
-        "POPULATION": 354405
+        "ADM2_PCODE": "MW103"
       }
     },
     {
@@ -46607,6 +46607,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 503041,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -46614,8 +46615,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Nkhotakota",
-        "ADM2_PCODE": "MW202",
-        "POPULATION": 503041
+        "ADM2_PCODE": "MW202"
       }
     },
     {
@@ -48702,6 +48702,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 379674,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -48709,8 +48710,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Nsanje",
-        "ADM2_PCODE": "MW311",
-        "POPULATION": 379674
+        "ADM2_PCODE": "MW311"
       }
     },
     {
@@ -50529,6 +50529,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 833251,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -50536,8 +50537,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Ntcheu",
-        "ADM2_PCODE": "MW209",
-        "POPULATION": 833251
+        "ADM2_PCODE": "MW209"
       }
     },
     {
@@ -51976,6 +51976,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 405645,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -51983,8 +51984,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Ntchisi",
-        "ADM2_PCODE": "MW203",
-        "POPULATION": 405645
+        "ADM2_PCODE": "MW203"
       }
     },
     {
@@ -52891,6 +52891,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 546092,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -52898,8 +52899,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Phalombe",
-        "ADM2_PCODE": "MW309",
-        "POPULATION": 546092
+        "ADM2_PCODE": "MW309"
       }
     },
     {
@@ -55102,6 +55102,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 291471,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -55109,8 +55110,7 @@
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "MW1",
         "ADM2_EN": "Rumphi",
-        "ADM2_PCODE": "MW104",
-        "POPULATION": 291471
+        "ADM2_PCODE": "MW104"
       }
     },
     {
@@ -56781,6 +56781,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 607970,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -56788,8 +56789,7 @@
         "ADM1_EN": "Central",
         "ADM1_PCODE": "MW2",
         "ADM2_EN": "Salima",
-        "ADM2_PCODE": "MW205",
-        "POPULATION": 607970
+        "ADM2_PCODE": "MW205"
       }
     },
     {
@@ -58184,6 +58184,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 921588,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -58191,8 +58192,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Thyolo",
-        "ADM2_PCODE": "MW307",
-        "POPULATION": 921588
+        "ADM2_PCODE": "MW307"
       }
     },
     {
@@ -59941,6 +59941,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 954111,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -59948,8 +59949,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Zomba",
-        "ADM2_PCODE": "MW303",
-        "POPULATION": 954111
+        "ADM2_PCODE": "MW303"
       }
     },
     {
@@ -60164,6 +60164,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 124485,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
@@ -60171,8 +60172,7 @@
         "ADM1_EN": "Southern",
         "ADM1_PCODE": "MW3",
         "ADM2_EN": "Zomba City",
-        "ADM2_PCODE": "MW314",
-        "POPULATION": 124485
+        "ADM2_PCODE": "MW314"
       }
     }
   ]

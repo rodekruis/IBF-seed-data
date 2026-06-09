@@ -501,6 +501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -513,7 +514,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -542,6 +543,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -554,7 +556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -599,6 +601,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -688,6 +691,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -700,7 +704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -745,6 +749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -757,7 +762,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -846,6 +851,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -858,7 +864,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -947,6 +953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -959,7 +966,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1092,6 +1099,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -1104,7 +1112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1281,6 +1289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2330,6 +2339,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2342,7 +2352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2467,6 +2477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2479,7 +2490,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2572,6 +2583,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2584,7 +2596,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2721,6 +2733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2733,7 +2746,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2838,6 +2851,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2850,7 +2864,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2943,6 +2957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -2955,7 +2970,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3040,6 +3055,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -3052,7 +3068,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3197,6 +3213,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -3209,7 +3226,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3318,6 +3335,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -3330,7 +3348,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3755,6 +3773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -3767,7 +3786,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3996,6 +4015,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -4008,7 +4028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4429,6 +4449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -4441,7 +4462,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4670,6 +4691,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -4682,7 +4704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4891,6 +4913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -4903,7 +4926,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5280,6 +5303,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -5292,7 +5316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5437,6 +5461,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -5449,7 +5474,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5590,6 +5615,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -5602,7 +5628,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5699,6 +5725,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -5711,7 +5738,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5912,6 +5939,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -5924,7 +5952,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6073,6 +6101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -6085,7 +6114,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6278,6 +6307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -6290,7 +6320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6511,6 +6541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -6523,7 +6554,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6852,6 +6883,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -6864,7 +6896,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6945,6 +6977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -6957,7 +6990,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7086,6 +7119,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -7098,7 +7132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7243,6 +7277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -7255,7 +7290,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7436,6 +7471,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -7448,7 +7484,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7725,6 +7761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -7737,7 +7774,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8106,6 +8143,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -8118,7 +8156,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8287,6 +8325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -8299,7 +8338,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9104,6 +9143,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -9309,6 +9349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -9321,7 +9362,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9472,6 +9513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -9484,7 +9526,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9621,6 +9663,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -9633,7 +9676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9790,6 +9833,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -9802,7 +9846,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9899,6 +9943,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",
@@ -9911,7 +9956,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10040,6 +10085,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Senegal",
         "ADM0_PCODE": "SN",
         "ADM0_ISO_A2": "SN",
         "ADM0_ISO_A3": "SEN",

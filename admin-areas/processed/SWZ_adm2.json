@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -57,6 +57,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -69,7 +70,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -134,6 +135,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -146,7 +148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -211,6 +213,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -223,7 +226,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -316,6 +319,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -328,7 +332,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -421,6 +425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -433,7 +438,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -526,6 +531,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -538,7 +544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -687,6 +693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -699,7 +706,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -812,6 +819,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -824,7 +832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -949,6 +957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -961,7 +970,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1054,6 +1063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1066,7 +1076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1119,6 +1129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1131,7 +1142,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1188,6 +1199,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1200,7 +1212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1253,6 +1265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1265,7 +1278,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1334,6 +1347,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1346,7 +1360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1451,6 +1465,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1463,7 +1478,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1556,6 +1571,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1568,7 +1584,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1649,6 +1665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1661,7 +1678,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1726,6 +1743,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1738,7 +1756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1803,6 +1821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1815,7 +1834,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1848,6 +1867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1860,7 +1880,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1905,6 +1925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -1917,7 +1938,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1994,6 +2015,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2006,7 +2028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2091,6 +2113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2103,7 +2126,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2204,6 +2227,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2216,7 +2240,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2293,6 +2317,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2305,7 +2330,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2366,6 +2391,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2378,7 +2404,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2475,6 +2501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2487,7 +2514,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2592,6 +2619,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2604,7 +2632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2761,6 +2789,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2773,7 +2802,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2898,6 +2927,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -2910,7 +2940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2991,6 +3021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3003,7 +3034,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3108,6 +3139,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3120,7 +3152,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3209,6 +3241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3430,6 +3463,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3442,7 +3476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3547,6 +3581,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3559,7 +3594,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3636,6 +3671,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3648,7 +3684,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3737,6 +3773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3749,7 +3786,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3822,6 +3859,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3834,7 +3872,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3903,6 +3941,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -3915,7 +3954,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3992,6 +4031,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4004,7 +4044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4117,6 +4157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4129,7 +4170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4234,6 +4275,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4246,7 +4288,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4351,6 +4393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4363,7 +4406,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4428,6 +4471,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4440,7 +4484,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4533,6 +4577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4545,7 +4590,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4674,6 +4719,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4686,7 +4732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4807,6 +4853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4819,7 +4866,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4912,6 +4959,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -4924,7 +4972,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5029,6 +5077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -5041,7 +5090,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5098,6 +5147,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -5110,7 +5160,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5183,6 +5233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -5195,7 +5246,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5300,6 +5351,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -5312,7 +5364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5449,6 +5501,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -5461,7 +5514,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5598,6 +5651,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",
@@ -5610,7 +5664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5679,6 +5733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Swaziland",
         "ADM0_PCODE": "SZ",
         "ADM0_ISO_A2": "SZ",
         "ADM0_ISO_A3": "SWZ",

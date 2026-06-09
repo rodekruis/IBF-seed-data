@@ -153,6 +153,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -442,6 +443,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -563,6 +565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2112,6 +2115,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2265,6 +2269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2277,7 +2282,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2314,6 +2319,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2459,6 +2465,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2471,7 +2478,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2512,6 +2519,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2524,7 +2532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2589,6 +2597,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2674,6 +2683,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2747,6 +2757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2759,7 +2770,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2848,6 +2859,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2937,6 +2949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2949,7 +2962,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2978,6 +2991,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -2990,7 +3004,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3027,6 +3041,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3039,7 +3054,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3072,6 +3087,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3084,7 +3100,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3117,6 +3133,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3186,6 +3203,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3343,6 +3361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3544,6 +3563,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3817,6 +3837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3829,7 +3850,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3902,6 +3923,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3914,7 +3936,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3955,6 +3977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -3967,7 +3990,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4004,6 +4027,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -4245,6 +4269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5310,6 +5335,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5322,7 +5348,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5363,6 +5389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5440,6 +5467,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5452,7 +5480,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5485,6 +5513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5686,6 +5715,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5698,7 +5728,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5755,6 +5785,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",
@@ -5767,7 +5798,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5812,6 +5843,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "CaboVerde",
         "ADM0_PCODE": "CV",
         "ADM0_ISO_A2": "CV",
         "ADM0_ISO_A3": "CPV",

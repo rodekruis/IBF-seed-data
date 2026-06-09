@@ -393,6 +393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",
@@ -405,7 +406,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -446,6 +447,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",
@@ -575,6 +577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",
@@ -1036,6 +1039,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",
@@ -1441,6 +1445,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",
@@ -1526,6 +1531,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",
@@ -1538,7 +1544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1595,6 +1601,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SãoToméandPríncipe",
         "ADM0_PCODE": "ST",
         "ADM0_ISO_A2": "ST",
         "ADM0_ISO_A3": "STP",

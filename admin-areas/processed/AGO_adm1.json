@@ -305,6 +305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -912,6 +913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -922,7 +924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1695,6 +1697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -1705,7 +1708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2010,6 +2013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -2020,7 +2024,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3093,6 +3097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -3103,7 +3108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3532,6 +3537,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -3542,7 +3548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4095,6 +4101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -4105,7 +4112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4474,6 +4481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -4484,7 +4492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5081,6 +5089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -5091,7 +5100,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5472,6 +5481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -6055,6 +6065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -6065,7 +6076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6754,6 +6765,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -6764,7 +6776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7577,6 +7589,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -7587,7 +7600,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8632,6 +8645,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -8642,7 +8656,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9675,6 +9689,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -10446,6 +10461,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -10456,7 +10472,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11089,6 +11105,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",
@@ -11099,7 +11116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11452,6 +11469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Angola",
         "ADM0_PCODE": "AO",
         "ADM0_ISO_A2": "AO",
         "ADM0_ISO_A3": "AGO",

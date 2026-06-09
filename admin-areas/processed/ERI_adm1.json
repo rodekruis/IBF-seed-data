@@ -4505,6 +4505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Eritrea",
         "ADM0_PCODE": "ER",
         "ADM0_ISO_A2": "ER",
         "ADM0_ISO_A3": "ERI",
@@ -4515,7 +4516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4660,6 +4661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Eritrea",
         "ADM0_PCODE": "ER",
         "ADM0_ISO_A2": "ER",
         "ADM0_ISO_A3": "ERI",
@@ -13611,6 +13613,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Eritrea",
         "ADM0_PCODE": "ER",
         "ADM0_ISO_A2": "ER",
         "ADM0_ISO_A3": "ERI",
@@ -13621,7 +13624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14238,6 +14241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Eritrea",
         "ADM0_PCODE": "ER",
         "ADM0_ISO_A2": "ER",
         "ADM0_ISO_A3": "ERI",
@@ -14248,7 +14252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14717,6 +14721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Eritrea",
         "ADM0_PCODE": "ER",
         "ADM0_ISO_A2": "ER",
         "ADM0_ISO_A3": "ERI",
@@ -14727,7 +14732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15104,6 +15109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Eritrea",
         "ADM0_PCODE": "ER",
         "ADM0_ISO_A2": "ER",
         "ADM0_ISO_A3": "ERI",

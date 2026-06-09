@@ -4321,13 +4321,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 9623375,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
         "ADM0_ISO_A3": "MWI",
         "ADM1_EN": "Central",
-        "ADM1_PCODE": "MW2",
-        "POPULATION": 9623375
+        "ADM1_PCODE": "MW2"
       }
     },
     {
@@ -8886,13 +8886,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 2911141,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
         "ADM0_ISO_A3": "MWI",
         "ADM1_EN": "Northern",
-        "ADM1_PCODE": "MW1",
-        "POPULATION": 2911141
+        "ADM1_PCODE": "MW1"
       }
     },
     {
@@ -12455,13 +12455,13 @@
         ]
       },
       "properties": {
+        "POPULATION": 9871246,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
         "ADM0_ISO_A2": "MW",
         "ADM0_ISO_A3": "MWI",
         "ADM1_EN": "Southern",
-        "ADM1_PCODE": "MW3",
-        "POPULATION": 9871246
+        "ADM1_PCODE": "MW3"
       }
     }
   ]

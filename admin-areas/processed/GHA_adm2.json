@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -129,6 +129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -141,7 +142,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -286,6 +287,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -298,7 +300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -419,6 +421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -431,7 +434,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -552,6 +555,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -564,7 +568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -673,6 +677,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -685,7 +690,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -774,6 +779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -786,7 +792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -899,6 +905,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -911,7 +918,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1040,6 +1047,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1052,7 +1060,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1141,6 +1149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1153,7 +1162,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1314,6 +1323,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1326,7 +1336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1395,6 +1405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1407,7 +1418,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1488,6 +1499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1500,7 +1512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1601,6 +1613,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1613,7 +1626,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1722,6 +1735,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1734,7 +1748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1831,6 +1845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -1843,7 +1858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1992,6 +2007,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2004,7 +2020,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2101,6 +2117,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2113,7 +2130,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2234,6 +2251,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2246,7 +2264,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2327,6 +2345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2339,7 +2358,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2500,6 +2519,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2512,7 +2532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2649,6 +2669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2661,7 +2682,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2690,6 +2711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2702,7 +2724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2739,6 +2761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2751,7 +2774,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2840,6 +2863,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -2852,7 +2876,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3057,6 +3081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3069,7 +3094,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3146,6 +3171,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3158,7 +3184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3239,6 +3265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3251,7 +3278,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3372,6 +3399,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3521,6 +3549,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3533,7 +3562,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3626,6 +3655,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3638,7 +3668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3735,6 +3765,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3747,7 +3778,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3868,6 +3899,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3880,7 +3912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3945,6 +3977,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -3957,7 +3990,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3990,6 +4023,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4002,7 +4036,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4047,6 +4081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4059,7 +4094,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4108,6 +4143,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4120,7 +4156,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4233,6 +4269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4245,7 +4282,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4286,6 +4323,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4298,7 +4336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4351,6 +4389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4363,7 +4402,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4448,6 +4487,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4460,7 +4500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4617,6 +4657,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4629,7 +4670,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4670,6 +4711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4682,7 +4724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4711,6 +4753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4723,7 +4766,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4964,6 +5007,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -4976,7 +5020,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5133,6 +5177,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5145,7 +5190,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5202,6 +5247,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5214,7 +5260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5311,6 +5357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5323,7 +5370,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5420,6 +5467,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5432,7 +5480,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5469,6 +5517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5481,7 +5530,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5646,6 +5695,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5658,7 +5708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5755,6 +5805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5767,7 +5818,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5836,6 +5887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5848,7 +5900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5917,6 +5969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -5929,7 +5982,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6030,6 +6083,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6042,7 +6096,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6115,6 +6169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6127,7 +6182,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6236,6 +6291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6248,7 +6304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6321,6 +6377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6333,7 +6390,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6434,6 +6491,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6446,7 +6504,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6583,6 +6641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6595,7 +6654,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6752,6 +6811,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6764,7 +6824,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6933,6 +6993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -6945,7 +7006,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7130,6 +7191,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -7142,7 +7204,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7367,6 +7429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -7379,7 +7442,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7520,6 +7583,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -7532,7 +7596,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7657,6 +7721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -7669,7 +7734,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7782,6 +7847,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -7794,7 +7860,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7919,6 +7985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -7931,7 +7998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8068,6 +8135,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8080,7 +8148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8273,6 +8341,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8285,7 +8354,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8458,6 +8527,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8470,7 +8540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8567,6 +8637,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8579,7 +8650,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8668,6 +8739,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8680,7 +8752,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8797,6 +8869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8809,7 +8882,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8886,6 +8959,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8898,7 +8972,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8979,6 +9053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -8991,7 +9066,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9130,6 +9205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9142,7 +9218,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9251,6 +9327,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9263,7 +9340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9344,6 +9421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9356,7 +9434,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9489,6 +9567,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9670,6 +9749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9682,7 +9762,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9775,6 +9855,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9860,6 +9941,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9872,7 +9954,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9945,6 +10027,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9957,7 +10040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9986,6 +10069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -9998,7 +10082,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10051,6 +10135,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10063,7 +10148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10120,6 +10205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10132,7 +10218,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10253,6 +10339,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10265,7 +10352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10342,6 +10429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10354,7 +10442,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10415,6 +10503,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10427,7 +10516,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10532,6 +10621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10544,7 +10634,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10657,6 +10747,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10669,7 +10760,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10790,6 +10881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10802,7 +10894,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10931,6 +11023,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -10943,7 +11036,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11060,6 +11153,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11072,7 +11166,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11121,6 +11215,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11133,7 +11228,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11218,6 +11313,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11230,7 +11326,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11307,6 +11403,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11319,7 +11416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11416,6 +11513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11428,7 +11526,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11525,6 +11623,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11537,7 +11636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11654,6 +11753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11666,7 +11766,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11743,6 +11843,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11755,7 +11856,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11848,6 +11949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11860,7 +11962,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11961,6 +12063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -11973,7 +12076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12094,6 +12197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12106,7 +12210,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12235,6 +12339,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12247,7 +12352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12300,6 +12405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12312,7 +12418,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12441,6 +12547,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12453,7 +12560,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12542,6 +12649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12554,7 +12662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12667,6 +12775,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12679,7 +12788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12768,6 +12877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12780,7 +12890,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12869,6 +12979,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -12881,7 +12992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13018,6 +13129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13030,7 +13142,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13179,6 +13291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13191,7 +13304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13384,6 +13497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13396,7 +13510,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13513,6 +13627,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13525,7 +13640,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13630,6 +13745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13642,7 +13758,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13755,6 +13871,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13767,7 +13884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13868,6 +13985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13880,7 +13998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13925,6 +14043,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13937,7 +14056,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13970,6 +14089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -13982,7 +14102,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14043,6 +14163,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14055,7 +14176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14120,6 +14241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14132,7 +14254,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14209,6 +14331,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14221,7 +14344,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14306,6 +14429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14318,7 +14442,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14411,6 +14535,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14423,7 +14548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14508,6 +14633,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14520,7 +14646,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14661,6 +14787,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14673,7 +14800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14706,6 +14833,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14718,7 +14846,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14763,6 +14891,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14775,7 +14904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14804,6 +14933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14816,7 +14946,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14845,6 +14975,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14857,7 +14988,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14938,6 +15069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -14950,7 +15082,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15027,6 +15159,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15039,7 +15172,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15084,6 +15217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15096,7 +15230,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15125,6 +15259,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15137,7 +15272,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15166,6 +15301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15178,7 +15314,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15211,6 +15347,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15223,7 +15360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15252,6 +15389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15264,7 +15402,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15317,6 +15455,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15329,7 +15468,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15370,6 +15509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15382,7 +15522,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15427,6 +15567,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15439,7 +15580,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15488,6 +15629,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15500,7 +15642,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15549,6 +15691,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15561,7 +15704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15638,6 +15781,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15650,7 +15794,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15683,6 +15827,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15695,7 +15840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15780,6 +15925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15792,7 +15938,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15825,6 +15971,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15837,7 +15984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15874,6 +16021,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15886,7 +16034,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15943,6 +16091,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15955,7 +16104,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15984,6 +16133,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -15996,7 +16146,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16073,6 +16223,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16085,7 +16236,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16130,6 +16281,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16142,7 +16294,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16251,6 +16403,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16263,7 +16416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16336,6 +16489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16348,7 +16502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16385,6 +16539,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16470,6 +16625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16482,7 +16638,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16707,6 +16863,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -16719,7 +16876,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16988,6 +17145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -17000,7 +17158,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17149,6 +17307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -17161,7 +17320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17346,6 +17505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -17631,6 +17791,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -17643,7 +17804,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17724,6 +17885,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -17736,7 +17898,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18041,6 +18203,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -18053,7 +18216,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18314,6 +18477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -18326,7 +18490,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18499,6 +18663,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -18511,7 +18676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18572,6 +18737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -18584,7 +18750,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18801,6 +18967,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -18813,7 +18980,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18930,6 +19097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -18942,7 +19110,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19151,6 +19319,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -19163,7 +19332,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19308,6 +19477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -19320,7 +19490,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19485,6 +19655,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -19497,7 +19668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19678,6 +19849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -19690,7 +19862,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19783,6 +19955,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -19795,7 +19968,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19944,6 +20117,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -19956,7 +20130,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20113,6 +20287,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -20125,7 +20300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20310,6 +20485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -20322,7 +20498,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20639,6 +20815,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -20651,7 +20828,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20716,6 +20893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -20728,7 +20906,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20857,6 +21035,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -20869,7 +21048,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20978,6 +21157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -20990,7 +21170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21083,6 +21263,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -21095,7 +21276,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21268,6 +21449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -21280,7 +21462,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21417,6 +21599,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -21429,7 +21612,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21538,6 +21721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -21550,7 +21734,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21699,6 +21883,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -21711,7 +21896,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21908,6 +22093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -21920,7 +22106,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22173,6 +22359,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -22185,7 +22372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22506,6 +22693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -22518,7 +22706,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22647,6 +22835,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -22659,7 +22848,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23072,6 +23261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -23084,7 +23274,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23341,6 +23531,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -23353,7 +23544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23550,6 +23741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -23562,7 +23754,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23779,6 +23971,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -23791,7 +23984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23896,6 +24089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -23908,7 +24102,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24061,6 +24255,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24073,7 +24268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24162,6 +24357,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24174,7 +24370,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24219,6 +24415,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24231,7 +24428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24296,6 +24493,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24409,6 +24607,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24421,7 +24620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24554,6 +24753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24566,7 +24766,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24747,6 +24947,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -24759,7 +24960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24844,6 +25045,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25025,6 +25227,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25202,6 +25405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25214,7 +25418,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25283,6 +25487,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25295,7 +25500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25372,6 +25577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25384,7 +25590,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25553,6 +25759,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25565,7 +25772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25638,6 +25845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25650,7 +25858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25795,6 +26003,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25807,7 +26016,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25948,6 +26157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -25960,7 +26170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26093,6 +26303,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -26105,7 +26316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26226,6 +26437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -26238,7 +26450,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26347,6 +26559,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -26359,7 +26572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26464,6 +26677,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -26476,7 +26690,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26673,6 +26887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -26685,7 +26900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26818,6 +27033,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -26830,7 +27046,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27035,6 +27251,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27047,7 +27264,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27156,6 +27373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27168,7 +27386,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27321,6 +27539,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27333,7 +27552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27434,6 +27653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27446,7 +27666,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27571,6 +27791,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27583,7 +27804,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27676,6 +27897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27688,7 +27910,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27777,6 +27999,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27789,7 +28012,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27890,6 +28113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27902,7 +28126,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27955,6 +28179,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -27967,7 +28192,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28104,6 +28329,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28116,7 +28342,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28253,6 +28479,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28265,7 +28492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28438,6 +28665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28450,7 +28678,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28551,6 +28779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28563,7 +28792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28656,6 +28885,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28668,7 +28898,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28753,6 +28983,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28765,7 +28996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28822,6 +29053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28834,7 +29066,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28895,6 +29127,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -28907,7 +29140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29012,6 +29245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29024,7 +29258,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29161,6 +29395,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29173,7 +29408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29254,6 +29489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29266,7 +29502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29395,6 +29631,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29600,6 +29837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29612,7 +29850,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29673,6 +29911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29685,7 +29924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29778,6 +30017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29790,7 +30030,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29907,6 +30147,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -29919,7 +30160,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30028,6 +30269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30269,6 +30511,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30281,7 +30524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30438,6 +30681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30450,7 +30694,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30507,6 +30751,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30519,7 +30764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30576,6 +30821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30588,7 +30834,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30725,6 +30971,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30737,7 +30984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30882,6 +31129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -30894,7 +31142,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31039,6 +31287,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -31051,7 +31300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31292,6 +31541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -31304,7 +31554,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31433,6 +31683,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -31445,7 +31696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31670,6 +31921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -31682,7 +31934,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31771,6 +32023,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -31783,7 +32036,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31904,6 +32157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -31916,7 +32170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32037,6 +32291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -32049,7 +32304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32158,6 +32413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -32170,7 +32426,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32327,6 +32583,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -32339,7 +32596,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32484,6 +32741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -32496,7 +32754,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32653,6 +32911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",
@@ -32665,7 +32924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32722,6 +32981,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Ghana",
         "ADM0_PCODE": "GH",
         "ADM0_ISO_A2": "GH",
         "ADM0_ISO_A3": "GHA",

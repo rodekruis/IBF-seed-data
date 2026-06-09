@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -429,6 +429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -441,7 +442,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -682,6 +683,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -694,7 +696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -879,6 +881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -891,7 +894,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1264,6 +1267,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -1276,7 +1280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1505,6 +1509,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -1517,7 +1522,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1866,6 +1871,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -1878,7 +1884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2227,6 +2233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -2239,7 +2246,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2304,6 +2311,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -2316,7 +2324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2433,6 +2441,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -2445,7 +2454,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2510,6 +2519,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -2671,6 +2681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -3024,6 +3035,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -3365,6 +3377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -3377,7 +3390,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3818,6 +3831,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -3830,7 +3844,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4191,6 +4205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -4203,7 +4218,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4832,6 +4847,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -4844,7 +4860,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5217,6 +5233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -5229,7 +5246,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5602,6 +5619,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -5614,7 +5632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5995,6 +6013,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -6007,7 +6026,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6100,6 +6119,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -6112,7 +6132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6365,6 +6385,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -6377,7 +6398,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6630,6 +6651,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -6642,7 +6664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6883,6 +6905,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -6895,7 +6918,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7260,6 +7283,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -7272,7 +7296,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7549,6 +7573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -7561,7 +7586,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7814,6 +7839,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -7826,7 +7852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8283,6 +8309,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -8295,7 +8322,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8716,6 +8743,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -8728,7 +8756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8929,6 +8957,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -8941,7 +8970,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9238,6 +9267,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -9435,6 +9465,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -9764,6 +9795,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -9776,7 +9808,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10149,6 +10181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -10161,7 +10194,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10574,6 +10607,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -11811,6 +11845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -11823,7 +11858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12088,6 +12123,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -12100,7 +12136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12389,6 +12425,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -12401,7 +12438,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12666,6 +12703,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -12678,7 +12716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12903,6 +12941,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -12915,7 +12954,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13248,6 +13287,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -13260,7 +13300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13457,6 +13497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -13469,7 +13510,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13698,6 +13739,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -13710,7 +13752,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13943,6 +13985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -13955,7 +13998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14456,6 +14499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -14468,7 +14512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14877,6 +14921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -14889,7 +14934,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15134,6 +15179,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -15887,6 +15933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -15899,7 +15946,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16244,6 +16291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -16597,6 +16645,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -16874,6 +16923,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -16886,7 +16936,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17035,6 +17085,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -17047,7 +17098,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17388,6 +17439,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -17400,7 +17452,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17829,6 +17881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -17841,7 +17894,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18282,6 +18335,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -18294,7 +18348,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18491,6 +18545,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -18800,6 +18855,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -18812,7 +18868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19073,6 +19129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -19085,7 +19142,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19190,6 +19247,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -19202,7 +19260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19703,6 +19761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -19715,7 +19774,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20268,6 +20327,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -20280,7 +20340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20629,6 +20689,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -21110,6 +21171,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -21563,6 +21625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -21824,6 +21887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -21836,7 +21900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22081,6 +22145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -22246,6 +22311,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -22471,6 +22537,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -22483,7 +22550,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22700,6 +22767,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",
@@ -22941,6 +23009,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Morocco",
         "ADM0_PCODE": "MA",
         "ADM0_ISO_A2": "MA",
         "ADM0_ISO_A3": "MAR",

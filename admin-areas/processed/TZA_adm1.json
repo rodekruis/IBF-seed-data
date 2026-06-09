@@ -513,6 +513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -523,7 +524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -868,6 +869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -878,7 +880,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1167,6 +1169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -2470,6 +2473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -3297,6 +3301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -5154,6 +5159,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -5901,6 +5907,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -7864,6 +7871,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -8607,6 +8615,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -8617,7 +8626,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9406,6 +9415,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -9416,7 +9426,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9857,6 +9867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -9867,7 +9878,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10444,6 +10455,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -10454,7 +10466,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11005,6 +11017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -11808,6 +11821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -11818,7 +11832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12203,6 +12217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -12930,6 +12945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -12940,7 +12956,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13455,6 +13471,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -13465,7 +13482,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13942,6 +13959,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -13952,7 +13970,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14353,6 +14371,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -14363,7 +14382,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14564,6 +14583,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -15273,6 +15293,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -15283,7 +15304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15676,6 +15697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -15686,7 +15708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16255,6 +16277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -16265,7 +16288,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16642,6 +16665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -16652,7 +16676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17209,6 +17233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -17219,7 +17244,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17848,6 +17873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -18147,6 +18173,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -18494,6 +18521,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -19241,6 +19269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -20284,6 +20313,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",
@@ -21099,6 +21129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tanzania",
         "ADM0_PCODE": "TZ",
         "ADM0_ISO_A2": "TZ",
         "ADM0_ISO_A3": "TZA",

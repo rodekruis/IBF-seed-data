@@ -4437,6 +4437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -4828,6 +4829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -4838,7 +4840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5959,6 +5961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -5969,7 +5972,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7210,6 +7213,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -8513,6 +8517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -8523,7 +8528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9012,6 +9017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -9022,7 +9028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9431,6 +9437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",
@@ -10562,6 +10569,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Guinea",
         "ADM0_PCODE": "GN",
         "ADM0_ISO_A2": "GN",
         "ADM0_ISO_A3": "GIN",

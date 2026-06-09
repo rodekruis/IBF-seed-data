@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -73,6 +73,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -85,7 +86,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -170,6 +171,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -182,7 +184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -243,6 +245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -255,7 +258,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -376,6 +379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -388,7 +392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -469,6 +473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -481,7 +486,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -606,6 +611,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -618,7 +624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -715,6 +721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -727,7 +734,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -868,6 +875,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -880,7 +888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -985,6 +993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -997,7 +1006,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1106,6 +1115,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -1118,7 +1128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1227,6 +1237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -1239,7 +1250,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1376,6 +1387,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -1388,7 +1400,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1513,6 +1525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -1525,7 +1538,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1626,6 +1639,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -1638,7 +1652,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1727,6 +1741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -1739,7 +1754,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1852,6 +1867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2041,6 +2057,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2053,7 +2070,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2170,6 +2187,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2182,7 +2200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2299,6 +2317,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2311,7 +2330,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2404,6 +2423,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2416,7 +2436,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2485,6 +2505,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2497,7 +2518,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2622,6 +2643,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2634,7 +2656,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2775,6 +2797,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2787,7 +2810,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2876,6 +2899,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -2888,7 +2912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3041,6 +3065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -3053,7 +3078,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3182,6 +3207,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -3194,7 +3220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3327,6 +3353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -3339,7 +3366,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3472,6 +3499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -3484,7 +3512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3613,6 +3641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",
@@ -3625,7 +3654,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3734,6 +3763,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Rwanda",
         "ADM0_PCODE": "RW",
         "ADM0_ISO_A2": "RW",
         "ADM0_ISO_A3": "RWA",

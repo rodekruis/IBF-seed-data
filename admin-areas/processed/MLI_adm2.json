@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -305,6 +305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -317,7 +318,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -618,6 +619,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -630,7 +632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1079,6 +1081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -1091,7 +1094,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1680,6 +1683,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -2477,6 +2481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -2489,7 +2494,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2754,6 +2759,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -2766,7 +2772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2943,6 +2949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -2955,7 +2962,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3180,6 +3187,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -3192,7 +3200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3601,6 +3609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -3613,7 +3622,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3882,6 +3891,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -3894,7 +3904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4389,6 +4399,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -4401,7 +4412,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4786,6 +4797,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -4798,7 +4810,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5051,6 +5063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -5063,7 +5076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5244,6 +5257,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -5256,7 +5270,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5949,6 +5963,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -5961,7 +5976,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6282,6 +6297,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -6294,7 +6310,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6647,6 +6663,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -6659,7 +6676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7036,6 +7053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -7573,6 +7591,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -8190,6 +8209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -8202,7 +8222,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8375,6 +8395,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -8387,7 +8408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8568,6 +8589,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -8580,7 +8602,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8817,6 +8839,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -8829,7 +8852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9010,6 +9033,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -9022,7 +9046,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9243,6 +9267,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -9255,7 +9280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9452,6 +9477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -9464,7 +9490,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9789,6 +9815,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -9801,7 +9828,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10026,6 +10053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -10038,7 +10066,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10243,6 +10271,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -10255,7 +10284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10448,6 +10477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -10460,7 +10490,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10645,6 +10675,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -10657,7 +10688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10954,6 +10985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -10966,7 +10998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11175,6 +11207,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -11187,7 +11220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11456,6 +11489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -11468,7 +11502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11701,6 +11735,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -11713,7 +11748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11962,6 +11997,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -11974,7 +12010,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12115,6 +12151,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -12396,6 +12433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -12408,7 +12446,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12781,6 +12819,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -12793,7 +12832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13098,6 +13137,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -13110,7 +13150,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13355,6 +13395,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -13367,7 +13408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13564,6 +13605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -13576,7 +13618,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13737,6 +13779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -13749,7 +13792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13974,6 +14017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -13986,7 +14030,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14255,6 +14299,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14267,7 +14312,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14360,6 +14405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14372,7 +14418,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14493,6 +14539,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14505,7 +14552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14586,6 +14633,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14598,7 +14646,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14675,6 +14723,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14687,7 +14736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14832,6 +14881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14844,7 +14894,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14945,6 +14995,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -14957,7 +15008,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15086,6 +15137,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",
@@ -15098,7 +15150,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15259,6 +15311,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Mali",
         "ADM0_PCODE": "ML",
         "ADM0_ISO_A2": "ML",
         "ADM0_ISO_A3": "MLI",

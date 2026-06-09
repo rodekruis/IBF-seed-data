@@ -241,6 +241,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 163520,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -248,8 +249,7 @@
         "ADM1_EN": "Uasin Gishu",
         "ADM1_PCODE": "KE027",
         "ADM2_EN": "Ainabkoi",
-        "ADM2_PCODE": "KE027144",
-        "POPULATION": 163520
+        "ADM2_PCODE": "KE027144"
       }
     },
     {
@@ -400,6 +400,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 201975,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -407,8 +408,7 @@
         "ADM1_EN": "Kericho",
         "ADM1_PCODE": "KE035",
         "ADM2_EN": "Ainamoi",
-        "ADM2_PCODE": "KE035190",
-        "POPULATION": 201975
+        "ADM2_PCODE": "KE035190"
       }
     },
     {
@@ -639,6 +639,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 200782,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -646,8 +647,7 @@
         "ADM1_EN": "Nandi",
         "ADM1_PCODE": "KE029",
         "ADM2_EN": "Aldai",
-        "ADM2_PCODE": "KE029152",
-        "POPULATION": 200782
+        "ADM2_PCODE": "KE029152"
       }
     },
     {
@@ -810,6 +810,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 264388,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -817,8 +818,7 @@
         "ADM1_EN": "Siaya",
         "ADM1_PCODE": "KE041",
         "ADM2_EN": "Alego Usonga",
-        "ADM2_PCODE": "KE041234",
-        "POPULATION": 264388
+        "ADM2_PCODE": "KE041234"
       }
     },
     {
@@ -917,6 +917,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 130222,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -924,8 +925,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Awendo",
-        "ADM2_PCODE": "KE044254",
-        "POPULATION": 130222
+        "ADM2_PCODE": "KE044254"
       }
     },
     {
@@ -1032,6 +1032,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 277332,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -1039,8 +1040,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Bahati",
-        "ADM2_PCODE": "KE032174",
-        "POPULATION": 277332
+        "ADM2_PCODE": "KE032174"
       }
     },
     {
@@ -1499,6 +1499,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 59732,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -1506,8 +1507,7 @@
         "ADM1_EN": "Garissa",
         "ADM1_PCODE": "KE007",
         "ADM2_EN": "Balambala",
-        "ADM2_PCODE": "KE007028",
-        "POPULATION": 59732
+        "ADM2_PCODE": "KE007028"
       }
     },
     {
@@ -1846,6 +1846,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 171001,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -1853,8 +1854,7 @@
         "ADM1_EN": "Mandera",
         "ADM1_PCODE": "KE009",
         "ADM2_EN": "Banissa",
-        "ADM2_PCODE": "KE009040",
-        "POPULATION": 171001
+        "ADM2_PCODE": "KE009040"
       }
     },
     {
@@ -2057,6 +2057,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 100150,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -2064,8 +2065,7 @@
         "ADM1_EN": "Baringo",
         "ADM1_PCODE": "KE030",
         "ADM2_EN": "Baringo Central",
-        "ADM2_PCODE": "KE030159",
-        "POPULATION": 100150
+        "ADM2_PCODE": "KE030159"
       }
     },
     {
@@ -2324,6 +2324,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 112139,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -2331,8 +2332,7 @@
         "ADM1_EN": "Baringo",
         "ADM1_PCODE": "KE030",
         "ADM2_EN": "Baringo North",
-        "ADM2_PCODE": "KE030158",
-        "POPULATION": 112139
+        "ADM2_PCODE": "KE030158"
       }
     },
     {
@@ -2667,6 +2667,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 115462,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -2674,8 +2675,7 @@
         "ADM1_EN": "Baringo",
         "ADM1_PCODE": "KE030",
         "ADM2_EN": "Baringo South",
-        "ADM2_PCODE": "KE030160",
-        "POPULATION": 115462
+        "ADM2_PCODE": "KE030160"
       }
     },
     {
@@ -2882,6 +2882,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 151216,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -2889,8 +2890,7 @@
         "ADM1_EN": "Kericho",
         "ADM1_PCODE": "KE035",
         "ADM2_EN": "Belgut",
-        "ADM2_PCODE": "KE035192",
-        "POPULATION": 151216
+        "ADM2_PCODE": "KE035192"
       }
     },
     {
@@ -2981,6 +2981,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 214170,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -2988,8 +2989,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Bobasi",
-        "ADM2_PCODE": "KE045264",
-        "POPULATION": 214170
+        "ADM2_PCODE": "KE045264"
       }
     },
     {
@@ -3072,6 +3072,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 121560,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3079,8 +3080,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Bomachoge Borabu",
-        "ADM2_PCODE": "KE045263",
-        "POPULATION": 121560
+        "ADM2_PCODE": "KE045263"
       }
     },
     {
@@ -3171,6 +3171,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 108008,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3178,8 +3179,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Bomachoge Chache",
-        "ADM2_PCODE": "KE045265",
-        "POPULATION": 108008
+        "ADM2_PCODE": "KE045265"
       }
     },
     {
@@ -3306,6 +3306,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 170953,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3313,8 +3314,7 @@
         "ADM1_EN": "Bomet",
         "ADM1_PCODE": "KE036",
         "ADM2_EN": "Bomet Central",
-        "ADM2_PCODE": "KE036197",
-        "POPULATION": 170953
+        "ADM2_PCODE": "KE036197"
       }
     },
     {
@@ -3453,6 +3453,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 180199,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3460,8 +3461,7 @@
         "ADM1_EN": "Bomet",
         "ADM1_PCODE": "KE036",
         "ADM2_EN": "Bomet East",
-        "ADM2_PCODE": "KE036196",
-        "POPULATION": 180199
+        "ADM2_PCODE": "KE036196"
       }
     },
     {
@@ -3528,6 +3528,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 157551,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3535,8 +3536,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Bonchari",
-        "ADM2_PCODE": "KE045261",
-        "POPULATION": 157551
+        "ADM2_PCODE": "KE045261"
       }
     },
     {
@@ -3671,6 +3671,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 237183,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3678,8 +3679,7 @@
         "ADM1_EN": "Siaya",
         "ADM1_PCODE": "KE041",
         "ADM2_EN": "Bondo",
-        "ADM2_PCODE": "KE041236",
-        "POPULATION": 237183
+        "ADM2_PCODE": "KE041236"
       }
     },
     {
@@ -3834,6 +3834,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 117695,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3841,8 +3842,7 @@
         "ADM1_EN": "Nyamira",
         "ADM1_PCODE": "KE046",
         "ADM2_EN": "Borabu",
-        "ADM2_PCODE": "KE046273",
-        "POPULATION": 117695
+        "ADM2_PCODE": "KE046273"
       }
     },
     {
@@ -3917,6 +3917,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 106202,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -3924,8 +3925,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Budalangi",
-        "ADM2_PCODE": "KE040231",
-        "POPULATION": 106202
+        "ADM2_PCODE": "KE040231"
       }
     },
     {
@@ -4080,6 +4080,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 252000,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -4087,8 +4088,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Bumula",
-        "ADM2_PCODE": "KE039219",
-        "POPULATION": 252000
+        "ADM2_PCODE": "KE039219"
       }
     },
     {
@@ -4519,6 +4519,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 408196,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -4526,8 +4527,7 @@
         "ADM1_EN": "Tana River",
         "ADM1_PCODE": "KE004",
         "ADM2_EN": "Bura",
-        "ADM2_PCODE": "KE004020",
-        "POPULATION": 408196
+        "ADM2_PCODE": "KE004020"
       }
     },
     {
@@ -4642,6 +4642,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 223355,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -4649,8 +4650,7 @@
         "ADM1_EN": "Kericho",
         "ADM1_PCODE": "KE035",
         "ADM2_EN": "Buret",
-        "ADM2_PCODE": "KE035191",
-        "POPULATION": 223355
+        "ADM2_PCODE": "KE035191"
       }
     },
     {
@@ -4793,6 +4793,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 166016,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -4800,8 +4801,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Butere",
-        "ADM2_PCODE": "KE037207",
-        "POPULATION": 166016
+        "ADM2_PCODE": "KE037207"
       }
     },
     {
@@ -4920,6 +4920,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 155285,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -4927,8 +4928,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Butula",
-        "ADM2_PCODE": "KE040229",
-        "POPULATION": 155285
+        "ADM2_PCODE": "KE040229"
       }
     },
     {
@@ -5179,6 +5179,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 150273,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -5186,8 +5187,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Buuri",
-        "ADM2_PCODE": "KE012057",
-        "POPULATION": 150273
+        "ADM2_PCODE": "KE012057"
       }
     },
     {
@@ -5406,6 +5406,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 185788,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -5413,8 +5414,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Cental Imenti",
-        "ADM2_PCODE": "KE012058",
-        "POPULATION": 185788
+        "ADM2_PCODE": "KE012058"
       }
     },
     {
@@ -5469,6 +5469,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 166760,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -5476,8 +5477,7 @@
         "ADM1_EN": "Mombasa",
         "ADM1_PCODE": "KE001",
         "ADM2_EN": "Changamwe",
-        "ADM2_PCODE": "KE001001",
-        "POPULATION": 166760
+        "ADM2_PCODE": "KE001001"
       }
     },
     {
@@ -5624,6 +5624,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 253038,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -5631,8 +5632,7 @@
         "ADM1_EN": "Bomet",
         "ADM1_PCODE": "KE036",
         "ADM2_EN": "Chepalungu",
-        "ADM2_PCODE": "KE036195",
-        "POPULATION": 253038
+        "ADM2_PCODE": "KE036195"
       }
     },
     {
@@ -5807,6 +5807,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 260531,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -5814,8 +5815,7 @@
         "ADM1_EN": "Trans Nzoia",
         "ADM1_PCODE": "KE026",
         "ADM2_EN": "Cherangany",
-        "ADM2_PCODE": "KE026140",
-        "POPULATION": 260531
+        "ADM2_PCODE": "KE026140"
       }
     },
     {
@@ -5998,6 +5998,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 193795,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -6005,8 +6006,7 @@
         "ADM1_EN": "Nandi",
         "ADM1_PCODE": "KE029",
         "ADM2_EN": "Chesumei",
-        "ADM2_PCODE": "KE029154",
-        "POPULATION": 193795
+        "ADM2_PCODE": "KE029154"
       }
     },
     {
@@ -6453,6 +6453,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 293132,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -6460,8 +6461,7 @@
         "ADM1_EN": "Garissa",
         "ADM1_PCODE": "KE007",
         "ADM2_EN": "Dadaab",
-        "ADM2_PCODE": "KE007030",
-        "POPULATION": 293132
+        "ADM2_PCODE": "KE007030"
       }
     },
     {
@@ -6520,6 +6520,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 410596,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -6527,8 +6528,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Dagoretti",
-        "ADM2_PCODE": "KE047276",
-        "POPULATION": 410596
+        "ADM2_PCODE": "KE047276"
       }
     },
     {
@@ -6627,6 +6627,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 245070,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -6634,8 +6635,7 @@
         "ADM1_EN": "Garissa",
         "ADM1_PCODE": "KE007",
         "ADM2_EN": "Dujis",
-        "ADM2_PCODE": "KE007027",
-        "POPULATION": 245070
+        "ADM2_PCODE": "KE007027"
       }
     },
     {
@@ -6826,6 +6826,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 148234,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -6833,8 +6834,7 @@
         "ADM1_EN": "Baringo",
         "ADM1_PCODE": "KE030",
         "ADM2_EN": "Eldama Ravine",
-        "ADM2_PCODE": "KE030162",
-        "POPULATION": 148234
+        "ADM2_PCODE": "KE030162"
       }
     },
     {
@@ -7221,6 +7221,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 149483,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7228,8 +7229,7 @@
         "ADM1_EN": "Wajir",
         "ADM1_PCODE": "KE008",
         "ADM2_EN": "Eldas",
-        "ADM2_PCODE": "KE008037",
-        "POPULATION": 149483
+        "ADM2_PCODE": "KE008037"
       }
     },
     {
@@ -7272,6 +7272,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 259729,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7279,8 +7280,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Embakasi Central",
-        "ADM2_PCODE": "KE047284",
-        "POPULATION": 259729
+        "ADM2_PCODE": "KE047284"
       }
     },
     {
@@ -7359,6 +7359,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 795097,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7366,8 +7367,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Embakasi East",
-        "ADM2_PCODE": "KE047285",
-        "POPULATION": 795097
+        "ADM2_PCODE": "KE047285"
       }
     },
     {
@@ -7402,6 +7402,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 105946,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7409,8 +7410,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Embakasi North",
-        "ADM2_PCODE": "KE047283",
-        "POPULATION": 105946
+        "ADM2_PCODE": "KE047283"
       }
     },
     {
@@ -7457,6 +7457,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 289454,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7464,8 +7465,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Embakasi South",
-        "ADM2_PCODE": "KE047282",
-        "POPULATION": 289454
+        "ADM2_PCODE": "KE047282"
       }
     },
     {
@@ -7516,6 +7516,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 320139,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7523,8 +7524,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Embakasi West",
-        "ADM2_PCODE": "KE047286",
-        "POPULATION": 320139
+        "ADM2_PCODE": "KE047286"
       }
     },
     {
@@ -7743,6 +7743,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 171797,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7750,8 +7751,7 @@
         "ADM1_EN": "Nandi",
         "ADM1_PCODE": "KE029",
         "ADM2_EN": "Emgwen",
-        "ADM2_PCODE": "KE029155",
-        "POPULATION": 171797
+        "ADM2_PCODE": "KE029155"
       }
     },
     {
@@ -7830,6 +7830,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 94730,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7837,8 +7838,7 @@
         "ADM1_EN": "Vihiga",
         "ADM1_PCODE": "KE038",
         "ADM2_EN": "Emuhaya",
-        "ADM2_PCODE": "KE038215",
-        "POPULATION": 94730
+        "ADM2_PCODE": "KE038215"
       }
     },
     {
@@ -7957,6 +7957,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 138029,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -7964,8 +7965,7 @@
         "ADM1_EN": "Narok",
         "ADM1_PCODE": "KE033",
         "ADM2_EN": "Emurua Dikirr",
-        "ADM2_PCODE": "KE033178",
-        "POPULATION": 138029
+        "ADM2_PCODE": "KE033178"
       }
     },
     {
@@ -8140,6 +8140,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 130236,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -8147,8 +8148,7 @@
         "ADM1_EN": "Trans Nzoia",
         "ADM1_PCODE": "KE026",
         "ADM2_EN": "Endebess",
-        "ADM2_PCODE": "KE026137",
-        "POPULATION": 130236
+        "ADM2_PCODE": "KE026137"
       }
     },
     {
@@ -8595,6 +8595,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 211505,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -8602,8 +8603,7 @@
         "ADM1_EN": "Garissa",
         "ADM1_PCODE": "KE007",
         "ADM2_EN": "Fafi",
-        "ADM2_PCODE": "KE007031",
-        "POPULATION": 211505
+        "ADM2_PCODE": "KE007031"
       }
     },
     {
@@ -8726,6 +8726,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 120017,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -8733,8 +8734,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Funyula",
-        "ADM2_PCODE": "KE040230",
-        "POPULATION": 120017
+        "ADM2_PCODE": "KE040230"
       }
     },
     {
@@ -9045,6 +9045,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 196380,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -9052,8 +9053,7 @@
         "ADM1_EN": "Embu",
         "ADM1_PCODE": "KE014",
         "ADM2_EN": "Gachoka",
-        "ADM2_PCODE": "KE014065",
-        "POPULATION": 196380
+        "ADM2_PCODE": "KE014065"
       }
     },
     {
@@ -9316,6 +9316,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 207254,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -9323,8 +9324,7 @@
         "ADM1_EN": "Tana River",
         "ADM1_PCODE": "KE004",
         "ADM2_EN": "Galole",
-        "ADM2_PCODE": "KE004019",
-        "POPULATION": 207254
+        "ADM2_PCODE": "KE004019"
       }
     },
     {
@@ -9539,6 +9539,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 192036,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -9546,8 +9547,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Ganze",
-        "ADM2_PCODE": "KE003015",
-        "POPULATION": 192036
+        "ADM2_PCODE": "KE003015"
       }
     },
     {
@@ -9874,6 +9874,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 121981,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -9881,8 +9882,7 @@
         "ADM1_EN": "Tana River",
         "ADM1_PCODE": "KE004",
         "ADM2_EN": "Garsen",
-        "ADM2_PCODE": "KE004018",
-        "POPULATION": 121981
+        "ADM2_PCODE": "KE004018"
       }
     },
     {
@@ -10229,6 +10229,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 185369,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -10236,8 +10237,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Gatanga",
-        "ADM2_PCODE": "KE021110",
-        "POPULATION": 185369
+        "ADM2_PCODE": "KE021110"
       }
     },
     {
@@ -10372,6 +10372,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 119183,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -10379,8 +10380,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Gatundu North",
-        "ADM2_PCODE": "KE022112",
-        "POPULATION": 119183
+        "ADM2_PCODE": "KE022112"
       }
     },
     {
@@ -10523,6 +10523,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 127487,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -10530,8 +10531,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Gatundu South",
-        "ADM2_PCODE": "KE022111",
-        "POPULATION": 127487
+        "ADM2_PCODE": "KE022111"
       }
     },
     {
@@ -10706,6 +10706,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 204196,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -10713,8 +10714,7 @@
         "ADM1_EN": "Siaya",
         "ADM1_PCODE": "KE041",
         "ADM2_EN": "Gem",
-        "ADM2_PCODE": "KE041235",
-        "POPULATION": 204196
+        "ADM2_PCODE": "KE041235"
       }
     },
     {
@@ -10801,6 +10801,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 274826,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -10808,8 +10809,7 @@
         "ADM1_EN": "Kirinyaga",
         "ADM1_PCODE": "KE020",
         "ADM2_EN": "Gichugu",
-        "ADM2_PCODE": "KE020101",
-        "POPULATION": 274826
+        "ADM2_PCODE": "KE020101"
       }
     },
     {
@@ -11064,6 +11064,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 275816,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -11071,8 +11072,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Gilgil",
-        "ADM2_PCODE": "KE032169",
-        "POPULATION": 275816
+        "ADM2_PCODE": "KE032169"
       }
     },
     {
@@ -11195,6 +11195,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 177802,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -11202,8 +11203,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Githunguri",
-        "ADM2_PCODE": "KE022116",
-        "POPULATION": 177802
+        "ADM2_PCODE": "KE022116"
       }
     },
     {
@@ -11342,6 +11342,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 165416,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -11349,8 +11350,7 @@
         "ADM1_EN": "Vihiga",
         "ADM1_PCODE": "KE038",
         "ADM2_EN": "Hamisi",
-        "ADM2_PCODE": "KE038213",
-        "POPULATION": 165416
+        "ADM2_PCODE": "KE038213"
       }
     },
     {
@@ -11457,6 +11457,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 146508,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -11464,8 +11465,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Homa Bay",
-        "ADM2_PCODE": "KE043249",
-        "POPULATION": 146508
+        "ADM2_PCODE": "KE043249"
       }
     },
     {
@@ -11724,6 +11724,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 239135,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -11731,8 +11732,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Igembe Central",
-        "ADM2_PCODE": "KE012052",
-        "POPULATION": 239135
+        "ADM2_PCODE": "KE012052"
       }
     },
     {
@@ -11835,6 +11835,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 188760,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -11842,8 +11843,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Igembe North",
-        "ADM2_PCODE": "KE012053",
-        "POPULATION": 188760
+        "ADM2_PCODE": "KE012053"
       }
     },
     {
@@ -12110,6 +12110,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 189961,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -12117,8 +12118,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Igembe South",
-        "ADM2_PCODE": "KE012051",
-        "POPULATION": 189961
+        "ADM2_PCODE": "KE012051"
       }
     },
     {
@@ -12421,6 +12421,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 158441,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -12428,8 +12429,7 @@
         "ADM1_EN": "Garissa",
         "ADM1_PCODE": "KE007",
         "ADM2_EN": "Ijara",
-        "ADM2_PCODE": "KE007032",
-        "POPULATION": 158441
+        "ADM2_PCODE": "KE007032"
       }
     },
     {
@@ -12536,6 +12536,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 121055,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -12543,8 +12544,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Ikolomani",
-        "ADM2_PCODE": "KE037210",
-        "POPULATION": 121055
+        "ADM2_PCODE": "KE037210"
       }
     },
     {
@@ -13467,6 +13467,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 242649,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -13474,8 +13475,7 @@
         "ADM1_EN": "Isiolo",
         "ADM1_PCODE": "KE011",
         "ADM2_EN": "Isiolo North",
-        "ADM2_PCODE": "KE011049",
-        "POPULATION": 242649
+        "ADM2_PCODE": "KE011049"
       }
     },
     {
@@ -14138,6 +14138,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 174556,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -14145,8 +14146,7 @@
         "ADM1_EN": "Isiolo",
         "ADM1_PCODE": "KE011",
         "ADM2_EN": "Isiolo South",
-        "ADM2_PCODE": "KE011050",
-        "POPULATION": 174556
+        "ADM2_PCODE": "KE011050"
       }
     },
     {
@@ -14217,6 +14217,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 170376,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -14224,8 +14225,7 @@
         "ADM1_EN": "Mombasa",
         "ADM1_PCODE": "KE001",
         "ADM2_EN": "Jomvu",
-        "ADM2_PCODE": "KE001002",
-        "POPULATION": 170376
+        "ADM2_PCODE": "KE001002"
       }
     },
     {
@@ -14408,6 +14408,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 682238,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -14415,8 +14416,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Juja",
-        "ADM2_PCODE": "KE022113",
-        "POPULATION": 682238
+        "ADM2_PCODE": "KE022113"
       }
     },
     {
@@ -14491,6 +14491,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 189334,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -14498,8 +14499,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Kabete",
-        "ADM2_PCODE": "KE022119",
-        "POPULATION": 189334
+        "ADM2_PCODE": "KE022119"
       }
     },
     {
@@ -14626,6 +14626,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 130921,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -14633,8 +14634,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Kabondo Kasipul",
-        "ADM2_PCODE": "KE043246",
-        "POPULATION": 130921
+        "ADM2_PCODE": "KE043246"
       }
     },
     {
@@ -14757,6 +14757,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 209514,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -14764,8 +14765,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Kabuchai",
-        "ADM2_PCODE": "KE039218",
-        "POPULATION": 209514
+        "ADM2_PCODE": "KE039218"
       }
     },
     {
@@ -15156,6 +15156,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 132891,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -15163,8 +15164,7 @@
         "ADM1_EN": "West Pokot",
         "ADM1_PCODE": "KE024",
         "ADM2_EN": "Kacheliba",
-        "ADM2_PCODE": "KE024131",
-        "POPULATION": 132891
+        "ADM2_PCODE": "KE024131"
       }
     },
     {
@@ -15323,6 +15323,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 135392,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -15330,8 +15331,7 @@
         "ADM1_EN": "Makueni",
         "ADM1_PCODE": "KE017",
         "ADM2_EN": "Kaiti",
-        "ADM2_PCODE": "KE017085",
-        "POPULATION": 135392
+        "ADM2_PCODE": "KE017085"
       }
     },
     {
@@ -15610,6 +15610,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 206409,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -15617,8 +15618,7 @@
         "ADM1_EN": "Kajiado",
         "ADM1_PCODE": "KE034",
         "ADM2_EN": "Kajiado Central",
-        "ADM2_PCODE": "KE034184",
-        "POPULATION": 206409
+        "ADM2_PCODE": "KE034184"
       }
     },
     {
@@ -16093,6 +16093,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 448811,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -16100,8 +16101,7 @@
         "ADM1_EN": "Kajiado",
         "ADM1_PCODE": "KE034",
         "ADM2_EN": "Kajiado East",
-        "ADM2_PCODE": "KE034186",
-        "POPULATION": 448811
+        "ADM2_PCODE": "KE034186"
       }
     },
     {
@@ -16212,6 +16212,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 421703,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -16219,8 +16220,7 @@
         "ADM1_EN": "Kajiado",
         "ADM1_PCODE": "KE034",
         "ADM2_EN": "Kajiado North",
-        "ADM2_PCODE": "KE034183",
-        "POPULATION": 421703
+        "ADM2_PCODE": "KE034183"
       }
     },
     {
@@ -16475,6 +16475,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 236448,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -16482,8 +16483,7 @@
         "ADM1_EN": "Kajiado",
         "ADM1_PCODE": "KE034",
         "ADM2_EN": "Kajiado South",
-        "ADM2_PCODE": "KE034187",
-        "POPULATION": 236448
+        "ADM2_PCODE": "KE034187"
       }
     },
     {
@@ -16794,6 +16794,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 270141,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -16801,8 +16802,7 @@
         "ADM1_EN": "Kajiado",
         "ADM1_PCODE": "KE034",
         "ADM2_EN": "Kajiado West",
-        "ADM2_PCODE": "KE034185",
-        "POPULATION": 270141
+        "ADM2_PCODE": "KE034185"
       }
     },
     {
@@ -17033,6 +17033,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 201527,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -17040,8 +17041,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Kaloleni",
-        "ADM2_PCODE": "KE003013",
-        "POPULATION": 201527
+        "ADM2_PCODE": "KE003013"
       }
     },
     {
@@ -17076,6 +17076,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 252074,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -17083,8 +17084,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Kamukunji",
-        "ADM2_PCODE": "KE047288",
-        "POPULATION": 252074
+        "ADM2_PCODE": "KE047288"
       }
     },
     {
@@ -17227,6 +17227,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 168394,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -17234,8 +17235,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Kandara",
-        "ADM2_PCODE": "KE021109",
-        "POPULATION": 168394
+        "ADM2_PCODE": "KE021109"
       }
     },
     {
@@ -17402,6 +17402,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 345839,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -17409,8 +17410,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Kanduyi",
-        "ADM2_PCODE": "KE039220",
-        "POPULATION": 345839
+        "ADM2_PCODE": "KE039220"
       }
     },
     {
@@ -17613,6 +17613,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 112596,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -17620,8 +17621,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Kangema",
-        "ADM2_PCODE": "KE021104",
-        "POPULATION": 112596
+        "ADM2_PCODE": "KE021104"
       }
     },
     {
@@ -17728,6 +17728,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 99041,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -17735,8 +17736,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Kangundo",
-        "ADM2_PCODE": "KE016077",
-        "POPULATION": 99041
+        "ADM2_PCODE": "KE016077"
       }
     },
     {
@@ -18167,6 +18167,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 226845,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18174,8 +18175,7 @@
         "ADM1_EN": "West Pokot",
         "ADM1_PCODE": "KE024",
         "ADM2_EN": "Kapenguria",
-        "ADM2_PCODE": "KE024129",
-        "POPULATION": 226845
+        "ADM2_PCODE": "KE024129"
       }
     },
     {
@@ -18318,6 +18318,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 223124,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18325,8 +18326,7 @@
         "ADM1_EN": "Uasin Gishu",
         "ADM1_PCODE": "KE027",
         "ADM2_EN": "Kapseret",
-        "ADM2_PCODE": "KE027145",
-        "POPULATION": 223124
+        "ADM2_PCODE": "KE027145"
       }
     },
     {
@@ -18445,6 +18445,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 192548,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18452,8 +18453,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Karachuonyo",
-        "ADM2_PCODE": "KE043247",
-        "POPULATION": 192548
+        "ADM2_PCODE": "KE043247"
       }
     },
     {
@@ -18560,6 +18560,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 1100055,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18567,8 +18568,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Kasarani",
-        "ADM2_PCODE": "KE047280",
-        "POPULATION": 1100055
+        "ADM2_PCODE": "KE047280"
       }
     },
     {
@@ -18667,6 +18667,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 146039,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18674,8 +18675,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Kasipul",
-        "ADM2_PCODE": "KE043245",
-        "POPULATION": 146039
+        "ADM2_PCODE": "KE043245"
       }
     },
     {
@@ -18810,6 +18810,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 119382,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18817,8 +18818,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Kathiani",
-        "ADM2_PCODE": "KE016079",
-        "POPULATION": 119382
+        "ADM2_PCODE": "KE016079"
       }
     },
     {
@@ -18977,6 +18977,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 120048,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -18984,8 +18985,7 @@
         "ADM1_EN": "Elgeyo-Marakwet",
         "ADM1_PCODE": "KE028",
         "ADM2_EN": "Keiyo North",
-        "ADM2_PCODE": "KE028149",
-        "POPULATION": 120048
+        "ADM2_PCODE": "KE028149"
       }
     },
     {
@@ -19188,6 +19188,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 129259,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -19195,8 +19196,7 @@
         "ADM1_EN": "Elgeyo-Marakwet",
         "ADM1_PCODE": "KE028",
         "ADM2_EN": "Keiyo South",
-        "ADM2_PCODE": "KE028150",
-        "POPULATION": 129259
+        "ADM2_PCODE": "KE028150"
       }
     },
     {
@@ -19479,6 +19479,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 214780,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -19486,8 +19487,7 @@
         "ADM1_EN": "Uasin Gishu",
         "ADM1_PCODE": "KE027",
         "ADM2_EN": "Kesses",
-        "ADM2_PCODE": "KE027146",
-        "POPULATION": 214780
+        "ADM2_PCODE": "KE027146"
       }
     },
     {
@@ -19626,6 +19626,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 125505,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -19633,8 +19634,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Khwisero",
-        "ADM2_PCODE": "KE037208",
-        "POPULATION": 125505
+        "ADM2_PCODE": "KE037208"
       }
     },
     {
@@ -19709,6 +19709,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 325734,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -19716,8 +19717,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Kiambaa",
-        "ADM2_PCODE": "KE022118",
-        "POPULATION": 325734
+        "ADM2_PCODE": "KE022118"
       }
     },
     {
@@ -19804,6 +19804,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 182565,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -19811,8 +19812,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Kiambu",
-        "ADM2_PCODE": "KE022117",
-        "POPULATION": 182565
+        "ADM2_PCODE": "KE022117"
       }
     },
     {
@@ -19859,6 +19859,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 178786,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -19866,8 +19867,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Kibra",
-        "ADM2_PCODE": "KE047278",
-        "POPULATION": 178786
+        "ADM2_PCODE": "KE047278"
       }
     },
     {
@@ -20198,6 +20198,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 163151,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -20205,8 +20206,7 @@
         "ADM1_EN": "Makueni",
         "ADM1_PCODE": "KE017",
         "ADM2_EN": "Kibwezi East",
-        "ADM2_PCODE": "KE017088",
-        "POPULATION": 163151
+        "ADM2_PCODE": "KE017088"
       }
     },
     {
@@ -20493,6 +20493,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 152655,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -20500,8 +20501,7 @@
         "ADM1_EN": "Makueni",
         "ADM1_PCODE": "KE017",
         "ADM2_EN": "Kibwezi West",
-        "ADM2_PCODE": "KE017087",
-        "POPULATION": 152655
+        "ADM2_PCODE": "KE017087"
       }
     },
     {
@@ -20812,6 +20812,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 217762,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -20819,8 +20820,7 @@
         "ADM1_EN": "Nyeri",
         "ADM1_PCODE": "KE019",
         "ADM2_EN": "Kieni",
-        "ADM2_PCODE": "KE019095",
-        "POPULATION": 217762
+        "ADM2_PCODE": "KE019095"
       }
     },
     {
@@ -21031,6 +21031,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 171659,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -21038,8 +21039,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Kigumo",
-        "ADM2_PCODE": "KE021107",
-        "POPULATION": 171659
+        "ADM2_PCODE": "KE021107"
       }
     },
     {
@@ -21218,6 +21218,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 167013,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -21225,8 +21226,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Kiharu",
-        "ADM2_PCODE": "KE021106",
-        "POPULATION": 167013
+        "ADM2_PCODE": "KE021106"
       }
     },
     {
@@ -21325,6 +21325,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 293218,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -21332,8 +21333,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Kikuyu",
-        "ADM2_PCODE": "KE022120",
-        "POPULATION": 293218
+        "ADM2_PCODE": "KE022120"
       }
     },
     {
@@ -21664,6 +21664,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 313691,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -21671,8 +21672,7 @@
         "ADM1_EN": "Narok",
         "ADM1_PCODE": "KE033",
         "ADM2_EN": "Kilgoris",
-        "ADM2_PCODE": "KE033177",
-        "POPULATION": 313691
+        "ADM2_PCODE": "KE033177"
       }
     },
     {
@@ -21927,6 +21927,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 379677,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -21934,8 +21935,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Kilifi North",
-        "ADM2_PCODE": "KE003011",
-        "POPULATION": 379677
+        "ADM2_PCODE": "KE003011"
       }
     },
     {
@@ -22086,6 +22086,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 290647,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -22093,8 +22094,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Kilifi South",
-        "ADM2_PCODE": "KE003012",
-        "POPULATION": 290647
+        "ADM2_PCODE": "KE003012"
       }
     },
     {
@@ -22149,6 +22149,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 228268,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -22156,8 +22157,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Kilimani",
-        "ADM2_PCODE": "KE047275",
-        "POPULATION": 228268
+        "ADM2_PCODE": "KE047275"
       }
     },
     {
@@ -22372,6 +22372,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 142372,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -22379,8 +22380,7 @@
         "ADM1_EN": "Makueni",
         "ADM1_PCODE": "KE017",
         "ADM2_EN": "Kilome",
-        "ADM2_PCODE": "KE017084",
-        "POPULATION": 142372
+        "ADM2_PCODE": "KE017084"
       }
     },
     {
@@ -22503,6 +22503,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 186933,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -22510,8 +22511,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Kimilili",
-        "ADM2_PCODE": "KE039223",
-        "POPULATION": 186933
+        "ADM2_PCODE": "KE039223"
       }
     },
     {
@@ -22674,6 +22674,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 289688,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -22681,8 +22682,7 @@
         "ADM1_EN": "Trans Nzoia",
         "ADM1_PCODE": "KE026",
         "ADM2_EN": "Kiminini",
-        "ADM2_PCODE": "KE026139",
-        "POPULATION": 289688
+        "ADM2_PCODE": "KE026139"
       }
     },
     {
@@ -23009,6 +23009,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 385488,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -23016,8 +23017,7 @@
         "ADM1_EN": "Kwale",
         "ADM1_PCODE": "KE002",
         "ADM2_EN": "Kinango",
-        "ADM2_PCODE": "KE002010",
-        "POPULATION": 385488
+        "ADM2_PCODE": "KE002010"
       }
     },
     {
@@ -23184,6 +23184,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 159464,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -23191,8 +23192,7 @@
         "ADM1_EN": "Nyandarua",
         "ADM1_PCODE": "KE018",
         "ADM2_EN": "Kinangop",
-        "ADM2_PCODE": "KE018089",
-        "POPULATION": 159464
+        "ADM2_PCODE": "KE018089"
       }
     },
     {
@@ -23415,6 +23415,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 160233,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -23422,8 +23423,7 @@
         "ADM1_EN": "Nyandarua",
         "ADM1_PCODE": "KE018",
         "ADM2_EN": "Kipipiri",
-        "ADM2_PCODE": "KE018090",
-        "POPULATION": 160233
+        "ADM2_PCODE": "KE018090"
       }
     },
     {
@@ -23722,6 +23722,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 159796,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -23729,8 +23730,7 @@
         "ADM1_EN": "Kericho",
         "ADM1_PCODE": "KE035",
         "ADM2_EN": "Kipkelion East",
-        "ADM2_PCODE": "KE035188",
-        "POPULATION": 159796
+        "ADM2_PCODE": "KE035188"
       }
     },
     {
@@ -23877,6 +23877,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 156786,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -23884,8 +23885,7 @@
         "ADM1_EN": "Kericho",
         "ADM1_PCODE": "KE035",
         "ADM2_EN": "Kipkelion West",
-        "ADM2_PCODE": "KE035189",
-        "POPULATION": 156786
+        "ADM2_PCODE": "KE035189"
       }
     },
     {
@@ -23964,6 +23964,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 274888,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -23971,8 +23972,7 @@
         "ADM1_EN": "Kirinyaga",
         "ADM1_PCODE": "KE020",
         "ADM2_EN": "Kirinyaga Central",
-        "ADM2_PCODE": "KE020103",
-        "POPULATION": 274888
+        "ADM2_PCODE": "KE020103"
       }
     },
     {
@@ -24103,6 +24103,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 216553,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -24110,8 +24111,7 @@
         "ADM1_EN": "Mombasa",
         "ADM1_PCODE": "KE001",
         "ADM2_EN": "Kisauni",
-        "ADM2_PCODE": "KE001003",
-        "POPULATION": 216553
+        "ADM2_PCODE": "KE001003"
       }
     },
     {
@@ -24178,6 +24178,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 192964,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -24185,8 +24186,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Kisumu Central",
-        "ADM2_PCODE": "KE042240",
-        "POPULATION": 192964
+        "ADM2_PCODE": "KE042240"
       }
     },
     {
@@ -24313,6 +24313,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 288356,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -24320,8 +24321,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Kisumu East",
-        "ADM2_PCODE": "KE042238",
-        "POPULATION": 288356
+        "ADM2_PCODE": "KE042238"
       }
     },
     {
@@ -24428,6 +24428,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 217467,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -24435,8 +24436,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Kisumu West",
-        "ADM2_PCODE": "KE042239",
-        "POPULATION": 217467
+        "ADM2_PCODE": "KE042239"
       }
     },
     {
@@ -24671,6 +24671,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 162626,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -24678,8 +24679,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Kitui Central",
-        "ADM2_PCODE": "KE015072",
-        "POPULATION": 162626
+        "ADM2_PCODE": "KE015072"
       }
     },
     {
@@ -24990,6 +24990,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 153178,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -24997,8 +24998,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Kitui East",
-        "ADM2_PCODE": "KE015073",
-        "POPULATION": 153178
+        "ADM2_PCODE": "KE015073"
       }
     },
     {
@@ -25409,6 +25409,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 128570,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -25416,8 +25417,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Kitui Rural",
-        "ADM2_PCODE": "KE015071",
-        "POPULATION": 128570
+        "ADM2_PCODE": "KE015071"
       }
     },
     {
@@ -25940,6 +25940,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 205106,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -25947,8 +25948,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Kitui South",
-        "ADM2_PCODE": "KE015074",
-        "POPULATION": 205106
+        "ADM2_PCODE": "KE015074"
       }
     },
     {
@@ -26095,6 +26095,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 126571,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26102,8 +26103,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Kitui West",
-        "ADM2_PCODE": "KE015070",
-        "POPULATION": 126571
+        "ADM2_PCODE": "KE015070"
       }
     },
     {
@@ -26190,6 +26190,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 115709,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26197,8 +26198,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Kitutu Chache North",
-        "ADM2_PCODE": "KE045268",
-        "POPULATION": 115709
+        "ADM2_PCODE": "KE045268"
       }
     },
     {
@@ -26269,6 +26269,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 142508,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26276,8 +26277,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Kitutu Chache South",
-        "ADM2_PCODE": "KE045269",
-        "POPULATION": 142508
+        "ADM2_PCODE": "KE045269"
       }
     },
     {
@@ -26388,6 +26388,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 218985,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26395,8 +26396,7 @@
         "ADM1_EN": "Nyamira",
         "ADM1_PCODE": "KE046",
         "ADM2_EN": "Kitutu Masaba",
-        "ADM2_PCODE": "KE046270",
-        "POPULATION": 218985
+        "ADM2_PCODE": "KE046270"
       }
     },
     {
@@ -26567,6 +26567,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 186302,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26574,8 +26575,7 @@
         "ADM1_EN": "Bomet",
         "ADM1_PCODE": "KE036",
         "ADM2_EN": "Konoin",
-        "ADM2_PCODE": "KE036198",
-        "POPULATION": 186302
+        "ADM2_PCODE": "KE036198"
       }
     },
     {
@@ -26822,6 +26822,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 224352,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26829,8 +26830,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Kuresoi North",
-        "ADM2_PCODE": "KE032171",
-        "POPULATION": 224352
+        "ADM2_PCODE": "KE032171"
       }
     },
     {
@@ -26985,6 +26985,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 194275,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -26992,8 +26993,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Kuresoi South",
-        "ADM2_PCODE": "KE032170",
-        "POPULATION": 194275
+        "ADM2_PCODE": "KE032170"
       }
     },
     {
@@ -27112,6 +27112,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 140176,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -27119,8 +27120,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Kuria East",
-        "ADM2_PCODE": "KE044260",
-        "POPULATION": 140176
+        "ADM2_PCODE": "KE044260"
       }
     },
     {
@@ -27227,6 +27227,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 226585,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -27234,8 +27235,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Kuria West",
-        "ADM2_PCODE": "KE044259",
-        "POPULATION": 226585
+        "ADM2_PCODE": "KE044259"
       }
     },
     {
@@ -27386,6 +27386,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 222136,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -27393,8 +27394,7 @@
         "ADM1_EN": "Trans Nzoia",
         "ADM1_PCODE": "KE026",
         "ADM2_EN": "Kwanza",
-        "ADM2_PCODE": "KE026136",
-        "POPULATION": 222136
+        "ADM2_PCODE": "KE026136"
       }
     },
     {
@@ -27697,6 +27697,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 98605,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -27704,8 +27705,7 @@
         "ADM1_EN": "Mandera",
         "ADM1_PCODE": "KE009",
         "ADM2_EN": "Lafey",
-        "ADM2_PCODE": "KE009044",
-        "POPULATION": 98605
+        "ADM2_PCODE": "KE009044"
       }
     },
     {
@@ -28236,6 +28236,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 179950,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -28243,8 +28244,7 @@
         "ADM1_EN": "Garissa",
         "ADM1_PCODE": "KE007",
         "ADM2_EN": "Lagdera",
-        "ADM2_PCODE": "KE007029",
-        "POPULATION": 179950
+        "ADM2_PCODE": "KE007029"
       }
     },
     {
@@ -28623,6 +28623,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 335606,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -28630,8 +28631,7 @@
         "ADM1_EN": "Laikipia",
         "ADM1_PCODE": "KE031",
         "ADM2_EN": "Laikipia East",
-        "ADM2_PCODE": "KE031164",
-        "POPULATION": 335606
+        "ADM2_PCODE": "KE031164"
       }
     },
     {
@@ -29086,6 +29086,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 112308,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -29093,8 +29094,7 @@
         "ADM1_EN": "Laikipia",
         "ADM1_PCODE": "KE031",
         "ADM2_EN": "Laikipia North",
-        "ADM2_PCODE": "KE031165",
-        "POPULATION": 112308
+        "ADM2_PCODE": "KE031165"
       }
     },
     {
@@ -29397,6 +29397,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 196280,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -29404,8 +29405,7 @@
         "ADM1_EN": "Laikipia",
         "ADM1_PCODE": "KE031",
         "ADM2_EN": "Laikipia West",
-        "ADM2_PCODE": "KE031163",
-        "POPULATION": 196280
+        "ADM2_PCODE": "KE031163"
       }
     },
     {
@@ -29992,6 +29992,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 131616,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -29999,8 +30000,7 @@
         "ADM1_EN": "Marsabit",
         "ADM1_PCODE": "KE010",
         "ADM2_EN": "Laisamis",
-        "ADM2_PCODE": "KE010048",
-        "POPULATION": 131616
+        "ADM2_PCODE": "KE010048"
       }
     },
     {
@@ -30363,6 +30363,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 16326,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -30370,8 +30371,7 @@
         "ADM1_EN": "Lamu",
         "ADM1_PCODE": "KE005",
         "ADM2_EN": "Lamu East",
-        "ADM2_PCODE": "KE005021",
-        "POPULATION": 16326
+        "ADM2_PCODE": "KE005021"
       }
     },
     {
@@ -30762,6 +30762,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 155446,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -30769,8 +30770,7 @@
         "ADM1_EN": "Lamu",
         "ADM1_PCODE": "KE005",
         "ADM2_EN": "Lamu West",
-        "ADM2_PCODE": "KE005022",
-        "POPULATION": 155446
+        "ADM2_PCODE": "KE005022"
       }
     },
     {
@@ -30885,6 +30885,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 301977,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -30892,8 +30893,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Langata",
-        "ADM2_PCODE": "KE047277",
-        "POPULATION": 301977
+        "ADM2_PCODE": "KE047277"
       }
     },
     {
@@ -31100,6 +31100,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 149137,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -31107,8 +31108,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Lari",
-        "ADM2_PCODE": "KE022122",
-        "POPULATION": 149137
+        "ADM2_PCODE": "KE022122"
       }
     },
     {
@@ -31179,6 +31179,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 336675,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -31186,8 +31187,7 @@
         "ADM1_EN": "Mombasa",
         "ADM1_PCODE": "KE001",
         "ADM2_EN": "Likoni",
-        "ADM2_PCODE": "KE001005",
-        "POPULATION": 336675
+        "ADM2_PCODE": "KE001005"
       }
     },
     {
@@ -31314,6 +31314,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 185982,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -31321,8 +31322,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Likuyani",
-        "ADM2_PCODE": "KE037200",
-        "POPULATION": 185982
+        "ADM2_PCODE": "KE037200"
       }
     },
     {
@@ -31457,6 +31457,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 182143,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -31464,8 +31465,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Limuru",
-        "ADM2_PCODE": "KE022121",
-        "POPULATION": 182143
+        "ADM2_PCODE": "KE022121"
       }
     },
     {
@@ -32144,6 +32144,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 138505,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -32151,8 +32152,7 @@
         "ADM1_EN": "Turkana",
         "ADM1_PCODE": "KE023",
         "ADM2_EN": "Loima",
-        "ADM2_PCODE": "KE023126",
-        "POPULATION": 138505
+        "ADM2_PCODE": "KE023126"
       }
     },
     {
@@ -32247,6 +32247,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 123372,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -32254,8 +32255,7 @@
         "ADM1_EN": "Vihiga",
         "ADM1_PCODE": "KE038",
         "ADM2_EN": "Luanda",
-        "ADM2_PCODE": "KE038214",
-        "POPULATION": 123372
+        "ADM2_PCODE": "KE038214"
       }
     },
     {
@@ -32450,6 +32450,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 206021,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -32457,8 +32458,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Lugari",
-        "ADM2_PCODE": "KE037199",
-        "POPULATION": 206021
+        "ADM2_PCODE": "KE037199"
       }
     },
     {
@@ -32757,6 +32757,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 247431,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -32764,8 +32765,7 @@
         "ADM1_EN": "Kwale",
         "ADM1_PCODE": "KE002",
         "ADM2_EN": "Lunga Lunga",
-        "ADM2_PCODE": "KE002008",
-        "POPULATION": 247431
+        "ADM2_PCODE": "KE002008"
       }
     },
     {
@@ -32892,6 +32892,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 214604,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -32899,8 +32900,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Lurambi",
-        "ADM2_PCODE": "KE037202",
-        "POPULATION": 214604
+        "ADM2_PCODE": "KE037202"
       }
     },
     {
@@ -33035,6 +33035,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 127714,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -33042,8 +33043,7 @@
         "ADM1_EN": "Tharaka-Nithi",
         "ADM1_PCODE": "KE013",
         "ADM2_EN": "Maara",
-        "ADM2_PCODE": "KE013061",
-        "POPULATION": 127714
+        "ADM2_PCODE": "KE013061"
       }
     },
     {
@@ -33278,6 +33278,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 245428,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -33285,8 +33286,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Machakos Town",
-        "ADM2_PCODE": "KE016081",
-        "POPULATION": 245428
+        "ADM2_PCODE": "KE016081"
       }
     },
     {
@@ -33557,6 +33557,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 276113,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -33564,8 +33565,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Magarini",
-        "ADM2_PCODE": "KE003017",
-        "POPULATION": 276113
+        "ADM2_PCODE": "KE003017"
       }
     },
     {
@@ -33608,6 +33608,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 284141,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -33615,8 +33616,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Makadara",
-        "ADM2_PCODE": "KE047287",
-        "POPULATION": 284141
+        "ADM2_PCODE": "KE047287"
       }
     },
     {
@@ -33895,6 +33895,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 282693,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -33902,8 +33903,7 @@
         "ADM1_EN": "Makueni",
         "ADM1_PCODE": "KE017",
         "ADM2_EN": "Makueni",
-        "ADM2_PCODE": "KE017086",
-        "POPULATION": 282693
+        "ADM2_PCODE": "KE017086"
       }
     },
     {
@@ -34050,6 +34050,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 266698,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -34057,8 +34058,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Malava",
-        "ADM2_PCODE": "KE037201",
-        "POPULATION": 266698
+        "ADM2_PCODE": "KE037201"
       }
     },
     {
@@ -34273,6 +34273,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 259726,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -34280,8 +34281,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Malindi",
-        "ADM2_PCODE": "KE003016",
-        "POPULATION": 259726
+        "ADM2_PCODE": "KE003016"
       }
     },
     {
@@ -34500,6 +34500,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 190203,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -34507,8 +34508,7 @@
         "ADM1_EN": "Mandera",
         "ADM1_PCODE": "KE009",
         "ADM2_EN": "Mandera East",
-        "ADM2_PCODE": "KE009043",
-        "POPULATION": 190203
+        "ADM2_PCODE": "KE009043"
       }
     },
     {
@@ -35027,6 +35027,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 194269,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -35034,8 +35035,7 @@
         "ADM1_EN": "Mandera",
         "ADM1_PCODE": "KE009",
         "ADM2_EN": "Mandera North",
-        "ADM2_PCODE": "KE009041",
-        "POPULATION": 194269
+        "ADM2_PCODE": "KE009041"
       }
     },
     {
@@ -35362,6 +35362,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 264078,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -35369,8 +35370,7 @@
         "ADM1_EN": "Mandera",
         "ADM1_PCODE": "KE009",
         "ADM2_EN": "Mandera South",
-        "ADM2_PCODE": "KE009042",
-        "POPULATION": 264078
+        "ADM2_PCODE": "KE009042"
       }
     },
     {
@@ -35657,6 +35657,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 126838,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -35664,8 +35665,7 @@
         "ADM1_EN": "Mandera",
         "ADM1_PCODE": "KE009",
         "ADM2_EN": "Mandera West",
-        "ADM2_PCODE": "KE009039",
-        "POPULATION": 126838
+        "ADM2_PCODE": "KE009039"
       }
     },
     {
@@ -35784,6 +35784,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 204904,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -35791,8 +35792,7 @@
         "ADM1_EN": "Embu",
         "ADM1_PCODE": "KE014",
         "ADM2_EN": "Manyatta",
-        "ADM2_PCODE": "KE014063",
-        "POPULATION": 204904
+        "ADM2_PCODE": "KE014063"
       }
     },
     {
@@ -35999,6 +35999,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 242255,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -36006,8 +36007,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Maragwa",
-        "ADM2_PCODE": "KE021108",
-        "POPULATION": 242255
+        "ADM2_PCODE": "KE021108"
       }
     },
     {
@@ -36182,6 +36182,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 113301,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -36189,8 +36190,7 @@
         "ADM1_EN": "Elgeyo-Marakwet",
         "ADM1_PCODE": "KE028",
         "ADM2_EN": "Marakwet East",
-        "ADM2_PCODE": "KE028147",
-        "POPULATION": 113301
+        "ADM2_PCODE": "KE028147"
       }
     },
     {
@@ -36425,6 +36425,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 160836,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -36432,8 +36433,7 @@
         "ADM1_EN": "Elgeyo-Marakwet",
         "ADM1_PCODE": "KE028",
         "ADM2_EN": "Marakwet West",
-        "ADM2_PCODE": "KE028148",
-        "POPULATION": 160836
+        "ADM2_PCODE": "KE028148"
       }
     },
     {
@@ -36712,6 +36712,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 168714,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -36719,8 +36720,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Masinga",
-        "ADM2_PCODE": "KE016075",
-        "POPULATION": 168714
+        "ADM2_PCODE": "KE016075"
       }
     },
     {
@@ -36839,6 +36839,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 185650,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -36846,8 +36847,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Matayos",
-        "ADM2_PCODE": "KE040228",
-        "POPULATION": 185650
+        "ADM2_PCODE": "KE040228"
       }
     },
     {
@@ -36894,6 +36894,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 177516,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -36901,8 +36902,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Mathare",
-        "ADM2_PCODE": "KE047290",
-        "POPULATION": 177516
+        "ADM2_PCODE": "KE047290"
       }
     },
     {
@@ -37073,6 +37073,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 120576,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -37080,8 +37081,7 @@
         "ADM1_EN": "Murang'a",
         "ADM1_PCODE": "KE021",
         "ADM2_EN": "Mathioya",
-        "ADM2_PCODE": "KE021105",
-        "POPULATION": 120576
+        "ADM2_PCODE": "KE021105"
       }
     },
     {
@@ -37212,6 +37212,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 172192,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -37219,8 +37220,7 @@
         "ADM1_EN": "Nyeri",
         "ADM1_PCODE": "KE019",
         "ADM2_EN": "Mathira",
-        "ADM2_PCODE": "KE019096",
-        "POPULATION": 172192
+        "ADM2_PCODE": "KE019096"
       }
     },
     {
@@ -37443,6 +37443,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 235388,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -37450,8 +37451,7 @@
         "ADM1_EN": "Kwale",
         "ADM1_PCODE": "KE002",
         "ADM2_EN": "Matuga",
-        "ADM2_PCODE": "KE002009",
-        "POPULATION": 235388
+        "ADM2_PCODE": "KE002009"
       }
     },
     {
@@ -37622,6 +37622,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 195531,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -37629,8 +37630,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Matungu",
-        "ADM2_PCODE": "KE037206",
-        "POPULATION": 195531
+        "ADM2_PCODE": "KE037206"
       }
     },
     {
@@ -37793,6 +37793,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 194494,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -37800,8 +37801,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Matungulu",
-        "ADM2_PCODE": "KE016078",
-        "POPULATION": 194494
+        "ADM2_PCODE": "KE016078"
       }
     },
     {
@@ -38016,6 +38016,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 550065,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -38023,8 +38024,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Mavoko",
-        "ADM2_PCODE": "KE016080",
-        "POPULATION": 550065
+        "ADM2_PCODE": "KE016080"
       }
     },
     {
@@ -38295,6 +38295,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 229593,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -38302,8 +38303,7 @@
         "ADM1_EN": "Makueni",
         "ADM1_PCODE": "KE017",
         "ADM2_EN": "Mbooni",
-        "ADM2_PCODE": "KE017083",
-        "POPULATION": 229593
+        "ADM2_PCODE": "KE017083"
       }
     },
     {
@@ -38574,6 +38574,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 117891,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -38581,8 +38582,7 @@
         "ADM1_EN": "Baringo",
         "ADM1_PCODE": "KE030",
         "ADM2_EN": "Mogotio",
-        "ADM2_PCODE": "KE030161",
-        "POPULATION": 117891
+        "ADM2_PCODE": "KE030161"
       }
     },
     {
@@ -38793,6 +38793,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 227935,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -38800,8 +38801,7 @@
         "ADM1_EN": "Uasin Gishu",
         "ADM1_PCODE": "KE027",
         "ADM2_EN": "Moiben",
-        "ADM2_PCODE": "KE027143",
-        "POPULATION": 227935
+        "ADM2_PCODE": "KE027143"
       }
     },
     {
@@ -38980,6 +38980,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 189771,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -38987,8 +38988,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Molo",
-        "ADM2_PCODE": "KE032166",
-        "POPULATION": 189771
+        "ADM2_PCODE": "KE032166"
       }
     },
     {
@@ -39143,6 +39143,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 194275,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -39150,8 +39151,7 @@
         "ADM1_EN": "Nandi",
         "ADM1_PCODE": "KE029",
         "ADM2_EN": "Mosop",
-        "ADM2_PCODE": "KE029156",
-        "POPULATION": 194275
+        "ADM2_PCODE": "KE029156"
       }
     },
     {
@@ -39514,6 +39514,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 175501,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -39521,8 +39522,7 @@
         "ADM1_EN": "Marsabit",
         "ADM1_PCODE": "KE010",
         "ADM2_EN": "Moyale",
-        "ADM2_PCODE": "KE010045",
-        "POPULATION": 175501
+        "ADM2_PCODE": "KE010045"
       }
     },
     {
@@ -39673,6 +39673,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 202052,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -39680,8 +39681,7 @@
         "ADM1_EN": "Kwale",
         "ADM1_PCODE": "KE002",
         "ADM2_EN": "Msambweni",
-        "ADM2_PCODE": "KE002007",
-        "POPULATION": 202052
+        "ADM2_PCODE": "KE002007"
       }
     },
     {
@@ -39884,6 +39884,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 260691,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -39891,8 +39892,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Mt. Elgon",
-        "ADM2_PCODE": "KE039216",
-        "POPULATION": 260691
+        "ADM2_PCODE": "KE039216"
       }
     },
     {
@@ -40163,6 +40163,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 165795,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -40170,8 +40171,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Muhoroni",
-        "ADM2_PCODE": "KE042243",
-        "POPULATION": 165795
+        "ADM2_PCODE": "KE042243"
       }
     },
     {
@@ -40286,6 +40286,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 93675,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -40293,8 +40294,7 @@
         "ADM1_EN": "Nyeri",
         "ADM1_PCODE": "KE019",
         "ADM2_EN": "Mukurweni",
-        "ADM2_PCODE": "KE019098",
-        "POPULATION": 93675
+        "ADM2_PCODE": "KE019098"
       }
     },
     {
@@ -40409,6 +40409,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 144508,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -40416,8 +40417,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Mumias East",
-        "ADM2_PCODE": "KE037205",
-        "POPULATION": 144508
+        "ADM2_PCODE": "KE037205"
       }
     },
     {
@@ -40536,6 +40536,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 110746,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -40543,8 +40544,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Mumias West",
-        "ADM2_PCODE": "KE037204",
-        "POPULATION": 110746
+        "ADM2_PCODE": "KE037204"
       }
     },
     {
@@ -40583,6 +40583,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 160774,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -40590,8 +40591,7 @@
         "ADM1_EN": "Mombasa",
         "ADM1_PCODE": "KE001",
         "ADM2_EN": "Mvita",
-        "ADM2_PCODE": "KE001006",
-        "POPULATION": 160774
+        "ADM2_PCODE": "KE001006"
       }
     },
     {
@@ -40850,6 +40850,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 202263,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -40857,8 +40858,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Mwala",
-        "ADM2_PCODE": "KE016082",
-        "POPULATION": 202263
+        "ADM2_PCODE": "KE016082"
       }
     },
     {
@@ -41153,6 +41153,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 104521,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -41160,8 +41161,7 @@
         "ADM1_EN": "Taita Taveta",
         "ADM1_PCODE": "KE006",
         "ADM2_EN": "Mwatate",
-        "ADM2_PCODE": "KE006025",
-        "POPULATION": 104521
+        "ADM2_PCODE": "KE006025"
       }
     },
     {
@@ -41288,6 +41288,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 221103,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -41295,8 +41296,7 @@
         "ADM1_EN": "Kirinyaga",
         "ADM1_PCODE": "KE020",
         "ADM2_EN": "Mwea",
-        "ADM2_PCODE": "KE020100",
-        "POPULATION": 221103
+        "ADM2_PCODE": "KE020100"
       }
     },
     {
@@ -41683,6 +41683,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 144275,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -41690,8 +41691,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Mwingi East",
-        "ADM2_PCODE": "KE015069",
-        "POPULATION": 144275
+        "ADM2_PCODE": "KE015069"
       }
     },
     {
@@ -42062,6 +42062,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 188137,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -42069,8 +42070,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Mwingi North",
-        "ADM2_PCODE": "KE015067",
-        "POPULATION": 188137
+        "ADM2_PCODE": "KE015067"
       }
     },
     {
@@ -42293,6 +42293,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 161128,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -42300,8 +42301,7 @@
         "ADM1_EN": "Kitui",
         "ADM1_PCODE": "KE015",
         "ADM2_EN": "Mwingi West",
-        "ADM2_PCODE": "KE015068",
-        "POPULATION": 161128
+        "ADM2_PCODE": "KE015068"
       }
     },
     {
@@ -42540,6 +42540,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 426435,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -42547,8 +42548,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Naivasha",
-        "ADM2_PCODE": "KE032168",
-        "POPULATION": 426435
+        "ADM2_PCODE": "KE032168"
       }
     },
     {
@@ -42651,6 +42651,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 212623,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -42658,8 +42659,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Nakuru Town East",
-        "ADM2_PCODE": "KE032176",
-        "POPULATION": 212623
+        "ADM2_PCODE": "KE032176"
       }
     },
     {
@@ -42758,6 +42758,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 264689,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -42765,8 +42766,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Nakuru Town West",
-        "ADM2_PCODE": "KE032175",
-        "POPULATION": 264689
+        "ADM2_PCODE": "KE032175"
       }
     },
     {
@@ -42905,6 +42905,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 130892,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -42912,8 +42913,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Nambale",
-        "ADM2_PCODE": "KE040227",
-        "POPULATION": 130892
+        "ADM2_PCODE": "KE040227"
       }
     },
     {
@@ -43088,6 +43088,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 139825,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -43095,8 +43096,7 @@
         "ADM1_EN": "Nandi",
         "ADM1_PCODE": "KE029",
         "ADM2_EN": "Nandi Hills",
-        "ADM2_PCODE": "KE029153",
-        "POPULATION": 139825
+        "ADM2_PCODE": "KE029153"
       }
     },
     {
@@ -43283,6 +43283,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 143755,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -43290,8 +43291,7 @@
         "ADM1_EN": "Narok",
         "ADM1_PCODE": "KE033",
         "ADM2_EN": "Narok East",
-        "ADM2_PCODE": "KE033180",
-        "POPULATION": 143755
+        "ADM2_PCODE": "KE033180"
       }
     },
     {
@@ -43662,6 +43662,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 319633,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -43669,8 +43670,7 @@
         "ADM1_EN": "Narok",
         "ADM1_PCODE": "KE033",
         "ADM2_EN": "Narok North",
-        "ADM2_PCODE": "KE033179",
-        "POPULATION": 319633
+        "ADM2_PCODE": "KE033179"
       }
     },
     {
@@ -44165,6 +44165,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 275174,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -44172,8 +44173,7 @@
         "ADM1_EN": "Narok",
         "ADM1_PCODE": "KE033",
         "ADM2_EN": "Narok South",
-        "ADM2_PCODE": "KE033181",
-        "POPULATION": 275174
+        "ADM2_PCODE": "KE033181"
       }
     },
     {
@@ -44564,6 +44564,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 290546,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -44571,8 +44572,7 @@
         "ADM1_EN": "Narok",
         "ADM1_PCODE": "KE033",
         "ADM2_EN": "Narok West",
-        "ADM2_PCODE": "KE033182",
-        "POPULATION": 290546
+        "ADM2_PCODE": "KE033182"
       }
     },
     {
@@ -44699,6 +44699,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 171447,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -44706,8 +44707,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Navakholo",
-        "ADM2_PCODE": "KE037203",
-        "POPULATION": 171447
+        "ADM2_PCODE": "KE037203"
       }
     },
     {
@@ -44894,6 +44894,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 119906,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -44901,8 +44902,7 @@
         "ADM1_EN": "Nyandarua",
         "ADM1_PCODE": "KE018",
         "ADM2_EN": "Ndaragwa",
-        "ADM2_PCODE": "KE018093",
-        "POPULATION": 119906
+        "ADM2_PCODE": "KE018093"
       }
     },
     {
@@ -45065,6 +45065,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 257298,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -45072,8 +45073,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Ndhiwa",
-        "ADM2_PCODE": "KE043250",
-        "POPULATION": 257298
+        "ADM2_PCODE": "KE043250"
       }
     },
     {
@@ -45256,6 +45256,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 191033,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -45263,8 +45264,7 @@
         "ADM1_EN": "Kirinyaga",
         "ADM1_PCODE": "KE020",
         "ADM2_EN": "Ndia",
-        "ADM2_PCODE": "KE020102",
-        "POPULATION": 191033
+        "ADM2_PCODE": "KE020102"
       }
     },
     {
@@ -45415,6 +45415,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 157136,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -45422,8 +45423,7 @@
         "ADM1_EN": "Tharaka-Nithi",
         "ADM1_PCODE": "KE013",
         "ADM2_EN": "Nithi",
-        "ADM2_PCODE": "KE013060",
-        "POPULATION": 157136
+        "ADM2_PCODE": "KE013060"
       }
     },
     {
@@ -45602,6 +45602,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 304104,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -45609,8 +45610,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Njoro",
-        "ADM2_PCODE": "KE032167",
-        "POPULATION": 304104
+        "ADM2_PCODE": "KE032167"
       }
     },
     {
@@ -45997,6 +45997,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 178376,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46004,8 +46005,7 @@
         "ADM1_EN": "Marsabit",
         "ADM1_PCODE": "KE010",
         "ADM2_EN": "North Horr",
-        "ADM2_PCODE": "KE010046",
-        "POPULATION": 178376
+        "ADM2_PCODE": "KE010046"
       }
     },
     {
@@ -46192,6 +46192,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 203976,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46199,8 +46200,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "North Imenti",
-        "ADM2_PCODE": "KE012056",
-        "POPULATION": 203976
+        "ADM2_PCODE": "KE012056"
       }
     },
     {
@@ -46287,6 +46287,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 133837,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46294,8 +46295,7 @@
         "ADM1_EN": "Nyamira",
         "ADM1_PCODE": "KE046",
         "ADM2_EN": "North Mugirango",
-        "ADM2_PCODE": "KE046272",
-        "POPULATION": 133837
+        "ADM2_PCODE": "KE046272"
       }
     },
     {
@@ -46454,6 +46454,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 168829,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46461,8 +46462,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Nyakach",
-        "ADM2_PCODE": "KE042244",
-        "POPULATION": 168829
+        "ADM2_PCODE": "KE042244"
       }
     },
     {
@@ -46509,6 +46509,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 430244,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46516,8 +46517,7 @@
         "ADM1_EN": "Mombasa",
         "ADM1_PCODE": "KE001",
         "ADM2_EN": "Nyali",
-        "ADM2_PCODE": "KE001004",
-        "POPULATION": 430244
+        "ADM2_PCODE": "KE001004"
       }
     },
     {
@@ -46704,6 +46704,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 187439,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46711,8 +46712,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Nyando",
-        "ADM2_PCODE": "KE042242",
-        "POPULATION": 187439
+        "ADM2_PCODE": "KE042242"
       }
     },
     {
@@ -46787,6 +46787,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 224385,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46794,8 +46795,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Nyaribari Chache",
-        "ADM2_PCODE": "KE045267",
-        "POPULATION": 224385
+        "ADM2_PCODE": "KE045267"
       }
     },
     {
@@ -46862,6 +46862,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 131186,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -46869,8 +46870,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "Nyaribari Masaba",
-        "ADM2_PCODE": "KE045266",
-        "POPULATION": 131186
+        "ADM2_PCODE": "KE045266"
       }
     },
     {
@@ -47017,6 +47017,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 206288,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -47024,8 +47025,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Nyatike",
-        "ADM2_PCODE": "KE044258",
-        "POPULATION": 206288
+        "ADM2_PCODE": "KE044258"
       }
     },
     {
@@ -47144,6 +47144,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 156533,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -47151,8 +47152,7 @@
         "ADM1_EN": "Nyeri",
         "ADM1_PCODE": "KE019",
         "ADM2_EN": "Nyeri Town",
-        "ADM2_PCODE": "KE019099",
-        "POPULATION": 156533
+        "ADM2_PCODE": "KE019099"
       }
     },
     {
@@ -47351,6 +47351,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 181253,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -47358,8 +47359,7 @@
         "ADM1_EN": "Nyandarua",
         "ADM1_PCODE": "KE018",
         "ADM2_EN": "Ol Jorok",
-        "ADM2_PCODE": "KE018092",
-        "POPULATION": 181253
+        "ADM2_PCODE": "KE018092"
       }
     },
     {
@@ -47526,6 +47526,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 71140,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -47533,8 +47534,7 @@
         "ADM1_EN": "Nyandarua",
         "ADM1_PCODE": "KE018",
         "ADM2_EN": "Ol Kalou",
-        "ADM2_PCODE": "KE018091",
-        "POPULATION": 71140
+        "ADM2_PCODE": "KE018091"
       }
     },
     {
@@ -47677,6 +47677,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 95949,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -47684,8 +47685,7 @@
         "ADM1_EN": "Nyeri",
         "ADM1_PCODE": "KE019",
         "ADM2_EN": "Othaya",
-        "ADM2_PCODE": "KE019097",
-        "POPULATION": 95949
+        "ADM2_PCODE": "KE019097"
       }
     },
     {
@@ -47900,6 +47900,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 251569,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -47907,8 +47908,7 @@
         "ADM1_EN": "West Pokot",
         "ADM1_PCODE": "KE024",
         "ADM2_EN": "Pokot South",
-        "ADM2_PCODE": "KE024132",
-        "POPULATION": 251569
+        "ADM2_PCODE": "KE024132"
       }
     },
     {
@@ -48059,6 +48059,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 167656,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48066,8 +48067,7 @@
         "ADM1_EN": "Kilifi",
         "ADM1_PCODE": "KE003",
         "ADM2_EN": "Rabai",
-        "ADM2_PCODE": "KE003014",
-        "POPULATION": 167656
+        "ADM2_PCODE": "KE003014"
       }
     },
     {
@@ -48198,6 +48198,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 126027,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48205,8 +48206,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Rangwe",
-        "ADM2_PCODE": "KE043248",
-        "POPULATION": 126027
+        "ADM2_PCODE": "KE043248"
       }
     },
     {
@@ -48313,6 +48313,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 175429,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48320,8 +48321,7 @@
         "ADM1_EN": "Siaya",
         "ADM1_PCODE": "KE041",
         "ADM2_EN": "Rarieda",
-        "ADM2_PCODE": "KE041237",
-        "POPULATION": 175429
+        "ADM2_PCODE": "KE041237"
       }
     },
     {
@@ -48612,6 +48612,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 223268,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48619,8 +48620,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Rongai",
-        "ADM2_PCODE": "KE032173",
-        "POPULATION": 223268
+        "ADM2_PCODE": "KE032173"
       }
     },
     {
@@ -48755,6 +48755,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 147429,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48762,8 +48763,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Rongo",
-        "ADM2_PCODE": "KE044253",
-        "POPULATION": 147429
+        "ADM2_PCODE": "KE044253"
       }
     },
     {
@@ -48838,6 +48838,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 524566,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48845,8 +48846,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Roysambu",
-        "ADM2_PCODE": "KE047279",
-        "POPULATION": 524566
+        "ADM2_PCODE": "KE047279"
       }
     },
     {
@@ -48885,6 +48885,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 101730,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -48892,8 +48893,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Ruaraka",
-        "ADM2_PCODE": "KE047281",
-        "POPULATION": 101730
+        "ADM2_PCODE": "KE047281"
       }
     },
     {
@@ -49000,6 +49000,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 412506,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -49007,8 +49008,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Ruiru",
-        "ADM2_PCODE": "KE022115",
-        "POPULATION": 412506
+        "ADM2_PCODE": "KE022115"
       }
     },
     {
@@ -49127,6 +49127,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 169355,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -49134,8 +49135,7 @@
         "ADM1_EN": "Embu",
         "ADM1_PCODE": "KE014",
         "ADM2_EN": "Runyenjes",
-        "ADM2_PCODE": "KE014064",
-        "POPULATION": 169355
+        "ADM2_PCODE": "KE014064"
       }
     },
     {
@@ -49214,6 +49214,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 139077,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -49221,8 +49222,7 @@
         "ADM1_EN": "Vihiga",
         "ADM1_PCODE": "KE038",
         "ADM2_EN": "Sabatia",
-        "ADM2_PCODE": "KE038212",
-        "POPULATION": 139077
+        "ADM2_PCODE": "KE038212"
       }
     },
     {
@@ -49393,6 +49393,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 257330,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -49400,8 +49401,7 @@
         "ADM1_EN": "Trans Nzoia",
         "ADM1_PCODE": "KE026",
         "ADM2_EN": "Saboti",
-        "ADM2_PCODE": "KE026138",
-        "POPULATION": 257330
+        "ADM2_PCODE": "KE026138"
       }
     },
     {
@@ -49460,6 +49460,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 113722,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -49467,8 +49468,7 @@
         "ADM1_EN": "Marsabit",
         "ADM1_PCODE": "KE010",
         "ADM2_EN": "Saku",
-        "ADM2_PCODE": "KE010047",
-        "POPULATION": 113722
+        "ADM2_PCODE": "KE010047"
       }
     },
     {
@@ -49983,6 +49983,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 93130,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -49990,8 +49991,7 @@
         "ADM1_EN": "Samburu",
         "ADM1_PCODE": "KE025",
         "ADM2_EN": "Samburu East",
-        "ADM2_PCODE": "KE025135",
-        "POPULATION": 93130
+        "ADM2_PCODE": "KE025135"
       }
     },
     {
@@ -50658,6 +50658,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 105970,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -50665,8 +50666,7 @@
         "ADM1_EN": "Samburu",
         "ADM1_PCODE": "KE025",
         "ADM2_EN": "Samburu North",
-        "ADM2_PCODE": "KE025134",
-        "POPULATION": 105970
+        "ADM2_PCODE": "KE025134"
       }
     },
     {
@@ -51013,6 +51013,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 202617,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -51020,8 +51021,7 @@
         "ADM1_EN": "Samburu",
         "ADM1_PCODE": "KE025",
         "ADM2_EN": "Samburu West",
-        "ADM2_PCODE": "KE025133",
-        "POPULATION": 202617
+        "ADM2_PCODE": "KE025133"
       }
     },
     {
@@ -51104,6 +51104,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 149047,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -51111,8 +51112,7 @@
         "ADM1_EN": "Kisumu",
         "ADM1_PCODE": "KE042",
         "ADM2_EN": "Seme",
-        "ADM2_PCODE": "KE042241",
-        "POPULATION": 149047
+        "ADM2_PCODE": "KE042241"
       }
     },
     {
@@ -51259,6 +51259,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 182290,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -51266,8 +51267,7 @@
         "ADM1_EN": "Kakamega",
         "ADM1_PCODE": "KE037",
         "ADM2_EN": "Shinyalu",
-        "ADM2_PCODE": "KE037209",
-        "POPULATION": 182290
+        "ADM2_PCODE": "KE037209"
       }
     },
     {
@@ -51486,6 +51486,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 127355,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -51493,8 +51494,7 @@
         "ADM1_EN": "Embu",
         "ADM1_PCODE": "KE014",
         "ADM2_EN": "Siakago",
-        "ADM2_PCODE": "KE014066",
-        "POPULATION": 127355
+        "ADM2_PCODE": "KE014066"
       }
     },
     {
@@ -51789,6 +51789,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 134695,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -51796,8 +51797,7 @@
         "ADM1_EN": "West Pokot",
         "ADM1_PCODE": "KE024",
         "ADM2_EN": "Sigor",
-        "ADM2_PCODE": "KE024130",
-        "POPULATION": 134695
+        "ADM2_PCODE": "KE024130"
       }
     },
     {
@@ -51984,6 +51984,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 145573,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -51991,8 +51992,7 @@
         "ADM1_EN": "Kericho",
         "ADM1_PCODE": "KE035",
         "ADM2_EN": "Sigowet/Soin",
-        "ADM2_PCODE": "KE035193",
-        "POPULATION": 145573
+        "ADM2_PCODE": "KE035193"
       }
     },
     {
@@ -52131,6 +52131,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 139326,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -52138,8 +52139,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Sirisia",
-        "ADM2_PCODE": "KE039217",
-        "POPULATION": 139326
+        "ADM2_PCODE": "KE039217"
       }
     },
     {
@@ -52318,6 +52318,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 239478,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -52325,8 +52326,7 @@
         "ADM1_EN": "Bomet",
         "ADM1_PCODE": "KE036",
         "ADM2_EN": "Sotik",
-        "ADM2_PCODE": "KE036194",
-        "POPULATION": 239478
+        "ADM2_PCODE": "KE036194"
       }
     },
     {
@@ -52473,6 +52473,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 235357,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -52480,8 +52481,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "South Imenti",
-        "ADM2_PCODE": "KE012059",
-        "POPULATION": 235357
+        "ADM2_PCODE": "KE012059"
       }
     },
     {
@@ -52596,6 +52596,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 190612,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -52603,8 +52604,7 @@
         "ADM1_EN": "Kisii",
         "ADM1_PCODE": "KE045",
         "ADM2_EN": "South Mugirango",
-        "ADM2_PCODE": "KE045262",
-        "POPULATION": 190612
+        "ADM2_PCODE": "KE045262"
       }
     },
     {
@@ -52827,6 +52827,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 251259,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -52834,8 +52835,7 @@
         "ADM1_EN": "Uasin Gishu",
         "ADM1_PCODE": "KE027",
         "ADM2_EN": "Soy",
-        "ADM2_PCODE": "KE027141",
-        "POPULATION": 251259
+        "ADM2_PCODE": "KE027141"
       }
     },
     {
@@ -52886,6 +52886,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 198757,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -52893,8 +52894,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Starehe",
-        "ADM2_PCODE": "KE047289",
-        "POPULATION": 198757
+        "ADM2_PCODE": "KE047289"
       }
     },
     {
@@ -53029,6 +53029,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 138290,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -53036,8 +53037,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Suba North",
-        "ADM2_PCODE": "KE043251",
-        "POPULATION": 138290
+        "ADM2_PCODE": "KE043251"
       }
     },
     {
@@ -53152,6 +53152,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 139991,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -53159,8 +53160,7 @@
         "ADM1_EN": "Homa Bay",
         "ADM1_PCODE": "KE043",
         "ADM2_EN": "Suba South",
-        "ADM2_PCODE": "KE043252",
-        "POPULATION": 139991
+        "ADM2_PCODE": "KE043252"
       }
     },
     {
@@ -53359,6 +53359,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 106279,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -53366,8 +53367,7 @@
         "ADM1_EN": "Nakuru",
         "ADM1_PCODE": "KE032",
         "ADM2_EN": "Subukia",
-        "ADM2_PCODE": "KE032172",
-        "POPULATION": 106279
+        "ADM2_PCODE": "KE032172"
       }
     },
     {
@@ -53518,6 +53518,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 151597,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -53525,8 +53526,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Suna East",
-        "ADM2_PCODE": "KE044255",
-        "POPULATION": 151597
+        "ADM2_PCODE": "KE044255"
       }
     },
     {
@@ -53649,6 +53649,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 172575,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -53656,8 +53657,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Suna West",
-        "ADM2_PCODE": "KE044256",
-        "POPULATION": 172575
+        "ADM2_PCODE": "KE044256"
       }
     },
     {
@@ -54012,6 +54012,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 66705,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -54019,8 +54020,7 @@
         "ADM1_EN": "Wajir",
         "ADM1_PCODE": "KE008",
         "ADM2_EN": "Tarbaj",
-        "ADM2_PCODE": "KE008035",
-        "POPULATION": 66705
+        "ADM2_PCODE": "KE008035"
       }
     },
     {
@@ -54363,6 +54363,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 117291,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -54370,8 +54371,7 @@
         "ADM1_EN": "Taita Taveta",
         "ADM1_PCODE": "KE006",
         "ADM2_EN": "Taveta",
-        "ADM2_PCODE": "KE006023",
-        "POPULATION": 117291
+        "ADM2_PCODE": "KE006023"
       }
     },
     {
@@ -54506,6 +54506,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 159933,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -54513,8 +54514,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Teso North",
-        "ADM2_PCODE": "KE040225",
-        "POPULATION": 159933
+        "ADM2_PCODE": "KE040225"
       }
     },
     {
@@ -54653,6 +54653,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 188465,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -54660,8 +54661,7 @@
         "ADM1_EN": "Busia",
         "ADM1_PCODE": "KE040",
         "ADM2_EN": "Teso South",
-        "ADM2_PCODE": "KE040226",
-        "POPULATION": 188465
+        "ADM2_PCODE": "KE040226"
       }
     },
     {
@@ -54880,6 +54880,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 85890,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -54887,8 +54888,7 @@
         "ADM1_EN": "Nyeri",
         "ADM1_PCODE": "KE019",
         "ADM2_EN": "Tetu",
-        "ADM2_PCODE": "KE019094",
-        "POPULATION": 85890
+        "ADM2_PCODE": "KE019094"
       }
     },
     {
@@ -55179,6 +55179,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 133755,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -55186,8 +55187,7 @@
         "ADM1_EN": "Tharaka-Nithi",
         "ADM1_PCODE": "KE013",
         "ADM2_EN": "Tharaka",
-        "ADM2_PCODE": "KE013062",
-        "POPULATION": 133755
+        "ADM2_PCODE": "KE013062"
       }
     },
     {
@@ -55374,6 +55374,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 405130,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -55381,8 +55382,7 @@
         "ADM1_EN": "Kiambu",
         "ADM1_PCODE": "KE022",
         "ADM2_EN": "Thika Town",
-        "ADM2_PCODE": "KE022114",
-        "POPULATION": 405130
+        "ADM2_PCODE": "KE022114"
       }
     },
     {
@@ -55729,6 +55729,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 177099,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -55736,8 +55737,7 @@
         "ADM1_EN": "Baringo",
         "ADM1_PCODE": "KE030",
         "ADM2_EN": "Tiaty",
-        "ADM2_PCODE": "KE030157",
-        "POPULATION": 177099
+        "ADM2_PCODE": "KE030157"
       }
     },
     {
@@ -55956,6 +55956,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 206305,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -55963,8 +55964,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Tigania East",
-        "ADM2_PCODE": "KE012055",
-        "POPULATION": 206305
+        "ADM2_PCODE": "KE012055"
       }
     },
     {
@@ -56131,6 +56131,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 148332,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -56138,8 +56139,7 @@
         "ADM1_EN": "Meru",
         "ADM1_PCODE": "KE012",
         "ADM2_EN": "Tigania West",
-        "ADM2_PCODE": "KE012054",
-        "POPULATION": 148332
+        "ADM2_PCODE": "KE012054"
       }
     },
     {
@@ -56374,6 +56374,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 126472,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -56381,8 +56382,7 @@
         "ADM1_EN": "Nandi",
         "ADM1_PCODE": "KE029",
         "ADM2_EN": "Tinderet",
-        "ADM2_PCODE": "KE029151",
-        "POPULATION": 126472
+        "ADM2_PCODE": "KE029151"
       }
     },
     {
@@ -56525,6 +56525,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 255515,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -56532,8 +56533,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Tongaren",
-        "ADM2_PCODE": "KE039224",
-        "POPULATION": 255515
+        "ADM2_PCODE": "KE039224"
       }
     },
     {
@@ -56704,6 +56704,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 335943,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -56711,8 +56712,7 @@
         "ADM1_EN": "Uasin Gishu",
         "ADM1_PCODE": "KE027",
         "ADM2_EN": "Turbo",
-        "ADM2_PCODE": "KE027142",
-        "POPULATION": 335943
+        "ADM2_PCODE": "KE027142"
       }
     },
     {
@@ -57231,6 +57231,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 216810,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -57238,8 +57239,7 @@
         "ADM1_EN": "Turkana",
         "ADM1_PCODE": "KE023",
         "ADM2_EN": "Turkana Central",
-        "ADM2_PCODE": "KE023125",
-        "POPULATION": 216810
+        "ADM2_PCODE": "KE023125"
       }
     },
     {
@@ -58034,6 +58034,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 164194,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -58041,8 +58042,7 @@
         "ADM1_EN": "Turkana",
         "ADM1_PCODE": "KE023",
         "ADM2_EN": "Turkana East",
-        "ADM2_PCODE": "KE023128",
-        "POPULATION": 164194
+        "ADM2_PCODE": "KE023128"
       }
     },
     {
@@ -58653,6 +58653,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 126443,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -58660,8 +58661,7 @@
         "ADM1_EN": "Turkana",
         "ADM1_PCODE": "KE023",
         "ADM2_EN": "Turkana North",
-        "ADM2_PCODE": "KE023123",
-        "POPULATION": 126443
+        "ADM2_PCODE": "KE023123"
       }
     },
     {
@@ -59304,6 +59304,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 179926,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -59311,8 +59312,7 @@
         "ADM1_EN": "Turkana",
         "ADM1_PCODE": "KE023",
         "ADM2_EN": "Turkana South",
-        "ADM2_PCODE": "KE023127",
-        "POPULATION": 179926
+        "ADM2_PCODE": "KE023127"
       }
     },
     {
@@ -59935,6 +59935,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 273181,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -59942,8 +59943,7 @@
         "ADM1_EN": "Turkana",
         "ADM1_PCODE": "KE023",
         "ADM2_EN": "Turkana West",
-        "ADM2_PCODE": "KE023124",
-        "POPULATION": 273181
+        "ADM2_PCODE": "KE023124"
       }
     },
     {
@@ -60098,6 +60098,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 159056,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -60105,8 +60106,7 @@
         "ADM1_EN": "Siaya",
         "ADM1_PCODE": "KE041",
         "ADM2_EN": "Ugenya",
-        "ADM2_PCODE": "KE041232",
-        "POPULATION": 159056
+        "ADM2_PCODE": "KE041232"
       }
     },
     {
@@ -60249,6 +60249,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 120597,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -60256,8 +60257,7 @@
         "ADM1_EN": "Siaya",
         "ADM1_PCODE": "KE041",
         "ADM2_EN": "Ugunja",
-        "ADM2_PCODE": "KE041233",
-        "POPULATION": 120597
+        "ADM2_PCODE": "KE041233"
       }
     },
     {
@@ -60380,6 +60380,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 165377,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -60387,8 +60388,7 @@
         "ADM1_EN": "Migori",
         "ADM1_PCODE": "KE044",
         "ADM2_EN": "Uriri",
-        "ADM2_PCODE": "KE044257",
-        "POPULATION": 165377
+        "ADM2_PCODE": "KE044257"
       }
     },
     {
@@ -60463,6 +60463,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 103858,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -60470,8 +60471,7 @@
         "ADM1_EN": "Vihiga",
         "ADM1_PCODE": "KE038",
         "ADM2_EN": "Vihiga",
-        "ADM2_PCODE": "KE038211",
-        "POPULATION": 103858
+        "ADM2_PCODE": "KE038211"
       }
     },
     {
@@ -61066,6 +61066,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 125225,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -61073,8 +61074,7 @@
         "ADM1_EN": "Taita Taveta",
         "ADM1_PCODE": "KE006",
         "ADM2_EN": "Voi",
-        "ADM2_PCODE": "KE006026",
-        "POPULATION": 125225
+        "ADM2_PCODE": "KE006026"
       }
     },
     {
@@ -61317,6 +61317,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 133299,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -61324,8 +61325,7 @@
         "ADM1_EN": "Wajir",
         "ADM1_PCODE": "KE008",
         "ADM2_EN": "Wajir East",
-        "ADM2_PCODE": "KE008034",
-        "POPULATION": 133299
+        "ADM2_PCODE": "KE008034"
       }
     },
     {
@@ -61740,6 +61740,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 124563,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -61747,8 +61748,7 @@
         "ADM1_EN": "Wajir",
         "ADM1_PCODE": "KE008",
         "ADM2_EN": "Wajir North",
-        "ADM2_PCODE": "KE008033",
-        "POPULATION": 124563
+        "ADM2_PCODE": "KE008033"
       }
     },
     {
@@ -62119,6 +62119,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 372185,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -62126,8 +62127,7 @@
         "ADM1_EN": "Wajir",
         "ADM1_PCODE": "KE008",
         "ADM2_EN": "Wajir South",
-        "ADM2_PCODE": "KE008038",
-        "POPULATION": 372185
+        "ADM2_PCODE": "KE008038"
       }
     },
     {
@@ -62506,6 +62506,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 77741,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -62513,8 +62514,7 @@
         "ADM1_EN": "Wajir",
         "ADM1_PCODE": "KE008",
         "ADM2_EN": "Wajir West",
-        "ADM2_PCODE": "KE008036",
-        "POPULATION": 77741
+        "ADM2_PCODE": "KE008036"
       }
     },
     {
@@ -62621,6 +62621,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 125305,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -62628,8 +62629,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Webuye East",
-        "ADM2_PCODE": "KE039221",
-        "POPULATION": 125305
+        "ADM2_PCODE": "KE039221"
       }
     },
     {
@@ -62780,6 +62780,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 184639,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -62787,8 +62788,7 @@
         "ADM1_EN": "Bungoma",
         "ADM1_PCODE": "KE039",
         "ADM2_EN": "Webuye West",
-        "ADM2_PCODE": "KE039222",
-        "POPULATION": 184639
+        "ADM2_PCODE": "KE039222"
       }
     },
     {
@@ -62899,6 +62899,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 162934,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -62906,8 +62907,7 @@
         "ADM1_EN": "Nyamira",
         "ADM1_PCODE": "KE046",
         "ADM2_EN": "West Mugirango",
-        "ADM2_PCODE": "KE046271",
-        "POPULATION": 162934
+        "ADM2_PCODE": "KE046271"
       }
     },
     {
@@ -62990,6 +62990,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 231211,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -62997,8 +62998,7 @@
         "ADM1_EN": "Nairobi",
         "ADM1_PCODE": "KE047",
         "ADM2_EN": "Westlands",
-        "ADM2_PCODE": "KE047274",
-        "POPULATION": 231211
+        "ADM2_PCODE": "KE047274"
       }
     },
     {
@@ -63125,6 +63125,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 54424,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -63132,8 +63133,7 @@
         "ADM1_EN": "Taita Taveta",
         "ADM1_PCODE": "KE006",
         "ADM2_EN": "Wundanyi",
-        "ADM2_PCODE": "KE006024",
-        "POPULATION": 54424
+        "ADM2_PCODE": "KE006024"
       }
     },
     {
@@ -63356,6 +63356,7 @@
         ]
       },
       "properties": {
+        "POPULATION": 197876,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
         "ADM0_ISO_A2": "KE",
@@ -63363,8 +63364,7 @@
         "ADM1_EN": "Machakos",
         "ADM1_PCODE": "KE016",
         "ADM2_EN": "Yatta",
-        "ADM2_PCODE": "KE016076",
-        "POPULATION": 197876
+        "ADM2_PCODE": "KE016076"
       }
     }
   ]

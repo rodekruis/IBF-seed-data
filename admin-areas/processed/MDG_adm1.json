@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -557,6 +557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -567,7 +568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1196,6 +1197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -1206,7 +1208,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1635,6 +1637,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -1645,7 +1648,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2246,6 +2249,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -2256,7 +2260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2893,6 +2897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -2903,7 +2908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3604,6 +3609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -3614,7 +3620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4179,6 +4185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -4189,7 +4196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5070,6 +5077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -5080,7 +5088,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5721,6 +5729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -6684,6 +6693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -8583,6 +8593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -8593,7 +8604,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9550,6 +9561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -11157,6 +11169,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -13192,6 +13205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -13202,7 +13216,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14079,6 +14093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -15138,6 +15153,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -17789,6 +17805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -17799,7 +17816,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18228,6 +18245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -20571,6 +20589,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -22170,6 +22189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -30469,6 +30489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",
@@ -32892,6 +32913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Madagascar",
         "ADM0_PCODE": "MG",
         "ADM0_ISO_A2": "MG",
         "ADM0_ISO_A3": "MDG",

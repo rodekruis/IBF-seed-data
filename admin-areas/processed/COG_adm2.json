@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -137,6 +137,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -149,7 +150,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -278,6 +279,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -290,7 +292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -547,6 +549,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -559,7 +562,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -676,6 +679,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -688,7 +692,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -797,6 +801,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -809,7 +814,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -882,6 +887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -894,7 +900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -955,6 +961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -967,7 +974,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1068,6 +1075,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1080,7 +1088,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1193,6 +1201,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1205,7 +1214,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1286,6 +1295,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1298,7 +1308,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1351,6 +1361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1363,7 +1374,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1516,6 +1527,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1528,7 +1540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1633,6 +1645,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1645,7 +1658,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1914,6 +1927,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -1926,7 +1940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2063,6 +2077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2075,7 +2090,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2148,6 +2163,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2160,7 +2176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2261,6 +2277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2273,7 +2290,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2450,6 +2467,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2462,7 +2480,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2603,6 +2621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2615,7 +2634,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2732,6 +2751,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2744,7 +2764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2881,6 +2901,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -2893,7 +2914,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3082,6 +3103,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -3094,7 +3116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3343,6 +3365,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -3355,7 +3378,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3500,6 +3523,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -3512,7 +3536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3845,6 +3869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -3857,7 +3882,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4110,6 +4135,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -4122,7 +4148,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4231,6 +4257,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -4243,7 +4270,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4356,6 +4383,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -4368,7 +4396,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4529,6 +4557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -4541,7 +4570,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4722,6 +4751,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -4734,7 +4764,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4871,6 +4901,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -4883,7 +4914,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4948,6 +4979,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -5269,6 +5301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -5281,7 +5314,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5494,6 +5527,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -5506,7 +5540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5607,6 +5641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -5619,7 +5654,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5952,6 +5987,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -5964,7 +6000,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6197,6 +6233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -6209,7 +6246,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6322,6 +6359,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -6334,7 +6372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6415,6 +6453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -6427,7 +6466,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6584,6 +6623,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -6596,7 +6636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6829,6 +6869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -6841,7 +6882,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7018,6 +7059,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -7030,7 +7072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7111,6 +7153,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -7123,7 +7166,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7244,6 +7287,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -7256,7 +7300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7389,6 +7433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -7658,6 +7703,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -7670,7 +7716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7879,6 +7925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -7891,7 +7938,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8020,6 +8067,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8032,7 +8080,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8145,6 +8193,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8157,7 +8206,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8298,6 +8347,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8310,7 +8360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8391,6 +8441,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8403,7 +8454,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8544,6 +8595,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8556,7 +8608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8645,6 +8697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8657,7 +8710,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8774,6 +8827,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8786,7 +8840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8875,6 +8929,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -8887,7 +8942,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9072,6 +9127,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -9084,7 +9140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9281,6 +9337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -9293,7 +9350,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9390,6 +9447,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -9402,7 +9460,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9551,6 +9609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -9563,7 +9622,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9732,6 +9791,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -9744,7 +9804,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9945,6 +10005,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -9957,7 +10018,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10138,6 +10199,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -10519,6 +10581,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -10531,7 +10594,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10656,6 +10719,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -10668,7 +10732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10773,6 +10837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -10785,7 +10850,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10906,6 +10971,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -10918,7 +10984,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11095,6 +11161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11107,7 +11174,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11312,6 +11379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11324,7 +11392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11401,6 +11469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11413,7 +11482,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11470,6 +11539,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11482,7 +11552,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11571,6 +11641,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11583,7 +11654,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11708,6 +11779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11720,7 +11792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11897,6 +11969,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -11909,7 +11982,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12042,6 +12115,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12054,7 +12128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12175,6 +12249,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12187,7 +12262,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12320,6 +12395,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12332,7 +12408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12409,6 +12485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12421,7 +12498,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12518,6 +12595,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12530,7 +12608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12775,6 +12853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12787,7 +12866,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12856,6 +12935,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -12868,7 +12948,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13077,6 +13157,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -13089,7 +13170,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13322,6 +13403,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -13334,7 +13416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13511,6 +13593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -13523,7 +13606,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14098,6 +14181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -14110,7 +14194,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14331,6 +14415,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -14343,7 +14428,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14372,6 +14457,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -14384,7 +14470,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14489,6 +14575,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -14501,7 +14588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14610,6 +14697,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",
@@ -14622,7 +14710,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14975,6 +15063,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "RepublicoftheCongo",
         "ADM0_PCODE": "CG",
         "ADM0_ISO_A2": "CG",
         "ADM0_ISO_A3": "COG",

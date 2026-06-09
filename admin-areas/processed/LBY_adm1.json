@@ -1681,6 +1681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Libya",
         "ADM0_PCODE": "LY",
         "ADM0_ISO_A2": "LY",
         "ADM0_ISO_A3": "LBY",
@@ -3432,6 +3433,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Libya",
         "ADM0_PCODE": "LY",
         "ADM0_ISO_A2": "LY",
         "ADM0_ISO_A3": "LBY",
@@ -3442,7 +3444,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3871,6 +3873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Libya",
         "ADM0_PCODE": "LY",
         "ADM0_ISO_A2": "LY",
         "ADM0_ISO_A3": "LBY",

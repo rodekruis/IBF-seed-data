@@ -2853,6 +2853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tunisia",
         "ADM0_PCODE": "TN",
         "ADM0_ISO_A2": "TN",
         "ADM0_ISO_A3": "TUN",
@@ -3604,6 +3605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tunisia",
         "ADM0_PCODE": "TN",
         "ADM0_ISO_A2": "TN",
         "ADM0_ISO_A3": "TUN",
@@ -5743,6 +5745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tunisia",
         "ADM0_PCODE": "TN",
         "ADM0_ISO_A2": "TN",
         "ADM0_ISO_A3": "TUN",
@@ -5753,7 +5756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6426,6 +6429,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tunisia",
         "ADM0_PCODE": "TN",
         "ADM0_ISO_A2": "TN",
         "ADM0_ISO_A3": "TUN",
@@ -8553,6 +8557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tunisia",
         "ADM0_PCODE": "TN",
         "ADM0_ISO_A2": "TN",
         "ADM0_ISO_A3": "TUN",
@@ -8563,7 +8568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9068,6 +9073,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Tunisia",
         "ADM0_PCODE": "TN",
         "ADM0_ISO_A2": "TN",
         "ADM0_ISO_A3": "TUN",

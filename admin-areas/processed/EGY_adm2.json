@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -117,6 +117,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -129,7 +130,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -166,6 +167,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -178,7 +180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -207,6 +209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -219,7 +222,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -264,6 +267,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -276,7 +280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -313,6 +317,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -325,7 +330,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -358,6 +363,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -370,7 +376,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -399,6 +405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -411,7 +418,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -440,6 +447,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -452,7 +460,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -485,6 +493,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -497,7 +506,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -526,6 +535,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -538,7 +548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -567,6 +577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -579,7 +590,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -608,6 +619,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -620,7 +632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -649,6 +661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -661,7 +674,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -690,6 +703,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -702,7 +716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -731,6 +745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -743,7 +758,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -772,6 +787,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -784,7 +800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -813,6 +829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -825,7 +842,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -854,6 +871,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -866,7 +884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -895,6 +913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -907,7 +926,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -936,6 +955,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -948,7 +968,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -977,6 +997,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -989,7 +1010,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1018,6 +1039,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1030,7 +1052,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1059,6 +1081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1071,7 +1094,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1100,6 +1123,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1112,7 +1136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1141,6 +1165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1153,7 +1178,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1182,6 +1207,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1194,7 +1220,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1223,6 +1249,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1235,7 +1262,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1264,6 +1291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1276,7 +1304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1305,6 +1333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1317,7 +1346,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1350,6 +1379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1362,7 +1392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1391,6 +1421,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1403,7 +1434,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1432,6 +1463,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1444,7 +1476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1481,6 +1513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1493,7 +1526,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1522,6 +1555,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1534,7 +1568,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1571,6 +1605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1583,7 +1618,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1624,6 +1659,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1636,7 +1672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1677,6 +1713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1689,7 +1726,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1758,6 +1795,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1770,7 +1808,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1831,6 +1869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1843,7 +1882,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1900,6 +1939,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1912,7 +1952,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1945,6 +1985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -1957,7 +1998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1990,6 +2031,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2002,7 +2044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2055,6 +2097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2256,6 +2299,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2268,7 +2312,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2309,6 +2353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2321,7 +2366,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2350,6 +2395,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2362,7 +2408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2391,6 +2437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2403,7 +2450,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2436,6 +2483,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2448,7 +2496,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2477,6 +2525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2489,7 +2538,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2518,6 +2567,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2530,7 +2580,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2559,6 +2609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2571,7 +2622,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2600,6 +2651,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2612,7 +2664,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2649,6 +2701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2661,7 +2714,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2690,6 +2743,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2775,6 +2829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2912,6 +2967,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -2924,7 +2980,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2989,6 +3045,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3001,7 +3058,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3046,6 +3103,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3058,7 +3116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3107,6 +3165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3119,7 +3178,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3160,6 +3219,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3172,7 +3232,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3201,6 +3261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3266,6 +3327,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3278,7 +3340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3307,6 +3369,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3319,7 +3382,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3348,6 +3411,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3513,6 +3577,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -3525,7 +3590,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3554,6 +3619,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -4431,6 +4497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -4443,7 +4510,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4472,6 +4539,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -4557,6 +4625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -4670,6 +4739,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -4682,7 +4752,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4747,6 +4817,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -5204,6 +5275,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -5409,6 +5481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -5498,6 +5571,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -5510,7 +5584,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5575,6 +5649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -5587,7 +5662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5704,6 +5779,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -5716,7 +5792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5805,6 +5881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6130,6 +6207,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6331,6 +6409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6343,7 +6422,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6372,6 +6451,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6585,6 +6665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6597,7 +6678,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6662,6 +6743,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6674,7 +6756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6755,6 +6837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6767,7 +6850,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6808,6 +6891,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6820,7 +6904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6849,6 +6933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6861,7 +6946,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6910,6 +6995,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6922,7 +7008,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6967,6 +7053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -6979,7 +7066,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7008,6 +7095,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7020,7 +7108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7057,6 +7145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7069,7 +7158,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7110,6 +7199,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7122,7 +7212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7263,6 +7353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7275,7 +7366,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7372,6 +7463,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7384,7 +7476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7505,6 +7597,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7517,7 +7610,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7554,6 +7647,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7566,7 +7660,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7643,6 +7737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7655,7 +7750,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7740,6 +7835,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7752,7 +7848,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7889,6 +7985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -7901,7 +7998,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7998,6 +8095,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8010,7 +8108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8079,6 +8177,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8091,7 +8190,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8124,6 +8223,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8136,7 +8236,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8237,6 +8337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8249,7 +8350,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8326,6 +8427,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8338,7 +8440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8379,6 +8481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8391,7 +8494,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8456,6 +8559,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8468,7 +8572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8549,6 +8653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8561,7 +8666,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8650,6 +8755,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8662,7 +8768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8723,6 +8829,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8735,7 +8842,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8764,6 +8871,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8776,7 +8884,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8845,6 +8953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8857,7 +8966,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8952,6 +9061,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -8964,7 +9074,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8993,6 +9103,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9005,7 +9116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9034,6 +9145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9046,7 +9158,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9235,6 +9347,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9247,7 +9360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9340,6 +9453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9352,7 +9466,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9449,6 +9563,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9461,7 +9576,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9570,6 +9685,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9582,7 +9698,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9679,6 +9795,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9691,7 +9808,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9808,6 +9925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9820,7 +9938,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9849,6 +9967,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9861,7 +9980,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9922,6 +10041,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9934,7 +10054,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -9963,6 +10083,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -9975,7 +10096,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10130,6 +10251,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10142,7 +10264,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10255,6 +10377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10267,7 +10390,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10376,6 +10499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10388,7 +10512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10461,6 +10585,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10473,7 +10598,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10542,6 +10667,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10554,7 +10680,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10603,6 +10729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10615,7 +10742,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10648,6 +10775,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10660,7 +10788,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10733,6 +10861,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10745,7 +10874,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10774,6 +10903,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10786,7 +10916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10819,6 +10949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10831,7 +10962,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10896,6 +11027,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10908,7 +11040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10937,6 +11069,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -10949,7 +11082,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11056,6 +11189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11068,7 +11202,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11137,6 +11271,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11149,7 +11284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11210,6 +11345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11222,7 +11358,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11299,6 +11435,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11311,7 +11448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11340,6 +11477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11352,7 +11490,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11381,6 +11519,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11393,7 +11532,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11486,6 +11625,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11498,7 +11638,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11527,6 +11667,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11539,7 +11680,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11608,6 +11749,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11620,7 +11762,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11685,6 +11827,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11697,7 +11840,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11726,6 +11869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11738,7 +11882,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11771,6 +11915,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11783,7 +11928,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11820,6 +11965,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11832,7 +11978,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11873,6 +12019,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -11885,7 +12032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12044,6 +12191,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12056,7 +12204,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12113,6 +12261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12125,7 +12274,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12218,6 +12367,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12230,7 +12380,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12263,6 +12413,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12275,7 +12426,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12380,6 +12531,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12392,7 +12544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12497,6 +12649,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12509,7 +12662,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12582,6 +12735,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12594,7 +12748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12655,6 +12809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12667,7 +12822,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12756,6 +12911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12768,7 +12924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12869,6 +13025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12881,7 +13038,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12970,6 +13127,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -12982,7 +13140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13019,6 +13177,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13031,7 +13190,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13060,6 +13219,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13072,7 +13232,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13199,6 +13359,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13211,7 +13372,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13292,6 +13453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13304,7 +13466,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13337,6 +13499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13349,7 +13512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13386,6 +13549,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13398,7 +13562,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13525,6 +13689,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13537,7 +13702,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13630,6 +13795,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13642,7 +13808,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13731,6 +13897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13743,7 +13910,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13812,6 +13979,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13824,7 +13992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13905,6 +14073,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -13917,7 +14086,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14046,6 +14215,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14058,7 +14228,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14095,6 +14265,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14107,7 +14278,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14222,6 +14393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14234,7 +14406,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14335,6 +14507,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14347,7 +14520,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14432,6 +14605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14444,7 +14618,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14517,6 +14691,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14529,7 +14704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14606,6 +14781,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14618,7 +14794,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14711,6 +14887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14723,7 +14900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14824,6 +15001,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14836,7 +15014,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14921,6 +15099,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14933,7 +15112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14966,6 +15145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -14978,7 +15158,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15063,6 +15243,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15075,7 +15256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15108,6 +15289,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15120,7 +15302,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15309,6 +15491,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15321,7 +15504,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15350,6 +15533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15362,7 +15546,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15509,6 +15693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15521,7 +15706,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15618,6 +15803,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15630,7 +15816,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15731,6 +15917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15743,7 +15930,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15844,6 +16031,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15856,7 +16044,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15973,6 +16161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -15985,7 +16174,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16118,6 +16307,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16130,7 +16320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16191,6 +16381,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16203,7 +16394,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16272,6 +16463,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16284,7 +16476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16381,6 +16573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16393,7 +16586,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16450,6 +16643,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16462,7 +16656,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16589,6 +16783,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16601,7 +16796,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16758,6 +16953,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16923,6 +17119,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -16935,7 +17132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17028,6 +17225,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -17040,7 +17238,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17101,6 +17299,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -17113,7 +17312,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17162,6 +17361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -17174,7 +17374,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17279,6 +17479,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -17468,6 +17669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -17480,7 +17682,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17529,6 +17731,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -17541,7 +17744,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17570,6 +17773,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -18039,6 +18243,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -18051,7 +18256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18108,6 +18313,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -18293,6 +18499,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -18606,6 +18813,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19023,6 +19231,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19636,6 +19845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19648,7 +19858,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19681,6 +19891,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19693,7 +19904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19726,6 +19937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19738,7 +19950,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19767,6 +19979,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19779,7 +19992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19816,6 +20029,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19828,7 +20042,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19861,6 +20075,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19873,7 +20088,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19910,6 +20125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19922,7 +20138,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19955,6 +20171,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -19967,7 +20184,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20000,6 +20217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20012,7 +20230,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20049,6 +20267,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20061,7 +20280,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20118,6 +20337,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20130,7 +20350,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20207,6 +20427,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20219,7 +20440,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20296,6 +20517,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20308,7 +20530,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20385,6 +20607,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20742,6 +20965,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20754,7 +20978,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20827,6 +21051,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20904,6 +21129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20916,7 +21142,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20973,6 +21199,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -20985,7 +21212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21018,6 +21245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21030,7 +21258,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21063,6 +21291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21075,7 +21304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21132,6 +21361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21144,7 +21374,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21177,6 +21407,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21450,6 +21681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21462,7 +21694,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21499,6 +21731,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21511,7 +21744,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21630,6 +21863,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21642,7 +21876,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21691,6 +21925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21703,7 +21938,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21784,6 +22019,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21796,7 +22032,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21853,6 +22089,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21865,7 +22102,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21926,6 +22163,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -21938,7 +22176,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22047,6 +22285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22059,7 +22298,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22140,6 +22379,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22152,7 +22392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22241,6 +22481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22253,7 +22494,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22516,6 +22757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22528,7 +22770,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22577,6 +22819,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22589,7 +22832,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22760,6 +23003,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22772,7 +23016,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22857,6 +23101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -22869,7 +23114,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22990,6 +23235,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23002,7 +23248,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23099,6 +23345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23111,7 +23358,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23188,6 +23435,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23200,7 +23448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23285,6 +23533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23297,7 +23546,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23326,6 +23575,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23701,6 +23951,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23713,7 +23964,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23742,6 +23993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23754,7 +24006,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23869,6 +24121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23881,7 +24134,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23914,6 +24167,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -23926,7 +24180,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23991,6 +24245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24003,7 +24258,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24084,6 +24339,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24096,7 +24352,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24193,6 +24449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24205,7 +24462,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24286,6 +24543,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24298,7 +24556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24407,6 +24665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24419,7 +24678,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24512,6 +24771,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24524,7 +24784,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24621,6 +24881,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24633,7 +24894,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24662,6 +24923,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -24674,7 +24936,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24775,6 +25037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25070,6 +25333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25082,7 +25346,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25111,6 +25375,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25123,7 +25388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25152,6 +25417,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25257,6 +25523,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25269,7 +25536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25338,6 +25605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25350,7 +25618,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25399,6 +25667,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25411,7 +25680,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25464,6 +25733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25476,7 +25746,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25517,6 +25787,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25529,7 +25800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25578,6 +25849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25590,7 +25862,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25675,6 +25947,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25687,7 +25960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25764,6 +26037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25776,7 +26050,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25825,6 +26099,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25837,7 +26112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25930,6 +26205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -25942,7 +26218,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26003,6 +26279,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26015,7 +26292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26048,6 +26325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26349,6 +26627,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26361,7 +26640,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26390,6 +26669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26402,7 +26682,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26431,6 +26711,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26443,7 +26724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26524,6 +26805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26536,7 +26818,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26631,6 +26913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26643,7 +26926,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26696,6 +26979,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26708,7 +26992,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26769,6 +27053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26781,7 +27066,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26846,6 +27131,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26858,7 +27144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26931,6 +27217,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26943,7 +27230,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26976,6 +27263,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -26988,7 +27276,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27065,6 +27353,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27077,7 +27366,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27134,6 +27423,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27146,7 +27436,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27199,6 +27489,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27211,7 +27502,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27260,6 +27551,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27272,7 +27564,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27341,6 +27633,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27353,7 +27646,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27382,6 +27675,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27394,7 +27688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27423,6 +27717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27435,7 +27730,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27488,6 +27783,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27500,7 +27796,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27529,6 +27825,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27541,7 +27838,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27570,6 +27867,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -27993,6 +28291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28005,7 +28304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28042,6 +28341,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28054,7 +28354,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28135,6 +28435,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28147,7 +28448,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28212,6 +28513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28224,7 +28526,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28269,6 +28571,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28281,7 +28584,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28362,6 +28665,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28374,7 +28678,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28451,6 +28755,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28463,7 +28768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28508,6 +28813,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28520,7 +28826,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28581,6 +28887,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28593,7 +28900,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28638,6 +28945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28650,7 +28958,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28707,6 +29015,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28719,7 +29028,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28756,6 +29065,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28768,7 +29078,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28809,6 +29119,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28821,7 +29132,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28850,6 +29161,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -28862,7 +29174,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29465,6 +29777,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -29477,7 +29790,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29522,6 +29835,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -29703,6 +30017,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -29932,6 +30247,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -29944,7 +30260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30045,6 +30361,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30190,6 +30507,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30267,6 +30585,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30364,6 +30683,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30376,7 +30696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30409,6 +30729,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30421,7 +30742,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30466,6 +30787,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30478,7 +30800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30547,6 +30869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30559,7 +30882,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30608,6 +30931,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30725,6 +31049,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -30737,7 +31062,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30782,6 +31107,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -31215,6 +31541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -31588,6 +31915,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -32121,6 +32449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -32582,6 +32911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -32594,7 +32924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32763,6 +33093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -33204,6 +33535,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -34281,6 +34613,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -34293,7 +34626,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34398,6 +34731,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -34410,7 +34744,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34487,6 +34821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -34499,7 +34834,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34556,6 +34891,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -34568,7 +34904,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34597,6 +34933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35174,6 +35511,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35186,7 +35524,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35263,6 +35601,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35436,6 +35775,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35581,6 +35921,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35593,7 +35934,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35658,6 +35999,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35670,7 +36012,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35739,6 +36081,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35751,7 +36094,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35812,6 +36155,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35897,6 +36241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35909,7 +36254,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35946,6 +36291,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35958,7 +36304,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35987,6 +36333,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -35999,7 +36346,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36036,6 +36383,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36048,7 +36396,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36097,6 +36445,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36546,6 +36895,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36558,7 +36908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36639,6 +36989,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36651,7 +37002,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36752,6 +37103,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36764,7 +37116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36813,6 +37165,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36825,7 +37178,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36858,6 +37211,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36870,7 +37224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36955,6 +37309,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -36967,7 +37322,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37028,6 +37383,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37209,6 +37565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37221,7 +37578,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37334,6 +37691,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37346,7 +37704,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37447,6 +37805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37459,7 +37818,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37552,6 +37911,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37761,6 +38121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37773,7 +38134,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37826,6 +38187,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -37959,6 +38321,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",
@@ -38032,6 +38395,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Egypt",
         "ADM0_PCODE": "EG",
         "ADM0_ISO_A2": "EG",
         "ADM0_ISO_A3": "EGY",

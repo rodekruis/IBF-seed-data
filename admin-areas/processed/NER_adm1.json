@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -305,6 +305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -315,7 +316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -868,6 +869,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -878,7 +880,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1239,6 +1241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -1249,7 +1252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1522,6 +1525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -1532,7 +1536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1853,6 +1857,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -1863,7 +1868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2562,6 +2567,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -2572,7 +2578,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2909,6 +2915,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",
@@ -2919,7 +2926,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3012,6 +3019,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "Niger",
         "ADM0_PCODE": "NE",
         "ADM0_ISO_A2": "NE",
         "ADM0_ISO_A3": "NER",

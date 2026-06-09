@@ -461,6 +461,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -475,7 +476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -852,6 +853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -866,7 +868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -1147,6 +1149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -2034,6 +2037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -2445,6 +2449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -2459,7 +2464,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -2840,6 +2845,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -2854,7 +2860,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3071,6 +3077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -3085,7 +3092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3234,6 +3241,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -3248,7 +3256,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3565,6 +3573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -3579,7 +3588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -3896,6 +3905,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -3910,7 +3920,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4171,6 +4181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -4502,6 +4513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -4516,7 +4528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -4789,6 +4801,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -4803,7 +4816,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5264,6 +5277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -5278,7 +5292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5515,6 +5529,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -5529,7 +5544,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -5834,6 +5849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -6129,6 +6145,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -6143,7 +6160,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6420,6 +6437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -6434,7 +6452,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6651,6 +6669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -6665,7 +6684,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6790,6 +6809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -6804,7 +6824,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -6913,6 +6933,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -6927,7 +6948,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7228,6 +7249,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -7242,7 +7264,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -7535,6 +7557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -7549,7 +7572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -8254,6 +8277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -9253,6 +9277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -9267,7 +9292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10052,6 +10077,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -10066,7 +10092,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10535,6 +10561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -10549,7 +10576,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -10958,6 +10985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -10972,7 +11000,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11177,6 +11205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -11628,6 +11657,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -11642,7 +11672,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -11879,6 +11909,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -12198,6 +12229,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -12212,7 +12244,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -12621,6 +12653,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -12635,7 +12668,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13024,6 +13057,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -13038,7 +13072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13315,6 +13349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -13329,7 +13364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -13862,6 +13897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -13876,7 +13912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14173,6 +14209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -14187,7 +14224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -14716,6 +14753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -14730,7 +14768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15287,6 +15325,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -15301,7 +15340,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -15702,6 +15741,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -15716,7 +15756,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16061,6 +16101,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -16075,7 +16116,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16308,6 +16349,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -16322,7 +16364,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -16571,6 +16613,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -16585,7 +16628,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17234,6 +17277,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -17248,7 +17292,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -17637,6 +17681,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -17651,7 +17696,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18076,6 +18121,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -18090,7 +18136,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -18711,6 +18757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -19066,6 +19113,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -19080,7 +19128,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19273,6 +19321,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -19287,7 +19336,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -19664,6 +19713,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -19678,7 +19728,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -20155,6 +20205,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -20734,6 +20785,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -20748,7 +20800,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21077,6 +21129,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -21091,7 +21144,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21504,6 +21557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -21518,7 +21572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -21843,6 +21897,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -21857,7 +21912,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22142,6 +22197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -22156,7 +22212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -22489,6 +22545,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -22820,6 +22877,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -23151,6 +23209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -23165,7 +23224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23502,6 +23561,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -23516,7 +23576,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -23793,6 +23853,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -23807,7 +23868,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -24576,6 +24637,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -24590,7 +24652,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25303,6 +25365,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -25317,7 +25380,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -25646,6 +25709,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -25660,7 +25724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26281,6 +26345,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -26295,7 +26360,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -26672,6 +26737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -26686,7 +26752,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27219,6 +27285,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -27233,7 +27300,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27690,6 +27757,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -27704,7 +27772,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -27993,6 +28061,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -28007,7 +28076,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28372,6 +28441,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -28386,7 +28456,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -28767,6 +28837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -28781,7 +28852,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29314,6 +29385,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -29328,7 +29400,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -29673,6 +29745,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -29687,7 +29760,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30000,6 +30073,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -30014,7 +30088,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30387,6 +30461,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -30401,7 +30476,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -30510,6 +30585,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -30524,7 +30600,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31121,6 +31197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -31135,7 +31212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31328,6 +31405,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -31342,7 +31420,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31583,6 +31661,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -31597,7 +31676,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31762,6 +31841,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -31776,7 +31856,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -31901,6 +31981,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -31915,7 +31996,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32396,6 +32477,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -32410,7 +32492,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32619,6 +32701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -32633,7 +32716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -32790,6 +32873,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -32804,7 +32888,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33221,6 +33305,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -33235,7 +33320,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -33856,6 +33941,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -33870,7 +33956,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34387,6 +34473,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -34401,7 +34488,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -34906,6 +34993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -34920,7 +35008,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35253,6 +35341,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -35267,7 +35356,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -35688,6 +35777,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -35702,7 +35792,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36163,6 +36253,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -36177,7 +36268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -36518,6 +36609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -36532,7 +36624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37017,6 +37109,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -37031,7 +37124,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37400,6 +37493,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -37414,7 +37508,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -37807,6 +37901,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -37821,7 +37916,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -38090,6 +38185,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -38104,7 +38200,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -38625,6 +38721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -38639,7 +38736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -39028,6 +39125,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -39042,7 +39140,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -39671,6 +39769,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -39685,7 +39784,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40074,6 +40173,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -40088,7 +40188,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40301,6 +40401,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -40315,7 +40416,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -40664,6 +40765,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -40678,7 +40780,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41335,6 +41437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -41349,7 +41452,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41506,6 +41609,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -41520,7 +41624,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -41789,6 +41893,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -41803,7 +41908,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42084,6 +42189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -42098,7 +42204,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42347,6 +42453,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -42361,7 +42468,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42646,6 +42753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -42660,7 +42768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -42853,6 +42961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -42867,7 +42976,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43128,6 +43237,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -43142,7 +43252,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43387,6 +43497,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -43401,7 +43512,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43562,6 +43673,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -43576,7 +43688,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -43813,6 +43925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -43827,7 +43940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -44036,6 +44149,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -44050,7 +44164,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -44371,6 +44485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -44385,7 +44500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -44694,6 +44809,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -44708,7 +44824,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -45065,6 +45181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -45079,7 +45196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -45276,6 +45393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -45290,7 +45408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -45591,6 +45709,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -45605,7 +45724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -45886,6 +46005,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -45900,7 +46020,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -46273,6 +46393,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -46287,7 +46408,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -46548,6 +46669,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -46562,7 +46684,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -46839,6 +46961,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -46853,7 +46976,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -47074,6 +47197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -47088,7 +47212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -47325,6 +47449,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -47339,7 +47464,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -47608,6 +47733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -47622,7 +47748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -47931,6 +48057,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -47945,7 +48072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -48214,6 +48341,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -48228,7 +48356,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -48593,6 +48721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -48607,7 +48736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -48796,6 +48925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -48810,7 +48940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -49079,6 +49209,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -49093,7 +49224,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -49278,6 +49409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -49292,7 +49424,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -49577,6 +49709,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -49591,7 +49724,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -49780,6 +49913,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -50047,6 +50181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -50061,7 +50196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -50346,6 +50481,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -50360,7 +50496,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -50597,6 +50733,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -50611,7 +50748,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -50888,6 +51025,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -50902,7 +51040,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -51051,6 +51189,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -51065,7 +51204,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -51238,6 +51377,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -51252,7 +51392,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -51453,6 +51593,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -51467,7 +51608,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -51664,6 +51805,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -51678,7 +51820,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -51955,6 +52097,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -51969,7 +52112,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -52246,6 +52389,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -52260,7 +52404,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -52557,6 +52701,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -52571,7 +52716,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -52892,6 +53037,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -52906,7 +53052,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -53155,6 +53301,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -53169,7 +53316,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -53338,6 +53485,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -53352,7 +53500,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -53641,6 +53789,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -53655,7 +53804,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -53836,6 +53985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -53850,7 +54000,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -54083,6 +54233,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -54097,7 +54248,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -54390,6 +54541,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -54404,7 +54556,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -54613,6 +54765,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -54627,7 +54780,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -54896,6 +55049,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -54910,7 +55064,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -55127,6 +55281,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -55141,7 +55296,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -55462,6 +55617,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -55476,7 +55632,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -55761,6 +55917,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -55775,7 +55932,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -56056,6 +56213,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -56070,7 +56228,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -56311,6 +56469,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -56325,7 +56484,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -56602,6 +56761,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -56616,7 +56776,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -56837,6 +56997,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -56851,7 +57012,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -57452,6 +57613,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -57466,7 +57628,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -57687,6 +57849,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -57701,7 +57864,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -58018,6 +58181,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -58032,7 +58196,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -58369,6 +58533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -58383,7 +58548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -58556,6 +58721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -58570,7 +58736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -58883,6 +59049,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -58897,7 +59064,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -59142,6 +59309,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -59156,7 +59324,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -59345,6 +59513,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -59359,7 +59528,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -59524,6 +59693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -59538,7 +59708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -59739,6 +59909,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -59753,7 +59924,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -60026,6 +60197,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -60040,7 +60212,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -60349,6 +60521,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -60363,7 +60536,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -60884,6 +61057,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -60898,7 +61072,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -61199,6 +61373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -61213,7 +61388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -61546,6 +61721,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -61560,7 +61736,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -61817,6 +61993,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -61831,7 +62008,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -62188,6 +62365,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -62202,7 +62380,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -62559,6 +62737,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -62573,7 +62752,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -62914,6 +63093,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -62928,7 +63108,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -63193,6 +63373,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -63207,7 +63388,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -63392,6 +63573,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -63406,7 +63588,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -63659,6 +63841,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -63673,7 +63856,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -64010,6 +64193,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -64024,7 +64208,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -64373,6 +64557,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -64387,7 +64572,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -64780,6 +64965,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -64794,7 +64980,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -64967,6 +65153,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -64981,7 +65168,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -65346,6 +65533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -65360,7 +65548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -65529,6 +65717,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -65543,7 +65732,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -65864,6 +66053,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -65878,7 +66068,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -66219,6 +66409,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -66233,7 +66424,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -66562,6 +66753,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -66576,7 +66768,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -66793,6 +66985,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -66807,7 +67000,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -67052,6 +67245,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -67066,7 +67260,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -67411,6 +67605,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -67425,7 +67620,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -67626,6 +67821,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -67640,7 +67836,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -68073,6 +68269,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -68087,7 +68284,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -68328,6 +68525,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -68342,7 +68540,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -68739,6 +68937,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -68753,7 +68952,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -69062,6 +69261,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -69076,7 +69276,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -69421,6 +69621,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -69435,7 +69636,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -69724,6 +69925,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -69738,7 +69940,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -70023,6 +70225,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -70037,7 +70240,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -70330,6 +70533,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -70344,7 +70548,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -70741,6 +70945,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -70755,7 +70960,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -71360,6 +71565,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -71374,7 +71580,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -71651,6 +71857,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -71665,7 +71872,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -72046,6 +72253,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -72060,7 +72268,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -72485,6 +72693,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -72499,7 +72708,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -72740,6 +72949,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -72754,7 +72964,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -73003,6 +73213,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -73017,7 +73228,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -73226,6 +73437,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
@@ -73240,7 +73452,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -73625,6 +73837,7 @@
         ]
       },
       "properties": {
+        "ADM0_EN": "SouthAfrica",
         "ADM0_PCODE": "ZA",
         "ADM0_ISO_A2": "ZA",
         "ADM0_ISO_A3": "ZAF",
