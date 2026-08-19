@@ -2,7 +2,9 @@
 
 Synthetically generated data that simulates external data sources. Used by MOCK_ALERT and MOCK_NO_ALERT pipeline run targets for integration testing and local development.
 
-This data is NOT real forecast data.
+This data is NOT real forecast data, with one exception: `tropical-cyclone/` currently ships real
+historical GEFS forecast cycles, geo-cropped to a Philippines monitoring box (pending a synthetic
+replacement) — see that section below.
 
 ## Structure
 
@@ -10,8 +12,11 @@ This data is NOT real forecast data.
 mock-data/
 ├── floods/
 │   └── glofas-discharge/       Mock GloFAS discharge NetCDF files
-└── drought/
-    └── mock_ecmwf_seas5_*.grib Mock ECMWF SEAS5 seasonal precipitation forecasts
+├── drought/
+│   └── mock_ecmwf_seas5_*.grib Mock ECMWF SEAS5 seasonal precipitation forecasts
+└── tropical-cyclone/
+    ├── gefs-wind/              GEFS ensemble wind GRIB2 (+ manifest.alert.json / manifest.no-alert.json)
+    └── gefs-track/             GEFS cyclone-track ATCF (+ manifest.alert.json / manifest.no-alert.json)
 ```
 
 ## floods/glofas-discharge/
@@ -39,3 +44,31 @@ Mock ECMWF SEAS5 seasonal forecast data (total precipitation).
 - `mock_ecmwf_seas5_hindcast_monthly_tp.grib` — Mock hindcast
 
 These simulate the ECMWF Copernicus Climate Data Store downloads used by the drought pipeline.
+
+## tropical-cyclone/
+
+Real historical GEFS forecast cycles used by the tropical-cyclone pipeline's mock run targets.
+Downloaded + cached at run time by [`gefs_forecast_provider.py`](https://github.com/rodekruis/IBF/blob/main/data/pipelines/infra/data_types/gefs_forecast_provider.py).
+
+Unlike the synthetic floods/drought mocks above, these are real forecast cycles — but each GRIB2
+message is geographically cropped to a Philippines monitoring box (lon 100–145°E, lat 10°S–40°N),
+shrinking the wind fixtures ~20× (the alert cycle drops from ~724 MB to ~37 MB). Cropping decodes
+and re-encodes the GRIB packing, so wind values differ from the originals by at most ~0.015 m/s (not
+bit-identical); all variables and levels inside the box are kept.
+
+Two scenarios ship, each backed by its own cycle and selected by the run target:
+
+| Scenario | Run target | Cycle | Storm |
+| --- | --- | --- | --- |
+| alert | `--mock 1` (MOCK_ALERT) | `gefs.20240929/06` | **WP20_2024** (Krathon/Julian) — produces a PHL alert |
+| no-alert | `--mock 0` (MOCK_NO_ALERT) | `gefs.20210512/18` | **WP03_2021** — below threshold, no alert |
+
+Each product ships one manifest per scenario — `manifest.alert.json` and `manifest.no-alert.json` —
+listing that scenario's cycle files as paths relative to the product directory; the loader downloads
+every file the selected manifest lists.
+
+- `gefs-wind/` — per-member ensemble wind GRIB2 (`.idx` sidecars excluded; cfgrib regenerates them)
+- `gefs-track/` — per-member cyclone-track ATCF files
+
+The fixtures are maintained by hand in this repo (there is no publish script); each cycle keeps its
+real NOAA `gefs.<date>/<HH>/atmos/pgrb2sp25/` (wind) and `gefs.<date>/<HH>/tctrack/` (track) layout.
