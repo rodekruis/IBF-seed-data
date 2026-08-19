@@ -48,7 +48,7 @@ These simulate the ECMWF Copernicus Climate Data Store downloads used by the dro
 ## tropical-cyclone/
 
 Real historical GEFS forecast cycles used by the tropical-cyclone pipeline's mock run targets.
-Downloaded + cached at run time by [`gefs_forecast_provider.py`](https://github.com/rodekruis/IBF/blob/main/data/pipelines/infra/data_types/gefs_forecast_provider.py).
+Downloaded + cached at run time by [`gefs_product_provider.py`](https://github.com/rodekruis/IBF/blob/main/data/pipelines/infra/data_types/gefs_product_provider.py).
 
 Unlike the synthetic floods/drought mocks above, these are real forecast cycles — but each GRIB2
 message is geographically cropped to a Philippines monitoring box (lon 100–145°E, lat 10°S–40°N),
