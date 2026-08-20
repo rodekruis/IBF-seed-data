@@ -3,8 +3,8 @@
 Synthetically generated data that simulates external data sources. Used by MOCK_ALERT and MOCK_NO_ALERT pipeline run targets for integration testing and local development.
 
 This data is NOT real forecast data, with one exception: `tropical-cyclone/` currently ships real
-historical GEFS forecast cycles, geo-cropped to a Philippines monitoring box (pending a synthetic
-replacement) — see that section below.
+historical GEFS forecast cycles, geo-cropped to a Philippines monitoring box and namespaced per
+country (pending a synthetic replacement) — see that section below.
 
 ## Structure
 
@@ -15,8 +15,9 @@ mock-data/
 ├── drought/
 │   └── mock_ecmwf_seas5_*.grib Mock ECMWF SEAS5 seasonal precipitation forecasts
 └── tropical-cyclone/
-    ├── gefs-wind/              GEFS ensemble wind GRIB2 (+ manifest.alert.json / manifest.no-alert.json)
-    └── gefs-track/             GEFS cyclone-track ATCF (+ manifest.alert.json / manifest.no-alert.json)
+    └── <ISO3>/                 One subtree per country (e.g. PHL/) — each carries its own crop
+        ├── gefs-wind/          GEFS ensemble wind GRIB2 (+ manifest.alert.json / manifest.no-alert.json)
+        └── gefs-track/         GEFS cyclone-track ATCF  (+ manifest.alert.json / manifest.no-alert.json)
 ```
 
 ## floods/glofas-discharge/
@@ -51,12 +52,12 @@ Real historical GEFS forecast cycles used by the tropical-cyclone pipeline's moc
 Downloaded + cached at run time by [`gefs_product_provider.py`](https://github.com/rodekruis/IBF/blob/main/data/pipelines/infra/data_types/gefs_product_provider.py).
 
 Unlike the synthetic floods/drought mocks above, these are real forecast cycles — but each GRIB2
-message is geographically cropped to a Philippines monitoring box (lon 100–145°E, lat 10°S–40°N),
-shrinking the wind fixtures ~20× (the alert cycle drops from ~724 MB to ~37 MB). Cropping decodes
-and re-encodes the GRIB packing, so wind values differ from the originals by at most ~0.015 m/s (not
-bit-identical); all variables and levels inside the box are kept.
+message is geographically cropped to the country's monitoring box (PHL: lon 100–145°E, lat
+10°S–40°N), shrinking the wind fixtures ~20× (the alert cycle drops from ~724 MB to ~37 MB).
+Cropping decodes and re-encodes the GRIB packing, so wind values differ from the originals by at
+most ~0.015 m/s (not bit-identical); all variables and levels inside the box are kept.
 
-Two scenarios ship, each backed by its own cycle and selected by the run target:
+Two GEFS scenarios ship for PHL, each backed by its own cycle and selected by the run target:
 
 | Scenario | Run target | Cycle | Storm |
 | --- | --- | --- | --- |
