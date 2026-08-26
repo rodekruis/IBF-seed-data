@@ -14,15 +14,13 @@ The deployed API service and the pipelines fetch files from this repo **over HTT
 
 Two consequences:
 
-- **Paths are a contract.** Renaming or moving a folder listed under [Consumed paths](#consumed-paths) breaks running services. Such a change must land together with a matching PR in the IBF repo.
+- **Paths are a contract.** Renaming or moving a folder or file breaks running services. Such a change must land together with a matching PR in the IBF repo.
 - **`main` is production.** Because consumers pin to `refs/heads/main`, a commit here takes effect immediately, everywhere, with no rollback step.
 
 ## Layout
 
 ```
-admin-areas/          Admin area geometry and codes
-  processed/            Ready-to-use output — this is what gets seeded
-  sources/              Inputs the processed output is generated from
+admin-areas/          Admin area geometry and placeCodes
 exposure/             What is at risk (population)
 hazard/               Static, hazard-specific inputs
   flood/
@@ -31,28 +29,9 @@ mock-forecasts/       Stand-in forecast feeds for MOCK_ALERT / MOCK_NO_ALERT run
 reference/            Country reference data cached from external APIs
 ```
 
-The organising principle is **subject first, hazard second**. Data is deliberately *not* filed by
-which service consumes it — most of it ends up in the database and is then used by pipelines,
-backend and frontend alike, so that split would be arbitrary and would drift.
-
-Two conventions worth knowing:
-
-- **Generated output lives next to, but separate from, its sources.** `admin-areas/processed/` is produced from `admin-areas/sources/`; `data-png/` folders are produced from raster sources. Never hand-edit generated output — change the source and re-run the script.
-- **`data-png`** means value-encoded PNG (pixel values carry data, not colour), not a visual map.
-
-## Consumed paths
-
-Everything below is read by code. Changing these paths requires a matching IBF PR.
-
-| Path | Consumer | How |
-| --- | --- | --- |
-| `admin-areas/processed/{ISO3}_adm{N}.json` | API service seeding | HTTP |
-| `hazard/flood/glofas-stations/{ISO3}_station_thresholds.json` | API service seeding | HTTP |
-| `exposure/population/data-png/{ISO3}_population{,_metadata}.{png,json}` | API service seeding | HTTP |
-| `hazard/flood/flood-extents/data-png/` | Flood pipeline | HTTP |
-| `mock-forecasts/flood/glofas-discharge/` | Flood pipeline, mock runs | HTTP |
-| `mock-forecasts/tropical-cyclone/{ISO3}/gefs-{wind,track}/` | Tropical cyclone pipeline, mock runs | HTTP |
-| `admin-areas/`, `hazard/flood/flood-extents/sources-tif/`, `reference/` | `IBF/data/data_management/seed_data_management/*.py` | Local checkout via `SEED_DATA_REPO_ROOT` |
+The organising principle is **subject first, hazard second**. Each folder answers "what is this data
+about?" — admin areas, exposure, a hazard, a forecast feed — which is a property of the data itself
+and stays true no matter who or what consumes it.
 
 ## Data
 
@@ -63,8 +42,8 @@ Admin area geometry and codes. `processed/` is the ready-to-use output; see
 
 ### exposure/population
 
-Population rasters as value-encoded PNGs, fetched from WorldPop and converted by
-`fetch_population_raster.py` in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data).
+Population rasters as value-encoded PNGs. Also the input for the population figures written onto
+`admin-areas/processed/`.
 
 ### hazard/flood
 
@@ -90,9 +69,19 @@ See [mock-forecasts/README.md](mock-forecasts/README.md).
 ### reference/go-data
 
 Country-related data — hospital locations, Red Cross branch locations, admin area extents — cached
-from the IFRC GO API (e.g. `https://goadmin.ifrc.org/api/v2/country/?limit=9999`) by
-`fetch_go_data.py` in [the IBF repo](https://github.com/rodekruis/IBF/tree/main/data). Nothing reads
-it yet; it is a cache and can be regenerated at any time.
+from the IFRC GO API. Nothing reads it yet; it is a cache and can be regenerated at any time.
+
+## How this data is produced
+
+Most of this repo is **generated output**, written by scripts in
+[`data/data_management/seed_data_management/`](https://github.com/rodekruis/IBF/tree/main/data/data_management/seed_data_management)
+in the IBF repo. 
+
+> **Never hand-edit generated output.** Change the source, or the script, and re-run it. A manual edit will be silently overwritten on the next run, and leaves no trace of how the value got there.
+
+Note that source and generated output are not always both stored here: `exposure/population/` keeps
+only the output because the WorldPop GeoTIFFs are too large, while `hazard/flood/glofas-stations/`
+has no generating script at all.
 
 ## Repository size
 
