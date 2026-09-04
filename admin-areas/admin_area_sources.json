@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-09-04",
+  "generatedBy": "IBF/data/data_management/seed_data_management/admin_areas",
+  "processedDirectory": "admin-areas/processed",
+  "processing": {
+    "rawHdxSources": "local-cache-only",
+    "geometrySimplification": {
+      "method": "shapely.simplify(preserve_topology=True)",
+      "processedFileThresholdBytes": 95000000,
+      "tolerance": 0.0001
+    },
+    "geometryValidation": "valid MultiPolygon geometries required",
+    "population": "WorldPop-derived raster zonal statistics, calculated independently per admin level"
+  },
+  "countries": {
+    "ETH": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "datasetId": "cod-ab-eth",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-eth",
+      "rawSourceFilesCommitted": false
+    },
+    "KEN": {
+      "source": "gadm",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "sourceVersion": "4.1",
+      "datasetUrl": "https://gadm.org/data.html",
+      "rawSourceFilesCommitted": true,
+      "notes": [
+        "HDX does not provide a compatible adm3 layer; Kenya uses GADM for all configured levels."
+      ]
+    },
+    "MWI": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "datasetId": "cod-ab-mwi",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-mwi",
+      "rawSourceFilesCommitted": false
+    },
+    "PHL": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "datasetId": "cod-ab-phl",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-phl",
+      "rawSourceFilesCommitted": false
+    },
+    "UGA": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "datasetId": "cod-ab-uga",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-uga",
+      "rawSourceFilesCommitted": false
+    },
+    "ZWE": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "datasetId": "cod-ab-zwe",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-zwe",
+      "rawSourceFilesCommitted": false
+    },
+    "SSD": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "datasetId": "cod-ab-ssd",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-ssd",
+      "rawSourceFilesCommitted": false,
+      "syntheticParentPcodes": {
+        "adm1": [
+          "SS00"
+        ]
+      }
+    },
+    "ZMB": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "datasetId": "cod-ab-zmb",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-zmb",
+      "rawSourceFilesCommitted": false
+    },
+    "LSO": {
+      "source": "hdx",
+      "levels": [
+        0,
+        1,
+        2
+      ],
+      "datasetId": "cod-ab-lso",
+      "datasetUrl": "https://data.humdata.org/dataset/cod-ab-lso",
+      "rawSourceFilesCommitted": false
+    }
+  }
+}
