@@ -101257,11 +101257,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 52049649,
+        "POPULATION": null,
         "ADM0_EN": "Uganda",
         "ADM0_PCODE": "UG",
-        "ADM0_ISO_A2": "UG",
-        "ADM0_ISO_A3": "UGA",
         "ADM1_EN": null,
         "ADM1_PCODE": null,
         "ADM2_EN": null,

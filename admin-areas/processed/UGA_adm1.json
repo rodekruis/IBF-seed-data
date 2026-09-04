@@ -38405,11 +38405,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 14802866,
+        "POPULATION": null,
         "ADM0_EN": "Uganda",
         "ADM0_PCODE": "UG",
-        "ADM0_ISO_A2": "UG",
-        "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Central",
         "ADM1_PCODE": "UG1",
         "ADM2_EN": null,
@@ -118752,11 +118750,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 13390385,
+        "POPULATION": null,
         "ADM0_EN": "Uganda",
         "ADM0_PCODE": "UG",
-        "ADM0_ISO_A2": "UG",
-        "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Eastern",
         "ADM1_PCODE": "UG2",
         "ADM2_EN": null,
@@ -194415,11 +194411,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 10627681,
+        "POPULATION": null,
         "ADM0_EN": "Uganda",
         "ADM0_PCODE": "UG",
-        "ADM0_ISO_A2": "UG",
-        "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Northern",
         "ADM1_PCODE": "UG3",
         "ADM2_EN": null,
@@ -266414,11 +266408,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 13228717,
+        "POPULATION": null,
         "ADM0_EN": "Uganda",
         "ADM0_PCODE": "UG",
-        "ADM0_ISO_A2": "UG",
-        "ADM0_ISO_A3": "UGA",
         "ADM1_EN": "Western",
         "ADM1_PCODE": "UG4",
         "ADM2_EN": null,

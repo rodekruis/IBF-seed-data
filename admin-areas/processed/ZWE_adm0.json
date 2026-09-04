@@ -159013,11 +159013,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 17107523,
+        "POPULATION": null,
         "ADM0_EN": "Zimbabwe",
         "ADM0_PCODE": "ZW",
-        "ADM0_ISO_A2": "ZW",
-        "ADM0_ISO_A3": "ZWE",
         "ADM1_EN": null,
         "ADM1_PCODE": null,
         "ADM2_EN": null,

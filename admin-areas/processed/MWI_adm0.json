@@ -727897,11 +727897,9 @@
         ]
       },
       "properties": {
-        "POPULATION": 22458986,
+        "POPULATION": null,
         "ADM0_EN": "Malawi",
         "ADM0_PCODE": "MW",
-        "ADM0_ISO_A2": "MW",
-        "ADM0_ISO_A3": "MWI",
         "ADM1_EN": null,
         "ADM1_PCODE": null,
         "ADM2_EN": null,
