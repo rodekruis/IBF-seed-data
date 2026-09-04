@@ -21,7 +21,7 @@ Each processed file is a GeoJSON `FeatureCollection` named `{COUNTRY}_adm{LEVEL}
 - `POPULATION`;
 - valid `MultiPolygon` geometry.
 
-The active country/level/source configuration, processing scripts, and validation report are maintained in the IBF repository.
+`admin_area_sources.json` records the source and processing metadata for these generated files. The active country/level/source configuration, processing scripts, and validation report are maintained in the IBF repository.
 
 ## sources/hdx
 
