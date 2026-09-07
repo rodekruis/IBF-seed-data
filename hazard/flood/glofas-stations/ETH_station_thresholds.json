@@ -1,1 +1,1906 @@
-[{"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1045", "station_name": "Tendaho", "lat": 11.6833, "lon": 40.95, "pcodes": {"3": ["ET020101", "ET020103", "ET020402", "ET030308", "ET030422"], "2": ["ET0303", "ET0204", "ET0201", "ET0304"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1060.5673425064165}, {"return_period": 2.0, "threshold_value": 1143.1034561360038}, {"return_period": 5.0, "threshold_value": 1346.2225136997488}, {"return_period": 10.0, "threshold_value": 1480.7050037793183}, {"return_period": 20.0, "threshold_value": 1609.7038369930538}, {"return_period": 50.0, "threshold_value": 1776.6795946339216}, {"return_period": 100.0, "threshold_value": 1901.8044279434203}, {"return_period": 200.0, "threshold_value": 2026.4727017542866}, {"return_period": 500.0, "threshold_value": 2190.9488164415716}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1053", "station_name": "Adaitu", "lat": 11.1333, "lon": 40.7833, "pcodes": {"3": ["ET020105", "ET020106", "ET020303"], "2": ["ET0201", "ET0203"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1065.3032088757059}, {"return_period": 2.0, "threshold_value": 1148.6292437202987}, {"return_period": 5.0, "threshold_value": 1353.6922752087385}, {"return_period": 10.0, "threshold_value": 1489.4618451772085}, {"return_period": 20.0, "threshold_value": 1619.6952763212976}, {"return_period": 50.0, "threshold_value": 1788.269094345092}, {"return_period": 100.0, "threshold_value": 1914.5914490304913}, {"return_period": 200.0, "threshold_value": 2040.4528746629144}, {"return_period": 500.0, "threshold_value": 2206.5031266173874}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1067", "station_name": "Melka Sedi", "lat": 9.175, "lon": 40.127, "pcodes": {"3": ["ET020301", "ET020302", "ET020304", "ET020502", "ET020503"], "2": ["ET0203", "ET0205"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 970.6517854494527}, {"return_period": 2.0, "threshold_value": 1031.5857813571463}, {"return_period": 5.0, "threshold_value": 1181.5426339163753}, {"return_period": 10.0, "threshold_value": 1280.8271184868647}, {"return_period": 20.0, "threshold_value": 1376.063179763261}, {"return_period": 50.0, "threshold_value": 1499.3364923211393}, {"return_period": 100.0, "threshold_value": 1591.7124929049448}, {"return_period": 200.0, "threshold_value": 1683.7514289796786}, {"return_period": 500.0, "threshold_value": 1805.1793283383372}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1074", "station_name": "Metahara", "lat": 8.868, "lon": 39.935, "pcodes": {"3": ["ET040701", "ET040703"], "2": ["ET0407"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 565.0287825637273}, {"return_period": 2.0, "threshold_value": 595.5634544092795}, {"return_period": 5.0, "threshold_value": 670.7084242357173}, {"return_period": 10.0, "threshold_value": 720.4609328403913}, {"return_period": 20.0, "threshold_value": 768.1847335795202}, {"return_period": 50.0, "threshold_value": 829.9582984048288}, {"return_period": 100.0, "threshold_value": 876.2488923862899}, {"return_period": 200.0, "threshold_value": 922.370579766075}, {"return_period": 500.0, "threshold_value": 983.2193884578294}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1603", "station_name": "Gambella", "lat": 8.25, "lon": 34.57, "pcodes": {"3": ["ET120102", "ET120103", "ET120206", "ET120407"], "2": ["ET1202", "ET1204", "ET1201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1641.081537814753}, {"return_period": 2.0, "threshold_value": 1768.60736709311}, {"return_period": 5.0, "threshold_value": 2082.444851304014}, {"return_period": 10.0, "threshold_value": 2290.232573752187}, {"return_period": 20.0, "threshold_value": 2489.547545806128}, {"return_period": 50.0, "threshold_value": 2747.540332552757}, {"return_period": 100.0, "threshold_value": 2940.869621144193}, {"return_period": 200.0, "threshold_value": 3133.493483636463}, {"return_period": 500.0, "threshold_value": 3387.624093857722}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1901", "station_name": "Omo River Delta", "lat": 4.825, "lon": 36.025, "pcodes": {"3": ["ET070701", "ET070704", "ET070705", "ET070706", "ET070707", "ET071011", "ET071601"], "2": ["ET0707", "ET0716", "ET0710"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3742.3882638975833}, {"return_period": 2.0, "threshold_value": 3974.478927899094}, {"return_period": 5.0, "threshold_value": 4545.64753359452}, {"return_period": 10.0, "threshold_value": 4923.810849585147}, {"return_period": 20.0, "threshold_value": 5286.554181435743}, {"return_period": 50.0, "threshold_value": 5756.0882164031}, {"return_period": 100.0, "threshold_value": 6107.937902180764}, {"return_period": 200.0, "threshold_value": 6458.503747557736}, {"return_period": 500.0, "threshold_value": 6921.008813418703}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1902", "station_name": "Na", "lat": 4.725, "lon": 42.075, "pcodes": {"3": ["ET042103"], "2": ["ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 199.80582196913394}, {"return_period": 2.0, "threshold_value": 225.54882137444605}, {"return_period": 5.0, "threshold_value": 288.9016199025877}, {"return_period": 10.0, "threshold_value": 330.84668503710856}, {"return_period": 20.0, "threshold_value": 371.08139855427993}, {"return_period": 50.0, "threshold_value": 423.16110815802256}, {"return_period": 100.0, "threshold_value": 462.1875217826339}, {"return_period": 200.0, "threshold_value": 501.07153457947527}, {"return_period": 500.0, "threshold_value": 552.3716059831886}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1904", "station_name": "Na", "lat": 5.125, "lon": 44.825, "pcodes": {"3": ["ET050603", "ET050604", "ET050605", "ET050606", "ET050607"], "2": ["ET0506"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1005.016655529311}, {"return_period": 2.0, "threshold_value": 1076.8698685212312}, {"return_period": 5.0, "threshold_value": 1253.6986076516619}, {"return_period": 10.0, "threshold_value": 1370.7746193322887}, {"return_period": 20.0, "threshold_value": 1483.0767405614738}, {"return_period": 50.0, "threshold_value": 1628.4403171905}, {"return_period": 100.0, "threshold_value": 1737.3698621253973}, {"return_period": 200.0, "threshold_value": 1845.9019414485028}, {"return_period": 500.0, "threshold_value": 1989.089411526721}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G1907", "station_name": "Na", "lat": 6.075, "lon": 43.025, "pcodes": {"3": ["ET050805"], "2": ["ET0508"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1007.4680920941016}, {"return_period": 2.0, "threshold_value": 1079.0563711826478}, {"return_period": 5.0, "threshold_value": 1255.2331154177102}, {"return_period": 10.0, "threshold_value": 1371.8774497456557}, {"return_period": 20.0, "threshold_value": 1483.765495694202}, {"return_period": 50.0, "threshold_value": 1628.5930943458889}, {"return_period": 100.0, "threshold_value": 1737.1209992102772}, {"return_period": 200.0, "threshold_value": 1845.2529039800247}, {"return_period": 500.0, "threshold_value": 1987.9124197221395}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4951", "station_name": "Na", "lat": 11.188, "lon": 41.65, "pcodes": {"3": ["ET020104"], "2": ["ET0201"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1053.3808861433365}, {"return_period": 2.0, "threshold_value": 1134.2684590480555}, {"return_period": 5.0, "threshold_value": 1333.3305041882031}, {"return_period": 10.0, "threshold_value": 1465.126899031052}, {"return_period": 20.0, "threshold_value": 1591.5491652044768}, {"return_period": 50.0, "threshold_value": 1755.1898211010093}, {"return_period": 100.0, "threshold_value": 1877.8154649729145}, {"return_period": 200.0, "threshold_value": 1999.993668468639}, {"return_period": 500.0, "threshold_value": 2161.1846082015154}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4953", "station_name": "Bahir Dar", "lat": 11.601, "lon": 37.41, "pcodes": {"3": ["ET030702", "ET030703"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 974.4846459787815}, {"return_period": 2.0, "threshold_value": 1041.7156743036835}, {"return_period": 5.0, "threshold_value": 1207.1693467855457}, {"return_period": 10.0, "threshold_value": 1316.7140745676127}, {"return_period": 20.0, "threshold_value": 1421.7920074661029}, {"return_period": 50.0, "threshold_value": 1557.8046133165062}, {"return_period": 100.0, "threshold_value": 1659.7269215334018}, {"return_period": 200.0, "threshold_value": 1761.277332368234}, {"return_period": 500.0, "threshold_value": 1895.2538165886717}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4954", "station_name": "Na", "lat": 11.05000019, "lon": 41.65000153, "pcodes": {"3": ["ET050101", "ET050103"], "2": ["ET0501"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 42.027089421729386}, {"return_period": 2.0, "threshold_value": 123.1515978430257}, {"return_period": 5.0, "threshold_value": 322.79673463498693}, {"return_period": 10.0, "threshold_value": 454.97918688781533}, {"return_period": 20.0, "threshold_value": 581.7717685975705}, {"return_period": 50.0, "threshold_value": 745.8917599710564}, {"return_period": 100.0, "threshold_value": 868.8765983302364}, {"return_period": 200.0, "threshold_value": 991.412685672888}, {"return_period": 500.0, "threshold_value": 1153.075785185094}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4957", "station_name": "Nr. BAHIR DAR", "lat": 11.838, "lon": 37.635, "pcodes": {"3": ["ET030209"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 250.8595425206989}, {"return_period": 2.0, "threshold_value": 264.64789076223985}, {"return_period": 5.0, "threshold_value": 298.58062853023836}, {"return_period": 10.0, "threshold_value": 321.04705351759026}, {"return_period": 20.0, "threshold_value": 342.59738775171667}, {"return_period": 50.0, "threshold_value": 370.4920849091328}, {"return_period": 100.0, "threshold_value": 391.395235051129}, {"return_period": 200.0, "threshold_value": 412.22211310950894}, {"return_period": 500.0, "threshold_value": 439.699224000649}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4965", "station_name": "Nr. ADDIS ZEMEN", "lat": 12.025, "lon": 37.675, "pcodes": {"3": ["ET030202", "ET030203", "ET030204"], "2": ["ET0302"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 194.65160376923717}, {"return_period": 2.0, "threshold_value": 206.30262245197363}, {"return_period": 5.0, "threshold_value": 234.97545220399948}, {"return_period": 10.0, "threshold_value": 253.9593604050794}, {"return_period": 20.0, "threshold_value": 272.1691809276398}, {"return_period": 50.0, "threshold_value": 295.7399257360122}, {"return_period": 100.0, "threshold_value": 313.4028820645091}, {"return_period": 200.0, "threshold_value": 331.00138923233646}, {"return_period": 500.0, "threshold_value": 354.2192777518476}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4977", "station_name": "Nr. MARAWI", "lat": 11.375, "lon": 37.025, "pcodes": {"3": ["ET030701", "ET030704"], "2": ["ET0307"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 241.00197229471857}, {"return_period": 2.0, "threshold_value": 268.745346502778}, {"return_period": 5.0, "threshold_value": 337.021011238696}, {"return_period": 10.0, "threshold_value": 382.2254421554876}, {"return_period": 20.0, "threshold_value": 425.5866175836552}, {"return_period": 50.0, "threshold_value": 481.7132114367997}, {"return_period": 100.0, "threshold_value": 523.7721953236066}, {"return_period": 200.0, "threshold_value": 565.6777130431592}, {"return_period": 500.0, "threshold_value": 620.9640864546311}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G4979", "station_name": "Na", "lat": 10.05000019, "lon": 35.75, "pcodes": {"3": ["ET070501"], "2": ["ET0705"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 8474.183365981227}, {"return_period": 2.0, "threshold_value": 8782.340426389335}, {"return_period": 5.0, "threshold_value": 9540.706297268807}, {"return_period": 10.0, "threshold_value": 10042.810491382774}, {"return_period": 20.0, "threshold_value": 10524.440889169886}, {"return_period": 50.0, "threshold_value": 11147.862036244362}, {"return_period": 100.0, "threshold_value": 11615.028457354929}, {"return_period": 200.0, "threshold_value": 12080.490266668156}, {"return_period": 500.0, "threshold_value": 12694.57873994964}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5068", "station_name": "Na", "lat": 8.7, "lon": 38.6, "pcodes": {"3": ["ET041007", "ET130101"], "2": ["ET0410", "ET1301"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 278.54642361659944}, {"return_period": 2.0, "threshold_value": 292.2017503245279}, {"return_period": 5.0, "threshold_value": 325.8071258342995}, {"return_period": 10.0, "threshold_value": 348.05680852197526}, {"return_period": 20.0, "threshold_value": 369.39923833858415}, {"return_period": 50.0, "threshold_value": 397.02482455315686}, {"return_period": 100.0, "threshold_value": 417.7263139131282}, {"return_period": 200.0, "threshold_value": 438.35226701580245}, {"return_period": 500.0, "threshold_value": 465.5642955804773}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5076", "station_name": "Na", "lat": 8.3833, "lon": 38.783, "pcodes": {"3": ["ET040803", "ET040811", "ET042102"], "2": ["ET0408", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 452.8697731278646}, {"return_period": 2.0, "threshold_value": 474.48559446330376}, {"return_period": 5.0, "threshold_value": 527.6815236758802}, {"return_period": 10.0, "threshold_value": 562.9018575451365}, {"return_period": 20.0, "threshold_value": 596.6860473816281}, {"return_period": 50.0, "threshold_value": 640.4162157381465}, {"return_period": 100.0, "threshold_value": 673.1858231560946}, {"return_period": 200.0, "threshold_value": 705.8358597811201}, {"return_period": 500.0, "threshold_value": 748.9113833632368}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5081", "station_name": "Na", "lat": 7.349999905, "lon": 42.15000153, "pcodes": {"3": ["ET042101", "ET042105", "ET050601"], "2": ["ET0506", "ET0421"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1006.7757176803794}, {"return_period": 2.0, "threshold_value": 1078.5675326841033}, {"return_period": 5.0, "threshold_value": 1255.2451730899836}, {"return_period": 10.0, "threshold_value": 1372.2211442674245}, {"return_period": 20.0, "threshold_value": 1484.4273042441264}, {"return_period": 50.0, "threshold_value": 1629.6666688749633}, {"return_period": 100.0, "threshold_value": 1738.5031343964888}, {"return_period": 200.0, "threshold_value": 1846.942473937367}, {"return_period": 500.0, "threshold_value": 1990.007591482808}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5115", "station_name": "Na", "lat": 5.786, "lon": 40.846, "pcodes": {"3": ["ET050901", "ET050904"], "2": ["ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 833.5863199405206}, {"return_period": 2.0, "threshold_value": 901.0714785954798}, {"return_period": 5.0, "threshold_value": 1067.150558682203}, {"return_period": 10.0, "threshold_value": 1177.1093607171988}, {"return_period": 20.0, "threshold_value": 1282.5844835804205}, {"return_period": 50.0, "threshold_value": 1419.111211098719}, {"return_period": 100.0, "threshold_value": 1521.4187811578431}, {"return_period": 200.0, "threshold_value": 1623.3530480791565}, {"return_period": 500.0, "threshold_value": 1757.8359575172826}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5141", "station_name": "Na", "lat": 4.349999905, "lon": 41.95000076, "pcodes": {"3": ["ET041208", "ET050902"], "2": ["ET0412", "ET0509"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1286.0930133441645}, {"return_period": 2.0, "threshold_value": 1378.181387616627}, {"return_period": 5.0, "threshold_value": 1604.8082903412392}, {"return_period": 10.0, "threshold_value": 1754.8550194024033}, {"return_period": 20.0, "threshold_value": 1898.7834443220736}, {"return_period": 50.0, "threshold_value": 2085.0840270350946}, {"return_period": 100.0, "threshold_value": 2224.6900973220536}, {"return_period": 200.0, "threshold_value": 2363.786768509167}, {"return_period": 500.0, "threshold_value": 2547.2984138015318}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G5173", "station_name": "Na", "lat": 2.849999905, "lon": 37.45000076, "pcodes": {"3": ["ET041207", "ET041212"], "2": ["ET0412"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 3.7713537197371263}, {"return_period": 2.0, "threshold_value": 6.068503978887026}, {"return_period": 5.0, "threshold_value": 11.721726249744918}, {"return_period": 10.0, "threshold_value": 15.464651296153503}, {"return_period": 20.0, "threshold_value": 19.05495486286687}, {"return_period": 50.0, "threshold_value": 23.702234557400132}, {"return_period": 100.0, "threshold_value": 27.184716717306014}, {"return_period": 200.0, "threshold_value": 30.65449188478787}, {"return_period": 500.0, "threshold_value": 35.23220136083016}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6107", "station_name": "Abetlti", "lat": 8.2333, "lon": 37.5833, "pcodes": {"3": ["ET070111"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1126.1866902934123}, {"return_period": 2.0, "threshold_value": 1173.3569257363706}, {"return_period": 5.0, "threshold_value": 1289.441550355757}, {"return_period": 10.0, "threshold_value": 1366.2996727102677}, {"return_period": 20.0, "threshold_value": 1440.023828924688}, {"return_period": 50.0, "threshold_value": 1535.452186946656}, {"return_period": 100.0, "threshold_value": 1606.9623124834388}, {"return_period": 200.0, "threshold_value": 1678.211509584206}, {"return_period": 500.0, "threshold_value": 1772.2112960214613}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6108", "station_name": "Woltkite (G6108)", "lat": 8.25, "lon": 37.7666, "pcodes": {"3": ["ET070112"], "2": ["ET0701"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 1052.6370384962925}, {"return_period": 2.0, "threshold_value": 1116.0075835363746}, {"return_period": 5.0, "threshold_value": 1271.960715078397}, {"return_period": 10.0, "threshold_value": 1375.2152580889458}, {"return_period": 20.0, "threshold_value": 1474.2594947363884}, {"return_period": 50.0, "threshold_value": 1602.4620996914791}, {"return_period": 100.0, "threshold_value": 1698.5319112706604}, {"return_period": 200.0, "threshold_value": 1794.2511802449235}, {"return_period": 500.0, "threshold_value": 1920.534580025355}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6109", "station_name": "Asetndabo", "lat": 7.75, "lon": 37.1833, "pcodes": {"3": ["ET040405", "ET072401"], "2": ["ET0724", "ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 245.9761467178561}, {"return_period": 2.0, "threshold_value": 257.1898092043002}, {"return_period": 5.0, "threshold_value": 284.78631764067455}, {"return_period": 10.0, "threshold_value": 303.05760747698525}, {"return_period": 20.0, "threshold_value": 320.58386735512636}, {"return_period": 50.0, "threshold_value": 343.2698130249958}, {"return_period": 100.0, "threshold_value": 360.26973690925195}, {"return_period": 200.0, "threshold_value": 377.20763092685337}, {"return_period": 500.0, "threshold_value": 399.55396583501556}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6110", "station_name": "Woltkite (G6110)", "lat": 8.3333, "lon": 37.6, "pcodes": {"3": ["ET040509"], "2": ["ET0405"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 109.18688070349022}, {"return_period": 2.0, "threshold_value": 120.77394704430947}, {"return_period": 5.0, "threshold_value": 149.28939187901884}, {"return_period": 10.0, "threshold_value": 168.16909757032172}, {"return_period": 20.0, "threshold_value": 186.27896454375298}, {"return_period": 50.0, "threshold_value": 209.72032973543472}, {"return_period": 100.0, "threshold_value": 227.28633424768717}, {"return_period": 200.0, "threshold_value": 244.78824336016197}, {"return_period": 500.0, "threshold_value": 267.8786890881346}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}, {"station_code": "G6111", "station_name": "Shetbe", "lat": 7.4166, "lon": 36.3833, "pcodes": {"3": ["ET040408"], "2": ["ET0404"]}, "thresholds": [{"return_period": 1.5, "threshold_value": 254.7071003737329}, {"return_period": 2.0, "threshold_value": 294.0240970482222}, {"return_period": 5.0, "threshold_value": 390.78212162155694}, {"return_period": 10.0, "threshold_value": 454.8443530826231}, {"return_period": 20.0, "threshold_value": 516.2943835412815}, {"return_period": 50.0, "threshold_value": 595.8351447812552}, {"return_period": 100.0, "threshold_value": 655.4397522528873}, {"return_period": 200.0, "threshold_value": 714.8268725240682}, {"return_period": 500.0, "threshold_value": 793.1769010123824}]}]
+[
+  {
+    "station_code": "G1045",
+    "station_name": "Tendaho",
+    "lat": 11.6833,
+    "lon": 40.95,
+    "pcodes": {
+      "3": [
+        "ET020101",
+        "ET020105",
+        "ET020106",
+        "ET020198",
+        "ET020401",
+        "ET020402"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1060.5673425064165
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1143.1034561360038
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1346.2225136997488
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1480.7050037793183
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1609.7038369930538
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1776.6795946339216
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1901.8044279434203
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 2026.4727017542866
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 2190.9488164415716
+      }
+    ]
+  },
+  {
+    "station_code": "G1053",
+    "station_name": "Adaitu",
+    "lat": 11.1333,
+    "lon": 40.7833,
+    "pcodes": {
+      "3": [
+        "ET020109",
+        "ET020112",
+        "ET020303",
+        "ET020501",
+        "ET020503",
+        "ET020504",
+        "ET020505",
+        "ET020602",
+        "ET020603",
+        "ET020604",
+        "ET030308",
+        "ET030401",
+        "ET030404",
+        "ET030405",
+        "ET030407",
+        "ET030409",
+        "ET030417",
+        "ET030418",
+        "ET030422",
+        "ET030429",
+        "ET030507",
+        "ET031001",
+        "ET031002",
+        "ET031004",
+        "ET031005"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1065.3032088757059
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1148.6292437202987
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1353.6922752087385
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1489.4618451772085
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1619.6952763212976
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1788.269094345092
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1914.5914490304913
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 2040.4528746629144
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 2206.5031266173874
+      }
+    ]
+  },
+  {
+    "station_code": "G1067",
+    "station_name": "Melka Sedi",
+    "lat": 9.175,
+    "lon": 40.127,
+    "pcodes": {
+      "3": [
+        "ET020301",
+        "ET020302",
+        "ET020304",
+        "ET020305",
+        "ET020306",
+        "ET020307",
+        "ET020309",
+        "ET020310",
+        "ET020396",
+        "ET020502",
+        "ET030508",
+        "ET030510",
+        "ET030512",
+        "ET030514",
+        "ET030515",
+        "ET030517",
+        "ET030595",
+        "ET031003"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 970.6517854494527
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1031.5857813571463
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1181.5426339163753
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1280.8271184868647
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1376.063179763261
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1499.3364923211393
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1591.7124929049448
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1683.7514289796786
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1805.1793283383372
+      }
+    ]
+  },
+  {
+    "station_code": "G1074",
+    "station_name": "Metahara",
+    "lat": 8.868,
+    "lon": 39.935,
+    "pcodes": {
+      "3": [
+        "ET030516",
+        "ET030518",
+        "ET040617",
+        "ET040701",
+        "ET040702",
+        "ET040705",
+        "ET040714",
+        "ET040801",
+        "ET040802",
+        "ET040804",
+        "ET040805",
+        "ET040820",
+        "ET040821",
+        "ET040906",
+        "ET040991"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 565.0287825637273
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 595.5634544092795
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 670.7084242357173
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 720.4609328403913
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 768.1847335795202
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 829.9582984048288
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 876.2488923862899
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 922.370579766075
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 983.2193884578294
+      }
+    ]
+  },
+  {
+    "station_code": "G1603",
+    "station_name": "Gambella",
+    "lat": 8.25,
+    "lon": 34.57,
+    "pcodes": {
+      "3": [
+        "ET040104",
+        "ET040112",
+        "ET040113",
+        "ET040117",
+        "ET040118",
+        "ET040301",
+        "ET040302",
+        "ET040309",
+        "ET040310",
+        "ET040311",
+        "ET040312",
+        "ET040313",
+        "ET040314",
+        "ET040315",
+        "ET040316",
+        "ET040317",
+        "ET040319",
+        "ET040320",
+        "ET040324",
+        "ET040412",
+        "ET040413",
+        "ET041603",
+        "ET041801",
+        "ET041802",
+        "ET041803",
+        "ET041804",
+        "ET041805",
+        "ET041807",
+        "ET041808",
+        "ET041809",
+        "ET041811",
+        "ET041812",
+        "ET110101",
+        "ET110102",
+        "ET110201",
+        "ET120102",
+        "ET120103",
+        "ET120200",
+        "ET120202",
+        "ET120206",
+        "ET120407"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1641.081537814753
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1768.60736709311
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 2082.444851304014
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 2290.232573752187
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 2489.547545806128
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 2747.540332552757
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 2940.869621144193
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 3133.493483636463
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 3387.624093857722
+      }
+    ]
+  },
+  {
+    "station_code": "G1901",
+    "station_name": "Omo River Delta",
+    "lat": 4.825,
+    "lon": 36.025,
+    "pcodes": {
+      "3": [
+        "ET080501",
+        "ET080511",
+        "ET080513",
+        "ET081201",
+        "ET081202",
+        "ET081203",
+        "ET081205",
+        "ET081206",
+        "ET110507",
+        "ET110511"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 3742.3882638975833
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 3974.478927899094
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 4545.64753359452
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 4923.810849585147
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 5286.554181435743
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 5756.0882164031
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 6107.937902180764
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 6458.503747557736
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 6921.008813418703
+      }
+    ]
+  },
+  {
+    "station_code": "G1902",
+    "station_name": "Na",
+    "lat": 4.725,
+    "lon": 42.075,
+    "pcodes": {
+      "3": [
+        "ET050802",
+        "ET050806",
+        "ET050808"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 199.80582196913394
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 225.54882137444605
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 288.9016199025877
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 330.84668503710856
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 371.08139855427993
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 423.16110815802256
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 462.1875217826339
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 501.07153457947527
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 552.3716059831886
+      }
+    ]
+  },
+  {
+    "station_code": "G1904",
+    "station_name": "Na",
+    "lat": 5.125,
+    "lon": 44.825,
+    "pcodes": {
+      "3": [
+        "ET050504",
+        "ET050595",
+        "ET050597",
+        "ET050605",
+        "ET050606",
+        "ET050607"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1005.016655529311
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1076.8698685212312
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1253.6986076516619
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1370.7746193322887
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1483.0767405614738
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1628.4403171905
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1737.3698621253973
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1845.9019414485028
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1989.089411526721
+      }
+    ]
+  },
+  {
+    "station_code": "G1907",
+    "station_name": "Na",
+    "lat": 6.075,
+    "lon": 43.025,
+    "pcodes": {
+      "3": [
+        "ET050501",
+        "ET050502",
+        "ET050592",
+        "ET050598",
+        "ET050599",
+        "ET050602",
+        "ET050603",
+        "ET050604",
+        "ET050608",
+        "ET050696",
+        "ET050698",
+        "ET050699",
+        "ET050805",
+        "ET051002",
+        "ET051095",
+        "ET051096"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1007.4680920941016
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1079.0563711826478
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1255.2331154177102
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1371.8774497456557
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1483.765495694202
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1628.5930943458889
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1737.1209992102772
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1845.2529039800247
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1987.9124197221395
+      }
+    ]
+  },
+  {
+    "station_code": "G4951",
+    "station_name": "Na",
+    "lat": 11.188,
+    "lon": 41.65,
+    "pcodes": {
+      "3": [
+        "ET020103",
+        "ET020104",
+        "ET020111",
+        "ET020601"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1053.3808861433365
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1134.2684590480555
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1333.3305041882031
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1465.126899031052
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1591.5491652044768
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1755.1898211010093
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1877.8154649729145
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1999.993668468639
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 2161.1846082015154
+      }
+    ]
+  },
+  {
+    "station_code": "G4953",
+    "station_name": "Bahir Dar",
+    "lat": 11.601,
+    "lon": 37.41,
+    "pcodes": {
+      "3": [
+        "ET030416",
+        "ET030501",
+        "ET030502",
+        "ET030503",
+        "ET030504",
+        "ET030509",
+        "ET030511",
+        "ET030513",
+        "ET030519",
+        "ET030520",
+        "ET030523",
+        "ET030601",
+        "ET030602",
+        "ET030603",
+        "ET030604",
+        "ET030605",
+        "ET030606",
+        "ET030607",
+        "ET030610",
+        "ET030612",
+        "ET030613",
+        "ET030614",
+        "ET030616",
+        "ET030617",
+        "ET030619",
+        "ET030707",
+        "ET031121",
+        "ET031303",
+        "ET031307",
+        "ET031309",
+        "ET031310",
+        "ET031401",
+        "ET031403",
+        "ET031404",
+        "ET031406",
+        "ET040602",
+        "ET040603",
+        "ET040605",
+        "ET040606",
+        "ET040607",
+        "ET040608",
+        "ET040609",
+        "ET040610",
+        "ET040614",
+        "ET040615",
+        "ET040620",
+        "ET040621",
+        "ET040622",
+        "ET042012"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 974.4846459787815
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1041.7156743036835
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1207.1693467855457
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1316.7140745676127
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1421.7920074661029
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1557.8046133165062
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1659.7269215334018
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1761.277332368234
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1895.2538165886717
+      }
+    ]
+  },
+  {
+    "station_code": "G4954",
+    "station_name": "Na",
+    "lat": 11.05000019,
+    "lon": 41.65000153,
+    "pcodes": {
+      "3": [
+        "ET050102",
+        "ET050103",
+        "ET050104",
+        "ET050106",
+        "ET050199",
+        "ET050299"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 42.027089421729386
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 123.1515978430257
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 322.79673463498693
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 454.97918688781533
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 581.7717685975705
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 745.8917599710564
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 868.8765983302364
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 991.412685672888
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1153.075785185094
+      }
+    ]
+  },
+  {
+    "station_code": "G4957",
+    "station_name": "Nr. BAHIR DAR",
+    "lat": 11.838,
+    "lon": 37.635,
+    "pcodes": {
+      "3": [
+        "ET030203",
+        "ET030204",
+        "ET030205",
+        "ET030206",
+        "ET030207",
+        "ET030208",
+        "ET030209",
+        "ET030211",
+        "ET030214",
+        "ET030298",
+        "ET030305",
+        "ET030311",
+        "ET030402",
+        "ET030403",
+        "ET030406",
+        "ET030408",
+        "ET030410",
+        "ET030411",
+        "ET030412",
+        "ET030413",
+        "ET030414",
+        "ET030415",
+        "ET030419",
+        "ET030420",
+        "ET030421",
+        "ET030425",
+        "ET030505",
+        "ET030506",
+        "ET030521",
+        "ET030522"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 250.8595425206989
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 264.64789076223985
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 298.58062853023836
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 321.04705351759026
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 342.59738775171667
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 370.4920849091328
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 391.395235051129
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 412.22211310950894
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 439.699224000649
+      }
+    ]
+  },
+  {
+    "station_code": "G4965",
+    "station_name": "Nr. ADDIS ZEMEN",
+    "lat": 12.025,
+    "lon": 37.675,
+    "pcodes": {
+      "3": [
+        "ET030201",
+        "ET030202",
+        "ET030210",
+        "ET030212",
+        "ET030299",
+        "ET030304",
+        "ET030307",
+        "ET031110",
+        "ET031111",
+        "ET031112",
+        "ET031118",
+        "ET031125"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 194.65160376923717
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 206.30262245197363
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 234.97545220399948
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 253.9593604050794
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 272.1691809276398
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 295.7399257360122
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 313.4028820645091
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 331.00138923233646
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 354.2192777518476
+      }
+    ]
+  },
+  {
+    "station_code": "G4977",
+    "station_name": "Nr. MARAWI",
+    "lat": 11.375,
+    "lon": 37.025,
+    "pcodes": {
+      "3": [
+        "ET030608",
+        "ET030609",
+        "ET030611",
+        "ET030615",
+        "ET030705",
+        "ET030706",
+        "ET030708",
+        "ET030709",
+        "ET030710",
+        "ET030711",
+        "ET030714",
+        "ET030717",
+        "ET030901",
+        "ET030902",
+        "ET030903",
+        "ET030904",
+        "ET030905",
+        "ET030906",
+        "ET030907",
+        "ET030908",
+        "ET030911",
+        "ET030996",
+        "ET030998",
+        "ET030999",
+        "ET031115",
+        "ET031301",
+        "ET031304",
+        "ET031305",
+        "ET031306",
+        "ET040501",
+        "ET040502",
+        "ET040513",
+        "ET040514",
+        "ET040516",
+        "ET040592",
+        "ET040594",
+        "ET040601",
+        "ET040604",
+        "ET041904",
+        "ET041909",
+        "ET041913",
+        "ET060200",
+        "ET060201",
+        "ET060202",
+        "ET060204",
+        "ET060206"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 241.00197229471857
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 268.745346502778
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 337.021011238696
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 382.2254421554876
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 425.5866175836552
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 481.7132114367997
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 523.7721953236066
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 565.6777130431592
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 620.9640864546311
+      }
+    ]
+  },
+  {
+    "station_code": "G4979",
+    "station_name": "Na",
+    "lat": 10.05000019,
+    "lon": 35.75,
+    "pcodes": {
+      "3": [
+        "ET040101",
+        "ET040102",
+        "ET040103",
+        "ET040105",
+        "ET040106",
+        "ET040107",
+        "ET040108",
+        "ET040109",
+        "ET040110",
+        "ET040111",
+        "ET040114",
+        "ET040115",
+        "ET040116",
+        "ET040119",
+        "ET040197",
+        "ET040199",
+        "ET040201",
+        "ET040202",
+        "ET040203",
+        "ET040204",
+        "ET040206",
+        "ET040210",
+        "ET040211",
+        "ET040212",
+        "ET040213",
+        "ET040214",
+        "ET040215",
+        "ET040216",
+        "ET040217",
+        "ET040416",
+        "ET040417",
+        "ET040503",
+        "ET040504",
+        "ET040509",
+        "ET040515",
+        "ET040517",
+        "ET040519",
+        "ET041604",
+        "ET041605",
+        "ET041606",
+        "ET041607",
+        "ET041608",
+        "ET041618",
+        "ET041622",
+        "ET041623",
+        "ET041810",
+        "ET041901",
+        "ET041903",
+        "ET041905",
+        "ET041907",
+        "ET041908",
+        "ET041910",
+        "ET041911",
+        "ET041912",
+        "ET060203",
+        "ET060205",
+        "ET060207",
+        "ET060301",
+        "ET060303",
+        "ET060304",
+        "ET060305",
+        "ET060306",
+        "ET060307",
+        "ET060308",
+        "ET060311",
+        "ET060401",
+        "ET060402",
+        "ET060403",
+        "ET060404",
+        "ET060405"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 8474.183365981227
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 8782.340426389335
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 9540.706297268807
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 10042.810491382774
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 10524.440889169886
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 11147.862036244362
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 11615.028457354929
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 12080.490266668156
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 12694.57873994964
+      }
+    ]
+  },
+  {
+    "station_code": "G5068",
+    "station_name": "Na",
+    "lat": 8.7,
+    "lon": 38.6,
+    "pcodes": {
+      "3": [
+        "ET040510",
+        "ET040511",
+        "ET040512",
+        "ET040520",
+        "ET040590",
+        "ET040706",
+        "ET040709",
+        "ET040712",
+        "ET041304",
+        "ET041305",
+        "ET041306",
+        "ET041307",
+        "ET041308",
+        "ET041309",
+        "ET041310",
+        "ET042001",
+        "ET042002",
+        "ET042003",
+        "ET042004",
+        "ET042008",
+        "ET042010",
+        "ET042011",
+        "ET140101",
+        "ET140102",
+        "ET140103",
+        "ET140104",
+        "ET140105",
+        "ET140108",
+        "ET140111"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 278.54642361659944
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 292.2017503245279
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 325.8071258342995
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 348.05680852197526
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 369.39923833858415
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 397.02482455315686
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 417.7263139131282
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 438.35226701580245
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 465.5642955804773
+      }
+    ]
+  },
+  {
+    "station_code": "G5076",
+    "station_name": "Na",
+    "lat": 8.3833,
+    "lon": 38.783,
+    "pcodes": {
+      "3": [
+        "ET040707",
+        "ET040710",
+        "ET040711",
+        "ET041314"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 452.8697731278646
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 474.48559446330376
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 527.6815236758802
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 562.9018575451365
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 596.6860473816281
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 640.4162157381465
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 673.1858231560946
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 705.8358597811201
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 748.9113833632368
+      }
+    ]
+  },
+  {
+    "station_code": "G5081",
+    "station_name": "Na",
+    "lat": 7.349999905,
+    "lon": 42.15000153,
+    "pcodes": {
+      "3": [
+        "ET040803",
+        "ET040808",
+        "ET040809",
+        "ET040810",
+        "ET040811",
+        "ET040812",
+        "ET040813",
+        "ET040814",
+        "ET040818",
+        "ET040823",
+        "ET040824",
+        "ET040893",
+        "ET040903",
+        "ET040904",
+        "ET040909",
+        "ET040910",
+        "ET040911",
+        "ET040912",
+        "ET040913",
+        "ET040915",
+        "ET040998",
+        "ET041004",
+        "ET041005",
+        "ET041012",
+        "ET041013",
+        "ET041014",
+        "ET041016",
+        "ET041017",
+        "ET041018",
+        "ET041098",
+        "ET041704",
+        "ET041706",
+        "ET041707",
+        "ET041710",
+        "ET042101",
+        "ET042102",
+        "ET042104",
+        "ET042105",
+        "ET050203",
+        "ET050290",
+        "ET050297",
+        "ET050301",
+        "ET050302",
+        "ET050305",
+        "ET050306",
+        "ET050307",
+        "ET050394",
+        "ET050402",
+        "ET050403",
+        "ET050404",
+        "ET050407",
+        "ET050408",
+        "ET050497",
+        "ET050498",
+        "ET050499",
+        "ET050601",
+        "ET050809",
+        "ET051001",
+        "ET051005"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1006.7757176803794
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1078.5675326841033
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1255.2451730899836
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1372.2211442674245
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1484.4273042441264
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1629.6666688749633
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1738.5031343964888
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1846.942473937367
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1990.007591482808
+      }
+    ]
+  },
+  {
+    "station_code": "G5115",
+    "station_name": "Na",
+    "lat": 5.786,
+    "lon": 40.846,
+    "pcodes": {
+      "3": [
+        "ET041104",
+        "ET041106",
+        "ET041109",
+        "ET041111",
+        "ET041112",
+        "ET041114",
+        "ET041115",
+        "ET041116",
+        "ET041122",
+        "ET041402",
+        "ET041403",
+        "ET041404",
+        "ET041409",
+        "ET041410",
+        "ET041411",
+        "ET041708",
+        "ET041709",
+        "ET042103",
+        "ET042106",
+        "ET042202",
+        "ET042203",
+        "ET042204",
+        "ET042205",
+        "ET050804",
+        "ET050901",
+        "ET050903",
+        "ET050904",
+        "ET050991",
+        "ET160301",
+        "ET160409",
+        "ET160501",
+        "ET160502",
+        "ET160503",
+        "ET160504",
+        "ET160506",
+        "ET160507",
+        "ET160508",
+        "ET160509"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 833.5863199405206
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 901.0714785954798
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1067.150558682203
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1177.1093607171988
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1282.5844835804205
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1419.111211098719
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1521.4187811578431
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1623.3530480791565
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1757.8359575172826
+      }
+    ]
+  },
+  {
+    "station_code": "G5141",
+    "station_name": "Na",
+    "lat": 4.349999905,
+    "lon": 41.95000076,
+    "pcodes": {
+      "3": [
+        "ET050902",
+        "ET050999"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1286.0930133441645
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1378.181387616627
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1604.8082903412392
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1754.8550194024033
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1898.7834443220736
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 2085.0840270350946
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 2224.6900973220536
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 2363.786768509167
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 2547.2984138015318
+      }
+    ]
+  },
+  {
+    "station_code": "G5173",
+    "station_name": "Na",
+    "lat": 2.849999905,
+    "lon": 37.45000076,
+    "pcodes": {
+      "3": [
+        "ET041219"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 3.7713537197371263
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 6.068503978887026
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 11.721726249744918
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 15.464651296153503
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 19.05495486286687
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 23.702234557400132
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 27.184716717306014
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 30.65449188478787
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 35.23220136083016
+      }
+    ]
+  },
+  {
+    "station_code": "G6107",
+    "station_name": "Abetlti",
+    "lat": 8.2333,
+    "lon": 37.5833,
+    "pcodes": {
+      "3": [
+        "ET040403",
+        "ET040415",
+        "ET040495",
+        "ET070215",
+        "ET072403"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1126.1866902934123
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1173.3569257363706
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1289.441550355757
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1366.2996727102677
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1440.023828924688
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1535.452186946656
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1606.9623124834388
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1678.211509584206
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1772.2112960214613
+      }
+    ]
+  },
+  {
+    "station_code": "G6108",
+    "station_name": "Woltkite (G6108)",
+    "lat": 8.25,
+    "lon": 37.7666,
+    "pcodes": {
+      "3": [
+        "ET041302",
+        "ET041303",
+        "ET041311",
+        "ET070001",
+        "ET070103",
+        "ET070104",
+        "ET070108",
+        "ET070109",
+        "ET070110",
+        "ET070111",
+        "ET070112",
+        "ET070113",
+        "ET070116",
+        "ET070120",
+        "ET070201",
+        "ET070203"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 1052.6370384962925
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 1116.0075835363746
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 1271.960715078397
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 1375.2152580889458
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 1474.2594947363884
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 1602.4620996914791
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 1698.5319112706604
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 1794.2511802449235
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 1920.534580025355
+      }
+    ]
+  },
+  {
+    "station_code": "G6109",
+    "station_name": "Asetndabo",
+    "lat": 7.75,
+    "lon": 37.1833,
+    "pcodes": {
+      "3": [
+        "ET040401",
+        "ET040402",
+        "ET040404",
+        "ET040405",
+        "ET040406",
+        "ET040410",
+        "ET040411",
+        "ET040418",
+        "ET040490",
+        "ET040491",
+        "ET070202",
+        "ET070206",
+        "ET070207",
+        "ET070209",
+        "ET070210",
+        "ET070217",
+        "ET070304",
+        "ET070305",
+        "ET070312",
+        "ET072404",
+        "ET072601",
+        "ET080101",
+        "ET080104",
+        "ET080105",
+        "ET080106",
+        "ET080107",
+        "ET080108",
+        "ET080109",
+        "ET080110",
+        "ET080111",
+        "ET080114",
+        "ET080117",
+        "ET080120",
+        "ET080122",
+        "ET080205",
+        "ET080209",
+        "ET080217",
+        "ET080218",
+        "ET080220",
+        "ET110402",
+        "ET110403",
+        "ET110404",
+        "ET110407",
+        "ET110408",
+        "ET110409",
+        "ET110410"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 245.9761467178561
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 257.1898092043002
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 284.78631764067455
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 303.05760747698525
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 320.58386735512636
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 343.2698130249958
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 360.26973690925195
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 377.20763092685337
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 399.55396583501556
+      }
+    ]
+  },
+  {
+    "station_code": "G6110",
+    "station_name": "Woltkite (G6110)",
+    "lat": 8.3333,
+    "lon": 37.6,
+    "pcodes": {
+      "3": [
+        "ET040205",
+        "ET040207",
+        "ET040208",
+        "ET040209",
+        "ET040499",
+        "ET040500",
+        "ET040505",
+        "ET040506",
+        "ET040507",
+        "ET040508",
+        "ET040518",
+        "ET040597",
+        "ET041301",
+        "ET041312",
+        "ET070102"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 109.18688070349022
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 120.77394704430947
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 149.28939187901884
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 168.16909757032172
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 186.27896454375298
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 209.72032973543472
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 227.28633424768717
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 244.78824336016197
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 267.8786890881346
+      }
+    ]
+  },
+  {
+    "station_code": "G6111",
+    "station_name": "Shetbe",
+    "lat": 7.4166,
+    "lon": 36.3833,
+    "pcodes": {
+      "3": [
+        "ET040407",
+        "ET040408",
+        "ET040409",
+        "ET040414",
+        "ET080208",
+        "ET080215",
+        "ET080303",
+        "ET080304",
+        "ET080306",
+        "ET080307",
+        "ET080309",
+        "ET080311",
+        "ET080401",
+        "ET080508",
+        "ET110202",
+        "ET110203",
+        "ET110204",
+        "ET110205",
+        "ET110206",
+        "ET110207",
+        "ET110208",
+        "ET110209",
+        "ET110210",
+        "ET110211",
+        "ET110212",
+        "ET110213",
+        "ET110401",
+        "ET110405",
+        "ET110406",
+        "ET110502",
+        "ET110503",
+        "ET110504",
+        "ET110601",
+        "ET110602",
+        "ET110604",
+        "ET110605"
+      ]
+    },
+    "thresholds": [
+      {
+        "return_period": 1.5,
+        "threshold_value": 254.7071003737329
+      },
+      {
+        "return_period": 2.0,
+        "threshold_value": 294.0240970482222
+      },
+      {
+        "return_period": 5.0,
+        "threshold_value": 390.78212162155694
+      },
+      {
+        "return_period": 10.0,
+        "threshold_value": 454.8443530826231
+      },
+      {
+        "return_period": 20.0,
+        "threshold_value": 516.2943835412815
+      },
+      {
+        "return_period": 50.0,
+        "threshold_value": 595.8351447812552
+      },
+      {
+        "return_period": 100.0,
+        "threshold_value": 655.4397522528873
+      },
+      {
+        "return_period": 200.0,
+        "threshold_value": 714.8268725240682
+      },
+      {
+        "return_period": 500.0,
+        "threshold_value": 793.1769010123824
+      }
+    ]
+  }
+]
