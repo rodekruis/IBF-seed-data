@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-09-04",
+  "generatedAt": "2026-09-07",
   "generatedBy": "IBF/data/data_management/seed_data_management/admin_areas",
   "processedDirectory": "admin-areas/processed",
   "processing": {
     "rawHdxSources": "local-cache-only",
     "geometrySimplification": {
-      "method": "shapely.simplify(preserve_topology=True)",
-      "processedFileThresholdBytes": 95000000,
-      "tolerance": 0.0001
+      "mapshaperPercentages": {
+        "1": "25%",
+        "2": "50%"
+      },
+      "mapshaperP90ThresholdBytes": {
+        "1": 500000,
+        "2": 250000
+      },
+      "method": "mapshaper simplify(keep-shapes)"
     },
     "geometryValidation": "valid MultiPolygon geometries required",
     "population": "WorldPop-derived raster zonal statistics, calculated independently per admin level"
