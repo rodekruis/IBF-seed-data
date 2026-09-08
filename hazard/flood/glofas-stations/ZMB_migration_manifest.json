@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/ZMB_adm4.json"
   },
   "output": {
-    "stationThresholdPath": "ZMB_station_thresholds.json",
-    "reportPath": "ZMB_station_area_migration.json"
+    "stationThresholdPath": "ZMB_station_thresholds.json"
   }
 }

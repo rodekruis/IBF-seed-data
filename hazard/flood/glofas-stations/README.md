@@ -39,3 +39,5 @@ thresholds, and output paths. Commit each manifest with its corresponding
 threshold file so the one-time mapping decision remains reproducible. The
 spatial migration is not a recurring forecast update; rerun it only when the
 admin-area dataset or the station mappings are intentionally migrated again.
+The consolidated station and country summary is available in
+[`station-area-migration-report.md`](station-area-migration-report.md).

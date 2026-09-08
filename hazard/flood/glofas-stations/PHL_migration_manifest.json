@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/PHL_adm3.json"
   },
   "output": {
-    "stationThresholdPath": "PHL_station_thresholds.json",
-    "reportPath": "PHL_station_area_migration.json"
+    "stationThresholdPath": "PHL_station_thresholds.json"
   }
 }

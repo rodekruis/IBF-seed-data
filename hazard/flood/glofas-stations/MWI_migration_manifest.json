@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/MWI_adm3.json"
   },
   "output": {
-    "stationThresholdPath": "MWI_station_thresholds.json",
-    "reportPath": "MWI_station_area_migration.json"
+    "stationThresholdPath": "MWI_station_thresholds.json"
   }
 }

@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/UGA_adm4.json"
   },
   "output": {
-    "stationThresholdPath": "UGA_station_thresholds.json",
-    "reportPath": "UGA_station_area_migration.json"
+    "stationThresholdPath": "UGA_station_thresholds.json"
   }
 }

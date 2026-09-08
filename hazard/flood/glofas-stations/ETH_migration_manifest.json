@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/ETH_adm3.json"
   },
   "output": {
-    "stationThresholdPath": "ETH_station_thresholds.json",
-    "reportPath": "ETH_station_area_migration.json"
+    "stationThresholdPath": "ETH_station_thresholds.json"
   }
 }

@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/SSD_adm3.json"
   },
   "output": {
-    "stationThresholdPath": "SSD_station_thresholds.json",
-    "reportPath": "SSD_station_area_migration.json"
+    "stationThresholdPath": "SSD_station_thresholds.json"
   }
 }

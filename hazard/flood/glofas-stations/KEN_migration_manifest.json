@@ -16,7 +16,6 @@
     "adminAreaPath": "admin-areas/processed/KEN_adm3.json"
   },
   "output": {
-    "stationThresholdPath": "KEN_station_thresholds.json",
-    "reportPath": "KEN_station_area_migration.json"
+    "stationThresholdPath": "KEN_station_thresholds.json"
   }
 }
