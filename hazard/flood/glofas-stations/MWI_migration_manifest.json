@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-08T10:48:18.167567+00:00",
+  "method": "spatial-old-footprint-to-new-admin-area-overlap",
+  "minimumNewAreaOverlap": 0.25,
+  "minimumOldFootprintCoverage": 0.9,
+  "oldSource": {
+    "repository": "https://github.com/rodekruis/IBF-seed-data.git",
+    "revision": "cb5bda2d8b80984b5bfff8d7c4f451468e0e6a94",
+    "stationThresholdPath": "hazard/flood/glofas-stations/MWI_station_thresholds.json",
+    "adminAreaPath": "admin-areas/processed/MWI_adm3.json"
+  },
+  "newSource": {
+    "repository": "https://github.com/rodekruis/IBF-seed-data.git",
+    "revision": "fcbe32e59484741d42bd2d8bb16306268d518ea5",
+    "adminAreaPath": "admin-areas/processed/MWI_adm3.json"
+  },
+  "output": {
+    "stationThresholdPath": "MWI_station_thresholds.json",
+    "reportPath": "MWI_station_area_migration.json"
+  }
+}
