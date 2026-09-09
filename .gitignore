@@ -1,2 +1,6 @@
 .DS_Store
 /temp/
+
+# Raw HDX COD-AB admin-area extracts are large rebuildable inputs.
+/admin-areas/sources/hdx/*
+!/admin-areas/sources/hdx/README.md

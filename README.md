@@ -82,13 +82,3 @@ in the IBF repo.
 Note that source and generated output are not always both stored here: `exposure/population/` keeps
 only the output because the WorldPop GeoTIFFs are too large, while `hazard/flood/glofas-stations/`
 has no generating script at all.
-
-## Repository size
-
-The working tree is ~2 GB and `.git` is ~2.7 GB, because generated binaries are committed and every
-regeneration adds a permanent blob. Note that the 100 MB file size limit above caps individual files
-but does nothing about total repo size — the real cost is churn on generated rasters and GeoJSON.
-
-`hazard/flood/flood-extents/sources-tif/` (~700 MB) is the single largest item and is only ever read
-by one local script. It is staged for removal to blob storage; see
-[its README](hazard/flood/flood-extents/README.md).
