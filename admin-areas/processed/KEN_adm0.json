@@ -12768,8 +12768,14 @@
         "POPULATION": 58038894,
         "ADM0_EN": "Kenya",
         "ADM0_PCODE": "KE",
-        "ADM0_ISO_A2": "KE",
-        "ADM0_ISO_A3": "KEN"
+        "ADM1_EN": null,
+        "ADM1_PCODE": null,
+        "ADM2_EN": null,
+        "ADM2_PCODE": null,
+        "ADM3_EN": null,
+        "ADM3_PCODE": null,
+        "ADM4_EN": null,
+        "ADM4_PCODE": null
       }
     }
   ]
