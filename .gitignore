@@ -4,3 +4,7 @@
 # Raw HDX COD-AB admin-area extracts are large rebuildable inputs.
 /admin-areas/sources/hdx/*
 !/admin-areas/sources/hdx/README.md
+
+# Flood depth source GeoTIFFs are large rebuildable inputs.
+/hazard/flood/flood-extents/sources-tif/*
+!/hazard/flood/flood-extents/sources-tif/README.md
