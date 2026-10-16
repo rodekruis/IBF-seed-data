@@ -19,7 +19,7 @@ Each processed file is a GeoJSON `FeatureCollection` named `{COUNTRY}_adm{LEVEL}
 - the feature's own `ADM{LEVEL}_PCODE` and `ADM{LEVEL}_EN`;
 - ancestor `ADM*_PCODE` values;
 - `POPULATION`;
-- valid `MultiPolygon` geometry.
+- valid `MultiPolygon` geometry, with large lakes (HydroLAKES, 100 km² or more) erased, so boundaries deviate from the official ones where those extend into lakes.
 
 `admin_area_sources.json` records the source and processing metadata for these generated files. The active country/level/source configuration, processing scripts, and validation report are maintained in the IBF repository.
 
