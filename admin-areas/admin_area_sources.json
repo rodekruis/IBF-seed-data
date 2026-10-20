@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-09-08",
+  "generatedAt": "2026-10-16",
   "generatedBy": "IBF/data/data_management/seed_data_management/admin_areas",
   "processedDirectory": "admin-areas/processed",
   "processing": {
     "rawHdxSources": "local-cache-only",
+    "lakeErasing": {
+      "source": "https://data.hydrosheds.org/file/hydrolakes/HydroLAKES_polys_v10.gdb.zip",
+      "minimumLakeAreaKm2": 100
+    },
     "geometrySimplification": {
       "mapshaperPercentages": {
         "1": "25%",
@@ -106,7 +110,7 @@
       "datasetId": "cod-ab-ssd",
       "datasetUrl": "https://data.humdata.org/dataset/cod-ab-ssd",
       "rawSourceFilesCommitted": false,
-      "syntheticParentPcodes": {
+      "derivedParentPcodes": {
         "adm1": [
           "SS00"
         ]
