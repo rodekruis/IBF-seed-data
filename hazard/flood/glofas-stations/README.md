@@ -5,12 +5,12 @@ The `*_station_thresholds.json` files contain one record per GloFAS station. The
 ## Migrating Station Mappings
 
 Mappings are migrated by the flood-specific
-`migrate_glofas_station_area_mapping` script in the IBF repository. The script
+`migrate_glofas_station_area_mapping` script in the NRW repository. The script
 transfers the existing station footprints from the old admin-area dataset to
 the new admin-area dataset using spatial overlap:
 
 ```bash
-cd /path/to/IBF/data
+cd /path/to/NRW/data
 uv run python -m data_management.seed_data_management.flood.migrate_glofas_station_area_mapping \
 	--old-seed-repo /path/to/old-IBF-seed-data \
 	--new-seed-repo /path/to/IBF-seed-data \

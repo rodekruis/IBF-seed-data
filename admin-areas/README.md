@@ -2,13 +2,13 @@
 
 Admin-area geometry, hierarchy codes, and population attributes used by the API service and pipelines.
 
-`processed/` contains the operational seed artifacts. These files are generated from configured upstream sources and should not be hand-edited. To change them, update the processing configuration and rerun the admin-area workflow in the IBF repository:
+`processed/` contains the operational seed artifacts. These files are generated from configured upstream sources and should not be hand-edited. To change them, update the processing configuration and rerun the admin-area workflow in the NRW repository:
 
 ```text
 IBF/data/data_management/seed_data_management/admin_areas/
 ```
 
-See the [admin-area processing README](https://github.com/rodekruis/IBF/tree/main/data/data_management/seed_data_management/admin_areas) in the IBF repository.
+See the [admin-area processing README](https://github.com/rodekruis/NRW/tree/main/data/data_management/seed_data_management/admin_areas) in the NRW repository.
 
 ## processed
 
@@ -21,11 +21,11 @@ Each processed file is a GeoJSON `FeatureCollection` named `{COUNTRY}_adm{LEVEL}
 - `POPULATION`;
 - valid `MultiPolygon` geometry, with large lakes (HydroLAKES, 100 km² or more) erased, so boundaries deviate from the official ones where those extend into lakes.
 
-`admin_area_sources.json` records the source and processing metadata for these generated files. The active country/level/source configuration, processing scripts, and validation report are maintained in the IBF repository.
+`admin_area_sources.json` records the source and processing metadata for these generated files. The active country/level/source configuration, processing scripts, and validation report are maintained in the NRW repository.
 
 ## sources/hdx
 
-HDX COD-AB extracts are large rebuildable inputs and are not committed here. The directory contains only a README. Regenerate local HDX source files from the IBF repository when processing admin areas.
+HDX COD-AB extracts are large rebuildable inputs and are not committed here. The directory contains only a README. Regenerate local HDX source files from the NRW repository when processing admin areas.
 
 ## sources/gadm
 
