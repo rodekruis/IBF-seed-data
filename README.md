@@ -1,6 +1,6 @@
 # IBF seed and mock data repository
 
-Seed and mock data for the [IBF backend and pipelines](https://github.com/rodekruis/IBF).
+Seed and mock data for the [IBF backend and pipelines](https://github.com/rodekruis/NRW).
 
 ## File size limit
 
@@ -14,7 +14,7 @@ The deployed API service and the pipelines fetch files from this repo **over HTT
 
 Two consequences:
 
-- **Paths are a contract.** Renaming or moving a folder or file breaks running services. Such a change must land together with a matching PR in the IBF repo.
+- **Paths are a contract.** Renaming or moving a folder or file breaks running services. Such a change must land together with a matching PR in the NRW repo.
 - **`main` is production.** Because consumers pin to `refs/heads/main`, a commit here takes effect immediately, everywhere, with no rollback step.
 
 ## Layout
@@ -74,8 +74,8 @@ from the IFRC GO API. Nothing reads it yet; it is a cache and can be regenerated
 ## How this data is produced
 
 Most of this repo is **generated output**, written by scripts in
-[`data/data_management/seed_data_management/`](https://github.com/rodekruis/IBF/tree/main/data/data_management/seed_data_management)
-in the IBF repo. 
+[`data/data_management/seed_data_management/`](https://github.com/rodekruis/NRW/tree/main/data/data_management/seed_data_management)
+in the NRW repo. 
 
 > **Never hand-edit generated output.** Change the source, or the script, and re-run it. A manual edit will be silently overwritten on the next run, and leaves no trace of how the value got there.
 

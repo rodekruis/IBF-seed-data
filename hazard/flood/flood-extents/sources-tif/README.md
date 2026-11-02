@@ -2,7 +2,7 @@
 
 This directory intentionally does not store the flood depth source GeoTIFFs.
 
-They are large rebuildable inputs, not seed artifacts. Regenerate them locally from the IBF repository:
+They are large rebuildable inputs, not seed artifacts. Regenerate them locally from the NRW repository:
 
 ```bash
 cd data

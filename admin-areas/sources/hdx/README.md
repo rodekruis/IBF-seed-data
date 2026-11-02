@@ -2,7 +2,7 @@
 
 This directory intentionally does not store raw HDX COD-AB extracts.
 
-The raw HDX files are large rebuildable inputs, not seed artifacts. Regenerate them locally from the IBF repository when admin-area processing is needed:
+The raw HDX files are large rebuildable inputs, not seed artifacts. Regenerate them locally from the NRW repository when admin-area processing is needed:
 
 ```bash
 cd data
