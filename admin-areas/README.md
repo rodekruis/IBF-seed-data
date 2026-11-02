@@ -5,7 +5,7 @@ Admin-area geometry, hierarchy codes, and population attributes used by the API 
 `processed/` contains the operational seed artifacts. These files are generated from configured upstream sources and should not be hand-edited. To change them, update the processing configuration and rerun the admin-area workflow in the NRW repository:
 
 ```text
-IBF/data/data_management/seed_data_management/admin_areas/
+NRW/data/data_management/seed_data_management/admin_areas/
 ```
 
 See the [admin-area processing README](https://github.com/rodekruis/NRW/tree/main/data/data_management/seed_data_management/admin_areas) in the NRW repository.
@@ -29,7 +29,7 @@ HDX COD-AB extracts are large rebuildable inputs and are not committed here. The
 
 ## sources/gadm
 
-GADM source files are used for configured countries that rely on GADM, currently Kenya. They can be regenerated from https://gadm.org/data.html by the IBF admin-area workflow.
+GADM source files are used for configured countries that rely on GADM, currently Kenya. They can be regenerated from https://gadm.org/data.html by the NRW admin-area workflow.
 
 ## sources/ibf-v1
 

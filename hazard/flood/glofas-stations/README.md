@@ -12,11 +12,11 @@ the new admin-area dataset using spatial overlap:
 ```bash
 cd /path/to/NRW/data
 uv run python -m data_management.seed_data_management.flood.migrate_glofas_station_area_mapping \
-	--old-seed-repo /path/to/old-IBF-seed-data \
-	--new-seed-repo /path/to/IBF-seed-data \
+	--old-seed-repo /path/to/old-NRW-seed-data \
+	--new-seed-repo /path/to/NRW-seed-data \
 	--old-seed-revision <old-seed-revision> \
 	--new-seed-revision <new-seed-revision> \
-	--output-directory /tmp/ibf-glofas-migration
+	--output-directory /tmp/nrw-glofas-migration
 ```
 
 The default per-area threshold is 25%: a new area must have at least 25% of its
@@ -30,8 +30,8 @@ existing deepest admin level. Review the generated reports before copying the
 threshold files into this directory.
 
 ```bash
-cp /tmp/ibf-glofas-migration/*_station_thresholds.json /path/to/IBF-seed-data/hazard/flood/glofas-stations/
-cp /tmp/ibf-glofas-migration/*_migration_manifest.json /path/to/IBF-seed-data/hazard/flood/glofas-stations/
+cp /tmp/nrw-glofas-migration/*_station_thresholds.json /path/to/NRW-seed-data/hazard/flood/glofas-stations/
+cp /tmp/nrw-glofas-migration/*_migration_manifest.json /path/to/NRW-seed-data/hazard/flood/glofas-stations/
 ```
 
 The migration manifests preserve the old and new seed revisions, source paths,

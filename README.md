@@ -1,6 +1,6 @@
-# IBF seed and mock data repository
+# NRW seed and mock data repository
 
-Seed and mock data for the [IBF backend and pipelines](https://github.com/rodekruis/NRW).
+Seed and mock data for the [NRW backend and pipelines](https://github.com/rodekruis/NRW).
 
 ## File size limit
 
@@ -10,7 +10,7 @@ be needed, which has proved to come with problems for our setup.
 ## This repository is a runtime dependency, not just a data dump
 
 The deployed API service and the pipelines fetch files from this repo **over HTTP at runtime**, from
-`https://raw.githubusercontent.com/rodekruis/IBF-seed-data/refs/heads/main/...`.
+`https://raw.githubusercontent.com/rodekruis/NRW-seed-data/refs/heads/main/...`.
 
 Two consequences:
 
