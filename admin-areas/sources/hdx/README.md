@@ -12,5 +12,5 @@ python -m data_management.seed_data_management.admin_areas.fetch_hdx_admin_areas
 The operational seed artifacts are the processed files in `admin-areas/processed/`. The processing workflow and validation report are maintained in:
 
 ```text
-IBF/data/data_management/seed_data_management/admin_areas/
+NRW/data/data_management/seed_data_management/admin_areas/
 ```

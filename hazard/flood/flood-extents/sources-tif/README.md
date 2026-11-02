@@ -17,5 +17,5 @@ Sources:
 The operational seed artifacts are the converted files in `../data-png/`. The scripts are maintained in:
 
 ```text
-IBF/data/data_management/seed_data_management/flood/
+NRW/data/data_management/seed_data_management/flood/
 ```
